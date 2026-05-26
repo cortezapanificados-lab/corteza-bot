@@ -37,10 +37,8 @@ PEDIDOS: Para hacer un pedido, dirigí al cliente a la tienda online o decile qu
 
 Si te preguntan algo que no sabés, decí amablemente que lo consultás con el equipo.`;
 
-// Memoria simple por número de teléfono
 const conversaciones = {};
 
-// Verificación del webhook (Meta lo llama una vez para confirmar)
 app.get('/webhook', (req, res) => {
   const mode = req.query['hub.mode'];
   const token = req.query['hub.verify_token'];
@@ -53,9 +51,8 @@ app.get('/webhook', (req, res) => {
   }
 });
 
-// Recibir mensajes de WhatsApp
 app.post('/webhook', async (req, res) => {
-  res.sendStatus(200); // Responder rápido a Meta
+  res.sendStatus(200);
 
   try {
     const body = req.body;
@@ -66,42 +63,37 @@ app.post('/webhook', async (req, res) => {
     const message = change?.value?.messages?.[0];
     if (!message || message.type !== 'text') return;
 
-    const from = message.from; // número del cliente
+    const from = message.from;
     const text = message.text.body;
     const phoneNumberId = change.value.metadata.phone_number_id;
 
     console.log(`Mensaje de ${from}: ${text}`);
 
-    // Mantener historial por cliente
     if (!conversaciones[from]) conversaciones[from] = [];
-    conversaciones[from].push({ role: 'user', content: text });
+    conversaciones[from].push({ role: 'user', parts: [{ text }] });
 
-    // Limitar historial a últimos 10 mensajes
     if (conversaciones[from].length > 10) {
       conversaciones[from] = conversaciones[from].slice(-10);
     }
 
-    // Llamar a Claude
-    const claudeRes = await fetch('https://api.anthropic.com/v1/messages', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'x-api-key': process.env.ANTHROPIC_API_KEY,
-        'anthropic-version': '2023-06-01'
-      },
-      body: JSON.stringify({
-        model: 'claude-haiku-4-5-20251001',
-        max_tokens: 1000,
-        system: SYSTEM_PROMPT,
-        messages: conversaciones[from]
-      })
-    });
+    // Llamar a Gemini
+    const geminiRes = await fetch(
+      `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${process.env.GEMINI_API_KEY}`,
+      {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          system_instruction: { parts: [{ text: SYSTEM_PROMPT }] },
+          contents: conversaciones[from]
+        })
+      }
+    );
 
-    const claudeData = await claudeRes.json();
-    const reply = claudeData.content?.[0]?.text;
+    const geminiData = await geminiRes.json();
+    const reply = geminiData.candidates?.[0]?.content?.parts?.[0]?.text;
     if (!reply) return;
 
-    conversaciones[from].push({ role: 'assistant', content: reply });
+    conversaciones[from].push({ role: 'model', parts: [{ text: reply }] });
 
     // Enviar respuesta por WhatsApp
     await fetch(`https://graph.facebook.com/v18.0/${phoneNumberId}/messages`, {
