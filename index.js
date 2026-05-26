@@ -173,4 +173,12 @@ app.post('/webhook', async (req, res) => {
 app.get('/', (req, res) => res.send('Bot de Corteza funcionando 🌾'));
 
 const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => console.log(`Servidor corriendo en puerto ${PORT}`));
+app.listen(PORT, () => console.log(`Servidor corriendo en puerto ${PORT}`))
+  .on('error', (err) => {
+    console.error('Error al iniciar servidor:', err);
+    process.exit(1);
+  });
+
+process.on('uncaughtException', (err) => {
+  console.error('Error no capturado:', err);
+});
