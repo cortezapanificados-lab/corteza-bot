@@ -33,11 +33,36 @@ LOGÍSTICA:
 
 MEDIOS DE PAGO: transferencia bancaria, efectivo, tarjeta de crédito y débito.
 
-PEDIDOS: Para hacer un pedido, dirigí al cliente a la tienda online o decile que puede escribirnos por acá.
+PEDIDOS: Para hacer un pedido, dirigí al cliente a la tienda online: www.cortezapan.com.ar
+
+SUGERENCIAS Y RECLAMOS: Si el cliente hace una sugerencia, recomendación o reclamo, agradecele calurosamente diciéndole algo como "¡Muchas gracias por tu sugerencia! Nos ayuda muchísimo para seguir mejorando 🙏" y respondé con el texto exacto: [SUGERENCIA: <texto del cliente>]
+
+HUMANO: Si el cliente escribe "humano", "persona", "hablar con alguien" o algo similar, respondé exactamente: "Claro! En un momento te contacta alguien de nuestro equipo. Gracias por tu paciencia 🙏" y respondé con el texto exacto al final: [HUMANO]
 
 Si te preguntan algo que no sabés, decí amablemente que lo consultás con el equipo.`;
 
 const conversaciones = {};
+const clientesSaludados = new Set();
+
+async function notificarAdmin(mensaje) {
+  try {
+    const url = `https://api.callmebot.com/whatsapp.php?phone=${process.env.ADMIN_PHONE}&text=${encodeURIComponent(mensaje)}&apikey=${process.env.CALLMEBOT_APIKEY}`;
+    await fetch(url);
+    console.log('Notificación enviada al admin:', mensaje);
+  } catch (err) {
+    console.error('Error enviando notificación:', err);
+  }
+}
+
+function necesitaHumano(texto) {
+  const keywords = ['humano', 'persona', 'hablar con alguien', 'hablar con una persona', 'quiero hablar', 'atención personalizada'];
+  return keywords.some(k => texto.toLowerCase().includes(k));
+}
+
+function esSugerencia(texto) {
+  const keywords = ['sugerencia', 'recomendación', 'reclamo', 'queja', 'mejorar', 'sugiero', 'recomiendo', 'me gustaría que'];
+  return keywords.some(k => texto.toLowerCase().includes(k));
+}
 
 app.get('/webhook', (req, res) => {
   const mode = req.query['hub.mode'];
@@ -69,11 +94,39 @@ app.post('/webhook', async (req, res) => {
 
     console.log(`Mensaje de ${from}: ${text}`);
 
+    // Saludo de bienvenida solo la primera vez
+    if (!clientesSaludados.has(from)) {
+      clientesSaludados.add(from);
+      const saludo = `¡Hola! Bienvenido/a a Corteza 🍞 Para ver nuestros productos y hacer tu pedido entrá a www.cortezapan.com.ar\nCualquier otra consulta estamos acá para ayudarte 😊`;
+      await fetch(`https://graph.facebook.com/v18.0/${phoneNumberId}/messages`, {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${process.env.WHATSAPP_TOKEN}`,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          messaging_product: 'whatsapp',
+          to: from,
+          text: { body: saludo }
+        })
+      });
+    }
+
     if (!conversaciones[from]) conversaciones[from] = [];
     conversaciones[from].push({ role: 'user', parts: [{ text }] });
 
     if (conversaciones[from].length > 10) {
       conversaciones[from] = conversaciones[from].slice(-10);
+    }
+
+    // Notificar si pide humano
+    if (necesitaHumano(text)) {
+      await notificarAdmin(`🚨 Corteza Bot: El cliente ${from} pidió hablar con una persona. Último mensaje: "${text}"`);
+    }
+
+    // Notificar si es sugerencia/reclamo
+    if (esSugerencia(text)) {
+      await notificarAdmin(`💬 Corteza Bot: Sugerencia/reclamo del cliente ${from}: "${text}"`);
     }
 
     // Llamar a Gemini
@@ -90,12 +143,14 @@ app.post('/webhook', async (req, res) => {
     );
 
     const geminiData = await geminiRes.json();
-    const reply = geminiData.candidates?.[0]?.content?.parts?.[0]?.text;
+    let reply = geminiData.candidates?.[0]?.content?.parts?.[0]?.text;
     if (!reply) return;
+
+    // Limpiar tags internos antes de enviar al cliente
+    reply = reply.replace(/\[SUGERENCIA:.*?\]/g, '').replace(/\[HUMANO\]/g, '').trim();
 
     conversaciones[from].push({ role: 'model', parts: [{ text: reply }] });
 
-    // Enviar respuesta por WhatsApp
     await fetch(`https://graph.facebook.com/v18.0/${phoneNumberId}/messages`, {
       method: 'POST',
       headers: {
