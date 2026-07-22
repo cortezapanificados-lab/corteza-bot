@@ -2,6 +2,10 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 22/07/2026 — "Sobre Corteza" terminada: título con formato aplicado
+
+Verificado en la página: el título del texto ya tiene formato de encabezado y la descripción que Google muestra de la página ahora arranca con "Elegimos el mejor pan artesanal...". Tema cerrado; quedan como opcionales las negritas en frases clave.
+
 ## 22/07/2026 — Página "Sobre Corteza" renovada y publicada
 
 Ya está online: la placa corregida subida a Tiendanube y el texto de la Opción A cargado como texto real debajo (verificado en la página). Se decidió mantener el texto fuera de la imagen (por posicionamiento en Google, legibilidad en celulares y facilidad de actualización cuando se lance AMBA). Queda pendiente darle formato al texto (título + negritas) desde el editor de Tiendanube.
