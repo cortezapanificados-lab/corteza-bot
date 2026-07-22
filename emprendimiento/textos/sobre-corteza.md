@@ -38,6 +38,15 @@ Vos pedís online; nosotros nos encargamos de que a tu mesa llegue solo lo mejor
 - La curaduría es un diferencial legítimo y vendedor: el valor de Corteza es la selección y la conveniencia (todo junto, a domicilio).
 - Cuando se lance AMBA, actualizar la última línea y la sección de logística del perfil.
 
+## Sobre la placa actual de "Sobre nosotros" (imagen de Canva)
+
+La página hoy tiene una placa (imagen 2000x2000, hecha en Canva) con todo el texto adentro: título "Mejor para quien lo come, mejor para la tierra que lo produce", sellos de agroecológico y masa madre, explicaciones de qué es masa madre y qué es agroecológico, y bloque de delivery. El diseño está muy bien y se mantiene. Correcciones a hacer en Canva:
+
+1. Donde dice "elaboramos panificados 100% artesanales" → cambiar por **"seleccionamos panificados 100% artesanales"** (Corteza no elabora, cura).
+2. El sello "100% DE MASA MADRE" → cambiar por **"PANES 100% DE MASA MADRE"** (grisines, budines, pepas y cookies no son de masa madre).
+
+Además: el texto dentro de la imagen no lo lee Google. Debajo de la placa conviene pegar como texto real la Opción A de este documento (mejora el posicionamiento en búsquedas tipo "pan masa madre Pilar").
+
 ## Preguntas pendientes para personalizar
 
 1. ¿Quién está detrás de Corteza y qué te llevó a armarlo?
