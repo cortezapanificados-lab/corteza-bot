@@ -2,6 +2,10 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 22/07/2026 — Página "Sobre Corteza" renovada y publicada
+
+Ya está online: la placa corregida subida a Tiendanube y el texto de la Opción A cargado como texto real debajo (verificado en la página). Se decidió mantener el texto fuera de la imagen (por posicionamiento en Google, legibilidad en celulares y facilidad de actualización cuando se lance AMBA). Queda pendiente darle formato al texto (título + negritas) desde el editor de Tiendanube.
+
 ## 22/07/2026 — Placa de "Sobre Corteza" corregida digitalmente
 
 Se editó la placa de la página "Sobre nosotros" directamente sobre la imagen (sin Canva): "elaboramos" → "seleccionamos" y el sello "100% DE MASA MADRE" → "PANES 100% / MASA MADRE". Quedó guardada en `textos/placa-sobre-corteza-corregida.png` (2000x2000), lista para subir a Tiendanube. Pendiente: replicar los cambios en el Canva original.
