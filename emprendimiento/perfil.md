@@ -22,8 +22,8 @@ Corteza es una panadería artesanal ubicada en Pilar, Buenos Aires, Argentina. T
 | Pan árabe integral x5 | $8.500 | masa madre |
 | Prepizzas x2 | $8.500 | masa madre |
 | Grisines integrales | $5.000 | |
-| Budín | $9.000 | en la tienda figura uno solo; en la promo se menciona con chips de chocolate |
-| Pepas integrales | $8.000 | batata y membrillo |
+| Budín blanco | $9.000 | por ahora solo blancos; en la promo se menciona con chips de chocolate |
+| Pepas integrales | $7.000 | batata y membrillo |
 | Cookies integrales con chips de chocolate y nuez | $7.000 | |
 
 Todos con harinas 100% agroecológicas. Los panes (molde, campo, árabe, prepizzas) son de masa madre; grisines, budines, pepas y cookies no.
