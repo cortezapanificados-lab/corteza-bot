@@ -2,6 +2,10 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 22/07/2026 — Se aclaró el modelo de negocio: curaduría, no producción propia
+
+Dato clave: Corteza no fabrica los panificados — los elaboran distintos proveedores artesanales y Corteza los selecciona y revende bajo su marca. Además, hay planes de expandir la entrega de Pilar a todo el AMBA "en cualquier momento". Se actualizó el perfil y se reescribió el borrador de "Sobre Corteza" (v2) para que el texto sea honesto con este modelo: la curaduría como diferencial.
+
 ## 22/07/2026 — Precios confirmados y borrador de "Sobre Corteza"
 
 Se confirmó: pepas integrales a $7.000 (ya actualizado en la web) y budines por ahora solo blancos. Se escribió un borrador con dos opciones de texto para la página "Sobre Corteza" de la tienda, en `textos/sobre-corteza.md`, con huecos para completar con la historia personal.

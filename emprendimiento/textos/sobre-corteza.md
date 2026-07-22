@@ -1,22 +1,22 @@
 # Texto para la página "Sobre Corteza" de la tienda
 
-*Borrador del 22/07/2026. Los textos entre [corchetes] son huecos para completar con la historia real. Cuando esté definido, cargarlo en la sección "Sobre Corteza" de Tiendanube.*
+*Borrador v2 del 22/07/2026, ajustado al modelo real del negocio: Corteza no hornea, selecciona y revende panificados de distintos proveedores artesanales. Hoy entrega solo en Pilar; pronto, todo AMBA. Los textos entre [corchetes] son huecos para completar.*
 
-## Opción A — cálida y con historia (recomendada)
+## Opción A — la curaduría como bandera (recomendada)
 
 ---
 
-**Pan de verdad, hecho con tiempo**
+**Elegimos el mejor pan artesanal, para que vos no tengas que buscarlo**
 
-Corteza nació [en AÑO / cuando...] con una idea simple: que en Pilar se pueda comer pan de verdad. Pan de masa madre, fermentado con calma, hecho con harinas 100% agroecológicas que vienen de campos que cuidan la tierra tanto como nosotros cuidamos cada horneada.
+Corteza nació con una pregunta simple: ¿por qué conseguir buen pan tiene que ser tan difícil? Pan de masa madre de verdad, con fermentación lenta y harinas 100% agroecológicas, existe — pero está repartido en manos de pequeños productores artesanales que no siempre llegan a tu barrio.
 
-Acá no hay apuro. Cada pan lleva horas de fermentación lenta, que es lo que le da esa corteza crocante, esa miga con carácter y ese sabor que el pan industrial no puede imitar. Y lleva también algo que no se ve: la convicción de que lo que comemos importa.
+Ahí entramos nosotros. Recorremos, probamos y elegimos a los mejores panaderos artesanales, y juntamos lo mejor de cada uno en un solo lugar: panes de campo y de molde, pan árabe, prepizzas, budines y galletitas, todo con harinas agroecológicas, sin excepción.
 
-[HISTORIA PERSONAL: 2-3 oraciones sobre quién está detrás de Corteza y cómo empezó. Por ejemplo: cómo llegaste a la masa madre, si arrancó en la cocina de tu casa, qué te enamoró del oficio.]
+Con la misma lógica armamos nuestro almacén: mermeladas sin azúcar, miel orgánica, aceite de oliva, vinos orgánicos. Productos de gente que trabaja bien, elegidos uno por uno.
 
-Por eso, además de nuestros panificados, elegimos uno por uno los productos de nuestro almacén: mermeladas sin azúcar, miel orgánica, aceite de oliva, vinos orgánicos. Cosas ricas, hechas por productores que trabajan como nosotros.
+[OPCIONAL — HISTORIA PERSONAL: 1-2 oraciones sobre quién está detrás y por qué. Ej.: cómo empezaste a buscar este tipo de pan, qué te llevó a armar Corteza.]
 
-Entregamos en Pilar los martes y viernes. Del horno a tu mesa.
+Hoy entregamos en Pilar los martes y viernes. Y esto recién empieza: pronto vamos a estar en todo el AMBA.
 
 ---
 
@@ -24,17 +24,21 @@ Entregamos en Pilar los martes y viernes. Del horno a tu mesa.
 
 ---
 
-**Corteza es pan de masa madre y harinas agroecológicas, hecho en Pilar.**
+**Corteza: lo mejor de la panificación artesanal, en un solo lugar.**
 
-Fermentación lenta, ingredientes nobles y cero apuro: así hacemos cada pan, budín y galletita. Y en nuestro almacén sumamos productos orgánicos de productores que comparten nuestra forma de trabajar.
+Seleccionamos panes de masa madre y panificados hechos por productores artesanales con harinas 100% agroecológicas, y los sumamos a un almacén de productos orgánicos elegidos uno por uno.
 
-Entregamos en Pilar los martes y viernes. Pedí online y recibilo en tu casa.
+Vos pedís online; nosotros nos encargamos de que a tu mesa llegue solo lo mejor. Entregas en Pilar los martes y viernes — y muy pronto, en todo el AMBA.
 
 ---
 
-## Preguntas para completar la historia
+## Notas
 
-1. ¿Quién está detrás de Corteza? ¿Lo llevás adelante sola/o, en familia, con alguien más?
-2. ¿Cuándo y cómo arrancó? ¿Qué te llevó a la masa madre y a las harinas agroecológicas?
-3. ¿Dónde horneás hoy? (¿casa, obrador, local?)
-4. ¿Hay algo que quieras que el cliente sepa sí o sí? (una frase, un valor, una anécdota)
+- Evitar frases tipo "nuestras horneadas" o "hacemos cada pan": no es cierto en este modelo y puede traer problemas si un cliente se entera.
+- La curaduría es un diferencial legítimo y vendedor: el valor de Corteza es la selección y la conveniencia (todo junto, a domicilio).
+- Cuando se lance AMBA, actualizar la última línea y la sección de logística del perfil.
+
+## Preguntas pendientes para personalizar
+
+1. ¿Quién está detrás de Corteza y qué te llevó a armarlo?
+2. ¿Querés nombrar a los productores/proveedores o mantenerlos sin marca detrás de Corteza?
