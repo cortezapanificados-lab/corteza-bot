@@ -1,13 +1,15 @@
 # Perfil de Corteza
 
-*Última actualización: 22/07/2026*
+*Última actualización: 22/07/2026 (relevamiento completo de la tienda online)*
 
-Corteza es una panadería artesanal ubicada en Pilar, Buenos Aires, Argentina. Trabaja con masa madre y harinas 100% agroecológicas.
+Corteza es una panadería artesanal ubicada en Pilar, Buenos Aires, Argentina. Trabaja con masa madre y harinas 100% agroecológicas. Además de la panificación propia, la tienda online vende productos orgánicos y artesanales de otras marcas (almacén, vinoteca, dips y té).
 
-- Tienda online: www.cortezapan.com.ar
+- Tienda online: www.cortezapan.com.ar (plataforma Tiendanube)
 - Email: corteza.panificados@gmail.com
+- Teléfono: 11 5415-3989
+- Dirección: C. 9 1761, B1629 Pilar, Provincia de Buenos Aires
 
-## Productos y precios
+## Panificados propios
 
 | Producto | Precio | Notas |
 |---|---|---|
@@ -20,12 +22,58 @@ Corteza es una panadería artesanal ubicada en Pilar, Buenos Aires, Argentina. T
 | Pan árabe integral x5 | $8.500 | masa madre |
 | Prepizzas x2 | $8.500 | masa madre |
 | Grisines integrales | $5.000 | |
-| Budín integral | $9.000 | |
-| Budín blanco | $9.000 | |
-| Pepas integrales | $7.000 | |
+| Budín | $9.000 | en la tienda figura uno solo; en la promo se menciona con chips de chocolate |
+| Pepas integrales | $8.000 | batata y membrillo |
 | Cookies integrales con chips de chocolate y nuez | $7.000 | |
 
-Todos los productos usan harinas 100% agroecológicas. Los panes (molde, campo, árabe, prepizzas) son de masa madre; los grisines, budines, pepas y cookies no son de masa madre.
+Todos con harinas 100% agroecológicas. Los panes (molde, campo, árabe, prepizzas) son de masa madre; grisines, budines, pepas y cookies no.
+
+Algunos panes se ofrecen enteros o rebanados.
+
+### Promo Lanzamiento — $27.900
+
+Incluye: 1 pan de molde blanco rebanado, 1 paquete de pepas integrales (batata y membrillo), 1 budín con chips de chocolate y 1 paquete de grisines integrales.
+
+## Almacén orgánico (productos de terceros)
+
+| Producto | Precio |
+|---|---|
+| Mermelada de frutos rojos Las Quinas sin azúcar (450g) | $9.400 |
+| Mermelada de frutilla Las Quinas sin azúcar (450g) | $9.400 |
+| Dulce de leche Las Quinas con stevia | $9.400 |
+| Miel líquida orgánica Las Quinas 500g | $9.400 |
+| Miel cremosa Las Quinas 500g | $8.200 |
+| Yerba orgánica Roapipó suave 500g | $6.600 |
+| Hummus de garbanzos orgánico Pampa Gourmet 180g | $5.200 |
+| Aceitunas negras San Nicolás 250g | $6.000 |
+| Aceitunas verdes gigantes orgánicas San Nicolás 250g | $6.200 |
+| Pickles orgánicos San Nicolás 250g | $6.200 |
+| Aceite de oliva Zuelo orgánico 250ml (Zuccardi) | $11.000 |
+
+## Dips y condimentos
+
+| Producto | Precio |
+|---|---|
+| Mostaza Dijón Arytza 360g | $7.600 |
+| Pasta de aceitunas verdes Contraviento 170g | $9.700 |
+| Pasta de tomates secos Contraviento 180g | $10.600 |
+| Hummus Pampa Gourmet 180g | $5.200 |
+
+## Té (Intizen, cajas x15 saquitos)
+
+| Producto | Precio |
+|---|---|
+| Dulce Manzanilla | $5.200 |
+| Verde Chai | $5.200 |
+| Chaman Chai | $5.200 |
+
+## Vinoteca orgánica
+
+| Producto | Precio |
+|---|---|
+| Animal Extra Brut orgánico 375ml | $8.000 |
+| La Linda Malbec orgánico 750ml | $18.500 |
+| Ruca Malen Cap 2 Chardonnay orgánico 750ml | $16.500 |
 
 ## Logística
 
@@ -37,4 +85,4 @@ Todos los productos usan harinas 100% agroecológicas. Los panes (molde, campo, 
 
 ## Medios de pago
 
-Transferencia bancaria, efectivo, tarjeta de crédito y débito.
+Transferencia bancaria, efectivo, tarjeta de crédito y débito. (El pie de la tienda dice "tarjetas de crédito o efectivo".)
