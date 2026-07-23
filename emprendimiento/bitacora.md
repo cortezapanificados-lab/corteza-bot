@@ -2,6 +2,10 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 23/07/2026 — Costos cargados en Tiendanube (12 de 13 productos)
+
+Claude entró al panel de Tiendanube (cuenta juan_guerrini@hotmail.com, con código de verificación por mail) y cargó el campo "Costo" en todos los panificados propios: molde blanco/integral/centeno, campo blanco/integral/centeno, pan árabe, grisines, budín, pepas y cookies. El margen que calcula Tiendanube coincide con el del perfil (35% a 50%). Quedaron pendientes las PREPIZZAS X2: en la tienda las variantes son por cobertura (Salsa de tomate / Cebolla / 1 y 1), no por masa blanca/integral, así que hay que definir qué costo va. También apareció un producto nuevo "Hogaza" sin costo en la lista. Dato: las pepas tienen 3 variantes y el budín 2 en la tienda.
+
 ## 23/07/2026 — Costos de los panificados registrados
 
 Se pasaron los costos de los 13 panificados propios (lo que se le paga al proveedor) y quedaron guardados en el perfil junto con el margen de cada producto. Los márgenes van del 35% (molde de centeno) al 50% (grisines, budín, pepas). Dato nuevo: hay prepizza blanca e integral con costos distintos ($4.500 y $5.000) pero se venden al mismo precio. Falta cargar los costos en el panel de Tiendanube (Claude no tiene acceso al panel; quedó anotado en pendientes con el paso a paso).
