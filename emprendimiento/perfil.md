@@ -13,20 +13,23 @@ Corteza es una marca de panificados artesanales de Pilar, Buenos Aires, Argentin
 
 ## Panificados propios
 
-| Producto | Precio | Notas |
-|---|---|---|
-| Pan de molde blanco | $10.000 | masa madre |
-| Pan de molde integral | $10.000 | masa madre |
-| Pan de molde de centeno | $10.000 | masa madre |
-| Pan de campo blanco | $8.500 | masa madre |
-| Pan de campo integral | $8.500 | masa madre |
-| Pan de campo de centeno | $8.500 | masa madre |
-| Pan árabe integral x5 | $8.500 | masa madre |
-| Prepizzas x2 | $8.500 | masa madre |
-| Grisines integrales | $5.000 | |
-| Budín blanco | $9.000 | por ahora solo blancos; en la promo se menciona con chips de chocolate |
-| Pepas integrales | $7.000 | batata y membrillo |
-| Cookies integrales con chips de chocolate y nuez | $7.000 | |
+Costos pasados el 23/07/2026 (lo que Corteza le paga al proveedor). Margen = precio de venta − costo.
+
+| Producto | Costo | Precio | Margen | Notas |
+|---|---|---|---|---|
+| Pan de molde blanco (850g) | $5.500 | $10.000 | $4.500 (45%) | masa madre |
+| Pan de molde integral (850g) | $6.000 | $10.000 | $4.000 (40%) | masa madre |
+| Pan de molde de centeno (850g) | $6.500 | $10.000 | $3.500 (35%) | masa madre |
+| Pan de campo blanco (500g) | $4.500 | $8.500 | $4.000 (47%) | masa madre |
+| Pan de campo integral (500g) | $4.800 | $8.500 | $3.700 (44%) | masa madre |
+| Pan de campo de centeno (500g) | $4.800 | $8.500 | $3.700 (44%) | masa madre |
+| Pan árabe integral x5 | $4.500 | $8.500 | $4.000 (47%) | masa madre |
+| Prepizza blanca x2 | $4.500 | $8.500 | $4.000 (47%) | masa madre |
+| Prepizza integral x2 | $5.000 | $8.500 | $3.500 (41%) | masa madre |
+| Grisines integrales (200g) | $2.500 | $5.000 | $2.500 (50%) | |
+| Budín blanco/integral | $4.500 | $9.000 | $4.500 (50%) | por ahora solo blancos; en la promo se menciona con chips de chocolate |
+| Pepas integrales veganas (200g) | $3.500 | $7.000 | $3.500 (50%) | batata y membrillo |
+| Cookies integrales con nueces, veganas (200g) | $3.800 | $7.000 | $3.200 (46%) | con chips de chocolate |
 
 Todos con harinas 100% agroecológicas. Los panes (molde, campo, árabe, prepizzas) son de masa madre; grisines, budines, pepas y cookies no.
 

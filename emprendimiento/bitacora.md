@@ -2,6 +2,10 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 23/07/2026 — Costos de los panificados registrados
+
+Se pasaron los costos de los 13 panificados propios (lo que se le paga al proveedor) y quedaron guardados en el perfil junto con el margen de cada producto. Los márgenes van del 35% (molde de centeno) al 50% (grisines, budín, pepas). Dato nuevo: hay prepizza blanca e integral con costos distintos ($4.500 y $5.000) pero se venden al mismo precio. Falta cargar los costos en el panel de Tiendanube (Claude no tiene acceso al panel; quedó anotado en pendientes con el paso a paso).
+
 ## 22/07/2026 — "Sobre Corteza" terminada: título con formato aplicado
 
 Verificado en la página: el título del texto ya tiene formato de encabezado y la descripción que Google muestra de la página ahora arranca con "Elegimos el mejor pan artesanal...". Tema cerrado; quedan como opcionales las negritas en frases clave.
