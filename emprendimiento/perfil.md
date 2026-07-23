@@ -26,8 +26,8 @@ Costos pasados el 23/07/2026 (lo que Corteza le paga al proveedor). Margen = pre
 | Pan de campo integral (500g) | $4.800 | $8.500 | $3.700 (44%) | masa madre |
 | Pan de campo de centeno (500g) | $4.800 | $8.500 | $3.700 (44%) | masa madre |
 | Pan árabe integral x5 | $4.500 | $8.500 | $4.000 (47%) | masa madre |
-| Prepizza blanca x2 | $4.500 | $8.500 | $4.000 (47%) | masa madre |
-| Prepizza integral x2 | $5.000 | $8.500 | $3.500 (41%) | masa madre; ojo: en la tienda las prepizzas no se dividen por masa sino por cobertura (Salsa de tomate / Cebolla / 1 y 1) |
+| Prepizzas x2 (blancas) | $4.500 | $8.500 | $4.000 (47%) | masa madre; variantes por cobertura: Salsa de tomate / Cebolla / 1 y 1. Si algún día se venden integrales, ese costo es $5.000 |
+| Hogaza | $6.400 | $10.500 | $4.100 (39%) | producto nuevo en la tienda (dos variantes) |
 | Grisines integrales (200g) | $2.500 | $5.000 | $2.500 (50%) | |
 | Budín blanco/integral | $4.500 | $9.000 | $4.500 (50%) | por ahora solo blancos; en la promo se menciona con chips de chocolate |
 | Pepas integrales veganas (200g) | $3.500 | $7.000 | $3.500 (50%) | batata y membrillo |
