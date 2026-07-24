@@ -2,6 +2,10 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 24/07/2026 — Plan de campaña de marketing para el lanzamiento AMBA
+
+Se armó el plan completo de la campaña de lanzamiento en AMBA con foco en costo mínimo: quedó guardado en `emprendimiento/campania-amba.md`. Estructura: Fase 0 (prerrequisitos: logística, tienda, fotos, Google), Fase 1 (pre-lanzamiento: expectativa + lista de espera con 10% off + activar clientes de Pilar), Fase 2 (lanzamiento: Promo Lanzamiento como oferta estrella, sorteo, canjes con micro-cuentas, grupos de barrio), Fase 3 (sostener: referidos, rutina de contenido, difusión por WhatsApp, reseñas). Incluye presupuesto, métricas simples y textos listos para usar. Regla acordada: no pagar publicidad hasta que lo orgánico funcione. Se agregaron los prerrequisitos a pendientes.
+
 ## 22/07/2026 — "Sobre Corteza" terminada: título con formato aplicado
 
 Verificado en la página: el título del texto ya tiene formato de encabezado y la descripción que Google muestra de la página ahora arranca con "Elegimos el mejor pan artesanal...". Tema cerrado; quedan como opcionales las negritas en frases clave.
