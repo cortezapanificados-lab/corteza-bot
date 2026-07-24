@@ -2,6 +2,9 @@
 
 Tareas y temas abiertos del emprendimiento.
 
+- [ ] Para la planilla de márgenes: pasarle a Claude el costo de cada producto (lo que se le paga a cada proveedor por unidad) y el costo real de cada reparto (nafta/flete por día de entrega).
+- [ ] Sacar 3 números de las estadísticas de Tiendanube: ticket promedio, productos más vendidos y % de clientes que compró más de una vez.
+- [ ] Revisar la inconsistencia de medios de pago: el pie de la tienda dice "tarjetas de crédito o efectivo" pero se aceptan también débito y transferencia. Unificar el texto.
 - [ ] Pegar en Tiendanube los nuevos cierres de pedidos (sábado→martes, martes→viernes): actualizar el texto de "Sobre Corteza" y agregar la barra de anuncio. Textos listos (ver bitácora 24/07/2026).
 - [ ] (Opcional) Negritas en frases clave del texto de "Sobre Corteza" ("masa madre de verdad", "harinas 100% agroecológicas", "todo el AMBA").
 - [ ] Cuando se lance AMBA: actualizar la última línea del texto de "Sobre Corteza" y la logística en la tienda.

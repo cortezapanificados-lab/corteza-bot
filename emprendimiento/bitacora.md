@@ -2,6 +2,10 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 24/07/2026 — Diagnóstico de optimización del negocio
+
+Se analizó el negocio completo y se priorizaron 4 frentes: (1) conocer los márgenes por producto — planilla pendiente de que el dueño pase los costos; (2) suscripción semanal de pan, que encaja con el modelo de pedidos anticipados; (3) combos para subir el ticket (Desayuno, Picada, Merienda); (4) medir y trabajar la recompra. Ideas cargadas en ideas.md y datos a conseguir en pendientes (costos por proveedor, costo de reparto, ticket promedio, más vendidos, % de recompra). También se detectó la inconsistencia de medios de pago en el pie de la tienda.
+
 ## 24/07/2026 — Decisión: nuevos cierres de pedidos (sábado y martes)
 
 Se adoptó el esquema nuevo: pedidos hasta el sábado → entrega el martes; pedidos hasta el martes → entrega el viernes. Motivo: un día más de margen para trabajar más relajado, pensando también en el volumen que traerá AMBA. Se actualizó el perfil y la descripción preparada para Google. Se prepararon los textos para publicar los cierres en la tienda ("Sobre Corteza" + barra de anuncio); queda pendiente que el dueño los pegue en Tiendanube.
