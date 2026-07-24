@@ -4,7 +4,7 @@ Registro con fecha de decisiones, avances y charlas importantes. Las entradas m�
 
 ## 24/07/2026 — Decisión: nuevos cierres de pedidos (sábado y martes)
 
-Se adoptó el esquema nuevo: pedidos hasta el sábado → entrega el martes; pedidos hasta el martes → entrega el viernes. Motivo: un día más de margen para trabajar más relajado, pensando también en el volumen que traerá AMBA. Se actualizó el perfil y la descripción preparada para Google. Se prepararon los textos para publicar los cierres en la tienda ("Sobre Corteza" + barra de anuncio); queda pendiente que la dueña los pegue en Tiendanube.
+Se adoptó el esquema nuevo: pedidos hasta el sábado → entrega el martes; pedidos hasta el martes → entrega el viernes. Motivo: un día más de margen para trabajar más relajado, pensando también en el volumen que traerá AMBA. Se actualizó el perfil y la descripción preparada para Google. Se prepararon los textos para publicar los cierres en la tienda ("Sobre Corteza" + barra de anuncio); queda pendiente que el dueño los pegue en Tiendanube.
 
 ## 24/07/2026 — Se documentó el cierre de pedidos del pan de masa madre
 

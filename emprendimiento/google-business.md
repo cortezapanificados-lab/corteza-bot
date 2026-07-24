@@ -2,7 +2,7 @@
 
 *Creado: 24/07/2026. Material listo para crear el perfil. Actualizar acá cuando quede creado y verificado.*
 
-**Estado: pendiente de creación** (lo crea la dueña desde su cuenta de Google).
+**Estado: pendiente de creación** (lo crea el dueño desde su cuenta de Google).
 
 ## Datos para cargar
 
