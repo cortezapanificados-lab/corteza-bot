@@ -82,8 +82,7 @@ Incluye: 1 pan de molde blanco rebanado, 1 paquete de pepas integrales (batata y
 - Zona de entrega: únicamente Pilar
 - Días de entrega: martes y viernes
 - Horario: de 9 a 17 hs aprox.
-- **Cierre de pedidos** (pan de masa madre): pedidos hasta el **domingo** se entregan el **martes**; pedidos hasta el **miércoles** se entregan el **viernes**. El pan llega el mismo día de entrega.
-- *En evaluación (24/07/2026)*: adelantar los cierres — hasta el **sábado** para entregar el martes y hasta el **martes** para entregar el viernes — para trabajar más relajado.
+- **Cierre de pedidos** (pan de masa madre, vigente desde el 24/07/2026): pedidos hasta el **sábado** se entregan el **martes**; pedidos hasta el **martes** se entregan el **viernes**. El pan llega el mismo día de entrega.
 - Sin pedido mínimo
 - Envío gratis en pedidos de $25.000 o más; menores a $25.000 tienen costo de envío de $5.000
 

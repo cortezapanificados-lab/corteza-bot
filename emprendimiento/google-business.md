@@ -18,7 +18,7 @@
 
 ## Descripción (máx. 750 caracteres — lista para pegar)
 
-> Corteza es un emprendimiento de panificados artesanales de Pilar, Buenos Aires. Elegimos el mejor pan de masa madre de verdad, elaborado con harinas 100% agroecológicas por productores artesanales, y lo llevamos hasta tu puerta. Pan de molde, pan de campo, pan árabe, prepizzas, budines, pepas y cookies, además de un almacén orgánico con mermeladas sin azúcar, miel, yerba, aceitunas, aceite de oliva y vinos orgánicos. Entregas a domicilio los martes y viernes, con envío gratis en pedidos desde $25.000. Pedidos por la tienda online o por WhatsApp.
+> Corteza es un emprendimiento de panificados artesanales de Pilar, Buenos Aires. Elegimos el mejor pan de masa madre de verdad, elaborado con harinas 100% agroecológicas por productores artesanales, y lo llevamos hasta tu puerta. Pan de molde, pan de campo, pan árabe, prepizzas, budines, pepas y cookies, además de un almacén orgánico con mermeladas sin azúcar, miel, yerba, aceitunas, aceite de oliva y vinos orgánicos. Entregas a domicilio los martes (pedidos hasta el sábado) y viernes (pedidos hasta el martes), con envío gratis en pedidos desde $25.000. Pedidos por la tienda online o por WhatsApp.
 
 ## Fotos para subir (mínimo 5-6)
 
