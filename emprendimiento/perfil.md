@@ -85,6 +85,11 @@ Incluye: 1 pan de molde blanco rebanado, 1 paquete de pepas integrales (batata y
 - Sin pedido mínimo
 - Envío gratis en pedidos de $25.000 o más; menores a $25.000 tienen costo de envío de $5.000
 
+## Marca (INPI)
+
+- Solicitud de registro de "CORTEZA" (denominativa): **acta 4.729.366, clase 35** (venta minorista de alimentos, tienda online, marketing y afines), presentada el 10/06/2026 a nombre de Juan Martín Guerrini.
+- Estado al 24/07/2026: **con oposición** de Néstor Mario Valente ("Corteza Naturalmente Genuinos", rubro ropa/bolsos). Vista notificada el 22/07/2026, **vence el 22/10/2026**. Ver bitácora y pendientes.
+
 ## Medios de pago
 
 Transferencia bancaria, efectivo, tarjeta de crédito y débito. (El pie de la tienda dice "tarjetas de crédito o efectivo".)

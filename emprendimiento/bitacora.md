@@ -2,6 +2,12 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 24/07/2026 — Oposición a la marca CORTEZA en el INPI: investigada por consulta pública
+
+Dato nuevo: la marca **CORTEZA** se pidió en el INPI el 10/06/2026 (acta **4.729.366**, denominativa, **clase 35** — servicios de venta minorista de alimentos, tienda online, marketing, etc.), a nombre de Juan Martín Guerrini. Se publicó en el Boletín 11.061 el 17/06/2026 y el 06/07/2026 **Néstor Mario Valente** (Rosario) presentó oposición vía apoderado (agente 1009, oposición Nº 772.685), argumentando confundibilidad con su marca **"CORTEZA NATURALMENTE GENUINOS"** (acta 4.229.688, clase 35, mixta) — que en realidad está limitada a venta de **ropa, bolsos, carteras y calzado**, nada que ver con alimentos.
+
+La vista de la oposición se notificó el **22/07/2026** y vence el **22/10/2026**: antes de esa fecha hay que negociar el levantamiento o contestar la vista. Lectura preliminar: la oposición parece defendible — los rubros no se superponen (panificados vs. marroquinería), la marca del oponente tiene aditamentos ("Naturalmente Genuinos") y ya coexisten muchas marcas "Corteza" en clase 35 (ej. "Corteza Mall", concedida en 2026). La moneda de negociación obvia: limitar la clase 35 de Corteza excluyendo ropa/calzado/bolsos/carteras. Todo salió de la consulta pública del INPI, sin necesidad de usuario ni clave.
+
 ## 22/07/2026 — "Sobre Corteza" terminada: título con formato aplicado
 
 Verificado en la página: el título del texto ya tiene formato de encabezado y la descripción que Google muestra de la página ahora arranca con "Elegimos el mejor pan artesanal...". Tema cerrado; quedan como opcionales las negritas en frases clave.
