@@ -18,7 +18,8 @@
 
 ## Plan de acción
 
-- [ ] **Ya**: mandar la propuesta por WhatsApp al oponente (borrador abajo).
+- [x] **24/07/2026**: propuesta enviada por WhatsApp al oponente (borrador abajo).
+- [x] **Recordatorio automático programado**: el 22/10/2026 a la mañana Claude revisa solo el expediente y avisa (trigger trig_01HmDeS24H2FibLBqKV2mWVK). Como respaldo, anotar la fecha también en el calendario del celular.
 - [ ] **Si acepta**: que su apoderado presente el levantamiento en el INPI. Verificar en la consulta pública del expediente (acta 4.729.366) que figure la "fecha de levantamiento".
 - [ ] **Fines de septiembre 2026, si no hay acuerdo**: contactar a un abogado marcario o agente de PI (va a ser obligatorio para la etapa de contestación). Entregarle el borrador de argumentos de abajo.
 - [ ] **Después del 22/10/2026, si no hubo acuerdo**: seguir el expediente para ver si el oponente paga la tasa de mantenimiento. Si no paga, tema resuelto.
