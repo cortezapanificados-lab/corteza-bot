@@ -2,6 +2,10 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 24/07/2026 — Se documentó el cierre de pedidos del pan de masa madre
+
+Esquema actual: pedidos hasta el domingo → entrega el martes; pedidos hasta el miércoles → entrega el viernes (el pan llega el día de entrega). En evaluación: adelantar los cierres a sábado y martes respectivamente, para trabajar más relajado. Se actualizó la logística en el perfil.
+
 ## 24/07/2026 — Plan de campaña de marketing para el lanzamiento AMBA
 
 Se armó el plan completo de la campaña de lanzamiento en AMBA con foco en costo mínimo: quedó guardado en `emprendimiento/campania-amba.md`. Estructura: Fase 0 (prerrequisitos: logística, tienda, fotos, Google), Fase 1 (pre-lanzamiento: expectativa + lista de espera con 10% off + activar clientes de Pilar), Fase 2 (lanzamiento: Promo Lanzamiento como oferta estrella, sorteo, canjes con micro-cuentas, grupos de barrio), Fase 3 (sostener: referidos, rutina de contenido, difusión por WhatsApp, reseñas). Incluye presupuesto, métricas simples y textos listos para usar. Regla acordada: no pagar publicidad hasta que lo orgánico funcione. Se agregaron los prerrequisitos a pendientes.
