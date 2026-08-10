@@ -2,7 +2,9 @@
 
 *Armado el 10/08/2026. Estructura de costos completa, punto de equilibrio y qué hace falta para llegar al margen que querés.*
 
-> **Nota importante sobre este documento:** cada tabla aclara con qué **margen bruto** está calculada. Es fundamental, porque el margen bruto **no es siempre 30%** — ver la sección 3.
+> **Dos aclaraciones para leer este documento:**
+> 1. Cada tabla dice con qué **margen bruto** está calculada. El 30% es solo a precios actuales: si subís precios, sube (sección 3).
+> 2. De la sección 3 en adelante, todo asume el **recargo del 6,38% en el precio del envío** ya aplicado (sección 2).
 
 ---
 
@@ -55,36 +57,38 @@ Pedido de $28.000 en productos, Cordón 1, el cliente paga el envío:
 
 Esos $5.344 son el **19,1% de los $28.000** de producto.
 
-### De dónde sale el 19,1% (y por qué no da 20,4%)
+### De dónde sale el 19,1% (y cómo lo arreglás)
 
-Tu intuición dice: 30% de margen bruto, menos 6% de comisión, menos $1.000 de packaging (que es 3,6%) = **20,4%**. Y está perfecta esa cuenta.
+Tu intuición dice: 30% de margen bruto, menos 6% de comisión, menos $1.000 de packaging (que es 3,6%) = **20,4%**. Esa cuenta está perfecta.
 
-Mi 19,1% sale de un supuesto que hice y no te dije: **que Pago Nube te cobra el 6% sobre todo lo que cobrás, incluido el envío.** El 6% de $34.265 son $2.056, que sobre los $28.000 de producto representan 7,3% en vez de 6%. Esos 1,3 puntos son toda la diferencia.
+El 19,1% sale de un supuesto que no te había explicitado: **que Pago Nube cobra el 6% sobre todo lo que cobrás, incluido el envío.** El 6% de $34.265 son $2.056, que sobre los $28.000 de producto representan 7,3% en vez de 6%. Esos 1,3 puntos son toda la diferencia.
+
+**Y la solución es la que propusiste vos: recargarle ese 6% al precio del envío.** Con eso el flete deja de costarte plata y el techo vuelve a los 20,4% que calculabas.
 
 | | Techo de margen neto |
 |---|---|
-| Si la comisión pega sobre producto + envío | **19,1%** |
-| Si la comisión pega solo sobre el producto | **20,4%** |
+| Sin recargo en el envío | 19,1% |
+| **Con el recargo aplicado** | **20,4%** |
 
-> 🔍 **Hay que confirmarlo en el panel de Pago Nube.** Los procesadores de pago normalmente cobran sobre el total de la transacción, por eso lo asumí así, pero es un dato verificable y vale la pena mirarlo. En el resto del documento uso el escenario conservador (19,1%).
+> **El recargo correcto es 6,38%, no 6%** — hay que dividir por 0,94, porque la comisión también pega sobre el recargo. Los precios de envío a cargar están en `envios-amba.md`: $4.200 CABA, $6.700 Cordón 1, $8.800 Cordón 2 y 3.
 
-**Lo que no cambia con ninguna de las dos hipótesis:** con margen bruto 30% tu techo de margen neto está entre 19% y 20%, y no lo supera ningún volumen. Para pasar de ahí hay que subir precios.
+**Lo que no cambia:** con margen bruto 30% el techo es 20,4% aun con el recargo, y no lo supera ningún volumen. Para pasar de ahí hay que subir precios.
 
 ### Punto de equilibrio a precios actuales
 
-Con entregas **solo los jueves** → un viaje al proveedor por semana ($86.600/mes). Fijos base: **$148.600**.
+Con entregas **solo los jueves** → un viaje al proveedor por semana ($86.600/mes). Fijos base: **$148.600**. Con el recargo de envío aplicado, cada pedido deja $5.720.
 
 | Meta | Costos fijos | Pedidos/mes para no perder | Por jueves |
 |---|---|---|---|
-| $0 | $148.600 | **28** | 6,4 |
-| $60.000 | $208.600 | **39** | 9,0 |
-| $150.000 | $298.600 | **56** | 12,9 |
+| $0 | $148.600 | **26** | 6,0 |
+| $60.000 | $208.600 | **36** | 8,4 |
+| $150.000 | $298.600 | **52** | 12,1 |
 
 ---
 
 ## 3. El techo de margen neto, según el precio
 
-**Con margen bruto 30% el techo está en 19,1%.** Ningún volumen lo supera: los costos fijos se diluyen, pero la contribución por pedido como porcentaje de la venta no se mueve.
+**Con margen bruto 30% y el recargo de envío aplicado, el techo está en 20,4%.** Ningún volumen lo supera: los costos fijos se diluyen, pero la contribución por pedido como porcentaje de la venta no se mueve.
 
 **Cualquier número mayor con margen bruto 30% es imposible.** Tenías razón en frenarme las dos veces.
 
@@ -92,17 +96,17 @@ Con entregas **solo los jueves** → un viaje al proveedor por semana ($86.600/m
 
 Acá está la parte que no expliqué bien. **El proveedor te sigue cobrando lo mismo.** Si subís el precio y el costo no se mueve, todo el aumento va derecho a margen:
 
-| Precio | Aumento | Costo proveedor | **Margen bruto** | Techo neto (hip. A) | Techo neto (hip. B) |
-|---|---|---|---|---|---|
-| $28.000 | — | $19.600 | **30,0%** | 19,1% | 20,4% |
-| $30.800 | +10% | $19.600 | 36,4% | 25,9% | 27,1% |
-| $32.200 | +15% | $19.600 | **39,1%** | 28,9% | 30,0% |
-| $33.600 | +20% | $19.600 | 41,7% | 31,6% | 32,7% |
-| $35.000 | +25% | $19.600 | 44,0% | 34,1% | 35,1% |
+Con el recargo de envío ya aplicado:
 
-Las tablas donde aparecía 24,6% eran las del escenario **+15%**, donde el margen bruto ya no es 30% sino 39,1%. El número estaba bien pero yo lo presenté sin aclarar eso, y leído junto a todo lo que veníamos hablando de "30% de margen" no cerraba. Mal ahí.
+| Precio | Aumento | Costo proveedor | **Margen bruto** | **Techo de margen neto** |
+|---|---|---|---|---|
+| $28.000 | — | $19.600 | **30,0%** | 20,4% |
+| $30.800 | +10% | $19.600 | 36,4% | 27,1% |
+| $32.200 | +15% | $19.600 | **39,1%** | **30,0%** ✅ |
+| $33.600 | +20% | $19.600 | 41,7% | 32,7% |
+| $35.000 | +25% | $19.600 | 44,0% | 35,1% |
 
-**Dato lindo:** si Pago Nube resulta cobrar solo sobre el producto (hipótesis B), **con +15% llegás justo al 30% de techo.**
+**Con el recargo de envío y +15% de aumento, el techo llega justo al 30% que buscabas.** Las dos cosas juntas te ponen el objetivo al alcance.
 
 **Un aumento del 15% en el precio es un aumento del 30% en tu margen bruto.** Es la palanca más poderosa que tenés, justamente porque tu costo es fijo en pesos.
 
@@ -110,31 +114,31 @@ Las tablas donde aparecía 24,6% eran las del escenario **+15%**, donde el marge
 
 ## 4. Qué hace falta para 30% de margen neto
 
-Con entregas solo los jueves (un viaje al proveedor por semana) y Meta a $150.000, escenario conservador (hipótesis A):
+Con entregas solo los jueves (un viaje al proveedor por semana), Meta a $150.000 y el recargo de envío aplicado:
 
 | Pedidos por jueves | Al mes | Aumento necesario | Ticket resultante | Margen bruto |
 |---|---|---|---|---|
-| 30 | 130 | **+29,9%** | $36.367 | 46,1% |
-| 40 | 173 | **+26,7%** | $35.469 | 44,7% |
-| 50 | 216 | **+24,7%** | $34.930 | 43,9% |
-| 65 | 281 | **+23,0%** | $34.433 | 43,1% |
-| 80 | 346 | **+21,9%** | $34.122 | 42,6% |
+| 30 | 130 | **+27,8%** | $35.779 | 45,2% |
+| 40 | 173 | **+24,6%** | $34.881 | 43,8% |
+| 50 | 216 | **+22,7%** | $34.343 | 42,9% |
+| 65 | 281 | **+20,9%** | $33.845 | 42,1% |
+| 80 | 346 | **+19,8%** | $33.534 | 41,6% |
 
-**Para 30% neto necesitás subir entre 22% y 30%**, según cuánto volumen tengas. Si la comisión resulta ser solo sobre el producto, restale unos 2 puntos a cada fila.
+**Para 30% neto real necesitás subir entre 20% y 28%**, según el volumen. Con el recargo de envío bajó unos 2 puntos respecto del cálculo anterior.
 
 ---
 
 ## 5. Escenario recomendado: +15%
 
-No llega al 30% neto (o lo roza justo, si la comisión es solo sobre el producto), pero es un aumento que el cliente absorbe y te deja el negocio muy sano. Con **margen bruto 39,1%**, entregas solo los jueves, un viaje al proveedor por semana y Meta a $150.000. Fijos: $298.600/mes.
+No llega al 30% neto exacto salvo con mucho volumen, pero es un aumento que el cliente absorbe y te deja el negocio muy sano. Con **margen bruto 39,1%**, entregas solo los jueves, un viaje al proveedor por semana y Meta a $150.000. Fijos: $298.600/mes.
 
-| Pedidos por despacho | Al mes | Facturación | Neto | Margen neto |
+| Pedidos por jueves | Al mes | Facturación | Neto | Margen neto |
 |---|---|---|---|---|
-| 30 (el mínimo) | 130 | $4.182.780 | $908.444 | **21,7%** |
-| 40 | 173 | $5.577.040 | $1.310.792 | 23,5% |
-| 50 | 216 | $6.971.300 | $1.713.140 | 24,6% |
-| 65 | 281 | $9.062.690 | $2.316.662 | 25,6% |
-| 80 | 346 | $11.154.080 | $2.920.183 | 26,2% |
+| 30 (el mínimo) | 130 | $4.182.780 | $957.273 | **22,9%** |
+| 40 | 173 | $5.577.040 | $1.375.898 | 24,7% |
+| 50 | 216 | $6.971.300 | $1.794.522 | 25,7% |
+| 65 | 281 | $9.062.690 | $2.422.459 | 26,7% |
+| 80 | 346 | $11.154.080 | $3.050.395 | 27,3% |
 
 ### La lista de precios con +15%
 
@@ -150,7 +154,7 @@ No llega al 30% neto (o lo roza justo, si la comisión es solo sobre el producto
 | Cookies integrales | $7.000 | **$8.000** |
 | Promo Lanzamiento | $27.900 | **$32.100** |
 
-**Si querés el 30% neto de una, el aumento es +25%** (pan de molde a $12.500, promo a $34.900). Es viable, pero es un salto grande para hacer de golpe. Mi recomendación sigue siendo +15% ahora, junto con la apertura del AMBA, y revisar en tres meses con datos reales.
+**Si querés el 30% neto de una y apuntás a 50 pedidos por jueves, el aumento es +23%** (pan de molde a $12.300, promo a $34.300). Es viable, pero es un salto grande para hacer de golpe. Mi recomendación sigue siendo +15% ahora, junto con la apertura del AMBA, y revisar en tres meses con datos reales — con el recargo de envío ya aplicado, el 15% te deja muy cerca.
 
 ---
 
@@ -158,10 +162,11 @@ No llega al 30% neto (o lo roza justo, si la comisión es solo sobre el producto
 
 1. **Subir precios.** Como tu costo es fijo en pesos, cada punto de aumento va casi entero a margen. +15% te lleva el bruto de 30% a 39,1%.
 2. ~~Consolidar los viajes al proveedor.~~ ✅ **Hecho**: al pasar a solo jueves, de $260.000 a $86.600 mensuales.
-3. **Descuento por transferencia (~4%).** Pago Nube se lleva 6%; con transferencia te ahorrás eso y ganás 2 puntos netos. Además cobrás al instante. **Y si la comisión pega también sobre el envío, te ahorrás todavía más.**
-4. **Negociar con el proveedor.** Cada punto de margen bruto vale más que cualquier otra cosa.
-5. **Bajar el packaging.** $1.000 por pedido son 3,6 puntos en un pedido de $28.000.
-6. **Subir el ticket.** Con flete plano por pedido, cada peso adicional en la misma caja es casi ganancia pura.
+3. ✅ **Recargar el 6,38% en el precio del envío** — ya definido, te devuelve 1,3 puntos.
+4. **Descuento por transferencia (~4%).** Pago Nube se lleva 6%; con transferencia te ahorrás eso y ganás 2 puntos netos. Además cobrás al instante. **Y si la comisión pega también sobre el envío, te ahorrás todavía más.**
+5. **Negociar con el proveedor.** Cada punto de margen bruto vale más que cualquier otra cosa.
+6. **Bajar el packaging.** $1.000 por pedido son 3,6 puntos en un pedido de $28.000.
+7. **Subir el ticket.** Con flete plano por pedido, cada peso adicional en la misma caja es casi ganancia pura.
 
 ---
 

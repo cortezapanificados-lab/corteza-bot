@@ -74,7 +74,40 @@ Es la condición que ordena todo el plan de lanzamiento. Dos lecturas:
 
 ---
 
-## 3. Los umbrales de envío sin cargo
+## 3. Qué cobrarle de envío al cliente (con el recargo de la comisión)
+
+Como Pago Nube se lleva el 6% de **todo** lo que cobrás —incluido el envío—, si le cobrás al cliente exactamente lo que te cuesta el flete, esos 6% los ponés vos. Hay que recargarlo.
+
+**Pero el recargo no es 6%: es 6,38%.** Y la razón es que la comisión también pega sobre el recargo.
+
+Con +6% sobre un envío de $6.265: cobrás $6.641, Pago Nube se lleva $398, te quedan $6.243 y tenés que pagar $6.265. **Te faltan $23.**
+
+> **La fórmula es dividir por 0,94, no multiplicar por 1,06.**
+
+### Precios de envío a cargar en Tiendanube
+
+| Zona | Costo real | Exacto (÷0,94) | **A cobrar** | Te queda de más |
+|---|---|---|---|---|
+| CABA | $3.919 | $4.169 | **$4.200** | +$29 |
+| Cordón 1 | $6.265 | $6.665 | **$6.700** | +$33 |
+| Cordón 2 y 3 | $8.196 | $8.719 | **$8.800** | +$76 |
+
+Redondeados para arriba, así te queda un colchoncito y son números más prolijos.
+
+### Lo que esto te recupera
+
+| | Techo de margen neto |
+|---|---|
+| Sin recargo (como está hoy) | 19,1% |
+| **Con el recargo** | **20,4%** |
+
+**Recuperás 1,3 puntos, y tu intuición original queda confirmada.** Los 20,4% que vos calculabas son exactamente lo que da la cuenta una vez que el envío deja de costarte plata.
+
+> ⚠️ **Ojo con el alcance:** el recargo solo funciona en los pedidos donde el cliente paga el envío. En los pedidos con envío bonificado no hay nada que recargar — ahí el flete sale entero de tu bolsillo y los umbrales de abajo no cambian.
+
+---
+
+## 4. Los umbrales de envío sin cargo
 
 La cuenta, con margen efectivo del **24%** (30% bruto menos 6% de comisión de Pago Nube) y $1.000 de packaging:
 
@@ -92,9 +125,9 @@ La cuenta, con margen efectivo del **24%** (30% bruto menos 6% de comisión de P
 
 | Zona | Qué ofrecer | Te queda en el umbral |
 |---|---|---|
-| **CABA** | **Envío sin cargo desde $28.000** | $1.877 |
-| **Cordón 1** | **Bonificamos $3.000 desde $32.000** (cliente paga $3.265) | $3.766 |
-| **Cordón 2 y 3** | **Bonificamos $3.000 desde $35.000** (cliente paga $5.196) | $4.495 |
+| **CABA** | **Envío sin cargo desde $28.000** | $1.801 |
+| **Cordón 1** | **Bonificamos $3.000 desde $32.000** (cliente paga $3.700) | $3.893 |
+| **Cordón 2 y 3** | **Bonificamos $3.000 desde $35.000** (cliente paga $5.800) | $4.656 |
 | **Pilar** (reparto propio) | **Envío sin cargo desde $28.000** | según tu costo real de reparto |
 
 Fijate que **en las zonas con bonificación parcial ganás más que en CABA con envío gratis pleno.** Ese es el punto: bonificar una parte te deja dar un beneficio real sin quedarte sin margen.
@@ -103,7 +136,7 @@ Fijate que **en las zonas con bonificación parcial ganás más que en CABA con 
 
 ---
 
-## 4. Cómo comunicarlo
+## 5. Cómo comunicarlo
 
 1. **El envío se muestra desde el principio**, nunca recién en el checkout.
 2. **Mostrá siempre lo que falta:** *"Te faltan $4.200 para el envío sin cargo"*.
@@ -114,7 +147,7 @@ Fijate que **en las zonas con bonificación parcial ganás más que en CABA con 
 
 ---
 
-## 5. Qué revisar cada mes
+## 6. Qué revisar cada mes
 
 - **¿Cuántos pedidos por día de camioneta?** Si estás por debajo de 30, estás perdiendo plata en cada despacho.
 - ¿Subió el ticket promedio?
@@ -125,10 +158,10 @@ Los aumentos de Smart Post siguen a los de MercadoLibre: **revisá los umbrales 
 
 ---
 
-## 6. Lo que falta confirmar
+## 7. Lo que falta confirmar
 
 1. ✅ ~~¿El mínimo de 30 es por despacho o por mes?~~ → **por despacho**. Confirmado.
 2. **Dejar por escrito** que no cobran IVA.
 3. **Confirmar el horario de colecta** en la dirección de Pilar (el PDF sugiere 13:00 para zonas lejanas).
-4. **Confirmar si Pago Nube cobra el 6% sobre producto + envío o solo sobre el producto.** Cambia el techo de margen neto entre 19,1% y 20,4%.
+4. **Confirmar si Pago Nube cobra el 6% sobre producto + envío o solo sobre el producto.** Si fuera solo sobre el producto, el recargo de la sección 3 no hace falta.
 5. **Tu cantidad de pedidos por mes actual**, de las estadísticas de Tiendanube.
