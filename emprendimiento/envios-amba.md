@@ -1,173 +1,166 @@
 # Envíos al AMBA y mínimos de compra
 
-*Armado el 10/08/2026, actualizado con la tarifa real de Smart Post y las condiciones acordadas por fuera del PDF. Cómo definir a partir de qué monto Corteza bonifica el envío, sin regalar la ganancia.*
+*Armado el 10/08/2026, con la tarifa real de Smart Post, el costo de packaging y la comisión de Pago Nube. Cómo definir a partir de qué monto Corteza bonifica el envío, sin regalar la ganancia.*
 
 ---
 
-## 1. La cuenta que manda
+## 1. Tu ecuación completa por pedido
 
-El envío gratis es la herramienta de venta más poderosa que tiene una tienda online. **El costo de envío es la principal razón por la que la gente arma el carrito y después no compra.** El mínimo de compra no es un gasto: es lo que te empuja el ticket para arriba.
+Hasta ahora veníamos con una versión simplificada. Con todos los costos sobre la mesa, cada pedido con envío bonificado se ve así:
 
-La cuenta es una sola:
-
-> **Piso = costo del envío ÷ tu margen bruto**
-
-Es el pedido más chico que podés mandar bonificado sin perder plata. Justo en ese número, toda tu ganancia se va en el flete y trabajás gratis. Al piso hay que sumarle un colchón.
-
----
-
-## 2. Los datos reales
-
-**Tarifa Smart Post, por envío:**
-
-| Zona | Tarifa |
+| Concepto | Cuánto |
 |---|---|
-| Misma zona | **$3.919** |
-| Zona cercana | **$6.265** |
-| Zona lejana | **$8.196** |
-| Periféricas | **$8.196** |
+| Margen bruto | 30% del pedido |
+| − Comisión Pago Nube | 5,73% del pedido |
+| − Packaging | $1.000 fijos (2 bolsas de $350 + $300) |
+| − Envío | $3.919 / $6.265 / $8.196 según zona |
 
-**Sin IVA**, según lo acordado con Smart Post por fuera del PDF. Estos son los números que se usan en todo el documento.
+Las dos primeras líneas se combinan en una sola:
 
-> ⚠️ El PDF dice explícitamente *"las tarifas enviadas no incluyen IVA"*. El acuerdo de que no te lo cobran es de palabra. **Conviene tenerlo por escrito** —aunque sea un mail o un WhatsApp del vendedor— antes de armar toda la estructura de precios encima. Si aparece un 21% después, todos los umbrales de este documento quedan mal.
+> **Tu margen efectivo es 30% − 5,73% = 24,27%**
 
-**Tu margen bruto: 30%**, sin contar logística. Es exactamente lo que necesita la fórmula.
+Y las dos últimas son un costo fijo que no depende de cuánto compre el cliente. Entonces:
 
-**La tarifa es por envío, sin importar el tamaño**, porque la camioneta que reparte ese día es exclusiva para Corteza.
+> **Ganancia = (pedido × 24,27%) − $1.000 − envío**
 
----
+Y el piso, o sea el pedido donde ganás exactamente cero:
 
-## 3. Olvidate del problema del volumen (y hacé lo contrario)
-
-En la versión anterior de este documento te advertí sobre el peso volumétrico: que el pan es liviano pero voluminoso y que te ibas a salir de la tarifa chica. **Con tarifa plana por envío, ese problema no existe.** Ignorá todo lo que te dije sobre los 20.000 cm³.
-
-Y no solo desaparece el problema: se da vuelta la conclusión.
-
-**Si el envío cuesta lo mismo con un pan que con veinte, cada producto extra que entre en esa caja no te cuesta un peso de flete.** El costo de envío es fijo por pedido; todo lo que agregues arriba es margen puro.
-
-Esto cambia varias decisiones:
-
-- **Querés la caja más grande posible.** Todo lo contrario de lo que te dije antes.
-- **El mínimo de compra vale todavía más**, porque cada peso arriba del umbral es ganancia sin costo logístico adicional.
-- **Los formatos familiares o de mayor cantidad tienen sentido.** Un pack de 3 panes de molde, media docena de prepizzas, la caja del mes.
-- **El vino deja de ser un problema.** Antes pesaba y te encarecía el flete; ahora es simplemente un producto caro que te ayuda a cruzar el umbral rápido. Sumalo sin miedo (el cuidado sigue siendo el embalaje, no el costo).
-- **Vender por volumen es tu mejor jugada.** Menos pedidos grandes te dejan mucha más plata que muchos pedidos chicos, porque cada pedido te cuesta lo mismo de flete.
-
-Y una ventaja de marca: **con camioneta propia del día controlás los horarios.** Podés prometer franjas de entrega o entrega en el día, algo que casi ningún competidor de tu tamaño puede ofrecer. Es un argumento de venta real.
+> **Piso = (envío + $1.000) ÷ 0,2427**
 
 ---
 
-## 4. El riesgo nuevo: ¿cuántos envíos hacen falta para que salga la camioneta?
+## 2. Los pisos reales
 
-Esta es ahora **la pregunta más importante que tenés que hacerle a Smart Post**, y reemplaza en importancia a todo lo anterior.
-
-Si la camioneta de ese día es exclusiva para vos, alguien la tiene que pagar. Una camioneta con chofer un día entero cuesta plata real. Smart Post no la va a mandar por tres paquetes cobrándote $6.000 cada uno: pierde plata.
-
-Entonces, casi con seguridad, existe alguna de estas condiciones:
-
-- **Un mínimo de envíos por día** para que salga la camioneta.
-- **Un cargo mínimo por día**, aunque despaches menos.
-- **La colecta** (que el PDF dice que se cobra aparte) funcionando como ese piso.
-
-**Preguntale a Smart Post, textual:**
-
-> *"Si un día tengo solo 5 o 6 envíos, ¿la camioneta sale igual? ¿Hay un mínimo de envíos o un cargo mínimo por día?"*
-
-### Por qué esto cambia el plan de lanzamiento
-
-Si resulta que necesitás, por ejemplo, 25 pedidos para que salga la camioneta, entonces **el AMBA no es una perilla que prendés: tiene una escala mínima.** Y eso tiene tres consecuencias directas:
-
-1. **La lista de espera pasa de ser útil a ser imprescindible.** No es para "arrancar con demanda": es lo que determina si el primer día la camioneta sale o no. Hay que llegar al lanzamiento con la lista bien cargada.
-
-2. **Concentrá los despachos en la menor cantidad de días posible.** Si al principio el volumen es flaco, es mejor **un solo día de AMBA por semana** que dos con la mitad de pedidos cada uno. Cuando el volumen crezca, agregás el segundo día. Y esto encaja perfecto con el concepto de campaña: un día fijo, una cita semanal.
-
-3. **Abrir todo el AMBA de una vez es más correcto todavía.** Confirma lo que ya habíamos decidido: cuantas más zonas abiertas, más pedidos por día de camioneta.
-
----
-
-## 5. Los umbrales, con tus números
-
-Con **margen 30%** y las tarifas sin IVA:
-
-| Zona | Envío | Piso (ganás cero) | Umbral sugerido |
+| Zona | Envío | Costo fijo (envío + packaging) | **Piso** |
 |---|---|---|---|
-| Misma zona | $3.919 | $13.063 | **$20.000** |
-| Zona cercana | $6.265 | $20.883 | **$30.000** |
-| Zona lejana | $8.196 | $27.320 | **$38.000** ⚠️ |
-| Periféricas | $8.196 | $27.320 | **$38.000** ⚠️ |
+| Misma zona | $3.919 | $4.919 | **$20.268** |
+| Zona cercana | $6.265 | $7.265 | **$29.934** |
+| Zona lejana | $8.196 | $9.196 | **$37.891** |
+| Periféricas | $8.196 | $9.196 | **$37.891** |
 
-El umbral sugerido es el piso más un 40% de colchón, redondeado.
+**Mirá lo que pasó.** En la versión anterior te había sugerido $30.000 de umbral para zona cercana. Con los costos completos, **$30.000 en zona cercana es exactamente el punto donde ganás cero.** Ese umbral que parecía razonable te hacía trabajar gratis.
 
-### La advertencia importante sobre tu 30%
+No fue un error de cuenta: faltaban dos costos que ahora aparecieron. Pero muestra lo mucho que pesan.
 
-Tu margen es 30% **antes de logística**, que es justo lo que pide la fórmula. Pero hay costos que probablemente no estén contemplados ahí y que salen del mismo lugar:
+---
 
-- **Comisiones de cobro.** Si cobrás con tarjeta por Tiendanube o Mercado Pago, se llevan un porcentaje nada despreciable de cada venta. En transferencia y efectivo no.
-- **Embalaje.** Cajas, bolsas, etiquetas, papel.
-- **Roturas y devoluciones.** Un vino que llega roto sale de tu bolsillo.
+## 3. Cuánto ganás realmente (con envío bonificado)
 
-Si entre todo eso se te van unos 5 o 6 puntos, tu margen efectivo no es 30% sino más cerca de 24%. Y ahí los pisos suben bastante:
+Esta es la tabla que conviene tener a mano. Es la ganancia que te queda en el bolsillo después de todo:
 
-| Zona | Piso con 30% | Piso con 24% |
+| Pedido | Misma zona | Zona cercana | Zona lejana |
+|---|---|---|---|
+| $20.000 | −$65 | −$2.411 | −$4.342 |
+| $25.000 | $1.149 | −$1.197 | −$3.128 |
+| $30.000 | $2.362 | **$16** | −$1.915 |
+| $35.000 | $3.576 | $1.230 | −$701 |
+| $40.000 | $4.789 | $2.443 | $512 |
+| $50.000 | $7.216 | $4.870 | $2.939 |
+| $60.000 | $9.643 | $7.297 | $5.366 |
+
+**Todo lo que está en rojo son pedidos donde ponés plata de tu bolsillo para venderle a alguien.**
+
+### Cuánto te cuesta de verdad bonificar el envío
+
+Un pedido de $30.000 en zona cercana:
+
+| | Vos bonificás el envío | El cliente lo paga |
 |---|---|---|
-| Misma zona | $13.063 | $16.329 |
-| Zona cercana | $20.883 | $26.104 |
-| Zona lejana | $27.320 | $34.150 |
+| Te queda | **$16** | **$5.922** |
 
-**No es para asustarte, es para que el colchón del 40% no te lo comas sin darte cuenta.** Los umbrales que te propongo aguantan el escenario de 24% en las dos primeras bandas. En zona lejana quedan justos.
+Bonificar ese envío te cuesta casi $6.000 — prácticamente toda la ganancia del pedido. Por eso el umbral no puede ser un número simpático: tiene que ser un número que aguante.
 
 ---
 
-## 6. La estructura que te propongo
+## 4. La conclusión incómoda
 
-| Banda | Localidades (a confirmar con Smart Post) | Envío | Qué ofrecer |
+Con margen 30% y estos costos, **el envío sin cargo pleno solo cierra en misma zona.** En el resto, los umbrales que harían falta quedan así:
+
+| Zona | Piso | Umbral con colchón (piso × 1,4) |
+|---|---|---|
+| Misma zona | $20.268 | **$28.000** ✅ alcanzable |
+| Zona cercana | $29.934 | **$42.000** ⚠️ muy alto |
+| Zona lejana | $37.891 | **$53.000** ❌ imposible |
+
+Si tu ticket promedio ronda los $28.000, pedirle a alguien de CABA que gaste $53.000 para no pagar el envío es lo mismo que no ofrecerlo.
+
+**No es que estés haciendo algo mal. Es que un margen del 30% es finito para absorber un flete de $6.000–8.000 por pedido.** El retail curado suele trabajar más cerca del 40–50%, justamente porque tiene que bancar estos costos.
+
+---
+
+## 5. La estructura que te propongo
+
+Envío sin cargo pleno solo en misma zona. En el resto, **bonificación parcial**: le descontás un monto fijo del envío y el cliente pone la diferencia.
+
+| Banda | Envío | Qué ofrecer | Te queda justo en el umbral |
 |---|---|---|---|
-| **1 — Pilar** | Pilar | $3.919 | **Envío sin cargo desde $20.000** |
-| **2 — Cercana** | Escobar, Tigre, José C. Paz, Malvinas Argentinas, San Miguel, Moreno, Gral. Rodríguez | $6.265 | **Envío sin cargo desde $30.000** |
-| **3 — Lejana y periféricas** | CABA, San Isidro, Vicente López, San Martín, Morón, La Matanza, zona sur, La Plata | $8.196 | **Bonificamos $5.000 desde $32.000** (el cliente paga los $3.196 restantes) |
+| **1 — Misma zona** | $3.919 | **Envío sin cargo desde $28.000** | $1.877 |
+| **2 — Cercana** | $6.265 | **Bonificamos $3.000 desde $32.000** (cliente paga $3.265) | $3.766 |
+| **3 — Lejana y periféricas** | $8.196 | **Bonificamos $3.000 desde $35.000** (cliente paga $5.196) | $4.495 |
 
-**Sobre Pilar:** hoy tenés $25.000 y podés bajarlo a $20.000 sin riesgo — el piso ahí es $13.063. Bajarlo hace que califiquen más pedidos y es un anuncio lindo para hacer ("bajamos el mínimo de envío sin cargo"). Si preferís no tocar lo que funciona, dejalo en $25.000: también está bien.
+Fijate el detalle: **en las bandas con bonificación parcial ganás más que en la de envío sin cargo pleno.** No es casualidad — es exactamente el punto. Bonificar una parte te deja ofrecer un beneficio real sin quedarte sin margen.
 
-**Sobre la banda 3:** el envío gratis pleno te daría $38.000, que probablemente esté arriba de lo que tu cliente gasta de una vez. Con bonificación parcial de $5.000 desde $32.000: ganás $9.600, ponés $5.000, te quedan $4.600. Más alcanzable para el cliente y más seguro para vos.
+Y de ahí para arriba todo mejora rápido, porque el costo fijo ya está cubierto: en misma zona, un pedido de $40.000 te deja $4.789 en vez de $1.877.
 
-⚠️ **Confirmá qué partidos entran en cada banda para un paquete que sale de Pilar.** El PDF no lo aclara y la agrupación de arriba es una estimación. Si te equivocás de banda, la diferencia la pagás vos en cada pedido.
+**Sobre Pilar:** hoy tenés $25.000, que te deja $1.149 por pedido. No es pérdida, pero es poquísimo. **Subilo a $28.000.** Es un cambio chico para el cliente y te duplica la ganancia por pedido.
+
+---
+
+## 6. Cuatro palancas para mejorar esto
+
+Los umbrales son la consecuencia, no la causa. Si querés poder ofrecer mejores condiciones, hay que mover el margen:
+
+### a) Empujar la transferencia bancaria (la más fácil)
+
+Pago Nube se lleva **5,73% de cada pedido**. En uno de $30.000 son $1.719 — más de lo que gastás en packaging. La transferencia no te cuesta prácticamente nada y ya la aceptás.
+
+**Ofrecé un descuento por transferencia.** Si das 4% de descuento, te ahorrás el 5,73% y ganás 1,73 puntos netos. El cliente percibe un beneficio real y vos ganás más que con tarjeta. Además cobrás al instante en vez de esperar la liquidación.
+
+Es la palanca de mejor relación esfuerzo/resultado que tenés hoy.
+
+### b) Bajar el packaging
+
+$1.000 por pedido son 3,5 puntos de margen en un pedido de $28.000. Comprando bolsas por cantidad podés bajarlo bastante. Cada $300 que ahorres son casi un punto de margen.
+
+### c) Negociar con los proveedores
+
+30% es finito. Cada punto que consigas se traduce directo en umbrales más bajos y más pedidos que califican. Con volumen creciente tenés argumento para pedir mejor precio.
+
+### d) Subir el ticket, que es gratis
+
+Como el flete es plano por pedido y no depende del tamaño, **cada peso adicional en la misma caja es casi ganancia pura.** Un pedido de $50.000 en zona cercana te deja $4.870; uno de $30.000 te deja $16. **Es el mismo viaje, la misma bolsa, el mismo trabajo.**
+
+Por eso los packs y formatos grandes son tu mejor herramienta: pack de 3 panes, media docena de prepizzas, caja del mes. No es solo vender más, es que arriba del piso todo lo que agregás casi no tiene costo.
 
 ---
 
 ## 7. Cómo comunicarlo
 
-1. **El envío se muestra desde el principio, nunca recién en el checkout.** La sorpresa de flete al final es lo que más carritos mata.
-
-2. **Mostrá siempre lo que falta:**
-   > 🚚 *Te faltan $4.200 para el envío sin cargo*
-
-3. **Usá "envío sin cargo", no "envío gratis".** Más acorde a tu marca.
-
-4. **Cuando falta poco, sugerí qué agregar — y ahora sugerí lo que quieras.** Ya no importa el tamaño de la caja. Mostrale lo que más margen te deje.
-
-5. **Nunca hagas descuento en vez de envío.** "Envío sin cargo" convierte mucho más que un descuento por la misma plata.
-
-6. **Aprovechá la camioneta exclusiva.** Si podés prometer franja horaria o entrega en el día, decilo fuerte: es un diferencial que casi nadie de tu tamaño tiene.
+1. **El envío se muestra desde el principio**, nunca recién en el checkout.
+2. **Mostrá siempre lo que falta:** *"Te faltan $4.200 para el envío sin cargo"*.
+3. **Usá "envío sin cargo"**, no "envío gratis".
+4. **En las bandas 2 y 3, comunicá la bonificación como beneficio:** *"Te bonificamos $3.000 del envío"* suena bien y es honesto.
+5. **Sugerí siempre qué agregar** cuando falta poco. Ya no importa el tamaño de la caja: mostrale lo que más margen te deje.
+6. **Aprovechá la camioneta exclusiva** para prometer franja horaria. Es un diferencial real.
 
 ---
 
 ## 8. Qué revisar a los 30 días
 
-- **¿Subió el ticket promedio?** Es lo que tiene que pasar. Si no se movió, el umbral está mal puesto.
-- **¿Qué porcentaje de pedidos llega al umbral?** Menos del 30% → muy alto. Más del 80% → muy bajo, estás regalando plata.
-- **¿Cuántos envíos por día de camioneta?** El número que define si el modelo cierra.
-- **¿Cuánto pagaste de envíos bonificados en total?** Que lo mires todos los meses.
-- **¿Cuánto se llevaron las comisiones de cobro?** Para saber tu margen efectivo de verdad.
+- **¿Subió el ticket promedio?** Es lo único que mejora tu ganancia por pedido de forma estructural.
+- **¿Qué porcentaje de pedidos supera el umbral?** Menos del 30% → muy alto. Más del 80% → muy bajo.
+- **¿Cuántos pedidos quedaron por debajo del piso?** Esos te costaron plata.
+- **¿Qué porcentaje se pagó por transferencia?** Si sube, tu margen sube.
+- **¿Cuántos envíos por día de camioneta?**
 
-Y ojo: **los aumentos de Smart Post siguen a los de MercadoLibre.** Revisá los umbrales cada 3 meses o cuando te avisen de un aumento.
+Los aumentos de Smart Post siguen a los de MercadoLibre: **revisá todo esto cada 3 meses.**
 
 ---
 
 ## 9. Lo que falta para cerrar
 
-1. **¿Hay mínimo de envíos o cargo mínimo por día para que salga la camioneta?** (sección 4 — es lo más importante)
-2. **¿Cuánto sale la colecta?** El PDF dice que se cobra aparte.
-3. **Confirmar qué partidos entran en cada banda** saliendo de Pilar.
-4. **Dejar por escrito** que no te cobran IVA.
+1. **¿Hay mínimo de envíos o cargo mínimo por día** para que salga la camioneta? Sigue siendo la pregunta prioritaria para Smart Post.
+2. **¿Cuánto sale la colecta?** El PDF dice que se cobra aparte y todavía no está en ninguna cuenta de este documento. **Si existe, todos los pisos suben.**
+3. **Dejar por escrito** que no te cobran IVA.
+4. **Confirmar qué partidos entran en cada banda** saliendo de Pilar.
 5. **Tu ticket promedio actual**, de las estadísticas de Tiendanube.
-6. **Cuánto te cobran de comisión** por los cobros con tarjeta.

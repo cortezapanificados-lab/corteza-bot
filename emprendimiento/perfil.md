@@ -12,7 +12,14 @@ Tarifa Smart Post por envío: misma zona $3.919 · zona cercana $6.265 · zona l
 
 Condiciones acordadas con Smart Post por fuera del PDF: **no cobran IVA** (conviene tenerlo por escrito, porque el PDF dice lo contrario) y **la tarifa es plana por envío sin importar el tamaño**, porque la camioneta que reparte ese día es exclusiva para Corteza. Los aumentos siguen a los de MercadoLibre, así que hay que revisar los umbrales cada 3 meses.
 
-**Margen bruto: ~30% por producto**, sin contar logística.
+## Estructura de costos por pedido
+
+- **Margen bruto: ~30% por producto**, sin contar logística.
+- **Comisión Pago Nube: 5,73% por pedido** → el margen efectivo baja a **24,27%**.
+- **Packaging: $1.000 por pedido** (2 bolsas de $350 + $300 de changüí).
+- **Envío**: según zona (arriba).
+
+Ganancia por pedido con envío bonificado = `(pedido × 24,27%) − $1.000 − envío`. Los cálculos de umbrales están en `envios-amba.md`.
 
 El lanzamiento está esperando una **mudanza personal** de quien lleva el emprendimiento (no se muda el negocio; es un tema de espacio para stockear). Es un asunto privado: **no se usa como material de comunicación.**
 

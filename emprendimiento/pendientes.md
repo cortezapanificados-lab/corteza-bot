@@ -16,10 +16,12 @@ Tareas y temas abiertos del emprendimiento.
 - [ ] **Pedir por escrito** (mail o WhatsApp) que no cobran IVA — el PDF dice lo contrario.
 - [ ] **Preguntarle a Smart Post cuánto sale la colecta** (el PDF dice que se cobra aparte).
 - [ ] **Confirmar con Smart Post qué partidos entran en cada banda** (misma zona / cercana / lejana / periférica) para un paquete que sale de Pilar.
-- [ ] Averiguar **cuánto se llevan las comisiones de cobro** con tarjeta, para saber el margen efectivo real.
 - [ ] Mirar en las estadísticas de Tiendanube el **ticket promedio actual**.
-- [ ] Decidir si se baja el umbral de Pilar de $25.000 a $20.000.
-- [ ] Armar el combo "Plan Semana" apuntando a los $30.000, aprovechando que el tamaño de la caja ya no importa.
+- [ ] **Subir el umbral de Pilar de $25.000 a $28.000** (a $25.000 la ganancia por pedido es de solo $1.149).
+- [ ] **Ofrecer descuento por transferencia bancaria** (~4%) para esquivar el 5,73% de Pago Nube. Es la palanca de margen más fácil que hay.
+- [ ] Buscar bolsas más baratas por cantidad: cada $300 que baje el packaging es casi un punto de margen.
+- [ ] Con más volumen, renegociar precio con los proveedores para subir el 30%.
+- [ ] Armar el combo "Plan Semana" apuntando a los $32.000, aprovechando que el tamaño de la caja ya no importa.
 - [ ] Pensar formatos grandes (pack de 3 panes, media docena de prepizzas, caja del mes) ahora que el flete es plano por pedido.
 - [ ] Configurar las zonas de envío y sus mínimos en Tiendanube.
 - [ ] Activar la barrita de "te faltan $X para el envío sin cargo" en la tienda.

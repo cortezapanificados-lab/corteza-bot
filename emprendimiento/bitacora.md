@@ -2,7 +2,25 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
-## 10/08/2026 — Condiciones reales de Smart Post: tarifa plana y margen 30%
+## 10/08/2026 — La cuenta completa: packaging y comisión cambian todo el panorama
+
+Se sumaron los dos costos que faltaban: **packaging $1.000 por pedido** (2 bolsas de $350 + $300 de changüí) y **comisión de Pago Nube del 5,73%**.
+
+La ecuación por pedido queda: **ganancia = (pedido × 24,27%) − $1.000 − envío**, donde el 24,27% sale de restarle la comisión al margen bruto del 30%.
+
+**Los pisos suben muchísimo**: misma zona $20.268, cercana $29.934, lejana $37.890. El umbral de $30.000 que se había sugerido para zona cercana resulta ser exactamente el punto de ganancia cero — ese pedido dejaba $16.
+
+Conclusión de fondo: **con margen 30% el envío sin cargo pleno solo cierra en misma zona.** Para las otras bandas los umbrales necesarios ($42.000 y $53.000) quedan fuera del alcance del cliente. La solución es **bonificación parcial**: un monto fijo de descuento sobre el envío y el cliente paga la diferencia. Curiosamente deja más ganancia que el envío gratis pleno.
+
+Estructura definida: misma zona envío sin cargo desde $28.000; cercana bonificación de $3.000 desde $32.000; lejana bonificación de $3.000 desde $35.000.
+
+También se anotó que el umbral actual de Pilar ($25.000) deja apenas $1.149 por pedido, y conviene subirlo a $28.000.
+
+**Cuatro palancas para mejorar el margen**, ordenadas por facilidad: (1) empujar transferencia bancaria con un descuento del 4% para esquivar el 5,73% de Pago Nube —la más fácil y de mejor retorno—, (2) bajar el costo de packaging comprando por cantidad, (3) renegociar con proveedores, (4) subir el ticket, que con flete plano es casi ganancia pura.
+
+Sigue faltando el costo de la colecta: si existe, todos los pisos suben otra vez.
+
+## 10/08/2026 — Condiciones de Smart Post: tarifa plana y margen 30%
 
 Tres datos que llegaron después del PDF y que cambian las conclusiones:
 
