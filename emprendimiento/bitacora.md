@@ -2,6 +2,23 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 10/08/2026 — Decidido: un solo día de AMBA por semana
+
+Confirmado que el mínimo de Smart Post es **30 envíos por despacho**. Se decidió entregar en todo el AMBA **una vez por semana**, y los números lo respaldan con claridad:
+
+- Con 60 pedidos semanales, hacerlo en uno o dos días da exactamente el mismo neto ($2.109.069/mes). Partirlo no ahorra nada.
+- Con 35 pedidos semanales, un día deja **$1.091.957** y dos días solo **$413.771**, porque con 17 por despacho se pagan 25 envíos fantasma por semana.
+
+**Regla fijada: un solo día hasta sostener más de 60 pedidos semanales de forma estable.** Como no hay tope máximo, un día aguanta 30, 60 o 120 pedidos sin costo extra; partirlo solo agrega el riesgo de no llegar al mínimo.
+
+Cumplir el mínimo de 30 ya deja **21,2% de margen neto** (con el aumento del 15% aplicado). De ahí para arriba mejora rápido: 50 por despacho dan 24,4%, y 80 dan 26,2%.
+
+**Semana operativa propuesta:** cierre de pedidos martes 22:00, compra al proveedor y recepción el miércoles, armado y colecta el jueves antes de las 13:00, entrega el jueves en todo el AMBA. Se eligió jueves porque cubre el fin de semana y deja el viernes como día de recuperación. Detectado un punto operativo exigente: el PDF indica colecta hasta las 13:00 en zonas lejanas y Pilar es Cordón 3, así que hay que empacar buena parte el miércoles.
+
+**Riesgo identificado para después del lanzamiento:** la lista de espera garantiza un primer despacho grande, pero los despachos 2, 3 y 4 son el peligro real — se agota el envión y se cae abajo de 30. Dos defensas: **escalonar las invitaciones de la lista por tandas semanales** y **montar una suscripción semanal con 8% de descuento**. Con 18 suscriptores se arranca cada semana con más de la mitad del mínimo asegurado. El descuento cuesta ~$190.000 mensuales de margen, bastante menos que una sola semana sin llegar a 30 (que deja el neto en $346.043 contra $888.535).
+
+Archivo nuevo: `lanzamiento-amba.md`.
+
 ## 10/08/2026 — Modelo económico completo, mapa de zonas y campaña de Meta
 
 Sesión larga de números. Tres hallazgos que cambian la estrategia.

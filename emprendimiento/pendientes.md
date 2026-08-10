@@ -6,8 +6,12 @@ Tareas y temas abiertos del emprendimiento. Ordenados por prioridad.
 
 ## 🔴 Prioridad 1 — Destraban el lanzamiento del AMBA
 
-- [ ] **Confirmar con Smart Post si el mínimo de 30 envíos es por despacho o por mes.** Todo el plan asume por despacho. Si fuera mensual, el lanzamiento es muchísimo más fácil.
+- [x] ~~Confirmar si el mínimo de 30 envíos es por despacho o por mes~~ → **por despacho**. Decidido: **un solo día de AMBA por semana** (ver `lanzamiento-amba.md`).
+- [ ] **Confirmar con Smart Post el horario de colecta** en la dirección de Pilar. El PDF sugiere 13:00 para zonas lejanas, lo que obliga a tener todo empacado antes del mediodía.
+- [ ] **Definir el día de despacho** (recomendado: jueves, con cierre de pedidos el martes 22:00) y confirmar que los proveedores pueden entregar los miércoles.
 - [ ] **Instalar el píxel de Meta en Tiendanube.** Sin esto, cada peso de publicidad es a ciegas. Se hace en dos minutos desde el panel.
+- [ ] **Montar la suscripción semanal** (~8% off). Es el seguro contra no llegar a los 30. Objetivo: 20 suscriptores. Ver si Tiendanube la soporta nativamente o con una app.
+- [ ] **Planificar el lanzamiento escalonado**: dividir la lista de espera en tandas por semana para no gastar toda la demanda en el primer despacho.
 - [ ] **Arrancar la Fase 0 de Meta** ($60.000/mes) para juntar la lista de espera. Meta: **150 anotados antes de abrir el AMBA**, que es lo que hace falta para llegar a los 30 pedidos del primer despacho.
 - [ ] **Dejar andando la captura de la lista de espera**: cartel en Tiendanube, posteo fijo en Instagram, respuesta automática de WhatsApp. **Pedir siempre la zona, no solo el mail.**
 - [ ] **Armar la lista de difusión de WhatsApp** con todos los clientes que ya compraron y mandar el primer mensaje de lunes.

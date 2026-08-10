@@ -8,6 +8,8 @@ Acá se anotan ideas para hacer crecer el emprendimiento: nuevas, en evaluación
 
 ## Nuevas
 
+- **Suscripción semanal** (10/08/2026): pedido fijo todas las semanas con ~8% de descuento, cancelable cuando quiera el cliente. Nace como respuesta al mínimo de 30 envíos por despacho de Smart Post: con 18 suscriptores se arranca cada semana con más de la mitad del mínimo ya asegurado. El descuento cuesta unos $190.000 mensuales de margen, pero una sola semana sin llegar a 30 cuesta más que eso. Beneficio extra: vuelve previsible la compra al proveedor. Detalle en `lanzamiento-amba.md`.
+
 - **Campaña "El martes hay pan"** (10/08/2026): campaña de marketing de 4 semanas, hiperlocal en Pilar. Documento completo con estrategia, canales y textos listos para usar en `textos/campana-agosto-2026.md`. Ideas centrales:
   - Convertir la limitación de entregar solo martes y viernes en un ritual de marca.
   - Priorizar la **recurrencia** por sobre captar clientes nuevos (el pan es consumo semanal).

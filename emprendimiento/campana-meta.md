@@ -63,6 +63,8 @@ No arranques grande. La publicidad tiene una curva de aprendizaje y los primeros
 - Mismo público, más el retargeting a quienes visitaron la web
 - Meta: sostener los 30 pedidos semanales y medir el costo real por cliente
 
+> ⚠️ **La publicidad de esta fase importa más en las semanas 2, 3 y 4 que en la 1.** La primera semana la resuelve la lista de espera; el riesgo real es caerse abajo de 30 en los despachos siguientes. Por eso no bajes el presupuesto después del lanzamiento — es justo cuando más lo necesitás. Ver `lanzamiento-amba.md`.
+
 ### Fase 2 — Escalar (a partir del segundo mes)
 
 Solo si el costo por cliente quedó **debajo de $15.000**.

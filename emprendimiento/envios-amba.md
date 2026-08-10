@@ -64,7 +64,7 @@ Es la condición que ordena todo el plan de lanzamiento. Dos lecturas:
 
 ### Las tres decisiones que se desprenden
 
-**1. Un solo día de AMBA por semana, al menos al arranque.** Juntar 30 pedidos en un día es mucho más fácil que juntar 60 en dos. Cuando el volumen crezca, sumás el segundo día.
+**1. Un solo día de AMBA por semana. Decidido.** Juntar 30 pedidos en un día es mucho más fácil que juntar 60 en dos, y partirlo no ahorra nada: con 60 pedidos semanales el resultado es idéntico en uno o dos días, pero con 35 semanales un día deja $1.091.957 mensuales y dos días solo $413.771. El plan operativo completo está en `lanzamiento-amba.md`.
 
 **2. No lances hasta tener la lista de espera cargada.** Ahora es literal: la lista de espera del AMBA no es una buena práctica de marketing, es **el requisito para que la camioneta salga.** Necesitás llegar al día 1 con 30 pedidos asegurados.
 
