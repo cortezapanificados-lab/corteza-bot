@@ -41,19 +41,38 @@ Orden de prioridad para la plata:
 
 No arranques grande. La publicidad tiene una curva de aprendizaje y los primeros pesos siempre rinden peor.
 
-### Fase 0 — Antes de abrir el AMBA: juntar la lista
+### Fase 0 — Antes de abrir el AMBA: juntar la lista, **casi sin gastar**
 
-**Presupuesto: $60.000 al mes** (unos $2.000 por día)
+> **Corrección respecto de la versión anterior de este documento.** Acá había recomendado poner $60.000 mensuales desde ya. **Está mal si la fecha de lanzamiento está lejos**, y el motivo es que las listas se enfrían: alguien que se anota seis meses antes de que abras ya casi no se acuerda de vos cuando le escribís. Pagarías por un contacto que llega tibio.
 
-**Objetivo: NO vender. Juntar anotados en la lista de espera.** Todavía no podés entregar, así que cualquier peso puesto en vender está tirado.
+**La regla correcta:**
 
-- Objetivo de campaña: **Clientes potenciales** (formulario) o **Mensajes**
-- Público: CABA + Cordón 1, 28 a 60 años, intereses de alimentación saludable / orgánico / cocina
-- Meta concreta: **al menos 150 anotados antes de abrir**
+| Cuándo | Qué hacer | Costo |
+|---|---|---|
+| **Desde hoy** | Captura orgánica de la lista | **$0** |
+| **6 a 8 semanas antes de abrir** | Empujón pago para completar los 150 | $60.000–150.000/mes |
 
-¿Por qué 150? Porque de una lista de espera compra entre el 15% y el 25% en el primer aviso. Con 150 anotados esperás entre 22 y 37 pedidos — que es justo lo que necesitás para llegar a los **30 envíos del primer despacho**.
+#### Lo que sí arranca hoy, y es gratis
 
-**Esta fase no es opcional. Es la que hace que la camioneta salga.**
+Esto no es publicidad, es tapar un agujero. Cada persona que hoy entra a la tienda desde otra zona, ve que no le llegás y se va **es una pérdida pura, y ya está pasando todos los días**:
+
+- Cartel de lista de espera en Tiendanube
+- Posteo fijo en Instagram + la bio
+- Respuesta automática de WhatsApp para los que preguntan de otras zonas
+
+Se hace una vez, en media hora, y junta contactos solo durante todos los meses que falten. **Y son los mejores contactos que vas a tener**, porque son gente que te buscó, no gente a la que le apareciste en el feed.
+
+#### El empujón pago, cuando la fecha esté cerca
+
+Ahí sí se activa el presupuesto para completar los 150 anotados que hacen falta.
+
+¿Por qué 150? Porque de una lista de espera compra entre el 15% y el 25% en el primer aviso. Con 150 esperás entre 22 y 37 pedidos — justo lo que necesitás para los **30 envíos del primer despacho**.
+
+#### El test de calibración (opcional, $30.000, dos semanas)
+
+Hay un dato que no tenemos y que define cuándo hay que arrancar: **cuánto te cuesta conseguir un anotado.** Si sale $1.500, con $60.000 juntás 40 por mes y con dos meses estás. Si sale $5.000, necesitás mucho más tiempo o mucha más plata.
+
+Un test corto de $30.000 durante dos semanas te da ese número. No es urgente, pero **hacelo antes de fijar la fecha de lanzamiento**, porque de eso depende cuántas semanas antes tenés que empezar a empujar.
 
 ### Fase 1 — Lanzamiento del AMBA (primer mes)
 
@@ -179,8 +198,11 @@ Mismo presupuesto, más pedidos. Es puro acomodar el reloj.
 
 | Fase | Cuándo | Presupuesto | Objetivo | Meta |
 |---|---|---|---|---|
-| **0** | Desde ya, hasta abrir | $60.000/mes | Lista de espera | 150 anotados |
-| **1** | Primer mes del AMBA | $150.000/mes | Ventas | 30 pedidos/semana |
+| **0-A** | **Desde hoy** | **$0** | Captura orgánica de la lista | La que venga |
+| **0-B** | 6-8 semanas antes de abrir | $60.000–150.000/mes | Completar la lista | 150 anotados |
+| **1** | Primer mes del AMBA | $150.000/mes | Ventas | 30 pedidos/jueves |
 | **2** | Después | Escalar 30%/semana | Ventas | Costo por cliente < $15.000 |
 
-**Lo primero, hoy: instalar el píxel de Meta en Tiendanube y arrancar la Fase 0.** Cada semana sin juntar lista es una semana que se corre el lanzamiento del AMBA.
+**Lo primero, hoy:** dejar andando la captura gratuita de la lista (cartel, posteo fijo, respuesta automática) e **instalar el píxel de Meta**. El píxel no cuesta nada y necesita tiempo para juntar datos — cuanto antes esté, mejor le va a andar la publicidad cuando la prendas.
+
+**Y el dato que falta para planificar todo esto: la fecha estimada de lanzamiento.** De ahí se cuentan 6-8 semanas para atrás y sale cuándo prender la publicidad.

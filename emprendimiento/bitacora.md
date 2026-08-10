@@ -2,6 +2,23 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 10/08/2026 — Se corrige el plan de publicidad: no gastar hasta que la fecha esté cerca
+
+Se revisó la recomendación de arrancar ya con $60.000 mensuales en Meta para juntar la lista de espera. **Es un error si la fecha de lanzamiento está lejos**: las listas se enfrían y alguien que se anota seis meses antes llega tibio al primer aviso. Se estaría pagando por contactos que se degradan.
+
+**Plan corregido:**
+
+| Cuándo | Qué | Costo |
+|---|---|---|
+| Desde hoy | Captura orgánica (cartel en la tienda, posteo fijo, respuesta automática de WhatsApp) + instalar el píxel | $0 |
+| 6-8 semanas antes de abrir | Empujón pago para completar los 150 anotados | $60.000-150.000/mes |
+
+La captura gratuita sí arranca ya, porque no es publicidad sino tapar un agujero que hoy pierde contactos todos los días — y son los mejores contactos posibles, gente que buscó activamente. El píxel también, porque necesita tiempo para juntar datos.
+
+Se sumó la idea de un **test de calibración de $30.000 por dos semanas** para averiguar cuánto cuesta conseguir un anotado. Ese número define con cuánta anticipación hay que prender la publicidad.
+
+**Dato bloqueante para planificar: la fecha estimada de lanzamiento del AMBA.**
+
 ## 10/08/2026 — Cierre de pedidos los lunes 14:00 (ya cargado en la tienda)
 
 Queda definido el calendario semanal definitivo: **entrega los jueves, cierre de pedidos el lunes a las 14:00.** Ya está actualizado en la tienda. El pedido a los proveedores sale el lunes a la tarde y la mercadería llega el miércoles, así que hay margen cómodo de preparación.

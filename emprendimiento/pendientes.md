@@ -11,10 +11,11 @@ Tareas y temas abiertos del emprendimiento. Ordenados por prioridad.
 - [ ] **Confirmar con Smart Post el horario de colecta** en la dirección de Pilar. El PDF sugiere 13:00 para zonas lejanas, lo que obliga a tener todo empacado antes del mediodía.
 - [ ] Confirmar que los proveedores pueden entregar los miércoles con el volumen necesario.
 - [ ] **Verificar en el panel de Pago Nube que el 6% se cobra sobre producto + envío** (es el supuesto con el que se calculó el recargo del envío). Si fuera solo sobre el producto, el recargo se puede sacar.
-- [ ] **Instalar el píxel de Meta en Tiendanube.** Sin esto, cada peso de publicidad es a ciegas. Se hace en dos minutos desde el panel.
+- [ ] **Instalar el píxel de Meta en Tiendanube.** Es gratis y necesita tiempo para juntar datos, así que conviene tenerlo andando desde ya aunque la publicidad recién arranque más adelante.
 - [ ] **Montar la suscripción semanal** (~8% off). Es el seguro contra no llegar a los 30. Objetivo: 20 suscriptores. Ver si Tiendanube la soporta nativamente o con una app.
 - [ ] **Planificar el lanzamiento escalonado**: dividir la lista de espera en tandas por semana para no gastar toda la demanda en el primer despacho.
-- [ ] **Arrancar la Fase 0 de Meta** ($60.000/mes) para juntar la lista de espera. Meta: **150 anotados antes de abrir el AMBA**, que es lo que hace falta para llegar a los 30 pedidos del primer despacho.
+- [ ] **Definir una fecha estimada de lanzamiento del AMBA.** De ahí se cuentan 6-8 semanas para atrás y sale cuándo prender la publicidad paga.
+- [ ] *(Más adelante, 6-8 semanas antes de abrir)* Arrancar el empujón pago de Meta para completar los **150 anotados** que hacen falta para los 30 pedidos del primer despacho. **No antes**: las listas se enfrían.
 - [ ] **Dejar andando la captura de la lista de espera**: cartel en Tiendanube, posteo fijo en Instagram, respuesta automática de WhatsApp. **Pedir siempre la zona, no solo el mail.**
 - [ ] **Armar la lista de difusión de WhatsApp** con todos los clientes que ya compraron. Los dos mensajes de la semana van **domingo** ("mañana a las 14 cerramos") y **lunes temprano** ("hoy a las 14 cierra"). Textos en `textos/campana-agosto-2026.md`.
 - [ ] **Mirar en Tiendanube cuántos pedidos por mes** y el **ticket promedio** actual. Es el dato que falta para cerrar todos los números.
