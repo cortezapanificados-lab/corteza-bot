@@ -12,17 +12,18 @@ Tareas y temas abiertos del emprendimiento.
 - [ ] **Prioridad 1**: dejar andando la lista de espera del AMBA (sección 3 bis de la campaña) — cartel en Tiendanube, posteo fijo en Instagram, respuesta automática de WhatsApp. **Pedir siempre la zona, no solo el mail.**
 ## Envíos al AMBA (ver `envios-amba.md`)
 
-- [ ] **Calcular el margen bruto promedio** sobre los 5 o 6 productos más vendidos. Es el dato que traba todo el resto.
-- [ ] **Preguntarle a Smart Post cuánto sale la colecta** (no está incluida en la tarifa).
-- [ ] **Pedirle a Smart Post la tarifa de tamaño mediano y grande** — el PDF solo trae la columna chico (hasta 5 kg) y varios pedidos no van a entrar ahí.
+- [ ] **PRIORIDAD — preguntarle a Smart Post si hay mínimo de envíos o cargo mínimo por día** para que salga la camioneta. Define la escala mínima del lanzamiento del AMBA.
+- [ ] **Pedir por escrito** (mail o WhatsApp) que no cobran IVA — el PDF dice lo contrario.
+- [ ] **Preguntarle a Smart Post cuánto sale la colecta** (el PDF dice que se cobra aparte).
 - [ ] **Confirmar con Smart Post qué partidos entran en cada banda** (misma zona / cercana / lejana / periférica) para un paquete que sale de Pilar.
+- [ ] Averiguar **cuánto se llevan las comisiones de cobro** con tarjeta, para saber el margen efectivo real.
 - [ ] Mirar en las estadísticas de Tiendanube el **ticket promedio actual**.
-- [ ] Definir si Corteza es monotributista o responsable inscripta (cambia si el IVA del envío es costo o crédito).
-- [ ] Con esos datos, cerrar la tabla definitiva de umbrales por banda.
-- [ ] **Medir la caja del combo "Plan Semana"**: que llegue a los $32.000 sin pasar los 20.000 cm³ (alto × largo × ancho).
-- [ ] Decidir qué hacer con los pedidos que llevan vino (pesados y frágiles): tratarlos aparte o no bonificarles el envío.
+- [ ] Decidir si se baja el umbral de Pilar de $25.000 a $20.000.
+- [ ] Armar el combo "Plan Semana" apuntando a los $30.000, aprovechando que el tamaño de la caja ya no importa.
+- [ ] Pensar formatos grandes (pack de 3 panes, media docena de prepizzas, caja del mes) ahora que el flete es plano por pedido.
 - [ ] Configurar las zonas de envío y sus mínimos en Tiendanube.
 - [ ] Activar la barrita de "te faltan $X para el envío sin cargo" en la tienda.
+- [ ] Evaluar comunicar la franja horaria de entrega como diferencial (se puede, porque la camioneta del día es exclusiva).
 - [ ] Recordatorio cada 3 meses: revisar los umbrales, porque la tarifa de Smart Post se ajusta según los aumentos de MercadoLibre.
 - [ ] Definir el combo "Plan Semana" (qué lleva y a qué precio, tiene que superar los $25.000) y cargarlo en Tiendanube.
 - [ ] Identificar los grupos de Facebook/WhatsApp de los barrios cerrados de Pilar y presentarse con la propuesta de "pedido de barrio".

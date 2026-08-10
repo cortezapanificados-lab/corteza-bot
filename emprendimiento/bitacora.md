@@ -2,7 +2,23 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
-## 10/08/2026 — Tarifas reales de Smart Post: aparece el problema del volumen
+## 10/08/2026 — Condiciones reales de Smart Post: tarifa plana y margen 30%
+
+Tres datos que llegaron después del PDF y que cambian las conclusiones:
+
+1. **Smart Post no cobra IVA** (acordado por fuera del PDF, que dice lo contrario). Se usan las tarifas netas: $3.919 / $6.265 / $8.196. Queda pendiente pedirlo por escrito.
+2. **La tarifa es plana por envío, sin importar el tamaño**, porque la camioneta del día es exclusiva para Corteza.
+3. **Margen bruto: 30%** por producto, sin contar logística.
+
+**Cae todo el análisis de peso volumétrico** de la entrada anterior: con tarifa plana no existe el problema de los 20.000 cm³. Y la conclusión se da vuelta: como el flete cuesta lo mismo con un pan que con veinte, **ahora conviene la caja más grande posible**. Cada producto extra es margen sin costo logístico adicional. Eso habilita formatos grandes (packs, caja del mes) y saca al vino de la lista de problemas.
+
+**El riesgo nuevo, y es más serio que el anterior:** si la camioneta es exclusiva, alguien la paga. Es muy poco probable que Smart Post la mande por 5 paquetes. Casi seguro hay un mínimo de envíos o un cargo mínimo por día. **Es la pregunta prioritaria a hacerles**, porque si existe ese mínimo, el AMBA tiene una escala mínima de lanzamiento: la lista de espera pasa de útil a imprescindible, y conviene arrancar con un solo día de AMBA por semana para concentrar volumen, sumando el segundo cuando crezca.
+
+Umbrales recalculados con margen 30% y tarifas sin IVA: Pilar $20.000 (se puede bajar desde los $25.000 actuales), zona cercana $30.000, zona lejana bonificación parcial de $5.000 desde $32.000.
+
+Se dejó anotada una advertencia: el 30% no contempla comisiones de cobro con tarjeta, embalaje ni roturas. Si eso se lleva 5 o 6 puntos, el margen efectivo es ~24% y los pisos suben bastante.
+
+## 10/08/2026 — Tarifas de Smart Post: el problema del volumen (SUPERADO, ver entrada de arriba)
 
 Se recibió el PDF de tarifas de **Smart Post**, la logística con la que se va a hacer el AMBA. Tarifa tamaño chico (hasta 5 kg) sin IVA: misma zona $3.919, cercana $6.265, lejana y periféricas $8.196. Con IVA: $4.742 / $7.581 / $9.917.
 
