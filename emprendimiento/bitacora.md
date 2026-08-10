@@ -2,6 +2,22 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 10/08/2026 — Campaña de marketing "El martes hay pan"
+
+Se armó una campaña completa de 4 semanas, guardada en `textos/campana-agosto-2026.md`: diagnóstico, concepto, 5 canales ordenados por retorno, plan semana por semana, textos listos para copiar y pegar, y qué medir.
+
+Tres definiciones estratégicas que conviene no perder de vista:
+
+1. **La restricción geográfica manda.** Como hoy solo se entrega en Pilar, toda la campaña es hiperlocal. Publicitar fuera de Pilar es plata tirada.
+2. **El objetivo es la recurrencia, no la captación.** El pan es consumo semanal y se está vendiendo como compra única. El número clave a seguir es cuántos clientes compran 2 o más veces por mes.
+3. **La competencia es la comodidad, no otra panadería.** El cliente elige entre pedir a Corteza o agarrar pan en el súper. La campaña vende no tener que pensar en el pan.
+
+El concepto da vuelta la limitación de entregar solo martes y viernes y la convierte en un ritual de marca. Se priorizó la lista de difusión de WhatsApp como canal principal por ser gratis y el de mayor retorno. Se sumaron dos mecánicas de crecimiento: el "pedido de barrio" (5 pedidos juntos en un barrio cerrado = envío gratis para todos, que además abarata la logística) y el combo "Plan Semana" por encima de los $25.000.
+
+También se charló sobre si conviene usar Claude o Gemini para esto. Conclusión: se complementan. Claude para estrategia, textos, números y memoria del negocio; Gemini o Canva para generar imágenes y videos; y las fotos reales del pan sacadas con el celular por encima de todo, porque en comida rinden más que cualquier imagen generada.
+
+Pendientes cargados en `pendientes.md`. La primera tarea es armar la lista de WhatsApp.
+
 ## 22/07/2026 — "Sobre Corteza" terminada: título con formato aplicado
 
 Verificado en la página: el título del texto ya tiene formato de encabezado y la descripción que Google muestra de la página ahora arranca con "Elegimos el mejor pan artesanal...". Tema cerrado; quedan como opcionales las negritas en frases clave.
