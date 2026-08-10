@@ -2,6 +2,24 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 10/08/2026 — Relevamiento de precios reales y nueva política de precios
+
+Se relevó la tienda directamente y aparecieron **diferencias con los precios que estaban anotados en la memoria**: los reales eran más bajos. Pan de campo $7.500 (no $8.500), prepizzas $7.000 (no $8.500), grisines $4.000 (no $5.000), budín $7.000 (no $9.000), pepas $5.500 (no $7.000), cookies $6.000 (no $7.000) y Promo Lanzamiento $25.000 (no $27.900). También apareció una **Hogaza a $10.000** que no estaba registrada, y ya no figuran las aceitunas San Nicolás.
+
+**Queda establecida la política de precios en dos velocidades:**
+
+**1. Panificados propios → +15%.** Es donde hay poder de precio real, porque nadie puede comparar la curaduría de Corteza. Pan de molde y hogaza $11.500, pan de campo y árabe $8.600, prepizzas y budín $8.000, cookies $6.900, pepas $6.300, grisines $4.600, Promo $28.900 (mantiene el mismo descuento relativo).
+
+**2. Productos de terceros → nunca se les aplica el aumento.** Son marcas que el cliente compara en dos segundos, así que el precio lo fija el mercado y no los costos de Corteza.
+
+El relevamiento contra el mercado encontró que **varios estaban por encima**: mermeladas Las Quinas 19% arriba ($9.400 vs ~$7.890), dulce de leche 20% arriba ($9.400 vs ~$7.800), yerba Roapipó en el techo del rango ($6.600 vs $4.458–$6.899) y pasta de aceitunas Contraviento arriba del rango ($9.700 vs $6.069–$9.592). En cambio el aceite Zuelo ($11.000 vs $10.279–$12.155) y el Ruca Malen Chardonnay ($16.500 vs $16.920–$18.800) están bien.
+
+Se bajaron seis productos a **mercado +10%**, que es un premium defendible para una tienda curada con envío a domicilio: mermeladas a $8.700, dulce de leche a $8.600, tomates secos a $9.800, pasta de aceitunas a $8.900 y yerba a $6.100. Estar 20% arriba en un producto comparable no hace ganar más: instala fama de tienda cara y contamina la percepción del pan, que es donde está la ganancia real.
+
+Nota: todos los productos de terceros estaban **sin stock** al momento del relevamiento.
+
+**Regla para el futuro: cuando se suban precios, se suben solo los propios. Los de terceros se revisan contra el mercado, no contra los costos.**
+
 ## 10/08/2026 — Se corrige el plan de publicidad: no gastar hasta que la fecha esté cerca
 
 Se revisó la recomendación de arrancar ya con $60.000 mensuales en Meta para juntar la lista de espera. **Es un error si la fecha de lanzamiento está lejos**: las listas se enfrían y alguien que se anota seis meses antes llega tibio al primer aviso. Se estaría pagando por contactos que se degradan.

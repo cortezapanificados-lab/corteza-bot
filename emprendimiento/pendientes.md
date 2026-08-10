@@ -22,7 +22,8 @@ Tareas y temas abiertos del emprendimiento. Ordenados por prioridad.
 
 ## 🟠 Prioridad 2 — Precios y márgenes
 
-- [ ] **Decidir el aumento del 15%** (lista de precios completa en `numeros.md`). Conviene aplicarlo junto con la apertura del AMBA.
+- [ ] **Aplicar la nueva lista de precios** en Tiendanube (completa en `numeros.md` y `perfil.md`): +15% en panificados propios y bajada a mercado +10% en seis productos de terceros.
+- [ ] Cuando repongas stock de terceros, **chequear el mercado antes de fijar precio**. Faltan datos de: mieles Las Quinas, hummus Pampa Gourmet, pickles San Nicolás, mostaza Arytza, tés Intizen, Animal Extra Brut y La Linda Malbec orgánico.
 - [ ] **Ofrecer descuento por transferencia bancaria (~4%)** para esquivar el 6% de Pago Nube. Te deja 2 puntos netos y cobrás al instante.
 - [ ] **Subir el umbral de envío sin cargo de Pilar de $25.000 a $28.000.**
 - [ ] Buscar bolsas más baratas por cantidad: cada $300 que baje el packaging es casi un punto de margen.

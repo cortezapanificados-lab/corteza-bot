@@ -142,17 +142,32 @@ No llega al 30% neto exacto salvo con mucho volumen, pero es un aumento que el c
 
 ### La lista de precios con +15%
 
+*Corregida el 10/08/2026 contra los precios reales de la tienda, que eran más bajos que los que estaban anotados en la memoria.*
+
+**Solo panificados propios.** A los productos de terceros no se les aplica (ver más abajo).
+
 | Producto | Hoy | Con +15% |
 |---|---|---|
 | Pan de molde (blanco/integral/centeno) | $10.000 | **$11.500** |
-| Pan de campo (blanco/integral/centeno) | $8.500 | **$9.800** |
-| Pan árabe integral x5 | $8.500 | **$9.800** |
-| Prepizzas x2 | $8.500 | **$9.800** |
-| Grisines integrales | $5.000 | **$5.800** |
-| Budín | $9.000 | **$10.400** |
-| Pepas integrales | $7.000 | **$8.000** |
-| Cookies integrales | $7.000 | **$8.000** |
-| Promo Lanzamiento | $27.900 | **$32.100** |
+| Hogaza | $10.000 | **$11.500** |
+| Pan de campo (blanco/integral/centeno) | $7.500 | **$8.600** |
+| Pan árabe integral x5 | $7.500 | **$8.600** |
+| Prepizzas x2 | $7.000 | **$8.000** |
+| Budín | $7.000 | **$8.000** |
+| Cookies integrales | $6.000 | **$6.900** |
+| Pepas integrales | $5.500 | **$6.300** |
+| Grisines integrales | $4.000 | **$4.600** |
+| Promo Lanzamiento | $25.000 | **$28.900** |
+
+### A los productos de terceros nunca se les aplica el aumento
+
+Es la distinción más importante de toda la política de precios. Con los panificados propios tenés poder de precio porque nadie puede comparar tu curaduría. Con una mermelada Las Quinas o un Malbec de Luigi Bosca, **el cliente googlea y compara en dos segundos.**
+
+El relevamiento del 10/08/2026 encontró que **varios ya estaban por encima del mercado** — hasta 20% en las mermeladas y el dulce de leche. Eso no te hace ganar más: te instala fama de tienda cara y te contamina la percepción del pan, que es donde de verdad ganás.
+
+Se bajaron seis productos a **mercado +10%**, que es un premium defendible para una tienda curada con entrega a domicilio. El detalle producto por producto está en `perfil.md`.
+
+**Regla para el futuro: cuando subas precios, subí solo los propios. Los de terceros se revisan contra el mercado, no contra tus costos.**
 
 **Si querés el 30% neto de una y apuntás a 50 pedidos por jueves, el aumento es +23%** (pan de molde a $12.300, promo a $34.300). Es viable, pero es un salto grande para hacer de golpe. Mi recomendación sigue siendo +15% ahora, junto con la apertura del AMBA, y revisar en tres meses con datos reales — con el recargo de envío ya aplicado, el 15% te deja muy cerca.
 

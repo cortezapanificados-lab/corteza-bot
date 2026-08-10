@@ -50,53 +50,61 @@ Cuando se lance, se abre **todo el AMBA de una vez**, no por zonas: como la log�
 
 ## Panificados propios
 
-| Producto | Precio | Notas |
-|---|---|---|
-| Pan de molde blanco | $10.000 | masa madre |
-| Pan de molde integral | $10.000 | masa madre |
-| Pan de molde de centeno | $10.000 | masa madre |
-| Pan de campo blanco | $8.500 | masa madre |
-| Pan de campo integral | $8.500 | masa madre |
-| Pan de campo de centeno | $8.500 | masa madre |
-| Pan árabe integral x5 | $8.500 | masa madre |
-| Prepizzas x2 | $8.500 | masa madre |
-| Grisines integrales | $5.000 | |
-| Budín blanco | $9.000 | por ahora solo blancos; en la promo se menciona con chips de chocolate |
-| Pepas integrales | $7.000 | batata y membrillo |
-| Cookies integrales con chips de chocolate y nuez | $7.000 | |
+*Precios relevados directamente de la tienda el 10/08/2026. La columna "nuevo" es el aumento del 15% decidido ese día (ver `numeros.md`).*
+
+| Producto | Precio anterior | **Precio nuevo (+15%)** | Notas |
+|---|---|---|---|
+| Pan de molde blanco | $10.000 | **$11.500** | masa madre |
+| Pan de molde integral | $10.000 | **$11.500** | masa madre |
+| Pan de molde de centeno | $10.000 | **$11.500** | masa madre |
+| Hogaza | $10.000 | **$11.500** | masa madre |
+| Pan de campo blanco | $7.500 | **$8.600** | masa madre |
+| Pan de campo integral | $7.500 | **$8.600** | masa madre |
+| Pan de campo de centeno | $7.500 | **$8.600** | masa madre |
+| Pan árabe integral x5 | $7.500 | **$8.600** | masa madre |
+| Prepizzas x2 | $7.000 | **$8.000** | masa madre |
+| Budín | $7.000 | **$8.000** | por ahora solo blancos |
+| Cookies integrales con chips de chocolate y nuez | $6.000 | **$6.900** | |
+| Pepas integrales | $5.500 | **$6.300** | batata y membrillo |
+| Grisines integrales | $4.000 | **$4.600** | |
 
 Todos con harinas 100% agroecológicas. Los panes (molde, campo, árabe, prepizzas) son de masa madre; grisines, budines, pepas y cookies no.
 
 Algunos panes se ofrecen enteros o rebanados.
 
-### Promo Lanzamiento — $27.900
+### Promo Lanzamiento — $25.000 → **$28.900**
 
 Incluye: 1 pan de molde blanco rebanado, 1 paquete de pepas integrales (batata y membrillo), 1 budín con chips de chocolate y 1 paquete de grisines integrales.
 
-## Almacén orgánico (productos de terceros)
+Comprando suelto a los precios nuevos serían $30.400, así que la promo mantiene el mismo descuento relativo que tenía (~5%).
 
-| Producto | Precio |
-|---|---|
-| Mermelada de frutos rojos Las Quinas sin azúcar (450g) | $9.400 |
-| Mermelada de frutilla Las Quinas sin azúcar (450g) | $9.400 |
-| Dulce de leche Las Quinas con stevia | $9.400 |
-| Miel líquida orgánica Las Quinas 500g | $9.400 |
-| Miel cremosa Las Quinas 500g | $8.200 |
-| Yerba orgánica Roapipó suave 500g | $6.600 |
-| Hummus de garbanzos orgánico Pampa Gourmet 180g | $5.200 |
-| Aceitunas negras San Nicolás 250g | $6.000 |
-| Aceitunas verdes gigantes orgánicas San Nicolás 250g | $6.200 |
-| Pickles orgánicos San Nicolás 250g | $6.200 |
-| Aceite de oliva Zuelo orgánico 250ml (Zuccardi) | $11.000 |
+## Productos de terceros
 
-## Dips y condimentos
+**Al 10/08/2026 están todos SIN STOCK en la tienda.** Las aceitunas negras y verdes San Nicolás ya no figuran en el catálogo.
 
-| Producto | Precio |
-|---|---|
-| Mostaza Dijón Arytza 360g | $7.600 |
-| Pasta de aceitunas verdes Contraviento 170g | $9.700 |
-| Pasta de tomates secos Contraviento 180g | $10.600 |
-| Hummus Pampa Gourmet 180g | $5.200 |
+**Criterio de precio:** acá no hay poder de precio, porque son marcas que el cliente puede comparar en dos segundos. El precio lo fija el mercado, no los costos de Corteza. **Nunca aplicarles los aumentos que se le apliquen a los panificados propios.** El objetivo es quedar en torno a **mercado +10%**, que es un premium defendible para una tienda curada con entrega a domicilio.
+
+### Almacén orgánico
+
+| Producto | Precio anterior | **Nuevo** | Mercado (relevado 10/08/2026) |
+|---|---|---|---|
+| Mermelada de frutos rojos Las Quinas 450g | $9.400 | **$8.700** | ~$7.890 (estaba 19% arriba) |
+| Mermelada de frutilla Las Quinas 450g | $9.400 | **$8.700** | ~$7.890 |
+| Dulce de leche Las Quinas | $9.400 | **$8.600** | ~$7.800 (estaba 20% arriba) |
+| Yerba orgánica Roapipó suave 500g | $6.600 | **$6.100** | $4.458–$6.899 (estaba en el techo) |
+| Miel líquida orgánica Las Quinas 500g | $9.400 | sin cambio | sin datos |
+| Miel cremosa Las Quinas 500g | $8.200 | sin cambio | sin datos |
+| Hummus de garbanzos Pampa Gourmet 180g | $5.200 | sin cambio | sin datos |
+| Pickles orgánicos San Nicolás 250g | $6.200 | sin cambio | sin datos |
+| Aceite de oliva Zuelo orgánico 250ml | $11.000 | sin cambio | $10.279–$12.155 ✅ en mercado |
+
+### Dips y condimentos
+
+| Producto | Precio anterior | **Nuevo** | Mercado |
+|---|---|---|---|
+| Pasta de tomates secos Contraviento 180g | $10.600 | **$9.800** | sin dato directo; se bajó en proporción |
+| Pasta de aceitunas verdes Contraviento 170g | $9.700 | **$8.900** | $6.069–$9.592 (estaba arriba del rango) |
+| Mostaza Dijón Arytza 360g | $7.600 | sin cambio | sin datos |
 
 ## Té (Intizen, cajas x15 saquitos)
 
@@ -108,11 +116,13 @@ Incluye: 1 pan de molde blanco rebanado, 1 paquete de pepas integrales (batata y
 
 ## Vinoteca orgánica
 
-| Producto | Precio |
-|---|---|
-| Animal Extra Brut orgánico 375ml | $8.000 |
-| La Linda Malbec orgánico 750ml | $18.500 |
-| Ruca Malen Cap 2 Chardonnay orgánico 750ml | $16.500 |
+Los vinos son lo más comparable de todo el catálogo: **no tocarlos sin chequear el mercado primero.**
+
+| Producto | Precio | Mercado |
+|---|---|---|
+| Animal Extra Brut orgánico 375ml | $8.000 | sin datos |
+| La Linda Malbec orgánico 750ml | $18.500 | la versión no orgánica ronda $13.650; conviene chequear la orgánica |
+| Ruca Malen Cap 2 Chardonnay orgánico 750ml | $16.500 | $16.920–$18.800 ✅ apenas por debajo |
 
 ## Logística
 
