@@ -2,7 +2,20 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
-## 10/08/2026 — Corrección clave: el AMBA está frenado por la mudanza, no por capacidad
+## 10/08/2026 — Modelo real del AMBA: logística tercerizada y mínimos de compra
+
+Se corrigieron dos supuestos equivocados de la charla anterior:
+
+1. **La mudanza es personal, no del negocio.** Corteza es 100% online, sin local. Si hace falta stockear, se stockea en la casa particular. Es un tema privado: **no se usa como material de comunicación.** Se sacó de la campaña la idea de contar la mudanza como historia.
+2. **Se abre todo el AMBA de una vez, no por zonas.** La logística es tercerizada, cada envío se cobra por separado según la zona del comprador y lo paga el comprador. Como no hay rutas propias que justificar, abrir de a poco solo frenaría ventas. Se eliminó de la campaña el mecanismo de apertura por umbral de 15 anotados.
+
+Se armó `envios-amba.md` con el criterio para definir los mínimos de compra con envío bonificado. **La cuenta central: piso = costo del envío ÷ margen bruto** (el punto donde toda la ganancia se va en el flete). Sobre eso, dos límites: el piso por rentabilidad y un techo por conducta del cliente (ticket promedio × 1,4). Cuando el piso supera al techo —típico en zonas lejanas— la salida recomendada es **bonificación parcial del envío** en vez de envío gratis pleno.
+
+Estructura propuesta: tres bandas (Pilar / AMBA cercano / CABA y resto), con el umbral de Pilar de $25.000 sin cambios porque ya está bien calibrado.
+
+Falta para cerrarlo: el **margen bruto promedio**, las **tarifas reales de la empresa de logística por zona** y el **ticket promedio** de Tiendanube.
+
+## 10/08/2026 — Corrección: el AMBA está frenado por una fecha, no por capacidad
 
 Se aclaró un dato que cambia la estrategia: **Corteza sí puede entregar en el resto del AMBA.** No es una limitación operativa ni de proveedores. Hoy se entrega solo en Pilar porque se está esperando una mudanza para largar la expansión.
 

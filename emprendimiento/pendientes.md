@@ -10,8 +10,14 @@ Tareas y temas abiertos del emprendimiento.
 
 - [ ] **Prioridad 1**: armar la lista de difusión de WhatsApp con todos los clientes que ya compraron y mandar el primer mensaje de lunes.
 - [ ] **Prioridad 1**: dejar andando la lista de espera del AMBA (sección 3 bis de la campaña) — cartel en Tiendanube, posteo fijo en Instagram, respuesta automática de WhatsApp. **Pedir siempre la zona, no solo el mail.**
-- [ ] Definir fecha estimada de la mudanza y a qué zona, para poder planificar la apertura del AMBA.
-- [ ] Empezar a sacar fotos del proceso de la mudanza para usarlas como contenido cuando se lance el AMBA.
+## Envíos al AMBA (ver `envios-amba.md`)
+
+- [ ] **Calcular el margen bruto promedio** sobre los 5 o 6 productos más vendidos. Es el dato que traba todo el resto.
+- [ ] Pedir a la empresa de logística la **tarifa real por zona** del AMBA.
+- [ ] Mirar en las estadísticas de Tiendanube el **ticket promedio actual**.
+- [ ] Con esos tres datos, cerrar la tabla definitiva de umbrales por banda.
+- [ ] Configurar las zonas de envío y sus mínimos en Tiendanube.
+- [ ] Activar la barrita de "te faltan $X para el envío sin cargo" en la tienda.
 - [ ] Definir el combo "Plan Semana" (qué lleva y a qué precio, tiene que superar los $25.000) y cargarlo en Tiendanube.
 - [ ] Identificar los grupos de Facebook/WhatsApp de los barrios cerrados de Pilar y presentarse con la propuesta de "pedido de barrio".
 - [ ] Pedirle a 3 o 4 clientes fieles una foto de su mesa con el pan y una frase, para usar como prueba social.

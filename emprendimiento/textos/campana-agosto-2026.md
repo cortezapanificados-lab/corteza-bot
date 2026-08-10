@@ -129,7 +129,7 @@ Esta es la jugada más importante que se puede arrancar hoy, y no cuesta un peso
 > Estamos preparando la llegada a todo el AMBA. Dejanos tu mail y tu zona, y te avisamos apenas abramos la tuya.
 > *(Los primeros de cada zona tienen el envío bonificado en su primer pedido.)*
 
-**2. Pedile siempre la zona, no solo el mail.** Este es el detalle que hace toda la diferencia. Esa lista te va a decir, con datos y no con intuición, **en qué zona del AMBA hay demanda real.** Así abrís donde ya te están esperando, en vez de adivinar.
+**2. Pedile siempre la zona, no solo el mail.** Aunque abras todo el AMBA junto, el dato de la zona te sirve igual y mucho: te dice **dónde conviene meter la publicidad el día del lanzamiento**, y te deja mandar un mensaje distinto a cada grupo ("ya llegamos a Vicente López") en vez de uno genérico. Además te anticipa qué bandas de envío van a tener más movimiento.
 
 **3. En Instagram.** Dejá de tratar a los seguidores de fuera de Pilar como si no sirvieran. Cambiá la bio y fijá un posteo:
 
@@ -142,24 +142,24 @@ Esta es la jugada más importante que se puede arrancar hoy, y no cuesta un peso
 > Por ahora estamos entregando solo en Pilar, pero muy pronto vamos a estar en todo el AMBA.
 > Si me pasás tu zona te anoto en la lista y sos de los primeros en enterarte cuando abramos ahí. Y te bonificamos el envío del primer pedido 🙌
 
-### El mecanismo de apertura por zona
+### Se abre todo el AMBA de una vez
 
-Cuando llegue el momento, **no abras todo el AMBA de golpe.** Es un error caro: repartís poco en muchos lugares, los viajes no cierran y el servicio sale mal justo cuando más se te mira.
+Nada de abrir de a zonas. Como la logística es tercerizada y **cada envío se cobra por separado según la zona del comprador**, no hay ninguna ruta que proteger: un pedido de La Plata no depende de que haya otros nueve al lado. Abrir de a poco solo te frenaría ventas sin darte nada a cambio.
 
-Abrí **de a una zona, por demanda**, con un umbral:
+El día del lanzamiento se abre el mapa completo y se avisa a toda la lista junta.
 
-> Cuando lleguemos a 15 anotados en tu zona, abrimos ahí.
+**Lo que sí hay que tener resuelto antes de ese día son los mínimos de compra por zona** — a partir de qué monto se bonifica el envío en cada banda. Eso está trabajado aparte, en `../envios-amba.md`. No lances sin eso definido: es lo que decide si el AMBA te deja ganancia o te la come.
 
-Esto hace tres cosas al mismo tiempo:
-- **La gente sale a recomendarte** para que se abra su zona (es el mismo motor del "pedido de barrio", pero más grande).
-- Te garantiza que el primer viaje a esa zona ya sale rentable.
-- Convierte cada apertura en un anuncio: *"Se abrió Escobar"*. Tenés novedades para contar durante meses.
+### El lanzamiento, sin contar por qué
 
-### La mudanza es una historia, no un trámite
+El motivo por el que todavía no lanzaste es personal y no es material de campaña. No hay que explicarlo ni justificarlo: simplemente un día se anuncia que Corteza llega a todo el AMBA.
 
-No la escondas: contala. **"Nos mudamos para poder llegar a tu casa"** es un relato buenísimo — muestra que hay alguien haciendo un esfuerzo concreto por el cliente. Sacá fotos del proceso. La gente se engancha mucho más con eso que con una foto de producto.
+La historia para contar no es por qué tardaste, es lo que pasa a partir de ahora:
 
-Y cuando pase, es el evento de lanzamiento más grande que vas a tener. Tenés que llegar a esa fecha **con la lista ya armada.**
+> **Ya llegamos a todo el AMBA.**
+> Durante meses nos escribieron de Escobar, de Vicente López, de Caballito, preguntando cuándo. Ya está: si estás en el AMBA, Corteza llega a tu casa.
+
+Y ahí es donde la lista de espera vale oro: en vez de anunciarle a nadie, le anunciás a un montón de gente que ya te venía esperando.
 
 ---
 
