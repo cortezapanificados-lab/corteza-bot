@@ -1,36 +1,54 @@
 # Pendientes
 
-Tareas y temas abiertos del emprendimiento.
+Tareas y temas abiertos del emprendimiento. Ordenados por prioridad.
 
-- [ ] (Opcional) Negritas en frases clave del texto de "Sobre Corteza" ("masa madre de verdad", "harinas 100% agroecológicas", "todo el AMBA").
-- [ ] Cuando se lance AMBA: actualizar la última línea del texto de "Sobre Corteza" y la logística en la tienda.
-- [ ] Cuando haya tiempo, replicar las dos correcciones en el diseño original de Canva ("elaboramos" → "seleccionamos"; sello → "PANES 100% / MASA MADRE"), así el archivo maestro queda al día para futuras ediciones.
+---
 
-## Campaña "El martes hay pan" (ver `textos/campana-agosto-2026.md`)
+## 🔴 Prioridad 1 — Destraban el lanzamiento del AMBA
 
-- [ ] **Prioridad 1**: armar la lista de difusión de WhatsApp con todos los clientes que ya compraron y mandar el primer mensaje de lunes.
-- [ ] **Prioridad 1**: dejar andando la lista de espera del AMBA (sección 3 bis de la campaña) — cartel en Tiendanube, posteo fijo en Instagram, respuesta automática de WhatsApp. **Pedir siempre la zona, no solo el mail.**
-## Envíos al AMBA (ver `envios-amba.md`)
+- [ ] **Confirmar con Smart Post si el mínimo de 30 envíos es por despacho o por mes.** Todo el plan asume por despacho. Si fuera mensual, el lanzamiento es muchísimo más fácil.
+- [ ] **Instalar el píxel de Meta en Tiendanube.** Sin esto, cada peso de publicidad es a ciegas. Se hace en dos minutos desde el panel.
+- [ ] **Arrancar la Fase 0 de Meta** ($60.000/mes) para juntar la lista de espera. Meta: **150 anotados antes de abrir el AMBA**, que es lo que hace falta para llegar a los 30 pedidos del primer despacho.
+- [ ] **Dejar andando la captura de la lista de espera**: cartel en Tiendanube, posteo fijo en Instagram, respuesta automática de WhatsApp. **Pedir siempre la zona, no solo el mail.**
+- [ ] **Armar la lista de difusión de WhatsApp** con todos los clientes que ya compraron y mandar el primer mensaje de lunes.
+- [ ] **Mirar en Tiendanube cuántos pedidos por mes** y el **ticket promedio** actual. Es el dato que falta para cerrar todos los números.
 
-- [ ] **PRIORIDAD — preguntarle a Smart Post si hay mínimo de envíos o cargo mínimo por día** para que salga la camioneta. Define la escala mínima del lanzamiento del AMBA.
-- [ ] **Pedir por escrito** (mail o WhatsApp) que no cobran IVA — el PDF dice lo contrario.
-- [ ] **Preguntarle a Smart Post cuánto sale la colecta** (el PDF dice que se cobra aparte).
-- [ ] **Confirmar con Smart Post qué partidos entran en cada banda** (misma zona / cercana / lejana / periférica) para un paquete que sale de Pilar.
-- [ ] Mirar en las estadísticas de Tiendanube el **ticket promedio actual**.
-- [ ] **Subir el umbral de Pilar de $25.000 a $28.000** (a $25.000 la ganancia por pedido es de solo $1.149).
-- [ ] **Ofrecer descuento por transferencia bancaria** (~4%) para esquivar el 5,73% de Pago Nube. Es la palanca de margen más fácil que hay.
+## 🟠 Prioridad 2 — Precios y márgenes
+
+- [ ] **Decidir el aumento del 15%** (lista de precios completa en `numeros.md`). Conviene aplicarlo junto con la apertura del AMBA.
+- [ ] **Ofrecer descuento por transferencia bancaria (~4%)** para esquivar el 5,73% de Pago Nube. Es la palanca de margen más fácil que hay.
+- [ ] **Subir el umbral de envío sin cargo de Pilar de $25.000 a $28.000.**
 - [ ] Buscar bolsas más baratas por cantidad: cada $300 que baje el packaging es casi un punto de margen.
-- [ ] Con más volumen, renegociar precio con los proveedores para subir el 30%.
-- [ ] Armar el combo "Plan Semana" apuntando a los $32.000, aprovechando que el tamaño de la caja ya no importa.
-- [ ] Pensar formatos grandes (pack de 3 panes, media docena de prepizzas, caja del mes) ahora que el flete es plano por pedido.
-- [ ] Configurar las zonas de envío y sus mínimos en Tiendanube.
-- [ ] Activar la barrita de "te faltan $X para el envío sin cargo" en la tienda.
-- [ ] Evaluar comunicar la franja horaria de entrega como diferencial (se puede, porque la camioneta del día es exclusiva).
-- [ ] Recordatorio cada 3 meses: revisar los umbrales, porque la tarifa de Smart Post se ajusta según los aumentos de MercadoLibre.
-- [ ] Definir el combo "Plan Semana" (qué lleva y a qué precio, tiene que superar los $25.000) y cargarlo en Tiendanube.
-- [ ] Identificar los grupos de Facebook/WhatsApp de los barrios cerrados de Pilar y presentarse con la propuesta de "pedido de barrio".
+- [ ] Evaluar agrupar los viajes del proveedor: cada uno son $15.000, pasar de 8 a 4 por mes ahorra $60.000.
+- [ ] Con más volumen, renegociar precio con los proveedores para subir el margen bruto del 30%.
+
+## 🟡 Prioridad 3 — Tienda y operación
+
+- [ ] **Pedirle a Smart Post por escrito** (mail o WhatsApp) que no cobran IVA — el PDF dice lo contrario.
+- [ ] Configurar las zonas de envío y sus umbrales en Tiendanube (CABA / Cordón 1 / Cordón 2 y 3 / Pilar).
+- [ ] Activar la barrita de "te faltan $X para el envío sin cargo".
+- [ ] Armar el combo **"Plan Semana"** apuntando a los $32.000. El tamaño de la caja no importa, así que se puede cargar.
+- [ ] Pensar formatos grandes (pack de 3 panes, media docena de prepizzas, caja del mes): con flete plano por pedido, cada producto extra es casi ganancia pura.
+- [ ] Comunicar la **franja horaria de entrega** como diferencial (se puede, porque la camioneta del día es exclusiva).
+- [ ] Cuando se lance AMBA: actualizar la última línea de "Sobre Corteza" y la logística en la tienda.
+
+## 🟢 Prioridad 4 — Marketing continuo
+
 - [ ] Pedirle a 3 o 4 clientes fieles una foto de su mesa con el pan y una frase, para usar como prueba social.
+- [ ] Sacar fotos reales de producto para los anuncios (pan cortado al medio con la miga a la vista, rebanadas tostadas, mesa servida).
+- [ ] Identificar los grupos de Facebook/WhatsApp de los barrios cerrados de Pilar y presentarse con la propuesta de "pedido de barrio".
 - [ ] Listar 5 negocios de Pilar para proponerles alianza (yoga, nutricionistas, dietéticas sin panadería, colegios alternativos).
-- [ ] Decidir si se pone plata en publicidad de Meta geolocalizada a Pilar, y con cuánto por día.
-- [ ] Empezar a preguntarle a cada cliente nuevo "¿cómo nos conociste?" y anotarlo.
-- [ ] Armar la planilla o libreta con los 5 números semanales de la campaña.
+- [ ] Empezar a preguntarle a cada cliente nuevo **"¿cómo nos conociste?"** y anotarlo.
+- [ ] Armar la planilla o libreta con los números semanales.
+
+## ⚪ Cuando haya tiempo
+
+- [ ] (Opcional) Negritas en frases clave del texto de "Sobre Corteza".
+- [ ] Replicar en el Canva original las dos correcciones de la placa ("elaboramos" → "seleccionamos"; sello → "PANES 100% / MASA MADRE").
+
+---
+
+## 🔁 Recordatorios periódicos
+
+- **Cada 3 meses**: revisar los umbrales de envío. La tarifa de Smart Post se ajusta según los aumentos de MercadoLibre.
+- **Cada mes**: revisar pedidos por despacho (¿llegamos a 30?), ticket promedio, costo por cliente nuevo y porcentaje de pagos por transferencia.

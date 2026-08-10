@@ -8,18 +8,34 @@ Corteza es una marca de panificados artesanales de Pilar, Buenos Aires, Argentin
 
 **Proyección — AMBA**: la capacidad de entregar en todo el AMBA **ya existe** y se hace con **Smart Post** (logística tercerizada, no reparto propio). Cubre todo el GBA y CABA, con servicios Flex, Same Day y 24-48hs. El costo de envío depende de la zona del comprador y **lo paga el comprador**, salvo que supere un mínimo de compra (ver `envios-amba.md`).
 
-Tarifa Smart Post por envío: misma zona $3.919 · zona cercana $6.265 · zona lejana $8.196 · periféricas $8.196.
+**Zonas y tarifas Smart Post** (se miden desde CABA, no desde Pilar):
 
-Condiciones acordadas con Smart Post por fuera del PDF: **no cobran IVA** (conviene tenerlo por escrito, porque el PDF dice lo contrario) y **la tarifa es plana por envío sin importar el tamaño**, porque la camioneta que reparte ese día es exclusiva para Corteza. Los aumentos siguen a los de MercadoLibre, así que hay que revisar los umbrales cada 3 meses.
+| Tarifa | Zona | Precio |
+|---|---|---|
+| Misma zona | CABA | $3.919 |
+| Cercana | Cordón 1 | $6.265 |
+| Lejana | Cordón 2 | $8.196 |
+| Periféricas | Cordón 3 | $8.196 |
 
-## Estructura de costos por pedido
+**Pilar está en el Cordón 3**, o sea la banda más cara. Por eso las entregas de Pilar se siguen haciendo con reparto propio. **CABA es la zona más barata y la más rentable para vender.**
 
+Condiciones acordadas con Smart Post: **no cobran IVA** (conviene tenerlo por escrito, porque el PDF dice lo contrario), **no hay costo de colecta**, **tarifa plana por envío sin importar el tamaño** (la camioneta del día es exclusiva) y **mínimo de 30 envíos por despacho, sin tope máximo**. Los aumentos siguen a los de MercadoLibre.
+
+## Estructura de costos
+
+**Por pedido:**
 - **Margen bruto: ~30% por producto**, sin contar logística.
 - **Comisión Pago Nube: 5,73% por pedido** → el margen efectivo baja a **24,27%**.
 - **Packaging: $1.000 por pedido** (2 bolsas de $350 + $300 de changüí).
 - **Envío**: según zona (arriba).
 
-Ganancia por pedido con envío bonificado = `(pedido × 24,27%) − $1.000 − envío`. Los cálculos de umbrales están en `envios-amba.md`.
+**Fijos mensuales:**
+- Tiendanube: $27.000
+- Claude: $35.000
+- Flete del proveedor a la casa (lugar de preparado): $15.000 por viaje
+- Publicidad en Meta: a definir (ver `campana-meta.md`)
+
+Ganancia por pedido con envío bonificado = `(pedido × 24,27%) − $1.000 − envío`. El análisis completo está en `numeros.md` y los umbrales en `envios-amba.md`.
 
 El lanzamiento está esperando una **mudanza personal** de quien lleva el emprendimiento (no se muda el negocio; es un tema de espacio para stockear). Es un asunto privado: **no se usa como material de comunicación.**
 

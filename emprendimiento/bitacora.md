@@ -2,7 +2,29 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
-## 10/08/2026 — La cuenta completa: packaging y comisión cambian todo el panorama
+## 10/08/2026 — Modelo económico completo, mapa de zonas y campaña de Meta
+
+Sesión larga de números. Tres hallazgos que cambian la estrategia.
+
+**1. Las zonas de Smart Post se miden desde CABA, no desde Pilar.** Confirmado revisando el mapa del PDF: misma zona = CABA ($3.919), cercana = Cordón 1 ($6.265), lejana = Cordón 2 ($8.196), periféricas = Cordón 3 ($8.196). Como las dos últimas cuestan igual, hay tres precios y no cuatro.
+
+**Pilar está en el Cordón 3**, la banda más cara. O sea que la ciudad propia es la más cara de servir y **CABA, donde hoy no se vende, es la más barata y la más rentable.** Da vuelta la estrategia geográfica: la expansión rentable es hacia la Capital, no hacia los partidos vecinos (Escobar es Cordón 3, Tigre es Cordón 2). Las entregas de Pilar se siguen haciendo con reparto propio.
+
+**2. Costos fijos mensuales**: Tiendanube $27.000 + Claude $35.000 + $15.000 por viaje del proveedor (se asumen 8 al mes) = **$182.000** antes de publicidad. Punto de equilibrio: 33 pedidos/mes sin publicidad, 61 con Meta a $150.000.
+
+**3. Sobre el objetivo de 30% de margen neto**: hay un límite matemático que conviene tener claro. **Con los precios actuales el neto no puede superar el 19,4%, ni con volumen infinito**, porque de cada $28.000 facturados quedan $5.437 después de producto, comisión y packaging. Para llegar a 30% hay que subir precios sí o sí. Un 30% neto real exige entre +26% y +63% de aumento según el volumen.
+
+**Recomendación: +15% ahora** (techo de 29,2%, lista de precios completa en `numeros.md`) y perseguir volumen, con un segundo ajuste más adelante. Subir 35% de golpe con el volumen actual probablemente espante más clientes de los que compense.
+
+**Condiciones finales de Smart Post**: sin IVA, **sin costo de colecta**, tarifa plana por tamaño y **mínimo de 30 envíos por despacho, sin tope máximo**. Ese mínimo ordena todo el lanzamiento: con un día de AMBA por semana son ~130 pedidos mensuales, muy por encima del equilibrio — o sea que si se cumple el mínimo, el negocio cierra con holgura (~21% neto con el aumento). El desafío no es la rentabilidad, es juntar los 30 pedidos del primer día. Y como no hay tope máximo, cada pedido extra del mismo día es contribución casi pura.
+
+**Se armó `campana-meta.md`** con el plan de publicidad en tres fases: Fase 0 ($60.000/mes) para juntar 150 anotados antes de abrir —que es lo que hace falta para llegar a los 30 pedidos—, Fase 1 ($150.000/mes) para el lanzamiento, y Fase 2 escalando 30% por semana mientras el costo por cliente se mantenga debajo de $15.000. La plata va a CABA y Cordón 1, en ese orden.
+
+Archivos nuevos: `numeros.md` y `campana-meta.md`. Se reordenó `pendientes.md` por prioridad.
+
+Falta un solo dato para cerrar todo: **cuántos pedidos por mes se están haciendo hoy.**
+
+## 10/08/2026 — La cuenta completa: packaging y comisión cambian el panorama
 
 Se sumaron los dos costos que faltaban: **packaging $1.000 por pedido** (2 bolsas de $350 + $300 de changüí) y **comisión de Pago Nube del 5,73%**.
 
