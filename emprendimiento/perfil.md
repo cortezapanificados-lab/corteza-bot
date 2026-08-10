@@ -4,7 +4,7 @@
 
 Corteza es una marca de panificados artesanales de Pilar, Buenos Aires, Argentina. **Modelo de negocio: curaduría/reventa** — los panificados los elaboran distintos proveedores artesanales (masa madre, harinas 100% agroecológicas) y Corteza los selecciona y los vende bajo su marca. La tienda también vende productos orgánicos y artesanales de otras marcas (almacén, vinoteca, dips y té).
 
-**Proyección**: hoy se entrega solo en Pilar, pero la idea es lanzar en cualquier momento a todo el AMBA.
+**Proyección — AMBA**: la capacidad de entregar en el resto del AMBA **ya existe**; no es una limitación operativa. Hoy se entrega solo en Pilar por una decisión temporal: se está esperando una mudanza para largar la expansión. O sea que el AMBA no está bloqueado por logística ni por proveedores, sino por una fecha. (Pendiente de definir: fecha estimada de la mudanza y a qué zona, porque eso determina qué parte del AMBA conviene abrir primero.)
 
 - Tienda online: www.cortezapan.com.ar (plataforma Tiendanube)
 - Email: corteza.panificados@gmail.com

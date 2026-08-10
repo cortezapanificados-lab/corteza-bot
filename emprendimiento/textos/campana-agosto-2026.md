@@ -8,8 +8,10 @@
 
 Antes de los textos, tres cosas que definen todo:
 
-**a) Todo lo que se publicite fuera de Pilar es plata tirada.**
-Hoy no podés entregar en otro lado. Una campaña "linda" que junte seguidores de Palermo o Córdoba no sirve para nada. La campaña tiene que ser hiperlocal: Pilar y alrededores, con foco en los barrios donde vive tu cliente.
+**a) Toda la *publicidad paga* fuera de Pilar es plata tirada. Pero el interés de afuera no hay que tirarlo.**
+Hoy vendés solo en Pilar, así que gastar en avisos para gente que todavía no le podés entregar no tiene sentido. La campaña de venta es hiperlocal: Pilar y alrededores.
+
+Pero ojo, porque acá hay una distinción que vale plata: **podés entregar en el resto del AMBA, solo estás esperando la mudanza para largar.** Eso significa que cada persona de Escobar, Tigre o Vicente López que hoy te descubre y no puede comprar **no es un contacto perdido: es un cliente adelantado.** Hay que anotarlo, no dejarlo ir. Ver la sección 3 bis.
 
 **b) El pan es un consumo semanal, pero lo estás vendiendo como compra única.**
 Este es el punto más importante de todos. Nadie compra pan una vez. Si un cliente vuelve todas las semanas, vale 50 veces más que uno que compra una vez y no vuelve. **El número que hay que mirar no son los seguidores: es cuántos clientes compraron 2 o más veces en el mes.**
@@ -111,6 +113,56 @@ El pan de masa madre se vende cuando se prueba. Una feria en Pilar con pan corta
 
 ---
 
+## 3 bis. La lista de espera del AMBA (empezar ya, aunque falte para la mudanza)
+
+Esta es la jugada más importante que se puede arrancar hoy, y no cuesta un peso.
+
+**El problema actual:** cada persona de fuera de Pilar que entra a la tienda, ve los precios, se entusiasma y descubre que no le llega… se va y no vuelve nunca. Ese interés se está evaporando todos los días. Es un agujero.
+
+**La solución:** en vez de perderla, se anota. Cuando llegue la mudanza, en lugar de salir a buscar clientes desde cero en un territorio nuevo, ya vas a tener una lista de gente esperándote. **Se arranca con demanda, no con silencio.**
+
+### Cómo se implementa (cuatro cosas, todas gratis)
+
+**1. En la tienda (Tiendanube).** Un cartel o sección visible:
+
+> **¿No estás en Pilar todavía?**
+> Estamos preparando la llegada a todo el AMBA. Dejanos tu mail y tu zona, y te avisamos apenas abramos la tuya.
+> *(Los primeros de cada zona tienen el envío bonificado en su primer pedido.)*
+
+**2. Pedile siempre la zona, no solo el mail.** Este es el detalle que hace toda la diferencia. Esa lista te va a decir, con datos y no con intuición, **en qué zona del AMBA hay demanda real.** Así abrís donde ya te están esperando, en vez de adivinar.
+
+**3. En Instagram.** Dejá de tratar a los seguidores de fuera de Pilar como si no sirvieran. Cambiá la bio y fijá un posteo:
+
+> 🌾 Hoy entregamos en Pilar. Pronto, en todo el AMBA.
+> ¿Sos de otra zona? Anotate en la lista y te avisamos cuando lleguemos 👇
+
+**4. Respuesta automática de WhatsApp.** Para el que pregunta desde otra zona:
+
+> ¡Hola! Gracias por escribir 🌾
+> Por ahora estamos entregando solo en Pilar, pero muy pronto vamos a estar en todo el AMBA.
+> Si me pasás tu zona te anoto en la lista y sos de los primeros en enterarte cuando abramos ahí. Y te bonificamos el envío del primer pedido 🙌
+
+### El mecanismo de apertura por zona
+
+Cuando llegue el momento, **no abras todo el AMBA de golpe.** Es un error caro: repartís poco en muchos lugares, los viajes no cierran y el servicio sale mal justo cuando más se te mira.
+
+Abrí **de a una zona, por demanda**, con un umbral:
+
+> Cuando lleguemos a 15 anotados en tu zona, abrimos ahí.
+
+Esto hace tres cosas al mismo tiempo:
+- **La gente sale a recomendarte** para que se abra su zona (es el mismo motor del "pedido de barrio", pero más grande).
+- Te garantiza que el primer viaje a esa zona ya sale rentable.
+- Convierte cada apertura en un anuncio: *"Se abrió Escobar"*. Tenés novedades para contar durante meses.
+
+### La mudanza es una historia, no un trámite
+
+No la escondas: contala. **"Nos mudamos para poder llegar a tu casa"** es un relato buenísimo — muestra que hay alguien haciendo un esfuerzo concreto por el cliente. Sacá fotos del proceso. La gente se engancha mucho más con eso que con una foto de producto.
+
+Y cuando pase, es el evento de lanzamiento más grande que vas a tener. Tenés que llegar a esa fecha **con la lista ya armada.**
+
+---
+
 ## 4. El plan semana por semana
 
 ### Semana 1 — Presentarse de verdad
@@ -121,6 +173,7 @@ El pan de masa madre se vende cuando se prueba. Una feria en Pilar con pan corta
 - Posteo 2: qué es masa madre de verdad y en qué se diferencia del pan del súper (educativo, sin ensuciar a nadie).
 - Posteo 3: qué significa harina agroecológica y por qué importa.
 - Arrancá la lista de WhatsApp con todos los clientes que ya tenés.
+- **Dejá andando la lista de espera del AMBA** (sección 3 bis): el cartel en la tienda, el posteo fijo en Instagram y la respuesta automática de WhatsApp. Se hace una vez y junta contactos solo, todos los días, hasta la mudanza.
 
 ### Semana 2 — La promo y la prueba social
 
@@ -250,6 +303,7 @@ Anotá esto cada semana en una libreta o una planilla. Cinco números, nada más
 | **Clientes que compraron 2+ veces en el mes** | **El más importante de todos** |
 | Ticket promedio | ¿Están llegando a los $25.000? |
 | Contactos nuevos en la lista de WhatsApp | Tu activo a futuro |
+| **Anotados en la lista del AMBA, y de qué zona** | **Tu capital para el día de la mudanza** |
 | De dónde vino cada pedido nuevo | Para saber qué canal soltar |
 
 **Preguntale a cada cliente nuevo: "¿cómo nos conociste?"** Es la pregunta más barata y más útil del marketing. Sin eso, estás adivinando.
@@ -264,12 +318,16 @@ Anotá esto cada semana en una libreta o una planilla. Cinco números, nada más
 
 2. **No persigas seguidores.** 300 seguidores de Pilar valen infinitamente más que 5.000 de todo el país que nunca te van a poder comprar.
 
-3. **No prometas AMBA hasta que puedas cumplirlo.** Un cliente de Vicente López que se ilusiona y descubre que no llegás, no vuelve nunca más. Mientras tanto, "muy pronto en todo el AMBA" está perfecto: genera expectativa sin prometer una fecha.
+3. **No prometas una fecha para el AMBA — pero sí anotá a todo el mundo.** Son dos cosas distintas. Decir "abrimos en septiembre" y no cumplir te quema; decir "muy pronto, anotate y te aviso" no te compromete a nada y te construye la lista. La regla es simple: **prometé el aviso, nunca la fecha.**
 
 ---
 
 ## 8. Lo primero que haría esta semana
 
-Si tuvieras tiempo para una sola cosa: **armá la lista de difusión de WhatsApp con todos los clientes que ya te compraron, y mandá el mensaje del lunes.**
+Dos cosas, y las dos son gratis:
 
-Es gratis, se hace en una tarde, y probablemente te genere pedidos el martes que viene.
+**1. Armá la lista de difusión de WhatsApp** con todos los clientes que ya te compraron, y mandá el mensaje del lunes. Se hace en una tarde y probablemente te genere pedidos el martes que viene.
+
+**2. Dejá andando la lista de espera del AMBA.** Es media hora de trabajo, se hace una sola vez y después junta contactos sola todos los días. Cada semana que pasa sin esto es una semana de gente interesada que se pierde y no vuelve.
+
+La primera te da plata este mes. La segunda te la va a dar el día que te mudes.

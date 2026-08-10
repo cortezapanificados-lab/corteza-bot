@@ -2,6 +2,18 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 10/08/2026 — Corrección clave: el AMBA está frenado por la mudanza, no por capacidad
+
+Se aclaró un dato que cambia la estrategia: **Corteza sí puede entregar en el resto del AMBA.** No es una limitación operativa ni de proveedores. Hoy se entrega solo en Pilar porque se está esperando una mudanza para largar la expansión.
+
+Consecuencia para el marketing: el interés de fuera de Pilar deja de ser "plata tirada" y pasa a ser un activo. Se agregó a la campaña la sección **3 bis — Lista de espera del AMBA**, con la idea de capturar desde ya a toda la gente de otras zonas (mail + **zona**, que es el dato que importa) para llegar al día de la mudanza con demanda armada en lugar de arrancar de cero.
+
+Se sumó también el mecanismo de **apertura por zona con umbral** ("cuando lleguemos a 15 anotados en tu zona, abrimos"), que hace que la gente recomiende para destrabar su barrio, garantiza que el primer viaje a cada zona sea rentable y genera una novedad publicable por cada apertura.
+
+Regla que quedó fijada: **prometer el aviso, nunca la fecha.**
+
+Pendiente por definir: fecha estimada de la mudanza y a qué zona, porque eso determina qué parte del AMBA conviene abrir primero.
+
 ## 10/08/2026 — Campaña de marketing "El martes hay pan"
 
 Se armó una campaña completa de 4 semanas, guardada en `textos/campana-agosto-2026.md`: diagnóstico, concepto, 5 canales ordenados por retorno, plan semana por semana, textos listos para copiar y pegar, y qué medir.
