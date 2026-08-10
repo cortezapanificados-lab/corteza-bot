@@ -2,6 +2,21 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 10/08/2026 — Corrección de costos y aclaración sobre el margen bruto
+
+Se corrigieron dos costos que estaban mal cargados: **la comisión de Pago Nube es 6%** (no 5,73%) y **el viaje del proveedor cuesta $20.000** (no $15.000). Se rehicieron todos los cálculos.
+
+Además quedó aclarado un punto que se estaba presentando mal y generaba confusión legítima:
+
+- **A precios actuales, con margen bruto 30%, el techo de margen neto es 19,1%.** Ningún volumen lo supera. Cualquier número mayor con margen bruto 30% es imposible.
+- **Pero el margen bruto no se queda en 30% si se suben los precios.** El proveedor cobra lo mismo en pesos, así que el aumento va casi entero a margen: con +15% el bruto pasa a 39,1% y el techo neto a 28,9%.
+
+Las tablas que mostraban 24,6% correspondían al escenario +15% y no al de precios actuales. De ahora en más **cada tabla aclara con qué margen bruto está calculada.**
+
+**Hallazgo nuevo e importante: el flete del proveedor es el costo fijo más grande.** A $20.000 el viaje: 3 viajes semanales son $260.000/mes, 1 semanal son $86.600. **Consolidar todo en un solo día ahorra hasta $173.400 mensuales**, más que Tiendanube y Claude juntos. Es el argumento más fuerte para unificar también las entregas de Pilar en el mismo día del AMBA.
+
+Números actualizados: punto de equilibrio a precios actuales con 1 viaje semanal y Meta a $150.000 es de **56 pedidos/mes**. Con el aumento del 15% y 30 pedidos por despacho, el neto es **$908.444 mensuales (21,7%)**. Para llegar a 30% neto real hace falta un aumento de entre 22% y 30% según el volumen.
+
 ## 10/08/2026 — Decidido: un solo día de AMBA por semana
 
 Confirmado que el mínimo de Smart Post es **30 envíos por despacho**. Se decidió entregar en todo el AMBA **una vez por semana**, y los números lo respaldan con claridad:

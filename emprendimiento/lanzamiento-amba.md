@@ -6,25 +6,20 @@
 
 ## 1. Un día por semana es la decisión correcta
 
-Los números no dejan lugar a dudas. Comparando escenarios con Meta a $150.000/mes y el aumento del 15% aplicado:
-
-**Si hacés 60 pedidos por semana:**
-
-| | Neto mensual |
-|---|---|
-| 1 día (60 por despacho) | $2.109.069 |
-| 2 días (30 por despacho) | $2.109.069 |
-
-Idéntico. Partir en dos días no te cuesta nada… **mientras los dos lleguen a 30.**
+*Todos los números de este documento asumen el aumento del 15% aplicado (margen bruto 39,1%), comisión de Pago Nube del 6%, $1.000 de packaging y $20.000 por viaje al proveedor. Ver `numeros.md`.*
 
 **Si hacés 35 pedidos por semana:**
 
 | | Neto mensual |
 |---|---|
-| 1 día (35 por despacho) ✅ | **$1.091.957** |
-| 2 días (17 por despacho) ❌ | **$413.771** |
+| 1 día (35 por despacho) ✅ | **$1.109.618** |
+| 2 días (17 por despacho) ❌ | **$344.832** |
 
-**Una diferencia de $678.186 por mes.** Con dos días de 17 pedidos pagás 25 envíos fantasma por semana para cubrir los mínimos.
+**Una diferencia de $764.786 por mes.** Con dos días de 17 pedidos pagás 25 envíos fantasma por semana para cubrir los mínimos, más un viaje extra al proveedor.
+
+**Y si hacés 60 pedidos por semana**, donde los dos días sí llegarían al mínimo, un solo día igual gana: te ahorrás $86.600 mensuales del segundo viaje al proveedor.
+
+O sea que **partir en dos días nunca te conviene**: cuando el volumen es bajo te cuesta carísimo, y cuando es alto sigue costando el viaje extra.
 
 ### La regla
 
@@ -36,19 +31,21 @@ Y no hay apuro: como no hay tope máximo, un solo día te aguanta 30, 60 o 120 p
 
 ## 2. Cuánto da, según cuántos pedidos juntes
 
-Un día por semana, con el aumento del 15% y Meta a $150.000:
+Un día por semana, un viaje al proveedor por semana, aumento del 15% y Meta a $150.000. Costos fijos: $298.600/mes.
 
-| Pedidos por despacho | Al mes | Facturación | Neto | Margen |
+| Pedidos por despacho | Al mes | Facturación | Neto | Margen neto |
 |---|---|---|---|---|
-| 30 (el mínimo) | 130 | $4.182.780 | $888.535 | 21,2% |
-| 40 | 173 | $5.577.040 | $1.295.379 | 23,2% |
-| 50 | 216 | $6.971.300 | $1.702.224 | 24,4% |
-| 65 | 281 | $9.062.690 | $2.312.492 | 25,5% |
-| 80 | 346 | $11.154.080 | $2.922.759 | 26,2% |
+| 30 (el mínimo) | 130 | $4.182.780 | $908.444 | **21,7%** |
+| 40 | 173 | $5.577.040 | $1.310.792 | 23,5% |
+| 50 | 216 | $6.971.300 | $1.713.140 | 24,6% |
+| 65 | 281 | $9.062.690 | $2.316.662 | 25,6% |
+| 80 | 346 | $11.154.080 | $2.920.183 | 26,2% |
 
-**Cumplir el mínimo ya te deja 21% de margen neto.** De ahí para arriba mejora rápido, porque los costos fijos ya están pagados.
+**Cumplir el mínimo ya te deja 21,7% de margen neto.** De ahí para arriba mejora rápido, porque los costos fijos ya están pagados.
 
-Si además consolidás los viajes al proveedor de 8 a 5 por mes, sumás unos $45.000 mensuales.
+> Estos márgenes son posibles **porque el aumento del 15% lleva el margen bruto de 30% a 39,1%**. Con los precios actuales (margen bruto 30%) el techo de margen neto es 19,1%, se venda lo que se venda.
+
+**Si además unificás las entregas de Pilar en el mismo día**, mantenés un solo viaje al proveedor por semana. Si Pilar sigue con días propios, se suma otro viaje: $86.600 mensuales menos de ganancia.
 
 ---
 
@@ -102,13 +99,15 @@ Propuesta: **8% de descuento por pedido fijo semanal**, cancelable cuando quiera
 
 Qué te cuesta y qué te da:
 
-| Escenario | Neto mensual |
-|---|---|
-| 30 pedidos, todos sueltos | $888.535 |
-| 18 suscriptos (8% off) + 12 sueltos | $699.302 |
-| **22 pedidos sueltos, pagando 30** ❌ | **$346.043** |
+| Escenario | Neto mensual | Margen neto |
+|---|---|---|
+| 30 pedidos, todos sueltos | $908.444 | 21,7% |
+| 18 suscriptos (8% off) + 12 sueltos | $719.717 | 18,1% |
+| **22 pedidos sueltos, pagando 30** ❌ | **$369.546** | 12,0% |
 
-El descuento te cuesta unos $190.000 mensuales de margen. **Pero una sola semana en la que no llegás a 30 te cuesta más que eso.** La suscripción no es un descuento: es un seguro contra el mínimo.
+El descuento te cuesta unos $189.000 mensuales de margen. **Pero una sola semana en la que no llegás a 30 te cuesta el doble de eso.** La suscripción no es un descuento: es un seguro contra el mínimo.
+
+Y a medida que el volumen se afirme, podés bajar el descuento del 8% al 5% (que te deja $7.779 por pedido en vez de $6.871) o cerrar el cupo de suscripciones.
 
 Y tiene un beneficio extra enorme: **te vuelve previsible la compra al proveedor.** Sabés cuánto pan pedir antes de que arranque la semana.
 

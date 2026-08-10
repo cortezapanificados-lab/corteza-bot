@@ -76,15 +76,17 @@ Es la condición que ordena todo el plan de lanzamiento. Dos lecturas:
 
 ## 3. Los umbrales de envío sin cargo
 
-La cuenta, con margen efectivo del 24,27% (30% bruto menos 5,73% de comisión) y $1.000 de packaging:
+La cuenta, con margen efectivo del **24%** (30% bruto menos 6% de comisión de Pago Nube) y $1.000 de packaging:
 
-> **Piso = (envío + $1.000) ÷ 0,2427**
+> **Piso = (envío + $1.000) ÷ 0,24**
 
 | Zona | Envío | Piso (ganás cero) |
 |---|---|---|
-| CABA | $3.919 | $20.268 |
-| Cordón 1 | $6.265 | $29.934 |
-| Cordón 2 y 3 | $8.196 | $37.890 |
+| CABA | $3.919 | $20.496 |
+| Cordón 1 | $6.265 | $30.271 |
+| Cordón 2 y 3 | $8.196 | $38.317 |
+
+*Calculado a precios actuales (margen bruto 30%). Con el aumento del 15% el margen efectivo sube a 33,1% y los pisos bajan bastante — hay que rehacer esta tabla cuando se aplique.*
 
 ### Lo que te propongo
 

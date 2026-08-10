@@ -24,18 +24,18 @@ Condiciones acordadas con Smart Post: **no cobran IVA** (conviene tenerlo por es
 ## Estructura de costos
 
 **Por pedido:**
-- **Margen bruto: ~30% por producto**, sin contar logística.
-- **Comisión Pago Nube: 5,73% por pedido** → el margen efectivo baja a **24,27%**.
+- **Margen bruto: 30% a los precios actuales.** Ojo: el costo del proveedor es fijo en pesos, así que si se suben los precios el margen bruto sube (con +15% pasa a 39,1%).
+- **Comisión Pago Nube: 6% por pedido** → a precios actuales el margen efectivo queda en **24%**.
 - **Packaging: $1.000 por pedido** (2 bolsas de $350 + $300 de changüí).
 - **Envío**: según zona (arriba).
 
 **Fijos mensuales:**
 - Tiendanube: $27.000
 - Claude: $35.000
-- Flete del proveedor a la casa (lugar de preparado): $15.000 por viaje
+- Flete del proveedor al lugar de almacenamiento: **$20.000 por viaje** (con 1 viaje semanal son $86.600/mes; con 3 semanales, $260.000)
 - Publicidad en Meta: a definir (ver `campana-meta.md`)
 
-Ganancia por pedido con envío bonificado = `(pedido × 24,27%) − $1.000 − envío`. El análisis completo está en `numeros.md` y los umbrales en `envios-amba.md`.
+**Techo de margen neto a precios actuales: 19,1%**, independientemente del volumen. Para superarlo hay que subir precios. El análisis completo está en `numeros.md`.
 
 El lanzamiento está esperando una **mudanza personal** de quien lleva el emprendimiento (no se muda el negocio; es un tema de espacio para stockear). Es un asunto privado: **no se usa como material de comunicación.**
 

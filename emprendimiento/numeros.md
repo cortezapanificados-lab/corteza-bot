@@ -2,103 +2,125 @@
 
 *Armado el 10/08/2026. Estructura de costos completa, punto de equilibrio y qué hace falta para llegar al margen que querés.*
 
+> **Nota importante sobre este documento:** cada tabla aclara con qué **margen bruto** está calculada. Es fundamental, porque el margen bruto **no es siempre 30%** — ver la sección 3.
+
 ---
 
-## 1. Todos tus costos, en un solo lugar
+## 1. Todos tus costos
 
-### Costos por pedido (variables)
+### Por pedido (variables)
 
 | Concepto | Cuánto |
 |---|---|
-| Costo del producto | 70% del precio de venta (tu margen bruto es 30%) |
-| Comisión Pago Nube | 5,73% |
-| Packaging | $1.000 (2 bolsas de $350 + $300) |
-| Envío | $3.919 / $6.265 / $8.196 según zona |
+| Costo del producto (proveedor) | 70% del precio actual → **margen bruto 30%** |
+| Comisión Pago Nube | **6%** |
+| Packaging | **$1.000** (2 bolsas de $350 + $300) |
+| Envío | $3.919 CABA / $6.265 Cordón 1 / $8.196 Cordón 2 y 3 |
 
-### Costos fijos mensuales (los pagás vendas o no vendas)
+### Fijos mensuales
 
 | Concepto | Por mes |
 |---|---|
 | Tiendanube | $27.000 |
 | Claude | $35.000 |
-| Flete del proveedor a tu casa | $15.000 × cantidad de viajes |
+| Flete del proveedor a tu depósito | **$20.000 por viaje** |
 | Publicidad en Meta | a definir |
 
-Con **8 viajes al mes** (dos por semana, que es lo que corresponde a tu ritmo de entregas) los fijos base son **$182.000 mensuales** antes de publicidad.
+**El flete del proveedor es el costo fijo más grande y depende de cuántos viajes hagas:**
 
-> ⚠️ El número de viajes al mes es un supuesto mío. Si son más o menos, avisame y recalculo — cada viaje son $15.000 y mueve bastante la aguja.
-
----
-
-## 2. El punto de equilibrio
-
-Con ticket promedio de $28.000 y el cliente pagando el envío, cada pedido te deja **$5.437 de contribución** (lo que queda para cubrir los fijos).
-
-**Cuántos pedidos por mes necesitás solo para no perder plata:**
-
-| Presupuesto de Meta | Costos fijos | Pedidos/mes para equilibrio | Por semana |
-|---|---|---|---|
-| $0 | $182.000 | **33** | 8 |
-| $100.000 | $282.000 | **52** | 12 |
-| $150.000 | $332.000 | **61** | 14 |
-| $250.000 | $432.000 | **79** | 18 |
-
-**Este es el número que hay que tener clavado en la cabeza.** Antes de decidir cuánto invertir en publicidad, mirá cuántos pedidos estás haciendo hoy y cuántos necesitarías.
-
-### El mínimo de Smart Post cambia la escala del negocio
-
-Smart Post pide **30 envíos por despacho** (sin tope máximo). Con un día de AMBA por semana, eso son unos **130 pedidos al mes**.
-
-Cruzá ese número con la tabla de arriba: el mínimo que te exige la logística está **muy por encima** de tu punto de equilibrio de 61. Eso es una buena noticia disfrazada de exigencia — **si lográs cumplir el mínimo, el negocio te cierra con holgura.**
-
-Con 130 pedidos mensuales y el aumento del 15%, estarías facturando unos **$4.186.000 al mes con un neto cercano a $889.000 (21,3% de margen neto)**.
-
-El problema no es la rentabilidad: es llegar a los 30 pedidos del primer día. Por eso la lista de espera dejó de ser una buena idea de marketing y pasó a ser el requisito para arrancar.
-
----
-
-## 3. La respuesta a tu pregunta sobre el 30% neto
-
-Acá hay una cuestión matemática que conviene entender bien, porque cambia la conversación.
-
-**Con tus precios actuales, tu margen neto nunca puede superar el 19,4%.** Ni con 100 pedidos, ni con 1.000, ni con un millón.
-
-La razón: de cada $28.000 que facturás, después de pagar el producto, la comisión y el packaging te quedan $5.437, o sea el 19,4%. Los costos fijos se diluyen con el volumen y ese 19,4% es el techo al que tendés. **No hay volumen que te lleve al 30%.**
-
-O sea: **para llegar a 30% neto sí o sí hay que subir precios** (o conseguir mejor precio del proveedor). No es una opción entre varias, es la única.
-
-### Cuánto habría que subir
-
-| Aumento de precios | Techo de margen neto |
-|---|---|
-| Actuales | 19,4% |
-| +10% | 26,2% |
-| +15% | 29,2% |
-| **+20%** | **31,9%** ✅ |
-| +30% | 36,7% |
-
-Pero ojo, eso es el techo con volumen alto. Para llegar al 30% **real** hace falta aumento **y** volumen:
-
-| Pedidos/mes | Aumento necesario para 30% neto | Ticket resultante |
+| Frecuencia | Viajes/mes | Costo mensual |
 |---|---|---|
-| 40 | +63% | $45.525 |
-| 60 | +47% | $41.220 |
-| 80 | +40% | $39.068 |
-| 100 | +35% | $37.777 |
-| 150 | +29% | $36.055 |
-| 200 | +26% | $35.194 |
+| 3 por semana (martes + jueves + viernes) | 13 | **$260.000** |
+| 2 por semana | 8,7 | $173.300 |
+| **1 por semana (todo consolidado en un día)** | **4,3** | **$86.600** |
 
-*(con Meta a $150.000/mes)*
-
-**Un aumento del 35% al 63% es muchísimo.** Tu pan de molde pasaría de $10.000 a $13.500 o incluso $16.000. Ahí ya no sé si el cliente te sigue.
+**Consolidar todo en un solo día te ahorra hasta $173.400 por mes.** Es más plata que Tiendanube y Claude juntos. Es el argumento más fuerte para unificar también las entregas de Pilar en el mismo día del AMBA.
 
 ---
 
-## 4. Mi recomendación: +15% ahora, y perseguir volumen
+## 2. Tu contribución por pedido, a precios actuales
 
-Subir un 15% de una y apuntar al 30% por etapas. Es un aumento que el cliente absorbe sin drama —sobre todo si lo acompañás con algo de valor— y te pone el techo en 29,2%, prácticamente tu objetivo.
+Con margen bruto 30%, envío del Cordón 1 pagado por el cliente:
 
-### Cómo quedarían los precios
+| Concepto | Monto |
+|---|---|
+| Venta | $28.000 |
+| − Costo del producto (70%) | −$19.600 |
+| − Comisión Pago Nube (6% sobre venta + envío) | −$2.056 |
+| − Packaging | −$1.000 |
+| **= Contribución** | **$5.344** |
+
+Esos $5.344 son el **19,1% de la venta**. Guardá ese número, es la clave de la sección siguiente.
+
+### Punto de equilibrio (a precios actuales)
+
+| Viajes al proveedor | Meta | Costos fijos | Pedidos/mes para no perder |
+|---|---|---|---|
+| 1/semana | $0 | $148.600 | **28** |
+| 1/semana | $60.000 | $208.600 | **39** |
+| 1/semana | $150.000 | $298.600 | **56** |
+| 2/semana | $150.000 | $372.000 | **70** |
+| 3/semana | $150.000 | $472.000 | **88** |
+
+---
+
+## 3. Tenías razón: con 30% bruto no se llega a 24%
+
+**Y también tenía razón el 24,6%.** Son dos escenarios distintos y yo no los distinguí bien. Te lo aclaro porque es el concepto que ordena todo lo demás.
+
+### El techo con margen bruto 30% es 19,1%
+
+Si de cada $28.000 te quedan $5.344 después del producto, la comisión y el packaging, entonces **19,1% es tu techo absoluto de margen neto.** Con 100 pedidos, con 1.000 o con un millón. Los costos fijos se diluyen, pero eso no se mueve.
+
+**Cualquier número mayor a 19,1% con margen bruto 30% es imposible.** Tenías razón en frenarme.
+
+### Pero el margen bruto no se queda en 30% si subís precios
+
+Acá está la parte que no expliqué bien. **El proveedor te sigue cobrando lo mismo.** Si subís el precio y el costo no se mueve, todo el aumento va derecho a margen:
+
+| Precio | Aumento | Costo proveedor | **Margen bruto** | **Techo de margen neto** |
+|---|---|---|---|---|
+| $28.000 | — | $19.600 | **30,0%** | 19,1% |
+| $30.800 | +10% | $19.600 | 36,4% | 25,9% |
+| $32.200 | +15% | $19.600 | **39,1%** | 28,9% |
+| $33.600 | +20% | $19.600 | 41,7% | 31,6% |
+| $35.000 | +25% | $19.600 | 44,0% | 34,1% |
+
+Las tablas donde aparecía 24,6% eran las del escenario **+15%**, donde el margen bruto ya no es 30% sino 39,1%. El número estaba bien pero yo lo presenté sin aclarar eso, y leído junto a todo lo que veníamos hablando de "30% de margen" no cerraba. Mal ahí.
+
+**Un aumento del 15% en el precio es un aumento del 30% en tu margen bruto.** Es la palanca más poderosa que tenés, justamente porque tu costo es fijo en pesos.
+
+---
+
+## 4. Qué hace falta para 30% de margen neto
+
+Con un día de despacho por semana, un viaje al proveedor por semana y Meta a $150.000:
+
+| Pedidos por despacho | Al mes | Aumento necesario | Ticket resultante | Margen bruto |
+|---|---|---|---|---|
+| 30 | 130 | **+29,9%** | $36.367 | 46,1% |
+| 40 | 173 | **+26,7%** | $35.469 | 44,7% |
+| 50 | 216 | **+24,7%** | $34.930 | 43,9% |
+| 65 | 281 | **+23,0%** | $34.433 | 43,1% |
+| 80 | 346 | **+21,9%** | $34.122 | 42,6% |
+
+**Para 30% neto necesitás subir entre 22% y 30%**, según cuánto volumen tengas. Menos de lo que parecía antes, porque consolidar los viajes del proveedor baja mucho los fijos.
+
+---
+
+## 5. Escenario recomendado: +15%
+
+No llega al 30% neto, pero es un aumento que el cliente absorbe y te deja el negocio muy sano. Con **margen bruto 39,1%**, un día por semana, un viaje al proveedor por semana y Meta a $150.000:
+
+| Pedidos por despacho | Al mes | Facturación | Neto | Margen neto |
+|---|---|---|---|---|
+| 30 (el mínimo) | 130 | $4.182.780 | $908.444 | **21,7%** |
+| 40 | 173 | $5.577.040 | $1.310.792 | 23,5% |
+| 50 | 216 | $6.971.300 | $1.713.140 | 24,6% |
+| 65 | 281 | $9.062.690 | $2.316.662 | 25,6% |
+| 80 | 346 | $11.154.080 | $2.920.183 | 26,2% |
+
+### La lista de precios con +15%
 
 | Producto | Hoy | Con +15% |
 |---|---|---|
@@ -112,44 +134,23 @@ Subir un 15% de una y apuntar al 30% por etapas. Es un aumento que el cliente ab
 | Cookies integrales | $7.000 | **$8.000** |
 | Promo Lanzamiento | $27.900 | **$32.100** |
 
-### Qué margen neto te daría
-
-| Pedidos/mes | Facturación | Neto | Margen neto |
-|---|---|---|---|
-| 60 | $1.932.000 | $231.757 | 12,0% |
-| 80 | $2.576.000 | $419.676 | 16,3% |
-| 100 | $3.220.000 | $607.596 | 18,9% |
-| 150 | $4.830.000 | $1.077.393 | 22,3% |
-| **200** | $6.440.000 | $1.547.191 | **24,0%** |
-
-*(con Meta a $150.000/mes)*
-
-**El camino al 30% es: +15% ahora, crecer a 150-200 pedidos, y ahí evaluar un segundo ajuste.** Subir 35% de golpe con el volumen actual es más probable que te haga perder clientes que ganar plata.
-
-### Cómo comunicar el aumento
-
-No lo anuncies como aumento. Acompañalo con algo:
-
-- Es el momento perfecto para hacerlo **junto con la apertura del AMBA**: producto nuevo, zona nueva, lista nueva.
-- Sumá el descuento por transferencia (4%). Para el que paga así, el aumento real es del 11%.
-- Reforzá el valor: harinas agroecológicas, masa madre real, curaduría, entrega a domicilio con franja horaria.
+**Si querés el 30% neto de una, el aumento es +25%** (pan de molde a $12.500, promo a $34.900). Es viable, pero es un salto grande para hacer de golpe. Mi recomendación sigue siendo +15% ahora, junto con la apertura del AMBA, y revisar en tres meses con datos reales.
 
 ---
 
-## 5. Las otras palancas (además del precio)
+## 6. Las palancas, ordenadas por impacto
 
-1. **Descuento por transferencia (~4%).** Pago Nube se lleva 5,73%; con transferencia te ahorrás eso. Es casi 2 puntos netos de regalo y cobrás al instante.
-2. **Bajar el packaging.** $1.000 por pedido son 3,5 puntos en un pedido de $28.000. Comprando bolsas por cantidad podés bajarlo bastante.
-3. **Negociar con el proveedor.** Cada punto de margen bruto vale más que cualquier otra cosa acá.
-4. **Agrupar los viajes del proveedor.** Cada viaje son $15.000. Pasar de 8 a 4 viajes mensuales te ahorra $60.000 al mes — el equivalente a 11 pedidos.
-5. **Subir el ticket.** Con flete plano por pedido, cada peso adicional en la misma caja es casi ganancia pura.
+1. **Subir precios.** Como tu costo es fijo en pesos, cada punto de aumento va casi entero a margen. +15% te lleva el bruto de 30% a 39,1%.
+2. **Consolidar los viajes al proveedor.** De 3 por semana a 1 son **$173.400 mensuales** — el equivalente a 32 pedidos. Es el ahorro más grande disponible y no le molesta a nadie.
+3. **Descuento por transferencia (~4%).** Pago Nube se lleva 6%; con transferencia te ahorrás eso y ganás 2 puntos netos. Además cobrás al instante.
+4. **Negociar con el proveedor.** Cada punto de margen bruto vale más que cualquier otra cosa.
+5. **Bajar el packaging.** $1.000 por pedido son 3,6 puntos en un pedido de $28.000.
+6. **Subir el ticket.** Con flete plano por pedido, cada peso adicional en la misma caja es casi ganancia pura.
 
 ---
 
-## 6. El dato que falta
+## 7. El dato que sigue faltando
 
-**¿Cuántos pedidos por mes estás haciendo hoy?**
+**¿Cuántos pedidos por mes estás haciendo hoy?** Sale de las estadísticas de Tiendanube.
 
-Es el número que define todo lo demás: cuánto podés invertir en Meta, si el aumento alcanza, y a qué distancia estás del equilibrio. Sale de las estadísticas de Tiendanube.
-
-Con ese dato te armo el escenario real en vez de la tabla genérica.
+Es lo único que falta para reemplazar estas tablas por tu escenario real y decirte exactamente a qué distancia estás del equilibrio y de los 30 por despacho.

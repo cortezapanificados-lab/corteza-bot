@@ -20,10 +20,10 @@ Tareas y temas abiertos del emprendimiento. Ordenados por prioridad.
 ## 🟠 Prioridad 2 — Precios y márgenes
 
 - [ ] **Decidir el aumento del 15%** (lista de precios completa en `numeros.md`). Conviene aplicarlo junto con la apertura del AMBA.
-- [ ] **Ofrecer descuento por transferencia bancaria (~4%)** para esquivar el 5,73% de Pago Nube. Es la palanca de margen más fácil que hay.
+- [ ] **Ofrecer descuento por transferencia bancaria (~4%)** para esquivar el 6% de Pago Nube. Te deja 2 puntos netos y cobrás al instante.
 - [ ] **Subir el umbral de envío sin cargo de Pilar de $25.000 a $28.000.**
 - [ ] Buscar bolsas más baratas por cantidad: cada $300 que baje el packaging es casi un punto de margen.
-- [ ] Evaluar agrupar los viajes del proveedor: cada uno son $15.000, pasar de 8 a 4 por mes ahorra $60.000.
+- [ ] **🔥 Consolidar los viajes al proveedor en uno por semana** (unificando también las entregas de Pilar en el día del AMBA). Cada viaje son $20.000: pasar de 3 semanales a 1 ahorra **$173.400 por mes**, más que Tiendanube y Claude juntos. Es el ahorro más grande disponible.
 - [ ] Con más volumen, renegociar precio con los proveedores para subir el margen bruto del 30%.
 
 ## 🟡 Prioridad 3 — Tienda y operación

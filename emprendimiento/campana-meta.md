@@ -6,10 +6,10 @@
 
 ## 1. La regla que define todo: cuánto podés pagar por un cliente
 
-Antes de elegir presupuesto hay que saber cuánto vale un cliente. Con el aumento del 15% aplicado, cada pedido te deja unos **$9.400 de contribución** (cliente pagando envío).
+Antes de elegir presupuesto hay que saber cuánto vale un cliente. Con el aumento del 15% aplicado, cada pedido te deja unos **$9.292 de contribución** (cliente pagando envío, después de producto, comisión del 6% y packaging).
 
-- Si un cliente compra **una sola vez**: podés pagar hasta $9.400 para conseguirlo y quedás igual. Sin ganancia.
-- Si compra **5 veces** (que es el objetivo de toda la estrategia de recurrencia): te deja unos **$47.000**.
+- Si un cliente compra **una sola vez**: podés pagar hasta $9.292 para conseguirlo y quedás igual. Sin ganancia.
+- Si compra **5 veces** (que es el objetivo de toda la estrategia de recurrencia): te deja unos **$46.500**.
 
 Con una relación sana de 3 a 1 entre lo que te deja un cliente y lo que pagás por conseguirlo:
 
