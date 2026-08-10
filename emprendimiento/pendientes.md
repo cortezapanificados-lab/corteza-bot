@@ -13,11 +13,17 @@ Tareas y temas abiertos del emprendimiento.
 ## Envíos al AMBA (ver `envios-amba.md`)
 
 - [ ] **Calcular el margen bruto promedio** sobre los 5 o 6 productos más vendidos. Es el dato que traba todo el resto.
-- [ ] Pedir a la empresa de logística la **tarifa real por zona** del AMBA.
+- [ ] **Preguntarle a Smart Post cuánto sale la colecta** (no está incluida en la tarifa).
+- [ ] **Pedirle a Smart Post la tarifa de tamaño mediano y grande** — el PDF solo trae la columna chico (hasta 5 kg) y varios pedidos no van a entrar ahí.
+- [ ] **Confirmar con Smart Post qué partidos entran en cada banda** (misma zona / cercana / lejana / periférica) para un paquete que sale de Pilar.
 - [ ] Mirar en las estadísticas de Tiendanube el **ticket promedio actual**.
-- [ ] Con esos tres datos, cerrar la tabla definitiva de umbrales por banda.
+- [ ] Definir si Corteza es monotributista o responsable inscripta (cambia si el IVA del envío es costo o crédito).
+- [ ] Con esos datos, cerrar la tabla definitiva de umbrales por banda.
+- [ ] **Medir la caja del combo "Plan Semana"**: que llegue a los $32.000 sin pasar los 20.000 cm³ (alto × largo × ancho).
+- [ ] Decidir qué hacer con los pedidos que llevan vino (pesados y frágiles): tratarlos aparte o no bonificarles el envío.
 - [ ] Configurar las zonas de envío y sus mínimos en Tiendanube.
 - [ ] Activar la barrita de "te faltan $X para el envío sin cargo" en la tienda.
+- [ ] Recordatorio cada 3 meses: revisar los umbrales, porque la tarifa de Smart Post se ajusta según los aumentos de MercadoLibre.
 - [ ] Definir el combo "Plan Semana" (qué lleva y a qué precio, tiene que superar los $25.000) y cargarlo en Tiendanube.
 - [ ] Identificar los grupos de Facebook/WhatsApp de los barrios cerrados de Pilar y presentarse con la propuesta de "pedido de barrio".
 - [ ] Pedirle a 3 o 4 clientes fieles una foto de su mesa con el pan y una frase, para usar como prueba social.

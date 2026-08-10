@@ -2,6 +2,20 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 10/08/2026 — Tarifas reales de Smart Post: aparece el problema del volumen
+
+Se recibió el PDF de tarifas de **Smart Post**, la logística con la que se va a hacer el AMBA. Tarifa tamaño chico (hasta 5 kg) sin IVA: misma zona $3.919, cercana $6.265, lejana y periféricas $8.196. Con IVA: $4.742 / $7.581 / $9.917.
+
+**El hallazgo más importante no es el precio, es cómo miden el tamaño.** Cobran por el mayor entre el peso real y el peso volumétrico, y el volumétrico se calcula `(alto × largo × ancho) / 4000`. Como el pan es liviano pero voluminoso, una caja de 45×35×30 cm pesa 3 kg en la balanza pero se cobra como 11,8 kg. **El límite para quedarse en tarifa chica es 20.000 cm³.**
+
+Esto genera una tensión de fondo con los mínimos de compra: el umbral empuja al cliente a comprar más, pero cuanto más compra, más grande la caja y más caro el flete — justo cuando se lo estás bonificando. La salida es diseñar los combos mirando el volumen, no solo el precio: los productos de almacén (aceite, mermeladas, té) suben el ticket sin agrandar la caja, el pan la agranda muchísimo. El vino además pesa y es frágil.
+
+Otros dos puntos de la letra chica: **la colecta se paga aparte** (se reparte entre los pedidos del día, así que conviene concentrar despachos) y **los aumentos siguen a los de MercadoLibre**, o sea que los umbrales hay que revisarlos cada 3 meses.
+
+Umbrales sugeridos con margen 35%: Pilar $25.000 (el actual, se mantiene), zona cercana $32.000, zona lejana bonificación parcial de $6.000 desde $35.000 en vez de envío gratis pleno (el piso queda arriba de lo que el cliente está dispuesto a gastar).
+
+Sigue faltando el **margen bruto** para cerrar los números, más el costo de la colecta, las tarifas de tamaño mediano y grande, y confirmar qué partidos entran en cada banda saliendo de Pilar.
+
 ## 10/08/2026 — Modelo real del AMBA: logística tercerizada y mínimos de compra
 
 Se corrigieron dos supuestos equivocados de la charla anterior:

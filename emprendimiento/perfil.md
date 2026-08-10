@@ -6,7 +6,9 @@ Corteza es una marca de panificados artesanales de Pilar, Buenos Aires, Argentin
 
 **El negocio es 100% online.** No hay local a la calle. La dirección de Pilar es administrativa; si hace falta stockear algo, se stockea en la casa particular.
 
-**Proyección — AMBA**: la capacidad de entregar en todo el AMBA **ya existe** y se hace con empresa de logística tercerizada (no reparto propio). El costo de envío depende de la zona del comprador y **lo paga el comprador**, salvo que supere un mínimo de compra (ver `envios-amba.md`).
+**Proyección — AMBA**: la capacidad de entregar en todo el AMBA **ya existe** y se hace con **Smart Post** (logística tercerizada, no reparto propio). Cubre todo el GBA y CABA, con servicios Flex, Same Day y 24-48hs. El costo de envío depende de la zona del comprador y **lo paga el comprador**, salvo que supere un mínimo de compra (ver `envios-amba.md`).
+
+Tarifa Smart Post tamaño chico (hasta 5 kg), sin IVA: misma zona $3.919 · zona cercana $6.265 · zona lejana $8.196 · periféricas $8.196. La colecta se paga aparte y los aumentos siguen a los de MercadoLibre.
 
 El lanzamiento está esperando una **mudanza personal** de quien lleva el emprendimiento (no se muda el negocio; es un tema de espacio para stockear). Es un asunto privado: **no se usa como material de comunicación.**
 
