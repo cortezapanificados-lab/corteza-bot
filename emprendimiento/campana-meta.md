@@ -127,6 +127,23 @@ Poné los tres a la vez con poco presupuesto cada uno, dejalos correr una semana
 | **Objetivo** | Fase 0: clientes potenciales. Fase 1 en adelante: ventas |
 | **Píxel** | **Instalá el píxel de Meta en Tiendanube antes de gastar el primer peso.** Sin eso, Meta no aprende quién compra y estás tirando plata. Tiendanube lo tiene integrado, se configura en dos minutos. |
 | **Formato** | Foto simple y video corto vertical. El video de pan cortándose funciona muy bien. |
+| **Días y horarios** | **Concentrá el gasto de viernes a lunes al mediodía.** Ver abajo. |
+
+### Programá los anuncios: de viernes a lunes 14:00
+
+Esto puede ser la diferencia entre que la publicidad rinda o no, y casi nadie lo hace.
+
+Como los pedidos **cierran el lunes a las 14**, alguien que ve tu anuncio un martes tiene que esperar 9 días para recibir. Ese anuncio convierte muchísimo peor que el mismo anuncio mostrado un sábado, cuando el cliente puede pedir y recibir en cuatro días.
+
+**Configuración recomendada** (Meta te deja programar por día y hora con presupuesto de campaña):
+
+| Franja | Peso del presupuesto |
+|---|---|
+| Viernes a domingo | **~70%** |
+| Lunes de 0:00 a 14:00 | **~20%** |
+| Resto de la semana | ~10% (solo para no perder el aprendizaje) |
+
+Mismo presupuesto, más pedidos. Es puro acomodar el reloj.
 
 ---
 

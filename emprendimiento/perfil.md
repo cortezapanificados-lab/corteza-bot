@@ -1,6 +1,6 @@
 # Perfil de Corteza
 
-*Última actualización: 22/07/2026 (relevamiento completo de la tienda online)*
+*Última actualización: 10/08/2026 (estructura de costos, logística del AMBA y día único de entrega)*
 
 Corteza es una marca de panificados artesanales de Pilar, Buenos Aires, Argentina. **Modelo de negocio: curaduría/reventa** — los panificados los elaboran distintos proveedores artesanales (masa madre, harinas 100% agroecológicas) y Corteza los selecciona y los vende bajo su marca. La tienda también vende productos orgánicos y artesanales de otras marcas (almacén, vinoteca, dips y té).
 
@@ -25,7 +25,7 @@ Condiciones acordadas con Smart Post: **no cobran IVA** (conviene tenerlo por es
 
 **Por pedido:**
 - **Margen bruto: 30% a los precios actuales.** Ojo: el costo del proveedor es fijo en pesos, así que si se suben los precios el margen bruto sube (con +15% pasa a 39,1%).
-- **Comisión Pago Nube: 6% por pedido.** *A confirmar en el panel: si el 6% se cobra sobre producto + envío o solo sobre el producto. Cambia el techo de margen neto de 19,1% a 20,4%.*
+- **Comisión Pago Nube: 6% por pedido**, sobre el total cobrado (producto + envío). Por eso el precio de envío que se le cobra al cliente lleva un **recargo del 6,38%** (÷0,94): $4.200 CABA, $6.700 Cordón 1, $8.800 Cordón 2 y 3.
 - **Packaging: $1.000 por pedido** (2 bolsas de $350 + $300 de changüí).
 - **Envío**: según zona (arriba).
 
@@ -37,7 +37,7 @@ Condiciones acordadas con Smart Post: **no cobran IVA** (conviene tenerlo por es
 
 **Total fijos: $148.600/mes** antes de publicidad.
 
-**Techo de margen neto a precios actuales: 19,1%**, independientemente del volumen. Para superarlo hay que subir precios. El análisis completo está en `numeros.md`.
+**Techo de margen neto a precios actuales: 20,4%** (con el recargo de envío aplicado), independientemente del volumen. Para superarlo hay que subir precios: con +15% el techo llega al 30%. El análisis completo está en `numeros.md`.
 
 El lanzamiento está esperando una **mudanza personal** de quien lleva el emprendimiento (no se muda el negocio; es un tema de espacio para stockear). Es un asunto privado: **no se usa como material de comunicación.**
 
@@ -116,11 +116,12 @@ Incluye: 1 pan de molde blanco rebanado, 1 paquete de pepas integrales (batata y
 
 ## Logística
 
-- Zona de entrega: únicamente Pilar
-- Día de entrega: **jueves** (único día, para Pilar y para todo el AMBA). Cierre de pedidos: martes 22:00.
+- Zona de entrega: hoy únicamente Pilar; al lanzar, todo el AMBA vía Smart Post
+- Día de entrega: **jueves** (único día, para Pilar y para todo el AMBA).
+- **Cierre de pedidos: lunes 14:00** (ya actualizado en la tienda). El pedido a los proveedores sale el lunes a la tarde y la mercadería llega el miércoles.
 - Horario: de 9 a 17 hs aprox.
 - Sin pedido mínimo
-- Envío gratis en pedidos de $25.000 o más; menores a $25.000 tienen costo de envío de $5.000
+- Envío bonificado según zona (ver `envios-amba.md`): CABA y Pilar sin cargo desde $28.000; Cordón 1 y 2/3 con bonificación parcial de $3.000
 
 ## Medios de pago
 

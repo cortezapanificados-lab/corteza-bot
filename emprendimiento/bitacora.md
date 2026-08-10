@@ -2,6 +2,22 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 10/08/2026 — Cierre de pedidos los lunes 14:00 (ya cargado en la tienda)
+
+Queda definido el calendario semanal definitivo: **entrega los jueves, cierre de pedidos el lunes a las 14:00.** Ya está actualizado en la tienda. El pedido a los proveedores sale el lunes a la tarde y la mercadería llega el miércoles, así que hay margen cómodo de preparación.
+
+Tres consecuencias que cambian el marketing:
+
+1. **La ventana de venta es el fin de semana.** Entre el viernes y el lunes al mediodía se juega la semana entera. Se reordenó toda la cadencia: los mensajes de WhatsApp pasan a **domingo** ("mañana a las 14 cerramos") y **lunes temprano** ("hoy a las 14 cierra"); los posteos de Instagram a viernes/sábado, domingo y jueves.
+
+2. **Se agregó programación horaria a la campaña de Meta.** Como quien ve un anuncio el martes tiene que esperar 9 días para recibir, se recomienda concentrar el presupuesto: ~70% de viernes a domingo, ~20% el lunes hasta las 14, ~10% el resto. Mismo presupuesto, más pedidos.
+
+3. **La suscripción semanal pasa a ser la columna vertebral.** Un cierre el lunes al mediodía, en horario laboral, es muy fácil de olvidar. La suscripción le saca ese problema al cliente y le asegura el pedido a Corteza. Dejó de ser una buena idea para convertirse en la defensa principal del modelo.
+
+Se detectó también un punto a cuidar: **quien llega tarde espera 10 días.** Conviene que la tienda muestre bien claro "tu pedido llega el jueves X" y usar esa espera para ofrecer la suscripción.
+
+También se recalcularon todas las tablas con el recargo del envío aplicado. Con el aumento del 15% y 30 pedidos por jueves, el neto queda en **$957.273 mensuales (22,9%)**.
+
 ## 10/08/2026 — Se pasa a entregar solo los jueves + se abre la cuenta del margen
 
 **Decisión tomada: se entrega un solo día, los jueves**, tanto Pilar como todo el AMBA. Cierre de pedidos el martes 22:00. Eso deja **un solo viaje al proveedor por semana ($86.600/mes contra $260.000 de tres viajes)** y los costos fijos totales en **$148.600/mes** antes de publicidad.

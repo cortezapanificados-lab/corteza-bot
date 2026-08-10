@@ -1,6 +1,6 @@
 # Campaña de marketing — "El jueves hay pan"
 
-*Armada el 10/08/2026, actualizada al pasar a entregar un solo día. Campaña de 4 semanas para Corteza: entrega los jueves, cierre de pedidos el martes 22:00, tienda en Tiendanube.*
+*Armada el 10/08/2026. Campaña de 4 semanas para Corteza: entrega los jueves, cierre de pedidos el lunes 14:00, tienda en Tiendanube.*
 
 ---
 
@@ -29,15 +29,15 @@ Entregás un solo día por semana. Eso *parece* una desventaja. Bien contado, es
 
 Eso hace tres cosas a la vez:
 - Justifica que no entregues todos los días (deja de ser una excusa y pasa a ser identidad).
-- Crea urgencia real y semanal: **"los pedidos cierran el martes a las 22"**.
+- Crea urgencia real y semanal: **"los pedidos cierran el lunes a las 14"**.
 - Empuja a la recurrencia, que es lo que necesitás.
 
 **Bajada de línea (frase de campaña):**
 > **Los jueves, hay pan en casa.**
 
 Variantes para usar según el día:
-- "Cierra hoy a las 22. El jueves tenés pan." (los martes)
-- "Mañana hay pan." (los miércoles)
+- "Mañana a las 14 cerramos. El jueves tenés pan." (los domingos)
+- "Cierra hoy a las 14." (los lunes)
 - "El jueves hay pan. Vos no hacés nada."
 
 ---
@@ -50,7 +50,7 @@ Están ordenados por retorno real, no por lo que suena más moderno. Si solo pod
 
 Esto es lo que más plata te va a dar y casi nadie lo hace bien.
 
-**Qué es:** una lista de difusión (no un grupo — nadie ve los números de los demás ni puede responder a todos) donde cada lunes y cada martes mandás un mensaje corto, atado al cierre de pedidos.
+**Qué es:** una lista de difusión (no un grupo — nadie ve los números de los demás ni puede responder a todos) donde cada domingo y cada lunes temprano mandás un mensaje corto, atado al cierre de pedidos.
 
 **Cómo armarla:**
 1. Cargá a todos los clientes que ya te compraron alguna vez.
@@ -61,7 +61,7 @@ Esto es lo que más plata te va a dar y casi nadie lo hace bien.
 
 **Regla de oro:** dos mensajes por semana, nunca más. Cortos. Si te ponés pesada, te bloquean y perdés el canal.
 
-Y ahora tenés el mejor motivo posible para escribir: **el cierre del martes a las 22.** No es spam, es un aviso útil.
+Y ahora tenés el mejor motivo posible para escribir: **el cierre del lunes a las 14.** No es spam, es un aviso útil.
 
 Los textos están en la sección 5.
 
@@ -82,9 +82,9 @@ Esto hace que tus propios clientes salgan a vender por vos en el grupo de WhatsA
 ### Canal 3 — Instagram, pero geolocalizado
 
 **Orgánico:** 3 posteos por semana, con una rutina fija que no te haga pensar:
-- **Lunes**: apertura de la semana + foto del producto
-- **Martes**: recordatorio de cierre ("hoy a las 22 cierran los pedidos del jueves")
-- **Viernes o sábado**: cliente real, mesa servida, testimonio
+- **Viernes o sábado**: producto + "la semana está abierta" (es tu mejor ventana de venta)
+- **Domingo**: recordatorio de cierre ("mañana a las 14 cierran los pedidos del jueves")
+- **Jueves**: día de entrega — cliente real, mesa servida, testimonio
 
 **Pago:** el plan completo de publicidad está en `../campana-meta.md`, con presupuestos por fase, público y anuncios listos.
 
@@ -209,25 +209,25 @@ Y ahí es donde la lista de espera vale oro: en vez de anunciarle a nadie, le an
 
 ## 5. Textos listos para copiar y pegar
 
-### WhatsApp — lunes (apertura de la semana)
+### WhatsApp — domingo (el que más vende)
 
-> 🌾 *Se abrió la semana.*
->
-> El jueves salimos a repartir. Los pedidos se toman **hasta mañana martes a las 22**.
+> 🌾 *Mañana a las 14 cerramos los pedidos del jueves.*
 >
 > Esta semana hay pan de molde (blanco, integral y centeno), pan de campo, árabe y prepizzas. Todo de masa madre y harinas 100% agroecológicas.
 >
+> Si lo dejás para después, el próximo reparto es el jueves de la semana que viene.
+>
 > Pedí acá 👉 www.cortezapan.com.ar
 
-### WhatsApp — martes (último aviso, el que más vende)
+### WhatsApp — lunes a la mañana (último aviso)
 
-> ⏰ *Hoy a las 22 cerramos los pedidos del jueves.*
+> ⏰ *Hoy a las 14 cerramos.*
 >
-> Si no pedís hoy, la próxima es la semana que viene.
->
-> Buen momento para dejar el fin de semana resuelto: prepizzas para la noche del sábado y pan de campo para los desayunos.
+> Última llamada para recibir el jueves. Después de las 14, el próximo reparto es la semana que viene.
 >
 > 👉 www.cortezapan.com.ar
+>
+> *(Si te cansa estar atenta al lunes: con la suscripción te llega todas las semanas sin que tengas que acordarte de nada.)*
 
 ### WhatsApp — para el cliente que no vuelve hace rato
 
@@ -235,7 +235,7 @@ Y ahí es donde la lista de espera vale oro: en vez de anunciarle a nadie, le an
 >
 > Te escribo porque hace unas semanas no pasás por Corteza y quería saber si estuvo todo bien con tu último pedido. Cualquier cosa que no te haya cerrado, contame de verdad, nos sirve muchísimo.
 >
-> Si querés retomar, esta semana repartimos el jueves (los pedidos cierran el martes a las 22) 🌾
+> Si querés retomar, repartimos los jueves y los pedidos cierran el lunes a las 14 🌾
 
 ### Instagram — posteo de la curaduría (semana 1)
 
@@ -281,7 +281,7 @@ Y ahí es donde la lista de espera vale oro: en vez de anunciarle a nadie, le an
 
 > ¡Hola vecinos! 👋
 >
-> Soy de Corteza 🌾, entregamos panificados artesanales los jueves: pan de masa madre con harinas 100% agroecológicas, más un almacén chiquito de productos orgánicos (mermeladas sin azúcar, miel, aceite de oliva, vinos). Los pedidos cierran el martes a las 22.
+> Soy de Corteza 🌾, entregamos panificados artesanales los jueves: pan de masa madre con harinas 100% agroecológicas, más un almacén chiquito de productos orgánicos (mermeladas sin azúcar, miel, aceite de oliva, vinos). Los pedidos cierran el lunes a las 14.
 >
 > No horneamos nosotros: seleccionamos a los mejores panaderos artesanales de la zona y juntamos lo mejor de cada uno en un solo lugar.
 >
