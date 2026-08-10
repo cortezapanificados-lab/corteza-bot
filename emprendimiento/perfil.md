@@ -24,7 +24,11 @@ Condiciones acordadas con Smart Post: **no cobran IVA** (conviene tenerlo por es
 ## Estructura de costos
 
 **Por pedido:**
-- **Margen bruto: 30% a los precios actuales.** Ojo: el costo del proveedor es fijo en pesos, así que si se suben los precios el margen bruto sube (con +15% pasa a 39,1%).
+- **Margen bruto real (calculado con los costos exportados de Tiendanube el 10/08/2026):**
+  - Panificados propios: **45,9%** ponderado
+  - Productos de terceros: **29,0%** ponderado
+  - Catálogo completo: **36,9%**
+  - *(El "30%" que se venía usando era una estimación y quedó desactualizado. El margen real es bastante mejor.)*
 - **Comisión Pago Nube: 6% por pedido**, sobre el total cobrado (producto + envío). Por eso el precio de envío que se le cobra al cliente lleva un **recargo del 6,38%** (÷0,94): $4.200 CABA, $6.700 Cordón 1, $8.800 Cordón 2 y 3.
 - **Packaging: $1.000 por pedido** (2 bolsas de $350 + $300 de changüí).
 - **Envío**: según zona (arriba).
@@ -37,7 +41,9 @@ Condiciones acordadas con Smart Post: **no cobran IVA** (conviene tenerlo por es
 
 **Total fijos: $148.600/mes** antes de publicidad.
 
-**Techo de margen neto a precios actuales: 20,4%** (con el recargo de envío aplicado), independientemente del volumen. Para superarlo hay que subir precios: con +15% el techo llega al 30%. El análisis completo está en `numeros.md`.
+**Techo de margen neto: 36,3%** con el margen real de los panificados. **Ya supera el objetivo del 30%, sin necesidad de más aumentos.** Lo que falta ahora es volumen: se llega al 30% neto real con **39 pedidos por jueves**. Análisis completo en `numeros.md`.
+
+**Punto de equilibrio:** 15 pedidos/mes sin publicidad, 29 con Meta a $150.000.
 
 El lanzamiento está esperando una **mudanza personal** de quien lleva el emprendimiento (no se muda el negocio; es un tema de espacio para stockear). Es un asunto privado: **no se usa como material de comunicación.**
 

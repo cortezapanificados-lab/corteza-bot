@@ -1,192 +1,172 @@
 # Los números de Corteza
 
-*Armado el 10/08/2026. Estructura de costos completa, punto de equilibrio y qué hace falta para llegar al margen que querés.*
-
-> **Dos aclaraciones para leer este documento:**
-> 1. Cada tabla dice con qué **margen bruto** está calculada. El 30% es solo a precios actuales: si subís precios, sube (sección 3).
-> 2. De la sección 3 en adelante, todo asume el **recargo del 6,38% en el precio del envío** ya aplicado (sección 2).
+*Actualizado el 10/08/2026 con los costos reales exportados de Tiendanube. Todo lo anterior estaba calculado con un margen bruto estimado del 30%; con los datos reales el panorama es bastante mejor.*
 
 ---
 
-## 1. Todos tus costos
+## 1. La corrección más importante: tu margen no es 30%
 
-### Por pedido (variables)
+Con los costos reales de cada producto, el margen bruto ponderado queda así:
 
-| Concepto | Cuánto |
+| | Margen bruto real |
 |---|---|
-| Costo del producto (proveedor) | 70% del precio actual → **margen bruto 30%** |
-| Comisión Pago Nube | **6%** |
-| Packaging | **$1.000** (2 bolsas de $350 + $300) |
-| Envío | $3.919 CABA / $6.265 Cordón 1 / $8.196 Cordón 2 y 3 |
+| **Panificados propios** | **45,9%** |
+| Promo Lanzamiento | 44,6% |
+| Productos de terceros | 29,0% |
+| **Catálogo completo** | 36,9% |
 
-### Fijos mensuales
+Veníamos trabajando con 30% para todo. **En los panificados propios, que es lo que más vendés, el margen real es 45,9%** — la mitad más de lo que estábamos calculando. Todos los números de las versiones anteriores de este documento eran demasiado pesimistas.
+
+### Margen por producto — panificados propios
+
+| Producto | Precio | Costo | Ganancia | Margen |
+|---|---|---|---|---|
+| Pan de molde blanco | $11.500 | $5.500 | $6.000 | **52,2%** |
+| Pan de molde integral | $11.500 | $6.000 | $5.500 | 47,8% |
+| Pan de campo blanco | $8.600 | $4.500 | $4.100 | 47,7% |
+| Pan árabe x5 | $8.600 | $4.500 | $4.100 | 47,7% |
+| Grisines | $4.600 | $2.500 | $2.100 | 45,7% |
+| Cookies | $6.900 | $3.800 | $3.100 | 44,9% |
+| Promo Lanzamiento | $28.900 | $16.000 | $12.900 | 44,6% |
+| Pepas | $6.300 | $3.500 | $2.800 | 44,4% |
+| Hogaza | $11.500 | $6.400 | $5.100 | 44,3% |
+| Pan de campo integral / centeno | $8.600 | $4.800 | $3.800 | 44,2% |
+| Prepizzas x2 | $8.000 | $4.500 | $3.500 | 43,8% |
+| Budín | $8.000 | $4.500 | $3.500 | 43,8% |
+| Pan de molde centeno | $11.500 | $6.500 | $5.000 | 43,5% |
+
+**El pan de molde blanco es tu mejor producto: 52,2% de margen.** Es el que más conviene empujar en toda la comunicación.
+
+---
+
+## 2. Tu ecuación real por pedido
+
+Pedido tipo de $28.000, cliente paga el envío (con el recargo del 6,38% que lo deja neutro):
+
+| Concepto | Monto |
+|---|---|
+| Venta | $28.000 |
+| − Costo del proveedor (54,1%) | −$15.148 |
+| − Comisión Pago Nube (6%) | −$1.680 |
+| − Packaging | −$1.000 |
+| **= Contribución** | **$10.172** |
+
+Esos $10.172 son el **36,3% de la venta**.
+
+> ⚠️ **No incluye el costo de tu reparto propio en Pilar** (nafta, tiempo, desgaste del auto). Hoy hacés el envío gratis vos misma, así que ese costo existe pero no está medido. Vale la pena estimarlo en algún momento.
+
+### Costos fijos
 
 | Concepto | Por mes |
 |---|---|
 | Tiendanube | $27.000 |
 | Claude | $35.000 |
-| Flete del proveedor a tu depósito | **$20.000 por viaje** |
-| Publicidad en Meta | a definir |
-
-**El flete del proveedor es el costo fijo más grande y depende de cuántos viajes hagas:**
-
-| Frecuencia | Viajes/mes | Costo mensual |
-|---|---|---|
-| 3 por semana (martes + jueves + viernes) | 13 | $260.000 |
-| 2 por semana | 8,7 | $173.300 |
-| **1 por semana — solo jueves** ✅ | **4,3** | **$86.600** |
-
-✅ **Ya está resuelto: al pasar a entregar solo los jueves, este costo bajó a $86.600 mensuales.** Comparado con tres viajes semanales, son **$173.400 por mes de ahorro** — más que Tiendanube y Claude juntos, y el equivalente a 32 pedidos. Fue la mejor decisión de toda la sesión.
-
-**Costos fijos totales: $148.600/mes** (Tiendanube + Claude + viajes), antes de publicidad.
+| Flete del proveedor (1 viaje/semana) | $86.600 |
+| **Total** | **$148.600** |
 
 ---
 
-## 2. La cuenta abierta, peso por peso
+## 3. El techo de margen neto: 36,3%
 
-Pedido de $28.000 en productos, Cordón 1, el cliente paga el envío:
+**Ya estás por encima del 30% que buscabas, sin necesidad de subir más los precios.**
 
-| Concepto | Monto |
-|---|---|
-| **ENTRA** (el cliente paga producto + envío) | **+$34.265** |
-| − Proveedor | −$19.600 |
-| − Comisión Pago Nube (6% de $34.265) | −$2.056 |
-| − Packaging | −$1.000 |
-| − Smart Post | −$6.265 |
-| **= TE QUEDA** | **$5.344** |
+Este era el número que veníamos persiguiendo toda la sesión y resulta que el aumento del 15% que aplicaste hoy, sumado a que tu margen real siempre fue mejor de lo que pensábamos, te dejó del otro lado.
 
-Esos $5.344 son el **19,1% de los $28.000** de producto.
+El techo es el máximo teórico con volumen alto. Lo que falta ahora es **volumen**, no precio.
 
-### De dónde sale el 19,1% (y cómo lo arreglás)
+---
 
-Tu intuición dice: 30% de margen bruto, menos 6% de comisión, menos $1.000 de packaging (que es 3,6%) = **20,4%**. Esa cuenta está perfecta.
+## 4. Punto de equilibrio (real)
 
-El 19,1% sale de un supuesto que no te había explicitado: **que Pago Nube cobra el 6% sobre todo lo que cobrás, incluido el envío.** El 6% de $34.265 son $2.056, que sobre los $28.000 de producto representan 7,3% en vez de 6%. Esos 1,3 puntos son toda la diferencia.
-
-**Y la solución es la que propusiste vos: recargarle ese 6% al precio del envío.** Con eso el flete deja de costarte plata y el techo vuelve a los 20,4% que calculabas.
-
-| | Techo de margen neto |
-|---|---|
-| Sin recargo en el envío | 19,1% |
-| **Con el recargo aplicado** | **20,4%** |
-
-> **El recargo correcto es 6,38%, no 6%** — hay que dividir por 0,94, porque la comisión también pega sobre el recargo. Los precios de envío a cargar están en `envios-amba.md`: $4.200 CABA, $6.700 Cordón 1, $8.800 Cordón 2 y 3.
-
-**Lo que no cambia:** con margen bruto 30% el techo es 20,4% aun con el recargo, y no lo supera ningún volumen. Para pasar de ahí hay que subir precios.
-
-### Punto de equilibrio a precios actuales
-
-Con entregas **solo los jueves** → un viaje al proveedor por semana ($86.600/mes). Fijos base: **$148.600**. Con el recargo de envío aplicado, cada pedido deja $5.720.
-
-| Meta | Costos fijos | Pedidos/mes para no perder | Por jueves |
+| Presupuesto de Meta | Costos fijos | Pedidos/mes para no perder | Por jueves |
 |---|---|---|---|
-| $0 | $148.600 | **26** | 6,0 |
-| $60.000 | $208.600 | **36** | 8,4 |
-| $150.000 | $298.600 | **52** | 12,1 |
+| $0 | $148.600 | **15** | 3,4 |
+| $60.000 | $208.600 | **21** | 4,7 |
+| $150.000 | $298.600 | **29** | 6,8 |
+
+Muy por debajo de los 52 que calculábamos antes. **Con 7 pedidos por jueves ya cubrís todo, incluida la publicidad.**
 
 ---
 
-## 3. El techo de margen neto, según el precio
+## 5. Cuánto ganás según el volumen
 
-**Con margen bruto 30% y el recargo de envío aplicado, el techo está en 20,4%.** Ningún volumen lo supera: los costos fijos se diluyen, pero la contribución por pedido como porcentaje de la venta no se mueve.
-
-**Cualquier número mayor con margen bruto 30% es imposible.** Tenías razón en frenarme las dos veces.
-
-### Pero el margen bruto no se queda en 30% si subís precios
-
-Acá está la parte que no expliqué bien. **El proveedor te sigue cobrando lo mismo.** Si subís el precio y el costo no se mueve, todo el aumento va derecho a margen:
-
-Con el recargo de envío ya aplicado:
-
-| Precio | Aumento | Costo proveedor | **Margen bruto** | **Techo de margen neto** |
-|---|---|---|---|---|
-| $28.000 | — | $19.600 | **30,0%** | 20,4% |
-| $30.800 | +10% | $19.600 | 36,4% | 27,1% |
-| $32.200 | +15% | $19.600 | **39,1%** | **30,0%** ✅ |
-| $33.600 | +20% | $19.600 | 41,7% | 32,7% |
-| $35.000 | +25% | $19.600 | 44,0% | 35,1% |
-
-**Con el recargo de envío y +15% de aumento, el techo llega justo al 30% que buscabas.** Las dos cosas juntas te ponen el objetivo al alcance.
-
-**Un aumento del 15% en el precio es un aumento del 30% en tu margen bruto.** Es la palanca más poderosa que tenés, justamente porque tu costo es fijo en pesos.
-
----
-
-## 4. Qué hace falta para 30% de margen neto
-
-Con entregas solo los jueves (un viaje al proveedor por semana), Meta a $150.000 y el recargo de envío aplicado:
-
-| Pedidos por jueves | Al mes | Aumento necesario | Ticket resultante | Margen bruto |
-|---|---|---|---|---|
-| 30 | 130 | **+27,8%** | $35.779 | 45,2% |
-| 40 | 173 | **+24,6%** | $34.881 | 43,8% |
-| 50 | 216 | **+22,7%** | $34.343 | 42,9% |
-| 65 | 281 | **+20,9%** | $33.845 | 42,1% |
-| 80 | 346 | **+19,8%** | $33.534 | 41,6% |
-
-**Para 30% neto real necesitás subir entre 20% y 28%**, según el volumen. Con el recargo de envío bajó unos 2 puntos respecto del cálculo anterior.
-
----
-
-## 5. Escenario recomendado: +15%
-
-No llega al 30% neto exacto salvo con mucho volumen, pero es un aumento que el cliente absorbe y te deja el negocio muy sano. Con **margen bruto 39,1%**, entregas solo los jueves, un viaje al proveedor por semana y Meta a $150.000. Fijos: $298.600/mes.
+Con Meta a $150.000/mes y ticket promedio de $28.000:
 
 | Pedidos por jueves | Al mes | Facturación | Neto | Margen neto |
 |---|---|---|---|---|
-| 30 (el mínimo) | 130 | $4.182.780 | $957.273 | **22,9%** |
-| 40 | 173 | $5.577.040 | $1.375.898 | 24,7% |
-| 50 | 216 | $6.971.300 | $1.794.522 | 25,7% |
-| 65 | 281 | $9.062.690 | $2.422.459 | 26,7% |
-| 80 | 346 | $11.154.080 | $3.050.395 | 27,3% |
+| 10 | 43 | $1.212.400 | $141.848 | 11,7% |
+| 20 | 87 | $2.424.800 | $582.295 | 24,0% |
+| **30** (mínimo Smart Post) | 130 | $3.637.200 | **$1.022.743** | **28,1%** |
+| **40** | 173 | $4.849.600 | **$1.463.190** | **30,2%** ✅ |
+| 50 | 216 | $6.062.000 | $1.903.638 | 31,4% |
+| 65 | 281 | $7.880.600 | $2.564.309 | 32,5% |
+| 80 | 346 | $9.699.200 | $3.224.981 | 33,2% |
 
-### La lista de precios con +15%
+> **Llegás al 30% de margen neto con 39 pedidos por jueves.** Sin tocar un solo precio más. Ese es tu objetivo concreto ahora.
 
-*Corregida el 10/08/2026 contra los precios reales de la tienda, que eran más bajos que los que estaban anotados en la memoria.*
-
-**Solo panificados propios.** A los productos de terceros no se les aplica (ver más abajo).
-
-| Producto | Hoy | Con +15% |
-|---|---|---|
-| Pan de molde (blanco/integral/centeno) | $10.000 | **$11.500** |
-| Hogaza | $10.000 | **$11.500** |
-| Pan de campo (blanco/integral/centeno) | $7.500 | **$8.600** |
-| Pan árabe integral x5 | $7.500 | **$8.600** |
-| Prepizzas x2 | $7.000 | **$8.000** |
-| Budín | $7.000 | **$8.000** |
-| Cookies integrales | $6.000 | **$6.900** |
-| Pepas integrales | $5.500 | **$6.300** |
-| Grisines integrales | $4.000 | **$4.600** |
-| Promo Lanzamiento | $25.000 | **$28.900** |
-
-### A los productos de terceros nunca se les aplica el aumento
-
-Es la distinción más importante de toda la política de precios. Con los panificados propios tenés poder de precio porque nadie puede comparar tu curaduría. Con una mermelada Las Quinas o un Malbec de Luigi Bosca, **el cliente googlea y compara en dos segundos.**
-
-El relevamiento del 10/08/2026 encontró que **varios ya estaban por encima del mercado** — hasta 20% en las mermeladas y el dulce de leche. Eso no te hace ganar más: te instala fama de tienda cara y te contamina la percepción del pan, que es donde de verdad ganás.
-
-Se bajaron seis productos a **mercado +10%**, que es un premium defendible para una tienda curada con entrega a domicilio. El detalle producto por producto está en `perfil.md`.
-
-**Regla para el futuro: cuando subas precios, subí solo los propios. Los de terceros se revisan contra el mercado, no contra tus costos.**
-
-**Si querés el 30% neto de una y apuntás a 50 pedidos por jueves, el aumento es +23%** (pan de molde a $12.300, promo a $34.300). Es viable, pero es un salto grande para hacer de golpe. Mi recomendación sigue siendo +15% ahora, junto con la apertura del AMBA, y revisar en tres meses con datos reales — con el recargo de envío ya aplicado, el 15% te deja muy cerca.
+Y fijate que cumplir el mínimo de Smart Post (30 por jueves) ya te deja **$1.022.743 mensuales al 28,1%**. Estás a nueve pedidos semanales de tu meta.
 
 ---
 
-## 6. Las palancas, ordenadas por impacto
+## 6. Los productos de terceros: no son negocio, son armadores de carrito
 
-1. **Subir precios.** Como tu costo es fijo en pesos, cada punto de aumento va casi entero a margen. +15% te lleva el bruto de 30% a 39,1%.
-2. ~~Consolidar los viajes al proveedor.~~ ✅ **Hecho**: al pasar a solo jueves, de $260.000 a $86.600 mensuales.
-3. ✅ **Recargar el 6,38% en el precio del envío** — ya definido, te devuelve 1,3 puntos.
-4. **Descuento por transferencia (~4%).** Pago Nube se lleva 6%; con transferencia te ahorrás eso y ganás 2 puntos netos. Además cobrás al instante. **Y si la comisión pega también sobre el envío, te ahorrás todavía más.**
-5. **Negociar con el proveedor.** Cada punto de margen bruto vale más que cualquier otra cosa.
-6. **Bajar el packaging.** $1.000 por pedido son 3,6 puntos en un pedido de $28.000.
-7. **Subir el ticket.** Con flete plano por pedido, cada peso adicional en la misma caja es casi ganancia pura.
+Acá está la otra cara de los datos reales.
+
+| Producto | Precio | Costo | Margen |
+|---|---|---|---|
+| Aceite Zuelo | $11.000 | $7.000 | 36,4% |
+| Aceitunas negras | $6.000 | $4.025 | 32,9% |
+| Aceitunas verdes | $6.200 | $4.250 | 31,5% |
+| La Linda Malbec | $18.500 | $12.700 | 31,4% |
+| Animal Extra Brut | $8.000 | $5.500 | 31,2% |
+| Té Intizen | $5.200 | $3.605 | 30,7% |
+| Miel cremosa | $8.200 | $5.700 | 30,5% |
+| Ruca Malen Chardonnay | $16.500 | $11.500 | 30,3% |
+| Pickles | $6.200 | $4.325 | 30,2% |
+| Miel líquida | $9.400 | $6.600 | 29,8% |
+| Hummus | $5.200 | $3.650 | 29,8% |
+| Mostaza Dijón | $7.600 | $5.350 | 29,6% |
+| **Yerba Roapipó** | $6.100 | $4.600 | **24,6%** ⚠️ |
+| **Pasta tomates secos** | $9.800 | $7.410 | **24,4%** ⚠️ |
+| **Mermeladas Las Quinas** | $8.700 | $6.600 | **24,1%** ⚠️ |
+| **Pasta de aceitunas** | $8.900 | $6.800 | **23,6%** ⚠️ |
+| **Dulce de leche** | $8.600 | $6.600 | **23,3%** ⚠️ |
+
+**Nota honesta:** las bajadas de precio que te recomendé hoy las hice sin tener los costos a la vista. Esos cinco productos pasaron de ~30% a ~24% de margen. Sigo pensando que la bajada tiene sentido, pero por una razón distinta a la que te di, y conviene tenerla clara.
+
+### Por qué igual conviene tenerlos baratos
+
+Mirá el caso de la mermelada: **te cuesta $6.600 y en el mercado se vende a ~$7.890.** Si igualaras el precio de mercado tu margen sería del 16%. **En estos productos no podés competir por precio: tu costo de compra es demasiado alto.**
+
+Entonces su función no es dejarte plata por unidad. Su función es **subir el valor del pedido.** Y eso vale mucho, porque el flete es plano por pedido: una mermelada que se suma a un pedido que ya existe te deja $2.100 de contribución **sin ningún costo logístico adicional.**
+
+Son armadores de carrito, no centros de ganancia. Con ese criterio, tenerlos a precio razonable es mejor que tenerlos caros y que no se vendan.
+
+### Pero hay que hacer algo con los cinco de abajo
+
+24% de margen en un producto que además hay que stockear, embalar y reponer es finito. Tres caminos:
+
+1. **Negociar con Las Quinas y Contraviento.** Con el volumen del AMBA vas a tener argumento para pedir mejor precio. Es lo primero que haría.
+2. **Buscar otro proveedor** de mermeladas y pastas untables.
+3. **Discontinuarlos** si no se venden lo suficiente como para justificar el trabajo.
+
+**El aceite Zuelo (36,4%) es tu mejor producto de terceros.** Ese sí conviene empujarlo: buen margen, precio de mercado y combina perfecto con el pan.
 
 ---
 
-## 7. El dato que sigue faltando
+## 7. Las palancas que quedan
 
-**¿Cuántos pedidos por mes estás haciendo hoy?** Sale de las estadísticas de Tiendanube.
+Ya no es el precio. Ahora es volumen y costos.
 
-Es lo único que falta para reemplazar estas tablas por tu escenario real y decirte exactamente a qué distancia estás del equilibrio y de los 30 por despacho.
+1. **Llegar a 39 pedidos por jueves.** Es todo lo que te separa del 30% de margen neto. Esa es la meta.
+2. **Negociar los cinco productos de 24%** con los proveedores, o cambiarlos.
+3. **Descuento por transferencia (~4%)** para esquivar el 6% de Pago Nube. Sigue valiendo: son 2 puntos netos.
+4. **Empujar el pan de molde blanco (52,2%) y el aceite Zuelo (36,4%)** en la comunicación. Son los que más te dejan.
+5. **Bajar el packaging.** $1.000 por pedido son 3,6 puntos.
+6. **Medir tu costo de reparto en Pilar**, que hoy no está en ninguna cuenta.
+
+---
+
+## 8. Lo que sigue faltando
+
+**¿Cuántos pedidos por mes estás haciendo hoy?** Es el único dato que falta para saber a qué distancia estás de los 39 por jueves.

@@ -2,6 +2,27 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 10/08/2026 — Los costos reales cambian todo el panorama (para bien)
+
+Se cargó el export de productos de Tiendanube con **los costos reales de cada producto**. Es el dato que faltaba desde el arranque y corrige toda la modelización previa.
+
+**El margen bruto real de los panificados propios es 45,9%**, no 30% como se venía asumiendo. El de terceros es 29,0% y el del catálogo completo, 36,9%. Todos los cálculos anteriores eran demasiado pesimistas.
+
+Consecuencias:
+
+- **El techo de margen neto es 36,3%**, no 20,4%. **Ya está por encima del objetivo del 30% sin necesidad de más aumentos de precio.**
+- **El punto de equilibrio es mucho más bajo:** 15 pedidos/mes sin publicidad y 29 con Meta a $150.000 (7 por jueves), contra los 52 que se calculaban antes.
+- **Se llega al 30% de margen neto real con 39 pedidos por jueves.** Esa pasa a ser la meta concreta del negocio.
+- Cumplir el mínimo de Smart Post (30 por jueves) ya deja **$1.022.743 mensuales al 28,1%**.
+
+**El mejor producto es el pan de molde blanco: 52,2% de margen.** Conviene empujarlo en toda la comunicación. En terceros, el mejor es el aceite Zuelo (36,4%).
+
+**Sobre los productos de terceros:** las bajadas de precio recomendadas más temprano se hicieron sin los costos a la vista y llevaron cinco productos de ~30% a ~24% de margen (mermeladas, dulce de leche, yerba y las dos pastas Contraviento). La bajada se sostiene, pero con otro fundamento: **en estos productos el costo de compra es demasiado alto para competir por precio** — la mermelada cuesta $6.600 y en el mercado se vende a ~$7.890, o sea 16% de margen si se igualara. Su función no es dejar ganancia por unidad sino **subir el valor del pedido**, y como el flete es plano, cada producto extra suma contribución sin costo logístico adicional. Son armadores de carrito, no centros de ganancia.
+
+Aun así, 24% es finito: quedó anotado **negociar con Las Quinas y Contraviento** aprovechando el volumen del AMBA, buscar proveedores alternativos o discontinuarlos.
+
+**La palanca ya no es el precio: es el volumen.** El objetivo pasa a ser llegar a 39 pedidos por jueves.
+
 ## 10/08/2026 — Relevamiento de precios reales y nueva política de precios
 
 Se relevó la tienda directamente y aparecieron **diferencias con los precios que estaban anotados en la memoria**: los reales eran más bajos. Pan de campo $7.500 (no $8.500), prepizzas $7.000 (no $8.500), grisines $4.000 (no $5.000), budín $7.000 (no $9.000), pepas $5.500 (no $7.000), cookies $6.000 (no $7.000) y Promo Lanzamiento $25.000 (no $27.900). También apareció una **Hogaza a $10.000** que no estaba registrada, y ya no figuran las aceitunas San Nicolás.

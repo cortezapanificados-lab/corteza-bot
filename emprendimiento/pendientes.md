@@ -20,9 +20,13 @@ Tareas y temas abiertos del emprendimiento. Ordenados por prioridad.
 - [ ] **Armar la lista de difusión de WhatsApp** con todos los clientes que ya compraron. Los dos mensajes de la semana van **domingo** ("mañana a las 14 cerramos") y **lunes temprano** ("hoy a las 14 cierra"). Textos en `textos/campana-agosto-2026.md`.
 - [ ] **Mirar en Tiendanube cuántos pedidos por mes** y el **ticket promedio** actual. Es el dato que falta para cerrar todos los números.
 
-## 🟠 Prioridad 2 — Precios y márgenes
+## 🟠 Prioridad 2 — Márgenes y costos
 
-- [ ] **Aplicar la nueva lista de precios** en Tiendanube (completa en `numeros.md` y `perfil.md`): +15% en panificados propios y bajada a mercado +10% en seis productos de terceros.
+- [x] ~~Aplicar la nueva lista de precios~~ → ✅ **hecho y verificado en la tienda** el 10/08/2026.
+- [x] ~~Definir el aumento~~ → ✅ con el margen real (45,9% en propios) **el techo de margen neto ya es 36,3%. No hacen falta más aumentos.** Ahora la palanca es volumen: 39 pedidos por jueves para llegar al 30% neto.
+- [ ] **Negociar precio con Las Quinas y Contraviento.** Cinco productos quedaron al 24% de margen (mermeladas, dulce de leche, yerba, las dos pastas). Con el volumen del AMBA hay argumento. Alternativa: buscar otro proveedor o discontinuarlos.
+- [ ] **Estimar el costo del reparto propio en Pilar** (nafta, tiempo, desgaste). Hoy no está en ninguna cuenta.
+- [ ] Empujar en la comunicación los productos de mejor margen: **pan de molde blanco (52,2%)** y **aceite Zuelo (36,4%)**.
 - [ ] Cuando repongas stock de terceros, **chequear el mercado antes de fijar precio**. Faltan datos de: mieles Las Quinas, hummus Pampa Gourmet, pickles San Nicolás, mostaza Arytza, tés Intizen, Animal Extra Brut y La Linda Malbec orgánico.
 - [ ] **Ofrecer descuento por transferencia bancaria (~4%)** para esquivar el 6% de Pago Nube. Te deja 2 puntos netos y cobrás al instante.
 - [ ] **Subir el umbral de envío sin cargo de Pilar de $25.000 a $28.000.**
