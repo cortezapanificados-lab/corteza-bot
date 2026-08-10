@@ -1,6 +1,6 @@
-# Campaña de marketing — "El martes hay pan"
+# Campaña de marketing — "El jueves hay pan"
 
-*Armada el 10/08/2026. Campaña de 4 semanas para Corteza, pensada sobre la realidad actual: entrega solo en Pilar, martes y viernes, tienda en Tiendanube.*
+*Armada el 10/08/2026, actualizada al pasar a entregar un solo día. Campaña de 4 semanas para Corteza: entrega los jueves, cierre de pedidos el martes 22:00, tienda en Tiendanube.*
 
 ---
 
@@ -11,7 +11,7 @@ Antes de los textos, tres cosas que definen todo:
 **a) Toda la *publicidad paga* fuera de Pilar es plata tirada. Pero el interés de afuera no hay que tirarlo.**
 Hoy vendés solo en Pilar, así que gastar en avisos para gente que todavía no le podés entregar no tiene sentido. La campaña de venta es hiperlocal: Pilar y alrededores.
 
-Pero ojo, porque acá hay una distinción que vale plata: **podés entregar en el resto del AMBA, solo estás esperando la mudanza para largar.** Eso significa que cada persona de Escobar, Tigre o Vicente López que hoy te descubre y no puede comprar **no es un contacto perdido: es un cliente adelantado.** Hay que anotarlo, no dejarlo ir. Ver la sección 3 bis.
+Pero ojo, porque acá hay una distinción que vale plata: **podés entregar en el resto del AMBA, solo falta largar.** Eso significa que cada persona de Escobar, Tigre o Vicente López que hoy te descubre y no puede comprar **no es un contacto perdido: es un cliente adelantado.** Hay que anotarlo, no dejarlo ir. Ver la sección 3 bis.
 
 **b) El pan es un consumo semanal, pero lo estás vendiendo como compra única.**
 Este es el punto más importante de todos. Nadie compra pan una vez. Si un cliente vuelve todas las semanas, vale 50 veces más que uno que compra una vez y no vuelve. **El número que hay que mirar no son los seguidores: es cuántos clientes compraron 2 o más veces en el mes.**
@@ -21,24 +21,24 @@ El cliente no elige entre Corteza y otro pan de masa madre. Elige entre pedirte 
 
 ---
 
-## 2. El concepto: "El martes hay pan"
+## 2. El concepto: "El jueves hay pan"
 
 La idea es dar vuelta la limitación y convertirla en la marca.
 
-Hoy entregás solo martes y viernes. Eso *parece* una desventaja. Bien contado, es un ritual: **en las casas donde hay Corteza, el martes hay pan.** Como el diariero, como la feria del domingo. No es una tienda abierta 24/7: es una cita fija.
+Entregás un solo día por semana. Eso *parece* una desventaja. Bien contado, es un ritual: **en las casas donde hay Corteza, el jueves hay pan.** Como el diariero, como la feria del domingo. No es una tienda abierta 24/7: es una cita fija.
 
 Eso hace tres cosas a la vez:
 - Justifica que no entregues todos los días (deja de ser una excusa y pasa a ser identidad).
-- Crea urgencia real: "pedí hasta el lunes a la noche".
+- Crea urgencia real y semanal: **"los pedidos cierran el martes a las 22"**.
 - Empuja a la recurrencia, que es lo que necesitás.
 
 **Bajada de línea (frase de campaña):**
-> **Martes y viernes, hay pan en casa.**
+> **Los jueves, hay pan en casa.**
 
 Variantes para usar según el día:
-- "Hoy es lunes. Mañana hay pan." (los lunes)
-- "Hoy es jueves. Mañana hay pan." (los jueves)
-- "El martes hay pan. Vos no hacés nada."
+- "Cierra hoy a las 22. El jueves tenés pan." (los martes)
+- "Mañana hay pan." (los miércoles)
+- "El jueves hay pan. Vos no hacés nada."
 
 ---
 
@@ -50,7 +50,7 @@ Están ordenados por retorno real, no por lo que suena más moderno. Si solo pod
 
 Esto es lo que más plata te va a dar y casi nadie lo hace bien.
 
-**Qué es:** una lista de difusión (no un grupo — nadie ve los números de los demás ni puede responder a todos) donde cada lunes y cada jueves mandás un mensaje corto.
+**Qué es:** una lista de difusión (no un grupo — nadie ve los números de los demás ni puede responder a todos) donde cada lunes y cada martes mandás un mensaje corto, atado al cierre de pedidos.
 
 **Cómo armarla:**
 1. Cargá a todos los clientes que ya te compraron alguna vez.
@@ -60,6 +60,8 @@ Esto es lo que más plata te va a dar y casi nadie lo hace bien.
 **Por qué funciona:** WhatsApp lo abre el 90% de la gente. Instagram te muestra a 1 de cada 10 seguidores. No hay comparación.
 
 **Regla de oro:** dos mensajes por semana, nunca más. Cortos. Si te ponés pesada, te bloquean y perdés el canal.
+
+Y ahora tenés el mejor motivo posible para escribir: **el cierre del martes a las 22.** No es spam, es un aviso útil.
 
 Los textos están en la sección 5.
 
@@ -71,7 +73,7 @@ Además te resuelve la logística: **10 pedidos en el mismo barrio = un solo via
 
 **La jugada concreta — "Pedido de barrio":**
 
-> Si en tu barrio se juntan 5 pedidos para el mismo día, **el envío es gratis para todos** (sin importar el monto).
+> Si en tu barrio se juntan 5 pedidos para el mismo jueves, **el envío es gratis para todos** (sin importar el monto).
 
 Esto hace que tus propios clientes salgan a vender por vos en el grupo de WhatsApp del barrio. Es el mejor vendedor que vas a tener y no te cobra nada.
 
@@ -80,17 +82,13 @@ Esto hace que tus propios clientes salgan a vender por vos en el grupo de WhatsA
 ### Canal 3 — Instagram, pero geolocalizado
 
 **Orgánico:** 3 posteos por semana, con una rutina fija que no te haga pensar:
-- **Lunes**: recordatorio ("mañana hay pan") + foto del producto
-- **Miércoles**: contenido de valor (qué es masa madre, qué es agroecológico, cómo conservar el pan, una receta con la prepizza)
+- **Lunes**: apertura de la semana + foto del producto
+- **Martes**: recordatorio de cierre ("hoy a las 22 cierran los pedidos del jueves")
 - **Viernes o sábado**: cliente real, mesa servida, testimonio
 
-**Pago (opcional, pero rinde):** Meta te deja poner un radio geográfico. Configuralo así:
-- Ubicación: **Pilar + 10 km a la redonda**. Nada más.
-- Edad: 30 a 60
-- Intereses: alimentación saludable, orgánico, vida sana, cocina
-- Objetivo: mensajes de WhatsApp o visitas a la tienda
+**Pago:** el plan completo de publicidad está en `../campana-meta.md`, con presupuestos por fase, público y anuncios listos.
 
-Con muy poca plata por día alcanza para arrancar, porque el público es chiquito y bien apuntado. Empezá con el mínimo, dejalo correr una semana, y mirá **cuántos pedidos** trajo (no cuántos "me gusta").
+Un solo apunte acá, porque cambia lo que se pensaba al principio: **la plata va primero a CABA, no a Pilar.** El envío a Capital cuesta $3.919 y al Cordón 2 y 3 (donde está Pilar) $8.196, así que el mismo peso invertido rinde mucho más apuntando a la Ciudad.
 
 ### Canal 4 — Alianzas con negocios de Pilar
 
@@ -113,13 +111,15 @@ El pan de masa madre se vende cuando se prueba. Una feria en Pilar con pan corta
 
 ---
 
-## 3 bis. La lista de espera del AMBA (empezar ya, aunque falte para la mudanza)
+## 3 bis. La lista de espera del AMBA (empezar ya)
 
 Esta es la jugada más importante que se puede arrancar hoy, y no cuesta un peso.
 
 **El problema actual:** cada persona de fuera de Pilar que entra a la tienda, ve los precios, se entusiasma y descubre que no le llega… se va y no vuelve nunca. Ese interés se está evaporando todos los días. Es un agujero.
 
-**La solución:** en vez de perderla, se anota. Cuando llegue la mudanza, en lugar de salir a buscar clientes desde cero en un territorio nuevo, ya vas a tener una lista de gente esperándote. **Se arranca con demanda, no con silencio.**
+**La solución:** en vez de perderla, se anota. El día que abras el AMBA, en lugar de salir a buscar clientes desde cero, ya vas a tener una lista de gente esperándote. **Se arranca con demanda, no con silencio.**
+
+Y ahora hay una razón todavía más dura: Smart Post exige **30 envíos por despacho**. La lista de espera no es una buena práctica de marketing, es **el requisito para que la camioneta salga**. Ver `../lanzamiento-amba.md`.
 
 ### Cómo se implementa (cuatro cosas, todas gratis)
 
@@ -209,26 +209,25 @@ Y ahí es donde la lista de espera vale oro: en vez de anunciarle a nadie, le an
 
 ## 5. Textos listos para copiar y pegar
 
-### WhatsApp — lunes (recordatorio)
+### WhatsApp — lunes (apertura de la semana)
 
-> 🌾 *Mañana hay pan.*
+> 🌾 *Se abrió la semana.*
 >
-> Mañana martes salimos a repartir por Pilar. Los pedidos se toman hasta esta noche a las 22.
+> El jueves salimos a repartir. Los pedidos se toman **hasta mañana martes a las 22**.
 >
 > Esta semana hay pan de molde (blanco, integral y centeno), pan de campo, árabe y prepizzas. Todo de masa madre y harinas 100% agroecológicas.
 >
 > Pedí acá 👉 www.cortezapan.com.ar
-> Desde $25.000, el envío va sin cargo.
 
-### WhatsApp — jueves (recordatorio)
+### WhatsApp — martes (último aviso, el que más vende)
 
-> 🌾 *Mañana pasamos por tu casa.*
+> ⏰ *Hoy a las 22 cerramos los pedidos del jueves.*
 >
-> Viernes de reparto en Pilar. Pedidos hasta hoy a las 22.
+> Si no pedís hoy, la próxima es la semana que viene.
 >
 > Buen momento para dejar el fin de semana resuelto: prepizzas para la noche del sábado y pan de campo para los desayunos.
 >
-> www.cortezapan.com.ar
+> 👉 www.cortezapan.com.ar
 
 ### WhatsApp — para el cliente que no vuelve hace rato
 
@@ -236,7 +235,7 @@ Y ahí es donde la lista de espera vale oro: en vez de anunciarle a nadie, le an
 >
 > Te escribo porque hace unas semanas no pasás por Corteza y quería saber si estuvo todo bien con tu último pedido. Cualquier cosa que no te haya cerrado, contame de verdad, nos sirve muchísimo.
 >
-> Si querés retomar, esta semana repartimos martes y viernes 🌾
+> Si querés retomar, esta semana repartimos el jueves (los pedidos cierran el martes a las 22) 🌾
 
 ### Instagram — posteo de la curaduría (semana 1)
 
@@ -250,7 +249,7 @@ Y ahí es donde la lista de espera vale oro: en vez de anunciarle a nadie, le an
 >
 > No horneamos. Elegimos. Y elegimos bien.
 >
-> 🌾 Martes y viernes en Pilar · www.cortezapan.com.ar
+> 🌾 Entregas los jueves · www.cortezapan.com.ar
 
 ### Instagram — la objeción del freezer (semana 3)
 
@@ -272,7 +271,7 @@ Y ahí es donde la lista de espera vale oro: en vez de anunciarle a nadie, le an
 
 > **En Pilar ya no hace falta salir a buscar buen pan.**
 >
-> Masa madre de verdad y harinas 100% agroecológicas, en tu casa, martes y viernes.
+> Masa madre de verdad y harinas 100% agroecológicas, en tu casa, todos los jueves.
 >
 > Promo Lanzamiento $27.900: pan de molde rebanado + pepas integrales + budín + grisines. Con envío sin cargo.
 >
@@ -282,11 +281,11 @@ Y ahí es donde la lista de espera vale oro: en vez de anunciarle a nadie, le an
 
 > ¡Hola vecinos! 👋
 >
-> Soy de Corteza 🌾, entregamos panificados artesanales en Pilar los martes y viernes: pan de masa madre con harinas 100% agroecológicas, más un almacén chiquito de productos orgánicos (mermeladas sin azúcar, miel, aceite de oliva, vinos).
+> Soy de Corteza 🌾, entregamos panificados artesanales los jueves: pan de masa madre con harinas 100% agroecológicas, más un almacén chiquito de productos orgánicos (mermeladas sin azúcar, miel, aceite de oliva, vinos). Los pedidos cierran el martes a las 22.
 >
 > No horneamos nosotros: seleccionamos a los mejores panaderos artesanales de la zona y juntamos lo mejor de cada uno en un solo lugar.
 >
-> **Para el barrio:** si se juntan 5 pedidos para el mismo día, el envío es gratis para todos, sin monto mínimo.
+> **Para el barrio:** si se juntan 5 pedidos para el mismo jueves, el envío es gratis para todos, sin monto mínimo.
 >
 > Miren el catálogo acá 👉 www.cortezapan.com.ar
 > Cualquier duda me escriben 📱 11 5415-3989

@@ -16,7 +16,7 @@ Con la misma lógica armamos nuestro almacén: mermeladas sin azúcar, miel org�
 
 [OPCIONAL — HISTORIA PERSONAL: 1-2 oraciones sobre quién está detrás y por qué. Ej.: cómo empezaste a buscar este tipo de pan, qué te llevó a armar Corteza.]
 
-Hoy entregamos en Pilar los martes y viernes. Y esto recién empieza: pronto vamos a estar en todo el AMBA.
+Entregamos los jueves, con los pedidos abiertos hasta el martes. Y esto recién empieza: pronto vamos a estar en todo el AMBA.
 
 ---
 
@@ -28,7 +28,7 @@ Hoy entregamos en Pilar los martes y viernes. Y esto recién empieza: pronto vam
 
 Seleccionamos panes de masa madre y panificados hechos por productores artesanales con harinas 100% agroecológicas, y los sumamos a un almacén de productos orgánicos elegidos uno por uno.
 
-Vos pedís online; nosotros nos encargamos de que a tu mesa llegue solo lo mejor. Entregas en Pilar los martes y viernes — y muy pronto, en todo el AMBA.
+Vos pedís online; nosotros nos encargamos de que a tu mesa llegue solo lo mejor. Entregas todos los jueves — y muy pronto, en todo el AMBA.
 
 ---
 

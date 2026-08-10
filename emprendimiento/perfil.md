@@ -25,15 +25,17 @@ Condiciones acordadas con Smart Post: **no cobran IVA** (conviene tenerlo por es
 
 **Por pedido:**
 - **Margen bruto: 30% a los precios actuales.** Ojo: el costo del proveedor es fijo en pesos, así que si se suben los precios el margen bruto sube (con +15% pasa a 39,1%).
-- **Comisión Pago Nube: 6% por pedido** → a precios actuales el margen efectivo queda en **24%**.
+- **Comisión Pago Nube: 6% por pedido.** *A confirmar en el panel: si el 6% se cobra sobre producto + envío o solo sobre el producto. Cambia el techo de margen neto de 19,1% a 20,4%.*
 - **Packaging: $1.000 por pedido** (2 bolsas de $350 + $300 de changüí).
 - **Envío**: según zona (arriba).
 
 **Fijos mensuales:**
 - Tiendanube: $27.000
 - Claude: $35.000
-- Flete del proveedor al lugar de almacenamiento: **$20.000 por viaje** (con 1 viaje semanal son $86.600/mes; con 3 semanales, $260.000)
+- Flete del proveedor al lugar de almacenamiento: **$20.000 por viaje** → con entregas solo los jueves, 1 viaje semanal = **$86.600/mes**
 - Publicidad en Meta: a definir (ver `campana-meta.md`)
+
+**Total fijos: $148.600/mes** antes de publicidad.
 
 **Techo de margen neto a precios actuales: 19,1%**, independientemente del volumen. Para superarlo hay que subir precios. El análisis completo está en `numeros.md`.
 
@@ -115,7 +117,7 @@ Incluye: 1 pan de molde blanco rebanado, 1 paquete de pepas integrales (batata y
 ## Logística
 
 - Zona de entrega: únicamente Pilar
-- Días de entrega: martes y viernes
+- Día de entrega: **jueves** (único día, para Pilar y para todo el AMBA). Cierre de pedidos: martes 22:00.
 - Horario: de 9 a 17 hs aprox.
 - Sin pedido mínimo
 - Envío gratis en pedidos de $25.000 o más; menores a $25.000 tienen costo de envío de $5.000

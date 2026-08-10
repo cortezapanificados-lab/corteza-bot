@@ -34,7 +34,7 @@ Esto da vuelta la estrategia geográfica que veníamos armando. Yo venía suponi
 
 ### Dos conclusiones directas
 
-**1. No le des Pilar a Smart Post.** A $8.196 el envío, hacer tus entregas de Pilar con ellos sería el peor negocio posible. Seguí repartiendo vos los martes y viernes, que te sale muchísimo menos.
+**1. No le des Pilar a Smart Post.** A $8.196 el envío, hacer tus entregas de Pilar con ellos sería el peor negocio posible. Seguí repartiendo vos, ahora los jueves junto con el despacho del AMBA.
 
 **2. Tu mejor zona es CABA, y por lejos.** Es donde el envío te cuesta la mitad, donde podés ofrecer las mejores condiciones y donde conviene poner la plata de publicidad. Volvé a leer eso: **el lugar más rentable para vender no es el que tenés al lado, es la Capital.**
 
@@ -64,7 +64,7 @@ Es la condición que ordena todo el plan de lanzamiento. Dos lecturas:
 
 ### Las tres decisiones que se desprenden
 
-**1. Un solo día de AMBA por semana. Decidido.** Juntar 30 pedidos en un día es mucho más fácil que juntar 60 en dos, y partirlo no ahorra nada: con 60 pedidos semanales el resultado es idéntico en uno o dos días, pero con 35 semanales un día deja $1.091.957 mensuales y dos días solo $413.771. El plan operativo completo está en `lanzamiento-amba.md`.
+**1. Un solo día de AMBA por semana. Decidido.** Juntar 30 pedidos en un día es mucho más fácil que juntar 60 en dos, y partirlo no ahorra nada: con 60 pedidos semanales el resultado es idéntico en uno o dos días, pero con 35 semanales un día deja $1.109.618 mensuales y dos días solo $344.832. El plan operativo completo está en `lanzamiento-amba.md`.
 
 **2. No lances hasta tener la lista de espera cargada.** Ahora es literal: la lista de espera del AMBA no es una buena práctica de marketing, es **el requisito para que la camioneta salga.** Necesitás llegar al día 1 con 30 pedidos asegurados.
 
@@ -127,6 +127,8 @@ Los aumentos de Smart Post siguen a los de MercadoLibre: **revisá los umbrales 
 
 ## 6. Lo que falta confirmar
 
-1. **¿El mínimo de 30 es por despacho o por mes?** Todo este documento asume **por despacho**, que es lo que tiene sentido con camioneta exclusiva. Si fuera mensual, el panorama es muchísimo más fácil y hay que rehacer el plan de lanzamiento. **Confirmalo.**
+1. ✅ ~~¿El mínimo de 30 es por despacho o por mes?~~ → **por despacho**. Confirmado.
 2. **Dejar por escrito** que no cobran IVA.
-3. **Tu cantidad de pedidos por mes actual**, de las estadísticas de Tiendanube.
+3. **Confirmar el horario de colecta** en la dirección de Pilar (el PDF sugiere 13:00 para zonas lejanas).
+4. **Confirmar si Pago Nube cobra el 6% sobre producto + envío o solo sobre el producto.** Cambia el techo de margen neto entre 19,1% y 20,4%.
+5. **Tu cantidad de pedidos por mes actual**, de las estadísticas de Tiendanube.

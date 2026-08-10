@@ -7,8 +7,10 @@ Tareas y temas abiertos del emprendimiento. Ordenados por prioridad.
 ## 🔴 Prioridad 1 — Destraban el lanzamiento del AMBA
 
 - [x] ~~Confirmar si el mínimo de 30 envíos es por despacho o por mes~~ → **por despacho**. Decidido: **un solo día de AMBA por semana** (ver `lanzamiento-amba.md`).
+- [x] ~~Definir el día de despacho~~ → **jueves**, único día para Pilar y AMBA. Cierre de pedidos martes 22:00.
 - [ ] **Confirmar con Smart Post el horario de colecta** en la dirección de Pilar. El PDF sugiere 13:00 para zonas lejanas, lo que obliga a tener todo empacado antes del mediodía.
-- [ ] **Definir el día de despacho** (recomendado: jueves, con cierre de pedidos el martes 22:00) y confirmar que los proveedores pueden entregar los miércoles.
+- [ ] Confirmar que los proveedores pueden entregar los miércoles con el volumen necesario.
+- [ ] **Mirar en el panel de Pago Nube si el 6% se cobra sobre producto + envío o solo sobre el producto.** Cambia el techo de margen neto entre 19,1% y 20,4%.
 - [ ] **Instalar el píxel de Meta en Tiendanube.** Sin esto, cada peso de publicidad es a ciegas. Se hace en dos minutos desde el panel.
 - [ ] **Montar la suscripción semanal** (~8% off). Es el seguro contra no llegar a los 30. Objetivo: 20 suscriptores. Ver si Tiendanube la soporta nativamente o con una app.
 - [ ] **Planificar el lanzamiento escalonado**: dividir la lista de espera en tandas por semana para no gastar toda la demanda en el primer despacho.

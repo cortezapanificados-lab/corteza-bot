@@ -30,63 +30,79 @@
 
 | Frecuencia | Viajes/mes | Costo mensual |
 |---|---|---|
-| 3 por semana (martes + jueves + viernes) | 13 | **$260.000** |
+| 3 por semana (martes + jueves + viernes) | 13 | $260.000 |
 | 2 por semana | 8,7 | $173.300 |
-| **1 por semana (todo consolidado en un día)** | **4,3** | **$86.600** |
+| **1 por semana — solo jueves** ✅ | **4,3** | **$86.600** |
 
-**Consolidar todo en un solo día te ahorra hasta $173.400 por mes.** Es más plata que Tiendanube y Claude juntos. Es el argumento más fuerte para unificar también las entregas de Pilar en el mismo día del AMBA.
+✅ **Ya está resuelto: al pasar a entregar solo los jueves, este costo bajó a $86.600 mensuales.** Comparado con tres viajes semanales, son **$173.400 por mes de ahorro** — más que Tiendanube y Claude juntos, y el equivalente a 32 pedidos. Fue la mejor decisión de toda la sesión.
+
+**Costos fijos totales: $148.600/mes** (Tiendanube + Claude + viajes), antes de publicidad.
 
 ---
 
-## 2. Tu contribución por pedido, a precios actuales
+## 2. La cuenta abierta, peso por peso
 
-Con margen bruto 30%, envío del Cordón 1 pagado por el cliente:
+Pedido de $28.000 en productos, Cordón 1, el cliente paga el envío:
 
 | Concepto | Monto |
 |---|---|
-| Venta | $28.000 |
-| − Costo del producto (70%) | −$19.600 |
-| − Comisión Pago Nube (6% sobre venta + envío) | −$2.056 |
+| **ENTRA** (el cliente paga producto + envío) | **+$34.265** |
+| − Proveedor | −$19.600 |
+| − Comisión Pago Nube (6% de $34.265) | −$2.056 |
 | − Packaging | −$1.000 |
-| **= Contribución** | **$5.344** |
+| − Smart Post | −$6.265 |
+| **= TE QUEDA** | **$5.344** |
 
-Esos $5.344 son el **19,1% de la venta**. Guardá ese número, es la clave de la sección siguiente.
+Esos $5.344 son el **19,1% de los $28.000** de producto.
 
-### Punto de equilibrio (a precios actuales)
+### De dónde sale el 19,1% (y por qué no da 20,4%)
 
-| Viajes al proveedor | Meta | Costos fijos | Pedidos/mes para no perder |
+Tu intuición dice: 30% de margen bruto, menos 6% de comisión, menos $1.000 de packaging (que es 3,6%) = **20,4%**. Y está perfecta esa cuenta.
+
+Mi 19,1% sale de un supuesto que hice y no te dije: **que Pago Nube te cobra el 6% sobre todo lo que cobrás, incluido el envío.** El 6% de $34.265 son $2.056, que sobre los $28.000 de producto representan 7,3% en vez de 6%. Esos 1,3 puntos son toda la diferencia.
+
+| | Techo de margen neto |
+|---|---|
+| Si la comisión pega sobre producto + envío | **19,1%** |
+| Si la comisión pega solo sobre el producto | **20,4%** |
+
+> 🔍 **Hay que confirmarlo en el panel de Pago Nube.** Los procesadores de pago normalmente cobran sobre el total de la transacción, por eso lo asumí así, pero es un dato verificable y vale la pena mirarlo. En el resto del documento uso el escenario conservador (19,1%).
+
+**Lo que no cambia con ninguna de las dos hipótesis:** con margen bruto 30% tu techo de margen neto está entre 19% y 20%, y no lo supera ningún volumen. Para pasar de ahí hay que subir precios.
+
+### Punto de equilibrio a precios actuales
+
+Con entregas **solo los jueves** → un viaje al proveedor por semana ($86.600/mes). Fijos base: **$148.600**.
+
+| Meta | Costos fijos | Pedidos/mes para no perder | Por jueves |
 |---|---|---|---|
-| 1/semana | $0 | $148.600 | **28** |
-| 1/semana | $60.000 | $208.600 | **39** |
-| 1/semana | $150.000 | $298.600 | **56** |
-| 2/semana | $150.000 | $372.000 | **70** |
-| 3/semana | $150.000 | $472.000 | **88** |
+| $0 | $148.600 | **28** | 6,4 |
+| $60.000 | $208.600 | **39** | 9,0 |
+| $150.000 | $298.600 | **56** | 12,9 |
 
 ---
 
-## 3. Tenías razón: con 30% bruto no se llega a 24%
+## 3. El techo de margen neto, según el precio
 
-**Y también tenía razón el 24,6%.** Son dos escenarios distintos y yo no los distinguí bien. Te lo aclaro porque es el concepto que ordena todo lo demás.
+**Con margen bruto 30% el techo está en 19,1%.** Ningún volumen lo supera: los costos fijos se diluyen, pero la contribución por pedido como porcentaje de la venta no se mueve.
 
-### El techo con margen bruto 30% es 19,1%
-
-Si de cada $28.000 te quedan $5.344 después del producto, la comisión y el packaging, entonces **19,1% es tu techo absoluto de margen neto.** Con 100 pedidos, con 1.000 o con un millón. Los costos fijos se diluyen, pero eso no se mueve.
-
-**Cualquier número mayor a 19,1% con margen bruto 30% es imposible.** Tenías razón en frenarme.
+**Cualquier número mayor con margen bruto 30% es imposible.** Tenías razón en frenarme las dos veces.
 
 ### Pero el margen bruto no se queda en 30% si subís precios
 
 Acá está la parte que no expliqué bien. **El proveedor te sigue cobrando lo mismo.** Si subís el precio y el costo no se mueve, todo el aumento va derecho a margen:
 
-| Precio | Aumento | Costo proveedor | **Margen bruto** | **Techo de margen neto** |
-|---|---|---|---|---|
-| $28.000 | — | $19.600 | **30,0%** | 19,1% |
-| $30.800 | +10% | $19.600 | 36,4% | 25,9% |
-| $32.200 | +15% | $19.600 | **39,1%** | 28,9% |
-| $33.600 | +20% | $19.600 | 41,7% | 31,6% |
-| $35.000 | +25% | $19.600 | 44,0% | 34,1% |
+| Precio | Aumento | Costo proveedor | **Margen bruto** | Techo neto (hip. A) | Techo neto (hip. B) |
+|---|---|---|---|---|---|
+| $28.000 | — | $19.600 | **30,0%** | 19,1% | 20,4% |
+| $30.800 | +10% | $19.600 | 36,4% | 25,9% | 27,1% |
+| $32.200 | +15% | $19.600 | **39,1%** | 28,9% | 30,0% |
+| $33.600 | +20% | $19.600 | 41,7% | 31,6% | 32,7% |
+| $35.000 | +25% | $19.600 | 44,0% | 34,1% | 35,1% |
 
 Las tablas donde aparecía 24,6% eran las del escenario **+15%**, donde el margen bruto ya no es 30% sino 39,1%. El número estaba bien pero yo lo presenté sin aclarar eso, y leído junto a todo lo que veníamos hablando de "30% de margen" no cerraba. Mal ahí.
+
+**Dato lindo:** si Pago Nube resulta cobrar solo sobre el producto (hipótesis B), **con +15% llegás justo al 30% de techo.**
 
 **Un aumento del 15% en el precio es un aumento del 30% en tu margen bruto.** Es la palanca más poderosa que tenés, justamente porque tu costo es fijo en pesos.
 
@@ -94,9 +110,9 @@ Las tablas donde aparecía 24,6% eran las del escenario **+15%**, donde el marge
 
 ## 4. Qué hace falta para 30% de margen neto
 
-Con un día de despacho por semana, un viaje al proveedor por semana y Meta a $150.000:
+Con entregas solo los jueves (un viaje al proveedor por semana) y Meta a $150.000, escenario conservador (hipótesis A):
 
-| Pedidos por despacho | Al mes | Aumento necesario | Ticket resultante | Margen bruto |
+| Pedidos por jueves | Al mes | Aumento necesario | Ticket resultante | Margen bruto |
 |---|---|---|---|---|
 | 30 | 130 | **+29,9%** | $36.367 | 46,1% |
 | 40 | 173 | **+26,7%** | $35.469 | 44,7% |
@@ -104,13 +120,13 @@ Con un día de despacho por semana, un viaje al proveedor por semana y Meta a $1
 | 65 | 281 | **+23,0%** | $34.433 | 43,1% |
 | 80 | 346 | **+21,9%** | $34.122 | 42,6% |
 
-**Para 30% neto necesitás subir entre 22% y 30%**, según cuánto volumen tengas. Menos de lo que parecía antes, porque consolidar los viajes del proveedor baja mucho los fijos.
+**Para 30% neto necesitás subir entre 22% y 30%**, según cuánto volumen tengas. Si la comisión resulta ser solo sobre el producto, restale unos 2 puntos a cada fila.
 
 ---
 
 ## 5. Escenario recomendado: +15%
 
-No llega al 30% neto, pero es un aumento que el cliente absorbe y te deja el negocio muy sano. Con **margen bruto 39,1%**, un día por semana, un viaje al proveedor por semana y Meta a $150.000:
+No llega al 30% neto (o lo roza justo, si la comisión es solo sobre el producto), pero es un aumento que el cliente absorbe y te deja el negocio muy sano. Con **margen bruto 39,1%**, entregas solo los jueves, un viaje al proveedor por semana y Meta a $150.000. Fijos: $298.600/mes.
 
 | Pedidos por despacho | Al mes | Facturación | Neto | Margen neto |
 |---|---|---|---|---|
@@ -141,8 +157,8 @@ No llega al 30% neto, pero es un aumento que el cliente absorbe y te deja el neg
 ## 6. Las palancas, ordenadas por impacto
 
 1. **Subir precios.** Como tu costo es fijo en pesos, cada punto de aumento va casi entero a margen. +15% te lleva el bruto de 30% a 39,1%.
-2. **Consolidar los viajes al proveedor.** De 3 por semana a 1 son **$173.400 mensuales** — el equivalente a 32 pedidos. Es el ahorro más grande disponible y no le molesta a nadie.
-3. **Descuento por transferencia (~4%).** Pago Nube se lleva 6%; con transferencia te ahorrás eso y ganás 2 puntos netos. Además cobrás al instante.
+2. ~~Consolidar los viajes al proveedor.~~ ✅ **Hecho**: al pasar a solo jueves, de $260.000 a $86.600 mensuales.
+3. **Descuento por transferencia (~4%).** Pago Nube se lleva 6%; con transferencia te ahorrás eso y ganás 2 puntos netos. Además cobrás al instante. **Y si la comisión pega también sobre el envío, te ahorrás todavía más.**
 4. **Negociar con el proveedor.** Cada punto de margen bruto vale más que cualquier otra cosa.
 5. **Bajar el packaging.** $1.000 por pedido son 3,6 puntos en un pedido de $28.000.
 6. **Subir el ticket.** Con flete plano por pedido, cada peso adicional en la misma caja es casi ganancia pura.

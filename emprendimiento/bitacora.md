@@ -2,6 +2,23 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 10/08/2026 — Se pasa a entregar solo los jueves + se abre la cuenta del margen
+
+**Decisión tomada: se entrega un solo día, los jueves**, tanto Pilar como todo el AMBA. Cierre de pedidos el martes 22:00. Eso deja **un solo viaje al proveedor por semana ($86.600/mes contra $260.000 de tres viajes)** y los costos fijos totales en **$148.600/mes** antes de publicidad.
+
+Se actualizaron todos los textos de la campaña, el perfil y "Sobre Corteza" al nuevo día. El concepto pasa a llamarse **"El jueves hay pan"**, y el cierre del martes a las 22 se convierte en el motor de urgencia semanal: da un motivo legítimo para escribirle a la lista dos veces por semana.
+
+**Sobre el techo de margen neto del 19,1%:** se revisó la cuenta peso por peso. La diferencia con la intuición (30% bruto − 6% comisión − 3,6% packaging = 20,4%) sale de un supuesto que no se había explicitado: que **Pago Nube cobra el 6% sobre el total cobrado, incluido el envío**. El 6% de $34.265 son $2.056, que sobre los $28.000 de producto representan 7,3% en vez de 6%. Esos 1,3 puntos son toda la diferencia.
+
+| | Techo de margen neto (margen bruto 30%) |
+|---|---|
+| Comisión sobre producto + envío | 19,1% |
+| Comisión solo sobre el producto | 20,4% |
+
+**Queda para confirmar en el panel de Pago Nube.** Se usa el escenario conservador (19,1%) en todos los documentos. Dato interesante: si la comisión fuera solo sobre el producto, con +15% se llegaría justo al 30% de techo.
+
+Lo que no cambia con ninguna hipótesis: con margen bruto 30% el techo está entre 19% y 20%, y no lo supera ningún volumen.
+
 ## 10/08/2026 — Corrección de costos y aclaración sobre el margen bruto
 
 Se corrigieron dos costos que estaban mal cargados: **la comisión de Pago Nube es 6%** (no 5,73%) y **el viaje del proveedor cuesta $20.000** (no $15.000). Se rehicieron todos los cálculos.
