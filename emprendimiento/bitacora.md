@@ -2,6 +2,32 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 10/08/2026 — Plan de agosto: el orden de las tareas y el diseño de la suscripción
+
+Ante la sensación de que era mucho junto (combo barato + suscripción + influencers + Meta + reseñas), se ordenó todo con un principio: **primero la casa, después las visitas.** Los influencers y Meta solo mandan gente a la tienda; si la tienda no está lista, se quema el tráfico y la plata.
+
+**Secuencia definida — una tarea por semana:**
+
+| Semana | Tarea |
+|---|---|
+| 1 | Los 21 mensajes a clientes |
+| 1-2 | Caja de presentación + suscripción + reseñas + píxel |
+| 2-3 | Contactar 15 influencers, cerrar 10 |
+| 4 | Test de Meta de $30.000 |
+| Septiembre | Lanzar |
+
+**El mensaje de la semana 1 hace tres trabajos a la vez:** reactiva a los 15 dormidos, pide permiso para la lista de difusión y pide la reseña para la sección nueva de la web.
+
+**Hallazgo importante en el diseño de la suscripción: el flete se paga 4,33 veces al mes.** En CABA son $16.969 mensuales de envío por suscriptor, o sea que hacen falta $39.463 de venta mensual solo para cubrirlo. **Una suscripción chica con envío incluido no cierra** (un pan por semana deja 16%).
+
+Planes definidos: **Casa quincenal $48.100** (25% de contribución), **Semana $96.200** (25%) y **Familia $168.400** (33%). Se arranca con los dos primeros. **No se ofrece plan semanal chico.**
+
+**Un suscriptor del Plan Semana vale 2,2 veces un cliente suelto** ($24.421 contra $11.276 de contribución mensual), y además no hay que reconquistarlo cada mes.
+
+**Sobre la sección de reseñas** (idea propia, muy buena para CABA donde nadie conoce la marca): solo reseñas reales, **no poner solo cinco estrellas** —un 4,8 con alguna de cuatro es más creíble que un 5,0 perfecto— y que digan el barrio. Pedir foto de la mesa servida: vale por cinco reseñas sin foto.
+
+Detalle en `plan-agosto.md`.
+
 ## 10/08/2026 — Reestructuración de septiembre: fuera el reparto propio, foco en CABA
 
 **Decisión tomada:** a partir de septiembre se termina el reparto propio en Pilar. Todo pasa por Smart Post y el foco de captación se traslada a **CABA**. Objetivo: **40 pedidos por semana.**

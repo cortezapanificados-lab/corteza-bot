@@ -8,7 +8,12 @@ Tareas y temas abiertos del emprendimiento. Ordenados por prioridad.
 
 Septiembre: se termina el reparto propio, todo por Smart Post, foco de captación en CABA. Se llega al objetivo en 4 meses con 40 clientes nuevos por mes y recompra del 70%.
 
+**El orden está en `plan-agosto.md` — una tarea por semana, no todo junto.**
+
 **Antes de lanzar (agosto):**
+- [ ] **SEMANA 1 — los 21 mensajes.** Reactiva, pide permiso para la lista y pide la reseña, todo en el mismo mensaje.
+- [ ] Armar la **sección de reseñas** en la web. Solo reales, no solo 5 estrellas (un 4,8 es más creíble), con barrio y foto.
+- [ ] Definir la **suscripción**: Plan Casa quincenal $48.100 y Plan Semana $96.200. **No ofrecer plan semanal chico** — el flete (4,33 envíos/mes = $16.969) se lo come.
 - [ ] Instalar el píxel de Meta.
 - [ ] Poner a andar la captura de lista de espera **pidiendo la zona**.
 - [ ] **Contactar 15 micro-influencers de alimentación consciente de CABA y cerrar 10** para el mes del lanzamiento. Es el canal de mejor retorno: una caja de canje cuesta $13.500 reales y si trae 3 clientes el CAC es $4.500.
