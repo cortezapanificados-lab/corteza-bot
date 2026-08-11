@@ -2,6 +2,27 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 10/08/2026 — Modelo de costos definitivo
+
+Queda fijado el modelo, más simple que todo lo que se venía usando:
+
+> **Ganancia por pedido = venta × (margen bruto − 8%)**
+
+Ese 8% son **7% de comisión de Pago Nube + 1% de packaging**. El packaging pasa de estar cargado como monto fijo ($1.000) a porcentaje (1%), que es lo que corresponde según el cálculo real.
+
+**Costos fijos: $82.000/mes** — Claude $35.000 + Tiendanube $27.000 + envío del proveedor al almacén $20.000. *(Este último queda cargado como mensual; si fueran $20.000 por viaje habría que rehacer las cuentas.)*
+
+Con margen bruto de 45,9% en panificados propios, **queda 37,9% de la venta** para cubrir fijos y ganar. En un pedido de $28.000 son $10.612.
+
+**Los números que importan:**
+
+- **Punto de equilibrio: 8 pedidos/mes sin publicidad, 22 con Meta a $150.000** (5 por jueves).
+- **Se llega al 30% de margen neto con 24 pedidos por jueves.**
+- **El mínimo de 30 que exige Smart Post ya deja 31,5%.** El mínimo dejó de ser un problema y pasó a ser la garantía de que el negocio cierra: el día que se pueda despachar con ellos, el objetivo de rentabilidad está cumplido por definición.
+- Techo de margen neto: 37,9%.
+
+La palanca ya no es el precio ni el margen: es llegar a 24 pedidos por jueves.
+
 ## 10/08/2026 — Los costos reales cambian todo el panorama (para bien)
 
 Se cargó el export de productos de Tiendanube con **los costos reales de cada producto**. Es el dato que faltaba desde el arranque y corrige toda la modelización previa.

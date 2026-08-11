@@ -10,7 +10,7 @@ Tareas y temas abiertos del emprendimiento. Ordenados por prioridad.
 - [x] ~~Definir el día de despacho~~ → **jueves**, único día para Pilar y AMBA. **Cierre de pedidos lunes 14:00**, ya actualizado en la tienda.
 - [ ] **Confirmar con Smart Post el horario de colecta** en la dirección de Pilar. El PDF sugiere 13:00 para zonas lejanas, lo que obliga a tener todo empacado antes del mediodía.
 - [ ] Confirmar que los proveedores pueden entregar los miércoles con el volumen necesario.
-- [ ] **Verificar en el panel de Pago Nube que el 6% se cobra sobre producto + envío** (es el supuesto con el que se calculó el recargo del envío). Si fuera solo sobre el producto, el recargo se puede sacar.
+- [ ] **Confirmar si los $20.000 del envío del proveedor son por mes o por viaje.** Está cargado como mensual; si fuera por viaje, los fijos pasan de $82.000 a $148.600.
 - [ ] **Instalar el píxel de Meta en Tiendanube.** Es gratis y necesita tiempo para juntar datos, así que conviene tenerlo andando desde ya aunque la publicidad recién arranque más adelante.
 - [ ] **Montar la suscripción semanal** (~8% off). Es el seguro contra no llegar a los 30. Objetivo: 20 suscriptores. Ver si Tiendanube la soporta nativamente o con una app.
 - [ ] **Planificar el lanzamiento escalonado**: dividir la lista de espera en tandas por semana para no gastar toda la demanda en el primer despacho.
@@ -23,13 +23,12 @@ Tareas y temas abiertos del emprendimiento. Ordenados por prioridad.
 ## 🟠 Prioridad 2 — Márgenes y costos
 
 - [x] ~~Aplicar la nueva lista de precios~~ → ✅ **hecho y verificado en la tienda** el 10/08/2026.
-- [x] ~~Definir el aumento~~ → ✅ con el margen real (45,9% en propios) **el techo de margen neto ya es 36,3%. No hacen falta más aumentos.** Ahora la palanca es volumen: 39 pedidos por jueves para llegar al 30% neto.
+- [x] ~~Definir el aumento~~ → ✅ **no hacen falta más aumentos.** Techo de margen neto 37,9%. La palanca es volumen: **24 pedidos por jueves** para llegar al 30% neto.
 - [ ] **Negociar precio con Las Quinas y Contraviento.** Cinco productos quedaron al 24% de margen (mermeladas, dulce de leche, yerba, las dos pastas). Con el volumen del AMBA hay argumento. Alternativa: buscar otro proveedor o discontinuarlos.
 - [ ] **Estimar el costo del reparto propio en Pilar** (nafta, tiempo, desgaste). Hoy no está en ninguna cuenta.
 - [ ] Empujar en la comunicación los productos de mejor margen: **pan de molde blanco (52,2%)** y **aceite Zuelo (36,4%)**.
 - [ ] Cuando repongas stock de terceros, **chequear el mercado antes de fijar precio**. Faltan datos de: mieles Las Quinas, hummus Pampa Gourmet, pickles San Nicolás, mostaza Arytza, tés Intizen, Animal Extra Brut y La Linda Malbec orgánico.
-- [ ] **Ofrecer descuento por transferencia bancaria (~4%)** para esquivar el 6% de Pago Nube. Te deja 2 puntos netos y cobrás al instante.
-- [ ] **Subir el umbral de envío sin cargo de Pilar de $25.000 a $28.000.**
+- [ ] **Ofrecer descuento por transferencia bancaria (~5%)** para esquivar el 7% de Pago Nube. Es la carga más grande de las dos y la única evitable.
 - [ ] Buscar bolsas más baratas por cantidad: cada $300 que baje el packaging es casi un punto de margen.
 - [x] ~~Consolidar los viajes al proveedor~~ → ✅ **hecho** al pasar a entregar solo los jueves: de $260.000 a $86.600 mensuales.
 - [ ] Con más volumen, renegociar precio con los proveedores para subir el margen bruto del 30%.

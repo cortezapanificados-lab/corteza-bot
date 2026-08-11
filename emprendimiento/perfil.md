@@ -29,21 +29,25 @@ Condiciones acordadas con Smart Post: **no cobran IVA** (conviene tenerlo por es
   - Productos de terceros: **29,0%** ponderado
   - Catálogo completo: **36,9%**
   - *(El "30%" que se venía usando era una estimación y quedó desactualizado. El margen real es bastante mejor.)*
-- **Comisión Pago Nube: 6% por pedido**, sobre el total cobrado (producto + envío). Por eso el precio de envío que se le cobra al cliente lleva un **recargo del 6,38%** (÷0,94): $4.200 CABA, $6.700 Cordón 1, $8.800 Cordón 2 y 3.
-- **Packaging: $1.000 por pedido** (2 bolsas de $350 + $300 de changüí).
-- **Envío**: según zona (arriba).
+- **Comisión Pago Nube: 7%** de la venta.
+- **Packaging: 1%** de la venta.
+- **Envío**: según zona (arriba), a cargo del comprador. El precio que se le cobra lleva recargo para cubrir la comisión: $4.200 CABA, $6.700 Cordón 1, $8.800 Cordón 2 y 3.
+
+> **El modelo, en una línea: ganancia por pedido = venta × (margen bruto − 8%).**
 
 **Fijos mensuales:**
-- Tiendanube: $27.000
 - Claude: $35.000
-- Flete del proveedor al lugar de almacenamiento: **$20.000 por viaje** → con entregas solo los jueves, 1 viaje semanal = **$86.600/mes**
+- Tiendanube: $27.000
+- Envío del proveedor al almacén: $20.000
 - Publicidad en Meta: a definir (ver `campana-meta.md`)
 
-**Total fijos: $148.600/mes** antes de publicidad.
+**Total fijos: $82.000/mes** antes de publicidad.
 
-**Techo de margen neto: 36,3%** con el margen real de los panificados. **Ya supera el objetivo del 30%, sin necesidad de más aumentos.** Lo que falta ahora es volumen: se llega al 30% neto real con **39 pedidos por jueves**. Análisis completo en `numeros.md`.
+**Techo de margen neto: 37,9%** (45,9% de margen bruto en propios menos el 8% de cargas). **Ya supera el objetivo del 30%.**
 
-**Punto de equilibrio:** 15 pedidos/mes sin publicidad, 29 con Meta a $150.000.
+**Punto de equilibrio:** 8 pedidos/mes sin publicidad, 22 con Meta a $150.000 (5 por jueves).
+
+**Se llega al 30% de margen neto con 24 pedidos por jueves.** Y el mínimo de 30 que exige Smart Post ya deja 31,5%: cuando se pueda despachar con ellos, el objetivo está cumplido por definición. Análisis completo en `numeros.md`.
 
 El lanzamiento está esperando una **mudanza personal** de quien lleva el emprendimiento (no se muda el negocio; es un tema de espacio para stockear). Es un asunto privado: **no se usa como material de comunicación.**
 
