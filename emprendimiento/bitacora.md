@@ -2,6 +2,26 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 10/08/2026 — Reestructuración de septiembre: fuera el reparto propio, foco en CABA
+
+**Decisión tomada:** a partir de septiembre se termina el reparto propio en Pilar. Todo pasa por Smart Post y el foco de captación se traslada a **CABA**. Objetivo: **40 pedidos por semana.**
+
+Se planteó el riesgo de que los 21 clientes de Pilar pasen de envío gratis a pagar $8.800 y que varios no vuelvan. La decisión se reafirmó: **la base de Pilar deja de ser el negocio y pasa a ser un extra.** Queda asumido como costo de la reestructuración.
+
+**El razonamiento de CABA es correcto y hay una tercera ventaja además de las dos previstas** (más poder adquisitivo, envío más barato): con envío a $3.919 el piso para regalar el envío es de $9.114, contra $19.060 en Pilar. **CABA es la única zona donde se puede ofrecer envío sin cargo**, que es el argumento que más convierte en ecommerce. Umbral recomendado: $15.000.
+
+**La matemática del objetivo:** 173 pedidos/mes requieren ~102 clientes activos. Con recompra del 70% eso son 31 clientes nuevos por mes en régimen, y con 40 nuevos mensuales se llega al objetivo en 4 meses. El CAC tiene que quedar por debajo de $15.000 (ideal $10.000–12.000) para entrar en el presupuesto de $470.520 mensuales que deja el 30% de margen.
+
+**Advertencia estratégica registrada:** en CABA la masa madre no diferencia — hay decenas de panaderías excelentes. **El diferencial real es "harinas 100% agroecológicas"**, y ese tiene que ser el titular de toda la comunicación, no la masa madre.
+
+**Canal identificado como el de mejor retorno: micro-influencers de alimentación consciente por canje.** Una caja de $25.000 cuesta $13.500 reales; si trae 3 clientes el CAC es $4.500, tres veces mejor que Meta. Plan: contactar 15, cerrar 10.
+
+Otras definiciones: concentrar Meta en 4 barrios (Palermo, Villa Crespo, Colegiales, Belgrano) en vez de toda CABA; crear una **caja de presentación de ~$16.100 con envío sin cargo** porque la Promo de $28.900 es mucho para un primer pedido de una marca desconocida; y **la suscripción pasa a ser la pieza central**, porque reemplaza al boca a boca del country que sostenía la recompra en Pilar.
+
+**Costo de arranque a presupuestar:** el mes 1 da ~15,7 pedidos por jueves contra el mínimo de 30 de Smart Post, o sea unos $240.000 de envíos fantasma el primer mes y $56.000 el segundo. Se puede achicar despachando cada 15 días al arranque.
+
+Plan completo en `estrategia-caba.md`.
+
 ## 10/08/2026 — Diagnóstico de ventas: el negocio se está achicando
 
 Se analizó el export de ventas (44 pedidos pagados, 28/05 al 10/08). **Es el hallazgo más importante de toda la sesión y cambia el orden de prioridades.**

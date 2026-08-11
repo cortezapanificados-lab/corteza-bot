@@ -4,7 +4,22 @@ Tareas y temas abiertos del emprendimiento. Ordenados por prioridad.
 
 ---
 
-## 🚨 Prioridad 0 — El negocio se está achicando (ver `diagnostico-ventas.md`)
+## 🎯 Objetivo definido: 40 pedidos por semana en CABA (ver `estrategia-caba.md`)
+
+Septiembre: se termina el reparto propio, todo por Smart Post, foco de captación en CABA. Se llega al objetivo en 4 meses con 40 clientes nuevos por mes y recompra del 70%.
+
+**Antes de lanzar (agosto):**
+- [ ] Instalar el píxel de Meta.
+- [ ] Poner a andar la captura de lista de espera **pidiendo la zona**.
+- [ ] **Contactar 15 micro-influencers de alimentación consciente de CABA y cerrar 10** para el mes del lanzamiento. Es el canal de mejor retorno: una caja de canje cuesta $13.500 reales y si trae 3 clientes el CAC es $4.500.
+- [ ] Armar la **caja de presentación de ~$16.100 con envío sin cargo** (la Promo de $28.900 es mucho para un primer pedido en CABA).
+- [ ] Montar la **suscripción semanal** (8% off). Objetivo: 30% de los clientes de CABA suscriptos.
+- [ ] **Test de Meta de $30.000** en Palermo, Villa Crespo, Colegiales y Belgrano para conocer el CAC real antes de comprometer presupuesto.
+- [ ] Configurar umbrales de envío: **CABA sin cargo desde $15.000**, Cordón 1 desde $20.400, Cordón 2 y 3 desde $26.700.
+- [ ] Presupuestar los envíos fantasma del arranque (~$240.000 el mes 1, $56.000 el mes 2). Evaluar despachar cada 15 días hasta pasar los 30 estables.
+- [ ] **Reescribir la comunicación poniendo "harinas 100% agroecológicas" como titular**, no la masa madre: en CABA la masa madre no diferencia.
+
+## 🚨 Base de Pilar — recuperar lo que se pueda (ver `diagnostico-ventas.md`)
 
 Los pedidos cayeron de 27 en junio a 9 en julio. La causa: **la entrada de clientes nuevos pasó de 13 a 1**. Esto va antes que todo lo demás.
 
