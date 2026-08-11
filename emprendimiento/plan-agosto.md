@@ -44,19 +44,42 @@ Es gratis, no necesita que nada esté construido, y te resuelve el problema más
 
 Las cuatro piezas que tienen que estar antes de traer gente.
 
-### a) La caja de presentación
+### a) La caja de presentación y los envíos de CABA
 
-**~$16.100, con envío sin cargo.** 1 pan de molde blanco rebanado + 1 paquete de grisines.
+**Caja de presentación: ~$16.100, con envío sin cargo.** 1 pan de molde blanco rebanado + 1 paquete de grisines.
 
-Te deja $3.004. Poco, pero **el primer pedido no es para ganar: es para conseguir el cliente.**
+**Envíos en CABA:**
+- **Umbral general: envío sin cargo desde $25.000**
+- **Primera compra: envío sin cargo siempre**, sin importar el monto
+- Debajo del umbral: **cobrar $4.200** (no $4.000 — el costo es $3.919 y hay que recargarle la comisión de Pago Nube)
 
-### b) La suscripción
+Los dos umbrales conviven: el general empuja el ticket, y el de primera compra hace que la caja de presentación de $16.100 funcione como oferta de entrada. Regalar el envío una vez por cliente cuesta $3.919 contra un CAC objetivo de $15.000: es el 26%, y es lo que más convierte.
 
-Ver la sección siguiente: hay una trampa con el flete que define todo el diseño.
+### b) La suscripción — los tres planes
+
+| Plan | Qué lleva | Frecuencia | Precio/mes | Te queda |
+|---|---|---|---:|---:|
+| **Casa** | molde + campo + grisines | quincenal | $48.100 | $12.210 (25%) |
+| **Semana** | molde + campo + grisines | semanal | $96.200 | $24.421 (25%) |
+| **Familia** | 2 molde + campo + grisines + budín | semanal | $168.400 | **$55.451 (33%)** |
+
+**Van los tres desde el arranque.** El Familia tiene el mejor margen y además funciona como ancla: sin una opción cara arriba, el Semana a $96.200 parece caro; con el Familia al lado, parece el sensato. Aunque casi nadie compre el Familia, hace vender más Semana.
+
+Ver más abajo la trampa del flete que explica por qué no hay plan semanal chico.
 
 ### c) La sección de reseñas
 
-Muy buena idea y va a mover la aguja en CABA, donde nadie te conoce. Tres reglas:
+Muy buena idea y va a mover la aguja en CABA, donde nadie te conoce.
+
+**Cómo recolectarlas: por WhatsApp ahora, automático después.**
+
+Pedirlas por WhatsApp tiene una tasa de respuesta del 50-70% porque estás preguntando en persona. Mandar un link a un formulario de reseñas rinde 5-15%. Con 21 clientes, lo que importa es conseguirlas: **12 reseñas cargadas a mano valen más que 2 verificadas automáticamente.**
+
+Para adelante sí conviene instalar una app de reseñas en Tiendanube, para que las de los clientes nuevos entren solas y salgan con el sello de "compra verificada".
+
+**Pedí permiso antes de publicar:** *"¿Te parece si lo subo a la web con tu nombre y el barrio?"* Es correcto y además a la gente le gusta.
+
+Tres reglas más:
 
 - **Solo reseñas reales.** Inventarlas se nota, y si te descubren perdés lo único que te queda cuando sos una marca nueva.
 - **No pongas solo cinco estrellas.** Un 4,8 con alguna de cuatro es **más creíble** que un 5,0 perfecto. El 5,0 impecable huele a fabricado.
@@ -112,7 +135,7 @@ Con la tienda armada, las reseñas puestas, los influencers publicando y el CAC 
 
 *(10% de descuento sobre el precio suelto; 12% en el Familia.)*
 
-**Arrancá con dos: Casa (quincenal) y Semana.** El quincenal es la puerta de entrada para quien vive solo o son dos; el semanal es el objetivo.
+**Van los tres.** El quincenal es la puerta de entrada para quien vive solo o son dos; el semanal es el objetivo; el Familia es el ancla que hace parecer razonable al Semana.
 
 **No ofrezcas un plan semanal chico.** El flete se lo come.
 
