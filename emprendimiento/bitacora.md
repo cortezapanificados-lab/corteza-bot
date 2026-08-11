@@ -2,6 +2,33 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 10/08/2026 — Diagnóstico de ventas: el negocio se está achicando
+
+Se analizó el export de ventas (44 pedidos pagados, 28/05 al 10/08). **Es el hallazgo más importante de toda la sesión y cambia el orden de prioridades.**
+
+**Los pedidos cayeron 67% de junio a julio:** 27 → 9, y agosto va peor. Promedio del período: 4,2 pedidos por semana.
+
+**La causa está identificada: se cortó la entrada de clientes nuevos.** En junio entraron 13 clientes nuevos; en julio, uno solo; en agosto, ninguno. Los clientes existentes siguieron comprando más o menos igual — lo que se apagó fue la adquisición.
+
+**La recompra tampoco alcanza:** 43% de mayo a junio, 38% de junio a julio, 14% de julio a agosto. Para un consumo semanal como el pan debería estar arriba del 60%. Con 40% de recompra y cero clientes nuevos, el negocio se achica 60% por mes, que es exactamente lo que muestran los números.
+
+**Resultado por mes:** junio +$158.366, **julio +$5.827** (prácticamente cero).
+
+**Correcciones al modelo con datos reales:**
+- Ticket promedio: **$23.677** (se venía usando $28.000).
+- Costo de cobro real: **2,97%**, no 7%. El 18% de las ventas es en efectivo y el 55% por transferencia.
+- Contribución real: **42,2%** de la venta, mejor que el 37,9% modelado.
+- Medios de pago: 54,5% transferencia, 27,3% tarjeta, 18,2% efectivo. **Ya está el 72,7% en medios baratos**, así que subir el descuento por transferencia tiene poco para ganar.
+- El descuento del 2% arrancó el 14/07 y solo se aplicó en 5 de 24 transferencias: es muy nuevo para evaluarlo.
+
+**El activo escondido: 55% de los pedidos vienen del country Pilar del Lago** ($605.670 de $1.041.785). Es riesgo de concentración y a la vez una fórmula probada — lo más barato y probable es replicarla en otros countries de la zona.
+
+**Nuevo orden de prioridades:** (1) recuperar la entrada de clientes nuevos, (2) atacar la recompra con la lista de WhatsApp y la suscripción, (3) replicar Pilar del Lago en otros countries, (4) recién después optimizar márgenes — el margen ya está sano.
+
+**Para el AMBA:** con 4,2 pedidos semanales y un mínimo de 30 por despacho, hoy se está a 1/7 del volumen necesario. Primero hay que arreglar el motor de clientes en Pilar.
+
+Detalle completo en `diagnostico-ventas.md`.
+
 ## 10/08/2026 — Modelo de costos definitivo
 
 Queda fijado el modelo, más simple que todo lo que se venía usando:

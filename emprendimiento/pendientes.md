@@ -4,6 +4,15 @@ Tareas y temas abiertos del emprendimiento. Ordenados por prioridad.
 
 ---
 
+## 🚨 Prioridad 0 — El negocio se está achicando (ver `diagnostico-ventas.md`)
+
+Los pedidos cayeron de 27 en junio a 9 en julio. La causa: **la entrada de clientes nuevos pasó de 13 a 1**. Esto va antes que todo lo demás.
+
+- [ ] **Reconstruir qué se hizo en junio que no se hizo en julio.** ¿Hubo un posteo, una feria, una recomendación, un grupo de WhatsApp? Ahí está la respuesta.
+- [ ] **Escribirles a los 21 clientes que ya compraron.** Es lo más rápido y barato que se puede hacer hoy: son gente que ya conoce el producto. Especialmente a los 14 que no compraron en el último mes.
+- [ ] **Atacar la recompra: está en 40% y debería estar arriba de 60%.** La lista de difusión de WhatsApp y la suscripción semanal son exactamente para esto.
+- [ ] **Replicar la fórmula de Pilar del Lago en otro country.** El 55% de los pedidos sale de ahí: la fórmula está probada, falta copiarla al barrio de al lado.
+
 ## 🔴 Prioridad 1 — Destraban el lanzamiento del AMBA
 
 - [x] ~~Confirmar si el mínimo de 30 envíos es por despacho o por mes~~ → **por despacho**. Decidido: **un solo día de AMBA por semana** (ver `lanzamiento-amba.md`).
@@ -18,7 +27,7 @@ Tareas y temas abiertos del emprendimiento. Ordenados por prioridad.
 - [ ] *(Más adelante, 6-8 semanas antes de abrir)* Arrancar el empujón pago de Meta para completar los **150 anotados** que hacen falta para los 30 pedidos del primer despacho. **No antes**: las listas se enfrían.
 - [ ] **Dejar andando la captura de la lista de espera**: cartel en Tiendanube, posteo fijo en Instagram, respuesta automática de WhatsApp. **Pedir siempre la zona, no solo el mail.**
 - [ ] **Armar la lista de difusión de WhatsApp** con todos los clientes que ya compraron. Los dos mensajes de la semana van **domingo** ("mañana a las 14 cerramos") y **lunes temprano** ("hoy a las 14 cierra"). Textos en `textos/campana-agosto-2026.md`.
-- [ ] **Mirar en Tiendanube cuántos pedidos por mes** y el **ticket promedio** actual. Es el dato que falta para cerrar todos los números.
+- [x] ~~Mirar cuántos pedidos por mes y el ticket promedio~~ → ✅ **4,2 pedidos/semana, ticket $23.677.** Ver `diagnostico-ventas.md`.
 
 ## 🟠 Prioridad 2 — Márgenes y costos
 
