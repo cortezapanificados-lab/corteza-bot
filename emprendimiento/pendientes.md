@@ -4,7 +4,18 @@ Tareas y temas abiertos del emprendimiento. Ordenados por prioridad.
 
 ---
 
-## 🎯 Objetivo definido: 40 pedidos por semana en CABA (ver `estrategia-caba.md`)
+## 🚀 LANZAMIENTO: jueves 17 de septiembre — plan completo en `plan-lanzamiento.md`
+
+**Meta de la semana 1 (10-16 ago):**
+- [ ] 🔥 **Dejar corriendo la captura de lista de espera** (cartel en Tiendanube, posteo fijo en Instagram, respuesta automática de WhatsApp). Pedir mail **y zona**. Objetivo: **150 anotados al 14/9**, o sea 27 por semana.
+- [ ] 🔥 **Llamar a Smart Post: pedir mínimo MENSUAL en vez de por despacho.** Vale $133.246 solo en octubre.
+- [ ] Instalar el píxel de Meta.
+- [ ] Mandar los 21 mensajes de reseñas (`textos/mensajes-resenas.md`).
+- [ ] Hablar con el contador por el monotributo (con $51M anuales proyectados se sale del régimen).
+
+**Regla que no se negocia:** no lanzar el 17 con menos de 100 anotados. Si no se llega, correr al 24/9.
+
+## 🎯 Objetivo de fondo: 40 pedidos por semana en CABA (ver `estrategia-caba.md`)
 
 Septiembre: se termina el reparto propio, todo por Smart Post, foco de captación en CABA. Se llega al objetivo en 4 meses con 40 clientes nuevos por mes y recompra del 70%.
 

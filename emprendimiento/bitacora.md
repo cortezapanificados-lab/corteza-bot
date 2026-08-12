@@ -2,7 +2,32 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
-## 10/08/2026 — Fecha de lanzamiento: jueves 10 de septiembre
+## 10/08/2026 — PLAN DE LANZAMIENTO DEFINITIVO: jueves 17 de septiembre
+
+Fecha tope puesta por la dueña: arrancar los repartos a otras zonas como máximo el 17/9. **Resultó ser también la mejor opción financiera.**
+
+Septiembre tiene 4 jueves (3, 10, 17, 24). Lanzando el 17 quedan **solo 2 despachos**, y como en la rampa sobran despachos y faltan pedidos, eso concentra el volumen: **32 pedidos por despacho, cero envíos fantasma.** Contra $195.950 de fantasmas lanzando el 3 y $78.380 lanzando el 10.
+
+**El número que define el lanzamiento: 150 anotados en la lista de espera.** Con 2 despachos hacen falta 60 pedidos en septiembre para superar el mínimo de 30 en ambos. Con 150 anotados al 20% de conversión más los clientes nuevos del mes se llega a 64. Hay **5 semanas y media** para juntarlos: 27 por semana.
+
+**Modelo financiero septiembre-diciembre** (40 clientes nuevos/mes, recompra 70%):
+
+| Mes | Despachos | Pedidos | Fantasmas | Operativo | Resultado | Acumulado |
+|---|---:|---:|---:|---:|---:|---:|
+| Sep | 2 | 64 | $0 | $508.036 | +$8.036 | $8.036 |
+| Oct | 5 | 116 | $133.246 | $854.194 | +$217.434 | $225.470 |
+| Nov | 4 | 149 | $0 | $1.291.677 | +$654.917 | $880.387 |
+| Dic | 5 | 172 | $0 | $1.503.721 | +$866.961 | **$1.747.348** |
+
+**Septiembre cierra positivo aun metiendo los $500.000 de publicidad: la inversión se recupera en el primer mes.**
+
+**Octubre es el único mes con desperdicio** ($133.246) por tener 5 jueves, que reparten los 116 pedidos en 23,2 por despacho. Se elimina con el mínimo mensual de Smart Post o llegando a octubre con más clientes.
+
+**Regla que no se negocia: no lanzar el 17 con menos de 100 anotados.** Si al 10/9 no se llegó, correr el lanzamiento al 24/9 (un solo despacho, cero fantasmas) antes que lanzar flojo.
+
+Plan completo semana por semana en `plan-lanzamiento.md`, que reemplaza a `plan-agosto.md` como documento operativo.
+
+## 10/08/2026 — Fecha de lanzamiento: jueves 10 de septiembre (SUPERADO, ver arriba)
 
 Septiembre 2026 tiene **4 jueves: 3, 10, 17 y 24** (ningún mes puede tener 3). Como durante la rampa sobran despachos y faltan pedidos, **cuantos menos despachos haya en el mes, menos envíos fantasma se pagan:**
 
