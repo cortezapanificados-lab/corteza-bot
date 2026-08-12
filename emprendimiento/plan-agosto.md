@@ -127,25 +127,55 @@ Presupuesto comprometido: **$500.000 de bolsillo para publicidad del mes 1.**
 
 Clientes esperados en el escenario base: **20 de influencers + 23 de Meta = 43.** Hacen falta 40.
 
-### Despacho quincenal en los meses 1 y 2
+### Despacho SEMANAL desde el día 1 — decisión tomada
 
-El mínimo de 30 de Smart Post se paga aunque despaches menos. Con pocos pedidos, **despachar cada 15 días en vez de todas las semanas concentra el volumen y elimina el costo de los envíos fantasma.**
+Se evaluó arrancar quincenal para esquivar el mínimo de 30, y **se descartó por razones de marca**: todo el concepto es "el jueves hay pan", y arrancar cada 15 días para después cambiar rompe el ritual y confunde al cliente que entra a la tienda.
 
-Y encaja perfecto con el Plan Casa quincenal. A partir del mes 3, cuando el volumen aguante, se pasa a semanal.
+**Es la decisión correcta, pero tiene precio y hay que presupuestarlo:**
 
-### Y acá está lo que decide el mes 1
+| Mes | Pedidos | Por jueves | Envíos fantasma |
+|---:|---:|---:|---:|
+| 1 | 70 | 16,2 | **$234.748** |
+| 2 | 116 | 26,8 | $54.474 |
+| 3 | 149 | 34,4 | $0 |
+| 4 | 172 | 39,7 | $0 |
+| | | **Total rampa** | **$289.222** |
 
-| Escenario | Pedidos mes 1 | Por despacho | Envíos fantasma | Resultado con publicidad |
-|---|---:|---:|---:|---:|
-| **Sin lista de espera** | 40 | 18,4 | $98.367 | **−$311.594** |
-| **Lista de 150, convierte 20%** | 70 | 32,3 | $0 | **+$63.352** |
-| Lista de 150, convierte 25% | 78 | 35,9 | $0 | +$137.106 |
+**El mes 1 queda así:**
 
-**La diferencia entre lanzar con lista y sin lista es de $375.000 en el primer mes.**
+| | |
+|---|---:|
+| Operativo antes de fantasmas | $563.352 |
+| − Envíos fantasma | −$234.748 |
+| − Publicidad | −$500.000 |
+| **= Resultado mes 1** | **−$171.396** |
 
-No es solo que la lista te trae pedidos: es que **te hace superar los 30 por despacho desde el día uno**, y ahí desaparece el costo de los envíos fantasma. Los dos efectos se suman.
+**Inversión total del arranque: $734.748** (publicidad + fantasmas). A partir del mes 3 el costo extra desaparece solo.
 
-> **Conclusión: juntar 150 anotados antes de lanzar no es opcional. Es lo que decide si el mes 1 cierra en +$63.000 o en −$311.000.**
+### La llamada que puede ahorrar $289.222
+
+Antes de dar por hecho ese costo, **hay una negociación concreta que hacer con Smart Post**, y no es "bajame el mínimo":
+
+> *"¿Me pueden dar un **mínimo mensual** en vez de por despacho? Con cuatro despachos al mes te garantizo 120 envíos, pero repartidos desigual mientras arranco."*
+
+Es mucho más aceptable para ellos que bajar el mínimo, porque el volumen total que reciben es el mismo. **Si te lo dan, los $289.222 desaparecen.** Es la llamada más rentable que podés hacer este mes.
+
+Segunda opción si dicen que no: **pedir condiciones de arranque por 2 o 3 meses.** Muchas logísticas las tienen.
+
+### Y esto es lo que decide el mes 1
+
+Con despacho semanal, la lista de espera importa todavía más:
+
+| Lista de espera | Pedidos mes 1 | Por jueves |
+|---:|---:|---:|
+| 150 anotados | 64 | 14,8 |
+| 250 | 84 | 19,4 |
+| 400 | 114 | 26,3 |
+| **500** | **134** | **30,9** ✅ |
+
+**Para que el despacho semanal no cueste nada desde el día uno hacen falta 130 pedidos en el mes 1**, o sea unos 500 anotados. Es mucho para septiembre.
+
+Por eso el plan realista es: **juntar toda la lista que se pueda, negociar el mínimo mensual con Smart Post, y presupuestar los fantasmas que queden.**
 
 ---
 

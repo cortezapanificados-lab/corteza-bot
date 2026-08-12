@@ -14,7 +14,9 @@ Registro con fecha de decisiones, avances y charlas importantes. Las entradas m�
 
 **Dos hallazgos operativos del mes 1:**
 
-1. **Despacho quincenal en los meses 1 y 2.** Concentra los pedidos y elimina el costo de los envíos fantasma del mínimo de 30. Encaja con el Plan Casa quincenal. Se pasa a semanal en el mes 3.
+1. **Despacho SEMANAL desde el día 1 — decidido.** Se evaluó arrancar quincenal para esquivar el mínimo de 30 y **se descartó por marca**: el concepto es "el jueves hay pan" y arrancar cada 15 días para después cambiar rompe el ritual. Tiene un costo de **$289.222 en envíos fantasma durante la rampa** ($234.748 el mes 1, $54.474 el mes 2, cero desde el mes 3), y el mes 1 cierra en **−$171.396** con una inversión total de arranque de $734.748.
+
+   **Antes de dar ese costo por hecho: negociar con Smart Post un mínimo MENSUAL en vez de por despacho** ("con cuatro despachos te garantizo 120 envíos, pero repartidos desigual mientras arranco"). Es mucho más aceptable para ellos porque reciben el mismo volumen total, y si lo dan los $289.222 desaparecen. Es la gestión más rentable del mes.
 
 2. **La lista de espera decide el resultado del mes 1.** Sin lista: 40 pedidos, 18,4 por despacho, $98.367 de envíos fantasma, resultado **−$311.594**. Con una lista de 150 que convierta 20%: 70 pedidos, 32,3 por despacho, sin fantasmas, resultado **+$63.352**. **Son $375.000 de diferencia**, porque la lista suma pedidos y además hace superar el mínimo desde el día uno.
 
