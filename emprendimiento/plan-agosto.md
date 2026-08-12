@@ -131,34 +131,46 @@ Clientes esperados en el escenario base: **20 de influencers + 23 de Meta = 43.*
 
 Se evaluó arrancar quincenal para esquivar el mínimo de 30, y **se descartó por razones de marca**: todo el concepto es "el jueves hay pan", y arrancar cada 15 días para después cambiar rompe el ritual y confunde al cliente que entra a la tienda.
 
-**Es la decisión correcta, pero tiene precio y hay que presupuestarlo:**
+**Es la decisión correcta, pero tiene precio y hay que presupuestarlo.**
 
-| Mes | Pedidos | Por jueves | Envíos fantasma |
-|---:|---:|---:|---:|
-| 1 | 70 | 16,2 | **$234.748** |
-| 2 | 116 | 26,8 | $54.474 |
-| 3 | 149 | 34,4 | $0 |
-| 4 | 172 | 39,7 | $0 |
-| | | **Total rampa** | **$289.222** |
+### La fecha de lanzamiento cambia mucho el costo
 
-**El mes 1 queda así:**
+**Septiembre 2026 tiene 4 jueves: 3, 10, 17 y 24.** Y como en la rampa sobran despachos y faltan pedidos, **cuantos menos despachos, menos envíos fantasma:**
 
-| | |
-|---|---:|
-| Operativo antes de fantasmas | $563.352 |
-| − Envíos fantasma | −$234.748 |
-| − Publicidad | −$500.000 |
-| **= Resultado mes 1** | **−$171.396** |
+| Lanzás el | Despachos | Por despacho | Fantasmas | Resultado mes 1 |
+|---|---:|---:|---:|---:|
+| jueves 3 | 4 | 17,5 | $195.950 | −$132.598 |
+| **jueves 10** | **3** | **23,3** | **$78.380** | **−$15.028** |
+| jueves 17 | 2 | 35,0 | $0 | +$63.352 |
 
-**Inversión total del arranque: $734.748** (publicidad + fantasmas). A partir del mes 3 el costo extra desaparece solo.
+> **Recomendación: lanzar el jueves 10 de septiembre.** Te ahorra $117.570 contra lanzar el 3, te da una semana más de preparación, y deja el mes 1 casi en cero en vez de en −$132.598.
+
+Lanzar el 17 sería aún mejor en plata, pero perdés una semana entera de venta y retrasás toda la rampa. El 10 es el punto justo.
+
+### El calendario del lanzamiento
+
+| Cuándo | Qué |
+|---|---|
+| **Lunes 7/9, 14:00** | Cierra el primer pedido |
+| Miércoles 9/9 | Recepción de mercadería |
+| **Jueves 10/9** | **PRIMER DESPACHO** |
+| Jueves 17/9 | Segundo |
+| Jueves 24/9 | Tercero |
+| Jueves 1/10 | Arranca octubre |
+
+### Ojo con octubre: tiene 5 jueves
+
+Octubre tiene jueves 1, 8, 15, 22 y 29. Ese jueves de más **te reparte los pedidos más finito y te cuesta más**: con 116 pedidos en 5 despachos son 23,2 por despacho y **$133.246 de fantasmas**, contra los $54.474 que daría con 4 despachos.
+
+Es otro argumento para la negociación de abajo: **con un mínimo mensual, la cantidad de jueves deja de importar.**
 
 ### La llamada que puede ahorrar $289.222
 
 Antes de dar por hecho ese costo, **hay una negociación concreta que hacer con Smart Post**, y no es "bajame el mínimo":
 
-> *"¿Me pueden dar un **mínimo mensual** en vez de por despacho? Con cuatro despachos al mes te garantizo 120 envíos, pero repartidos desigual mientras arranco."*
+> *"¿Me pueden dar un **mínimo mensual** en vez de por despacho? Te garantizo el volumen del mes, pero repartido desigual mientras arranco."*
 
-Es mucho más aceptable para ellos que bajar el mínimo, porque el volumen total que reciben es el mismo. **Si te lo dan, los $289.222 desaparecen.** Es la llamada más rentable que podés hacer este mes.
+Es mucho más aceptable para ellos que bajar el mínimo, porque el volumen total que reciben es el mismo. **Si te lo dan, desaparecen los fantasmas de toda la rampa** — más de $200.000 solo entre septiembre y octubre — **y además deja de importar cuántos jueves tenga cada mes.** Es la llamada más rentable que podés hacer este mes.
 
 Segunda opción si dicen que no: **pedir condiciones de arranque por 2 o 3 meses.** Muchas logísticas las tienen.
 

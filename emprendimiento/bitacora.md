@@ -2,6 +2,22 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 10/08/2026 — Fecha de lanzamiento: jueves 10 de septiembre
+
+Septiembre 2026 tiene **4 jueves: 3, 10, 17 y 24** (ningún mes puede tener 3). Como durante la rampa sobran despachos y faltan pedidos, **cuantos menos despachos haya en el mes, menos envíos fantasma se pagan:**
+
+| Lanzando el | Despachos | Por despacho | Fantasmas | Resultado mes 1 |
+|---|---:|---:|---:|---:|
+| jueves 3 | 4 | 17,5 | $195.950 | −$132.598 |
+| **jueves 10** | **3** | **23,3** | **$78.380** | **−$15.028** |
+| jueves 17 | 2 | 35,0 | $0 | +$63.352 |
+
+**Se define lanzar el jueves 10 de septiembre:** ahorra $117.570 contra el 3, da una semana más de preparación y deja el mes 1 casi en cero. Lanzar el 17 sería mejor en plata pero retrasa toda la rampa.
+
+Calendario: cierre del primer pedido el **lunes 7/9 a las 14:00**, recepción el miércoles 9, **primer despacho el jueves 10**, después 17 y 24.
+
+**Detectado: octubre tiene 5 jueves** (1, 8, 15, 22, 29), y ese jueves de más reparte los pedidos más finito: $133.246 de fantasmas contra los $54.474 que daría con 4 despachos. Es un argumento más para negociar el mínimo mensual con Smart Post — **con mínimo mensual deja de importar cuántos jueves tenga el mes.**
+
 ## 10/08/2026 — Presupuesto del mes 1: $500.000 y el peso de la lista de espera
 
 **Definido: $500.000 de bolsillo para publicidad del mes 1.** Reparto: $135.000 en 10 influencers por canje, $120.000 en Meta las primeras dos semanas para aprender el CAC y $245.000 para escalar si cierra. Escenario base: 43 clientes nuevos (hacen falta 40).
