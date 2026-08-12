@@ -46,14 +46,23 @@ Las cuatro piezas que tienen que estar antes de traer gente.
 
 ### a) La caja de presentación y los envíos de CABA
 
-**Caja de presentación: ~$16.100, con envío sin cargo.** 1 pan de molde blanco rebanado + 1 paquete de grisines.
+**Caja de presentación: ~$16.100.** 1 pan de molde blanco rebanado + 1 paquete de grisines.
 
 **Envíos en CABA:**
-- **Umbral general: envío sin cargo desde $25.000**
-- **Primera compra: envío sin cargo siempre**, sin importar el monto
-- Debajo del umbral: **cobrar $4.200** (no $4.000 — el costo es $3.919 y hay que recargarle la comisión de Pago Nube)
+- **Umbral general: envío sin cargo desde $35.000** (1,3 veces el ticket promedio de $27.038, que es donde funciona mejor)
+- Debajo del umbral: **cobrar $4.200** (el costo es $3.919 y hay que recargarle la comisión de Pago Nube)
+- **Nada de "envío gratis en la primera compra" como regla abierta**: es gameable con otro mail. En su lugar, **códigos de descuento por canal** con usos limitados.
 
-Los dos umbrales conviven: el general empuja el ticket, y el de primera compra hace que la caja de presentación de $16.100 funcione como oferta de entrada. Regalar el envío una vez por cliente cuesta $3.919 contra un CAC objetivo de $15.000: es el 26%, y es lo que más convierte.
+**Los códigos son un costo y va contado en el CAC, no aparte:**
+
+| CAC en Meta | + envío regalado | **CAC real** |
+|---:|---:|---:|
+| $8.000 | $3.919 | $11.919 |
+| $12.000 | $3.919 | **$15.919** |
+
+Para un CAC total objetivo de $15.000, **el techo de pago en Meta es $11.081**.
+
+Y los códigos por canal (`LUCIA10`, `META-SEP`) resuelven algo más: **te dicen quién trajo a cada cliente**, que es la única forma de medir el CAC por canal.
 
 ### b) La suscripción — los tres planes
 
@@ -100,6 +109,43 @@ Gratis, dos minutos, y necesita tiempo para juntar datos. Cuanto antes esté, me
 Y necesita que la tienda ya esté lista: cuando publiquen, sus seguidores van a entrar a tu web, y tiene que haber reseñas y una caja accesible esperándolos.
 
 Contactá 15, cerrá 10, que publiquen en las dos primeras semanas del lanzamiento.
+
+---
+
+## El mes 1: los $500.000 y por qué la lista de espera lo decide todo
+
+Presupuesto comprometido: **$500.000 de bolsillo para publicidad del mes 1.**
+
+### Cómo repartirlos
+
+| | |
+|---|---:|
+| 10 influencers × $13.500 de producto | $135.000 |
+| Meta semanas 1-2 (aprender el CAC) | $120.000 |
+| Meta semanas 3-4 (escalar si el CAC cierra) | $245.000 |
+| **Total** | **$500.000** |
+
+Clientes esperados en el escenario base: **20 de influencers + 23 de Meta = 43.** Hacen falta 40.
+
+### Despacho quincenal en los meses 1 y 2
+
+El mínimo de 30 de Smart Post se paga aunque despaches menos. Con pocos pedidos, **despachar cada 15 días en vez de todas las semanas concentra el volumen y elimina el costo de los envíos fantasma.**
+
+Y encaja perfecto con el Plan Casa quincenal. A partir del mes 3, cuando el volumen aguante, se pasa a semanal.
+
+### Y acá está lo que decide el mes 1
+
+| Escenario | Pedidos mes 1 | Por despacho | Envíos fantasma | Resultado con publicidad |
+|---|---:|---:|---:|---:|
+| **Sin lista de espera** | 40 | 18,4 | $98.367 | **−$311.594** |
+| **Lista de 150, convierte 20%** | 70 | 32,3 | $0 | **+$63.352** |
+| Lista de 150, convierte 25% | 78 | 35,9 | $0 | +$137.106 |
+
+**La diferencia entre lanzar con lista y sin lista es de $375.000 en el primer mes.**
+
+No es solo que la lista te trae pedidos: es que **te hace superar los 30 por despacho desde el día uno**, y ahí desaparece el costo de los envíos fantasma. Los dos efectos se suman.
+
+> **Conclusión: juntar 150 anotados antes de lanzar no es opcional. Es lo que decide si el mes 1 cierra en +$63.000 o en −$311.000.**
 
 ---
 

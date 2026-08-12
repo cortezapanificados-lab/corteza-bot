@@ -2,6 +2,24 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 10/08/2026 — Presupuesto del mes 1: $500.000 y el peso de la lista de espera
+
+**Definido: $500.000 de bolsillo para publicidad del mes 1.** Reparto: $135.000 en 10 influencers por canje, $120.000 en Meta las primeras dos semanas para aprender el CAC y $245.000 para escalar si cierra. Escenario base: 43 clientes nuevos (hacen falta 40).
+
+**Corrección al modelo tras una observación válida:** los códigos de descuento y el envío regalado de la primera compra son un costo y no estaban contados. **Van dentro del CAC, no aparte:** CAC real = lo pagado en Meta + $3.919 de envío. Para un CAC total objetivo de $15.000, el techo de pago en Meta es $11.081.
+
+**Se descarta la regla abierta de "envío gratis en la primera compra"** porque es gameable con otro mail. En su lugar, **códigos por canal con usos limitados**, que además permiten medir el CAC por canal.
+
+**Umbral de envío definido en $35.000** (1,3 veces el ticket promedio de $27.038, que es la colocación estándar). Con $25.000 se regalaban 86 envíos mensuales y se comía el 72% del presupuesto de publicidad. No hay datos duros del mercado argentino sobre tolerancia al costo de envío: se define por regla de colocación y **se mide en el test de Meta**.
+
+**Dos hallazgos operativos del mes 1:**
+
+1. **Despacho quincenal en los meses 1 y 2.** Concentra los pedidos y elimina el costo de los envíos fantasma del mínimo de 30. Encaja con el Plan Casa quincenal. Se pasa a semanal en el mes 3.
+
+2. **La lista de espera decide el resultado del mes 1.** Sin lista: 40 pedidos, 18,4 por despacho, $98.367 de envíos fantasma, resultado **−$311.594**. Con una lista de 150 que convierta 20%: 70 pedidos, 32,3 por despacho, sin fantasmas, resultado **+$63.352**. **Son $375.000 de diferencia**, porque la lista suma pedidos y además hace superar el mínimo desde el día uno.
+
+**Juntar 150 anotados antes de lanzar dejó de ser recomendable y pasó a ser la condición del lanzamiento.**
+
 ## 10/08/2026 — Plan de agosto: el orden de las tareas y el diseño de la suscripción
 
 Ante la sensación de que era mucho junto (combo barato + suscripción + influencers + Meta + reseñas), se ordenó todo con un principio: **primero la casa, después las visitas.** Los influencers y Meta solo mandan gente a la tienda; si la tienda no está lista, se quema el tráfico y la plata.
