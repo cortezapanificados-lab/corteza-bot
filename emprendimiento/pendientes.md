@@ -7,7 +7,11 @@ Tareas y temas abiertos del emprendimiento. Ordenados por prioridad.
 ## 🚀 LANZAMIENTO: jueves 17 de septiembre — plan completo en `plan-lanzamiento.md`
 
 **Meta de la semana 1 (10-16 ago):**
-- [ ] 🔥 **Dejar corriendo la captura de lista de espera** (cartel en Tiendanube, posteo fijo en Instagram, respuesta automática de WhatsApp). Pedir mail **y zona**. Objetivo: **150 anotados al 14/9**, o sea 27 por semana.
+- [ ] 🔥 **Dejar corriendo la captura de lista de espera.** Textos y paso a paso listos en `textos/captura-lista-caba.md`. Método: **barra de anuncio en Tiendanube → Google Form** (el newsletter nativo no guarda la zona). Objetivo: **150 anotados al 14/9**, o sea 33 por semana.
+  - [ ] Armar el Google Form (4 preguntas) y acortar el link
+  - [ ] Barra de anuncio en Tiendanube apuntando al form
+  - [ ] Posteo fijo de Instagram + bio con el link del form
+  - [ ] Mensaje de ausencia y respuesta rápida `/caba` en WhatsApp Business
 - [ ] 🔥 **Llamar a Smart Post: pedir mínimo MENSUAL en vez de por despacho.** Vale $133.246 solo en octubre.
 - [ ] Instalar el píxel de Meta.
 - [ ] Mandar los 21 mensajes de reseñas (`textos/mensajes-resenas.md`).
