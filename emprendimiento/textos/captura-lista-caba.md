@@ -19,6 +19,18 @@ El newsletter nativo de Tiendanube solo guarda el mail. Y el mail solo no te sir
 
 La contra: un clic de más. Se pierde algo de gente. Pero un anotado sin zona no te sirve para nada, así que es un clic bien gastado.
 
+### Se pide WhatsApp, no mail
+
+El formulario pide **nombre, WhatsApp y zona. Nada más.** Tres campos, quince segundos.
+
+Es la decisión correcta por dos motivos: se anota más gente cuanto menos hay que llenar, y **un mensaje de WhatsApp lo abre el 90% de la gente y un mail el 25%**. Para avisar de una apertura puntual, WhatsApp gana por lejos.
+
+**Pero hay una trampa que hay que tapar sí o sí:** las listas de difusión de WhatsApp **solo le llegan a quien tenga tu número agendado**. Si alguien se anota y no te guarda, el mensaje del 9 de septiembre no le llega nunca y vos no te enterás.
+
+Por eso la pantalla de confirmación del formulario pide dos cosas: **que guarden el número** y **que te manden un mensaje** con un botón. Con eso el contacto queda abierto y la difusión llega.
+
+Del mail no te preocupes: **Tiendanube te lo captura solo en el checkout** de cada compra, así que igual vas a tener la casilla de todos los que compren.
+
 ---
 
 ## PASO 1 — El Google Form
@@ -32,14 +44,16 @@ Andá a **forms.google.com** → formulario en blanco. Cargá esto:
 > En septiembre empezamos a repartir en CABA y alrededores.
 > Dejanos tus datos y te avisamos primero, antes de que abramos al público.
 >
-> Son 30 segundos. No mandamos spam.
+> Son 3 datos, 15 segundos. Te escribimos una sola vez, cuando abramos.
 
-### Las preguntas (5 — no agregues más)
+### Las preguntas (3 — no agregues ni una más)
 
 **1. ¿Cómo te llamás?** · Respuesta corta · Obligatoria
 
-**2. Tu mail** · Respuesta corta · Obligatoria
-*(Activá la validación: Respuesta corta → ⋮ → Validación de respuestas → Texto → Dirección de correo)*
+**2. Tu WhatsApp** · Respuesta corta · Obligatoria
+> Con característica, sin el 15. Ej: 11 5555 4444
+
+*(Validación: Respuesta corta → ⋮ → Validación de respuestas → **Longitud** → Cantidad mínima de caracteres → **8**. Así te frena los números escritos a medias sin trabar a nadie que use guiones o espacios.)*
 
 **3. ¿De dónde sos?** · Desplegable · Obligatoria
 
@@ -49,24 +63,25 @@ CABA
 Zona Norte
 Zona Oeste
 Zona Sur
-Zona Este
 ```
-
-**4. ¿Barrio o localidad?** · Respuesta corta · Obligatoria
-> Palermo, Vicente López, San Isidro, lo que sea.
-
-**Este campo es el que te dice cuánto te cuesta el envío.** La zona sola no alcanza: Vicente López es Cordón 1 ($6.265) y Pilar es Cordón 3 ($8.196), y los dos son "Zona Norte". Son $2.000 de diferencia por pedido, y define si podés regalar el envío o no. Es una palabra, no agrega fricción.
-
-**5. WhatsApp (opcional)** · Respuesta corta · **No obligatoria**
-> Para avisarte el día que abrimos. Nada más.
 
 ### Mensaje de confirmación
 *(Configuración → Presentación → Mensaje de confirmación)*
 
+**Este texto es tan importante como el formulario.** Es lo que hace que el aviso del 9 de septiembre efectivamente llegue.
+
 > **Listo, ya estás en la lista 🌾**
 >
-> Te vamos a escribir apenas abramos en tu zona.
-> Mientras tanto, si querés ver qué vas a poder pedir: **[link a la tienda]**
+> Un último paso para que el aviso te llegue:
+>
+> **1. Guardá nuestro número: 11 5415-3989** (WhatsApp solo entrega los avisos a quien nos tenga agendados).
+> **2. Mandanos un "hola" 👉 [link de wa.me]**
+>
+> Con eso te avisamos el día que abrimos en tu zona.
+>
+> Mientras tanto, mirá qué vas a poder pedir: **[link a la tienda]**
+
+**Cómo armar el link de wa.me:** es `https://wa.me/5491154153989` (54 + 9 + tu número sin el 15 y sin espacios). Si querés que el mensaje ya venga escrito, le agregás `?text=Hola!%20Me%20anoté%20en%20la%20lista`. Probalo desde tu celular antes de publicarlo.
 
 ### Al terminar
 Apretá **Enviar** → pestaña del eslabón 🔗 → **Acortar URL** → copiá ese link. Ese es el link que va en todos lados.
@@ -112,7 +127,7 @@ Si el tema te deja elegir color, poné el fondo en un tono cálido (el verde o e
 >
 > **Arrancamos el jueves 17 de septiembre.** Los de la lista se enteran primero y entran antes.
 >
-> 📩 **Link en la bio para anotarte.** Son 30 segundos.
+> 📲 **Link en la bio para anotarte.** Son tres datos, 15 segundos.
 >
 > #harinasagroecologicas #masamadre #agroecologia #comidareal #caba #palermo #villacrespo #colegiales #belgrano #panartesanal #sinagrotoxicos #alimentacionconsciente
 
@@ -166,9 +181,11 @@ Configurala con el atajo `/caba` y la mandás con dos toques:
 
 ## PASO 5 — Qué hacés con la lista después
 
-Guardá estos dos mensajes, son los que convierten la lista en pedidos.
+Guardá estos dos mensajes, son los que convierten la lista en pedidos. **Los dos van por WhatsApp**, con una lista de difusión armada solo con los que pusieron **CABA**.
 
-### Mail/WhatsApp del **miércoles 9 de septiembre** — el aviso
+**Antes de mandar el primero, hacé esta prueba:** mandá un mensaje cualquiera a la difusión desde una semana antes y fijate cuántos rebotan o no muestran entrega. A los que no les llega es porque no te agendaron — a esos escribiles uno por uno. Con 150 anotados no son tantos, y es la diferencia entre que el lanzamiento salga o no.
+
+### WhatsApp del **miércoles 9 de septiembre** — el aviso
 
 *(A los que pusieron CABA)*
 
@@ -215,7 +232,4 @@ Si el 31/8 no llegaste a 100, ahí es donde entra la plata de Meta a acelerar (s
 
 Y mirá también **el mix por zona**. Si te da que más de la mitad no son de CABA, el mensaje está apuntando mal y hay que corregirlo antes de poner plata en publicidad.
 
-Con la columna de **barrio o localidad** hacés dos cosas más:
-
-- **Ver si Meta está pegando donde querés.** Si pusiste plata en Palermo, Villa Crespo, Colegiales y Belgrano y los anotados vienen de Flores y Mataderos, el público está mal armado.
-- **Saber el costo real de los que no son de CABA.** Los de Vicente López o San Isidro (Cordón 1, $6.265) son rescatables. Los de Pilar y Escobar (Cordón 3, $8.196) no: a esos les cobrás el envío completo.
+**Los que no son de CABA no se descartan, pero se les habla distinto:** a ellos el envío les sale entre $6.265 y $8.196 y no se los podés regalar. Van en otra difusión, con el precio del envío dicho de frente. La localidad exacta la vas a tener igual cuando compren, en los datos del checkout.
