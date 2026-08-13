@@ -15,6 +15,7 @@ Tareas y temas abiertos del emprendimiento. Ordenados por prioridad.
 - [ ] 🔥 **Llamar a Smart Post: pedir mínimo MENSUAL en vez de por despacho.** Vale $133.246 solo en octubre.
 - [ ] Instalar el píxel de Meta.
 - [ ] Mandar los 21 mensajes de reseñas (`textos/mensajes-resenas.md`).
+- [ ] **Confirmar con Smart Post tres cosas antes de gastar en publicidad** (ver `zonas-amba-ranking.md`): que Nordelta sea Cordón 2 y no 3; que entren a los barrios cerrados y si dejan en la casa o en la garita; que Beccar y Acassuso estén en Cordón 1.
 - [ ] Hablar con el contador por el monotributo (con $51M anuales proyectados se sale del régimen).
 
 **Regla que no se negocia:** no lanzar el 17 con menos de 100 anotados. Si no se llega, correr al 24/9.
@@ -34,7 +35,7 @@ Septiembre: se termina el reparto propio, todo por Smart Post, foco de captació
 - [ ] **Contactar 15 micro-influencers de alimentación consciente de CABA y cerrar 10** para el mes del lanzamiento. Es el canal de mejor retorno: una caja de canje cuesta $13.500 reales y si trae 3 clientes el CAC es $4.500.
 - [ ] Armar la **caja de presentación de ~$16.100 con envío sin cargo** (la Promo de $28.900 es mucho para un primer pedido en CABA).
 - [ ] Montar la **suscripción semanal** (8% off). Objetivo: 30% de los clientes de CABA suscriptos.
-- [ ] **Test de Meta de $30.000** en Palermo, Villa Crespo, Colegiales y Belgrano para conocer el CAC real antes de comprometer presupuesto.
+- [ ] **Test de Meta de $120.000 en tres conjuntos** (San Isidro-Martínez / Palermo-Villa Crespo-Colegiales-Belgrano / Nordelta con pin y radio de 3 km), $40.000 cada uno, mismo anuncio con el nombre de la zona cambiado. Ranking completo y textos en `zonas-amba-ranking.md`. **No más de 3 zonas a la vez**: con más, Meta no sale de la fase de aprendizaje.
 - [ ] Configurar umbrales de envío: **CABA sin cargo desde $15.000**, Cordón 1 desde $20.400, Cordón 2 y 3 desde $26.700.
 - [ ] Presupuestar los envíos fantasma del arranque (~$240.000 el mes 1, $56.000 el mes 2). Evaluar despachar cada 15 días hasta pasar los 30 estables.
 - [ ] **Reescribir la comunicación poniendo "harinas 100% agroecológicas" como titular**, no la masa madre: en CABA la masa madre no diferencia.

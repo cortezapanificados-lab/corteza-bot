@@ -86,6 +86,14 @@ Zona Sur
 ### Al terminar
 Apretá **Enviar** → pestaña del eslabón 🔗 → **Acortar URL** → copiá ese link. Ese es el link que va en todos lados.
 
+### Un link distinto por anuncio (para los anuncios por zona)
+
+Si vas a hacer un anuncio por zona (ver `zonas-amba-ranking.md`), Google Forms te deja armar **links con la zona ya elegida**: el que viene del anuncio de Nordelta abre el formulario con "Zona Norte" puesto y solo completa dos campos.
+
+Cómo: ⋮ (arriba a la derecha) → **Obtener vínculo prellenado** → elegís la zona → **Obtener vínculo** → copiás. Uno por zona.
+
+Sirve para dos cosas: **baja la fricción** y **te dice de qué anuncio vino cada anotado** sin tener que agregar ninguna pregunta.
+
 Y en la pestaña **Respuestas** → ícono verde de Sheets → se te crea la planilla sola. Ahí vas a ver crecer los anotados.
 
 ---

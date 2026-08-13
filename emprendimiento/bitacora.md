@@ -2,6 +2,18 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 13/08/2026 — Ranking de zonas del AMBA para los anuncios localizados
+
+Idea de la dueña: hacer un anuncio por zona con el nombre del lugar en el titular ("El jueves 17 lanzamos en Nordelta"). La idea es buena —nombrar el barrio baja el costo del clic— pero tiene un límite duro: **Meta necesita unas 50 conversiones semanales por conjunto para salir de la fase de aprendizaje**, y con $500.000 en 4 semanas alcanza para unos 50 anotados semanales en total. **Máximo 3 zonas simultáneas**; con 8 el presupuesto se pulveriza. Se investigó y se armó `zonas-amba-ranking.md`.
+
+**El hallazgo principal: San Isidro, Martínez, Acassuso y Beccar son Cordón 1 ($6.265) y Nordelta es Cordón 2 ($8.196).** Mismo perfil socioeconómico o mejor, $1.931 menos por pedido — sobre 40 pedidos semanales son $334.000 mensuales, más de la mitad del presupuesto de publicidad. El corredor San Isidro pasa a ser la zona #1 del ranking, por encima de CABA y de Nordelta.
+
+**El otro concepto que ordenó el análisis:** con el recargo del 6,38%, si el cliente paga su envío la zona no le cuesta plata a Corteza — Nordelta deja lo mismo que Palermo. Lo que cambia por zona es **cuánta gente abandona el carrito al ver el envío**: $4.200 en CABA es el 17,5% de un pedido de $24.000, pero $8.800 en Nordelta es el 36,7%. De ahí las dos reglas: en CABA se regala el envío, en Cordón 2 y 3 no se regala, se empuja el pedido grande con bonificación parcial.
+
+Nordelta queda tercero pero es estratégico: 45.000-50.000 habitantes en 23-26 barrios dentro de un polígono chico (se targetea con un pin y 3 km de radio, lo más barato y preciso del AMBA) y es **Pilar del Lago a diez veces la escala**, o sea la única fórmula que ya le funcionó. Hay competencia (Craft Vegan Bakery en Nordelta, El Massa en Tigre) pero ninguno con el ángulo de harinas agroecológicas más curaduría.
+
+Se anotó también una palanca para más adelante: **un punto de retiro adentro de cada country** baja diez envíos a uno, pero recién sirve pasados los 30 pedidos estables por despacho — antes de eso consolidar te aleja del mínimo y pagás envíos fantasma igual.
+
 ## 13/08/2026 — Captura de lista de espera: textos listos y método definido
 
 Se resolvió cómo capturar el campo **zona**, que el newsletter nativo de Tiendanube no soporta. Método elegido: **barra de anuncio en Tiendanube que linkea a un Google Form**. Se descartó el formulario embebido con código (requiere tocar la plantilla) y el newsletter nativo solo (un mail sin zona no sirve: CABA se comunica distinto que zona norte, porque en CABA el envío se puede regalar y en Pilar no).
