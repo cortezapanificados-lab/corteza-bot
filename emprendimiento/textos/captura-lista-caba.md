@@ -35,6 +35,20 @@ Por eso la pantalla de confirmación pide dos cosas: **que guarden el número** 
 
 ## PASO 1 — El Google Form
 
+### El atajo: armarlo con un script (10 segundos)
+
+En `script-formulario-lista.gs` está el formulario entero escrito como programa. Hace todo solo: las 3 preguntas, la validación, el mensaje de confirmación y la planilla ya conectada.
+
+1. Entrá a **script.google.com** con tu cuenta → **Nuevo proyecto**
+2. Borrá todo lo que aparece y pegá el archivo entero
+3. Cambiá las tres líneas de arriba (teléfono y link de la tienda)
+4. **Ejecutar**
+5. Los links te aparecen abajo, en el "Registro de ejecución"
+
+⚠️ **La primera vez te va a pedir permiso y la pantalla asusta.** Va a decir *"Google no verificó esta aplicación"*. Es normal: la aplicación sos vos, es un script tuyo en tu propia cuenta. Apretá **Configuración avanzada** → **Ir a (no seguro)** → **Permitir**.
+
+### O a mano, si preferís
+
 Andá a **forms.google.com** → formulario en blanco. Cargá esto:
 
 ### Título del formulario
