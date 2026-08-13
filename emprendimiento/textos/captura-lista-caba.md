@@ -19,17 +19,17 @@ El newsletter nativo de Tiendanube solo guarda el mail. Y el mail solo no te sir
 
 La contra: un clic de más. Se pierde algo de gente. Pero un anotado sin zona no te sirve para nada, así que es un clic bien gastado.
 
-### Se pide WhatsApp, no mail
+### Tres campos: nombre, contacto y zona
 
-El formulario pide **nombre, WhatsApp y zona. Nada más.** Tres campos, quince segundos.
+El formulario pide **nombre, WhatsApp o mail (el que prefieran) y zona. Nada más.** Tres campos, quince segundos.
 
-Es la decisión correcta por dos motivos: se anota más gente cuanto menos hay que llenar, y **un mensaje de WhatsApp lo abre el 90% de la gente y un mail el 25%**. Para avisar de una apertura puntual, WhatsApp gana por lejos.
+**Se deja elegir el canal a propósito.** Hay gente que no le da el teléfono a una marca que no conoce, y esa gente sí deja el mail. Obligar a poner el número te haría perder anotados justo en CABA, que es donde nadie te conoce todavía.
 
-**Pero hay una trampa que hay que tapar sí o sí:** las listas de difusión de WhatsApp **solo le llegan a quien tenga tu número agendado**. Si alguien se anota y no te guarda, el mensaje del 9 de septiembre no le llega nunca y vos no te enterás.
+La contra es de trabajo, no de plata: te van a quedar los dos tipos de contacto mezclados en una misma columna y hay que separarlos para mandar. Se resuelve con una fórmula (está más abajo, en "Cómo medir").
 
-Por eso la pantalla de confirmación del formulario pide dos cosas: **que guarden el número** y **que te manden un mensaje** con un botón. Con eso el contacto queda abierto y la difusión llega.
+**Y hay una trampa de WhatsApp que hay que tapar sí o sí:** las listas de difusión **solo le llegan a quien tenga tu número agendado**. Si alguien se anota y no te guarda, el mensaje del 9 de septiembre no le llega nunca y vos no te enterás.
 
-Del mail no te preocupes: **Tiendanube te lo captura solo en el checkout** de cada compra, así que igual vas a tener la casilla de todos los que compren.
+Por eso la pantalla de confirmación pide dos cosas: **que guarden el número** y **que te manden un mensaje** con un botón. Con eso el contacto queda abierto y la difusión llega.
 
 ---
 
@@ -50,10 +50,10 @@ Andá a **forms.google.com** → formulario en blanco. Cargá esto:
 
 **1. ¿Cómo te llamás?** · Respuesta corta · Obligatoria
 
-**2. Tu WhatsApp** · Respuesta corta · Obligatoria
-> Con característica, sin el 15. Ej: 11 5555 4444
+**2. WhatsApp o mail** · Respuesta corta · Obligatoria
+> Como prefieras que te avisemos. Si es WhatsApp, con característica y sin el 15 (ej: 11 5555 4444).
 
-*(Validación: Respuesta corta → ⋮ → Validación de respuestas → **Longitud** → Cantidad mínima de caracteres → **8**. Así te frena los números escritos a medias sin trabar a nadie que use guiones o espacios.)*
+*(Validación: Respuesta corta → ⋮ → Validación de respuestas → **Longitud** → Cantidad mínima de caracteres → **7**. Frena las respuestas escritas a medias y no traba ni a un número con espacios ni a un mail corto.)*
 
 **3. ¿De dónde sos?** · Desplegable · Obligatoria
 
@@ -72,12 +72,12 @@ Zona Sur
 
 > **Listo, ya estás en la lista 🌾**
 >
-> Un último paso para que el aviso te llegue:
+> **Si nos dejaste tu WhatsApp**, un último paso para que el aviso te llegue:
 >
 > **1. Guardá nuestro número: 11 5415-3989** (WhatsApp solo entrega los avisos a quien nos tenga agendados).
 > **2. Mandanos un "hola" 👉 [link de wa.me]**
 >
-> Con eso te avisamos el día que abrimos en tu zona.
+> Te avisamos el día que abrimos en tu zona.
 >
 > Mientras tanto, mirá qué vas a poder pedir: **[link a la tienda]**
 
@@ -181,11 +181,11 @@ Configurala con el atajo `/caba` y la mandás con dos toques:
 
 ## PASO 5 — Qué hacés con la lista después
 
-Guardá estos dos mensajes, son los que convierten la lista en pedidos. **Los dos van por WhatsApp**, con una lista de difusión armada solo con los que pusieron **CABA**.
+Guardá estos dos mensajes, son los que convierten la lista en pedidos. Los mandás **solo a los que pusieron CABA**: por difusión de WhatsApp a unos, por mail con CCO a los otros. El texto es el mismo para los dos.
 
-**Antes de mandar el primero, hacé esta prueba:** mandá un mensaje cualquiera a la difusión desde una semana antes y fijate cuántos rebotan o no muestran entrega. A los que no les llega es porque no te agendaron — a esos escribiles uno por uno. Con 150 anotados no son tantos, y es la diferencia entre que el lanzamiento salga o no.
+**Antes de mandar el primero, hacé esta prueba:** mandá un mensaje cualquiera a la difusión una semana antes y fijate a cuántos les figura entregado. A los que no, es porque no te agendaron — a esos escribiles uno por uno. Con 150 anotados no son tantos, y es la diferencia entre que el lanzamiento salga o no.
 
-### WhatsApp del **miércoles 9 de septiembre** — el aviso
+### Miércoles 9 de septiembre — el aviso
 
 *(A los que pusieron CABA)*
 
@@ -204,7 +204,9 @@ Guardá estos dos mensajes, son los que convierten la lista en pedidos. **Los do
 >
 > 👉 [link a la tienda]
 
-### Mensaje del **lunes 14 a la mañana** — el cierre
+*(Si va por mail, el asunto: **"Abrimos en CABA el jueves 17 🌾"**)*
+
+### Lunes 14 a la mañana — el cierre
 
 > [nombre], **hoy a las 14:00 cerramos los pedidos** del primer reparto en CABA 🌾
 >
@@ -231,5 +233,19 @@ Mirá la planilla de Google **todos los domingos** y anotá el número.
 Si el 31/8 no llegaste a 100, ahí es donde entra la plata de Meta a acelerar (semana 3 y 4 del plan). Si el 7/9 vas muy abajo de 133, **corré el lanzamiento al 24/9** — está en la regla que no se negocia del `plan-lanzamiento.md`.
 
 Y mirá también **el mix por zona**. Si te da que más de la mitad no son de CABA, el mensaje está apuntando mal y hay que corregirlo antes de poner plata en publicidad.
+
+### Separar los WhatsApp de los mails
+
+Como el campo de contacto acepta las dos cosas, en la planilla te van a quedar mezclados. Se separan solos con una fórmula.
+
+En la primera celda vacía a la derecha (suponiendo que el contacto está en la **columna C**), pegá:
+
+```
+=SI(ESNUMERO(HALLAR("@";C2));"Mail";"WhatsApp")
+```
+
+Arrastrala para abajo y listo: te queda una columna que dice "Mail" o "WhatsApp" en cada fila. Después usás **Datos → Crear un filtro** y armás las dos listas por separado.
+
+**Para los que dejaron mail:** no hace falta ninguna herramienta. Copiás las direcciones, las pegás en el campo **CCO** de un mail común de Gmail y mandás uno solo. Gmail te deja hasta 500 por día, así que con 150 anotados vas sobrado. **Usá CCO siempre**, para que nadie vea la dirección de los demás.
 
 **Los que no son de CABA no se descartan, pero se les habla distinto:** a ellos el envío les sale entre $6.265 y $8.196 y no se los podés regalar. Van en otra difusión, con el precio del envío dicho de frente. La localidad exacta la vas a tener igual cuando compren, en los datos del checkout.

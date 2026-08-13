@@ -6,7 +6,9 @@ Registro con fecha de decisiones, avances y charlas importantes. Las entradas m�
 
 Se resolvió cómo capturar el campo **zona**, que el newsletter nativo de Tiendanube no soporta. Método elegido: **barra de anuncio en Tiendanube que linkea a un Google Form**. Se descartó el formulario embebido con código (requiere tocar la plantilla) y el newsletter nativo solo (un mail sin zona no sirve: CABA se comunica distinto que zona norte, porque en CABA el envío se puede regalar y en Pilar no).
 
-**El formulario quedó en 3 preguntas: nombre, WhatsApp y zona** (desplegable CABA / Zona Norte / Zona Oeste / Zona Sur). Decisión de la dueña: cuantos menos campos, más gente se anota. Se descartó pedir el mail —WhatsApp se abre mucho más y Tiendanube captura el mail solo en el checkout— y se descartó pedir barrio o localidad; el dato exacto para saber el cordón va a llegar igual con la primera compra. También se sacó "Zona Este", que en el AMBA no existe.
+**El formulario quedó en 3 preguntas: nombre, WhatsApp o mail (a elección) y zona** (desplegable CABA / Zona Norte / Zona Oeste / Zona Sur). Decisión de la dueña: cuantos menos campos, más gente se anota. Se descartó pedir barrio o localidad —el dato para saber el cordón llega igual con la primera compra— y se sacó "Zona Este", que en el AMBA no existe.
+
+El campo de contacto acepta las dos cosas para no perder a quien no le da el teléfono a una marca desconocida. El costo es de trabajo, no de plata: quedan mezclados en una columna y se separan con `=SI(ESNUMERO(HALLAR("@";C2));"Mail";"WhatsApp")`. Los mails se mandan con CCO desde Gmail (límite 500 por día, alcanza de sobra).
 
 **El riesgo que trae usar WhatsApp, y cómo se tapa:** las listas de difusión **solo entregan a quien tenga el número agendado**. Un anotado que no guarde el contacto nunca recibe el aviso del 9/9 y no queda registro. Por eso la pantalla de confirmación del formulario pide guardar el número y ofrece un botón de wa.me para que escriban primero, y una semana antes del lanzamiento hay que mandar un mensaje de prueba a la difusión y escribirle uno por uno a los que no reciben.
 

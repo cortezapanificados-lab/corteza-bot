@@ -8,7 +8,7 @@ Tareas y temas abiertos del emprendimiento. Ordenados por prioridad.
 
 **Meta de la semana 1 (10-16 ago):**
 - [ ] 🔥 **Dejar corriendo la captura de lista de espera.** Textos y paso a paso listos en `textos/captura-lista-caba.md`. Método: **barra de anuncio en Tiendanube → Google Form** (el newsletter nativo no guarda la zona). Objetivo: **150 anotados al 14/9**, o sea 33 por semana.
-  - [ ] Armar el Google Form (**3 preguntas: nombre, WhatsApp, zona**) y acortar el link. En la pantalla de confirmación: pedir que **guarden el número** y botón de wa.me — si no te agendan, la difusión no les llega.
+  - [ ] Armar el Google Form (**3 preguntas: nombre, WhatsApp o mail, zona**) y acortar el link. En la pantalla de confirmación: pedir que **guarden el número** y botón de wa.me — si no te agendan, la difusión no les llega.
   - [ ] Barra de anuncio en Tiendanube apuntando al form
   - [ ] Posteo fijo de Instagram + bio con el link del form
   - [ ] Mensaje de ausencia y respuesta rápida `/caba` en WhatsApp Business
