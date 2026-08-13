@@ -15,7 +15,7 @@ El newsletter nativo de Tiendanube solo guarda el mail. Y el mail solo no te sir
 - Gratis, sin apps, sin tocar código
 - Lo armás en 15 minutos
 - Los datos caen solos en una planilla ordenada
-- Podés filtrar por barrio y mandar mensajes distintos
+- Podés filtrar por zona y mandar mensajes distintos
 
 La contra: un clic de más. Se pierde algo de gente. Pero un anotado sin zona no te sirve para nada, así que es un clic bien gastado.
 
@@ -34,34 +34,30 @@ Andá a **forms.google.com** → formulario en blanco. Cargá esto:
 >
 > Son 30 segundos. No mandamos spam.
 
-### Las preguntas (solo 4 — no agregues más)
+### Las preguntas (5 — no agregues más)
 
 **1. ¿Cómo te llamás?** · Respuesta corta · Obligatoria
 
 **2. Tu mail** · Respuesta corta · Obligatoria
 *(Activá la validación: Respuesta corta → ⋮ → Validación de respuestas → Texto → Dirección de correo)*
 
-**3. ¿En qué barrio vivís?** · Desplegable · Obligatoria
+**3. ¿De dónde sos?** · Desplegable · Obligatoria
 
 Opciones (en este orden):
 ```
-Palermo
-Villa Crespo
-Colegiales
-Belgrano
-Núñez
-Villa Urquiza
-Caballito
-Recoleta
-Saavedra
-Chacarita
-Otro barrio de CABA
-Zona Norte (Vicente López, San Isidro, Olivos)
-Pilar / Escobar / Del Viso
-Otra zona del AMBA
+CABA
+Zona Norte
+Zona Oeste
+Zona Sur
+Zona Este
 ```
 
-**4. WhatsApp (opcional)** · Respuesta corta · **No obligatoria**
+**4. ¿Barrio o localidad?** · Respuesta corta · Obligatoria
+> Palermo, Vicente López, San Isidro, lo que sea.
+
+**Este campo es el que te dice cuánto te cuesta el envío.** La zona sola no alcanza: Vicente López es Cordón 1 ($6.265) y Pilar es Cordón 3 ($8.196), y los dos son "Zona Norte". Son $2.000 de diferencia por pedido, y define si podés regalar el envío o no. Es una palabra, no agrega fricción.
+
+**5. WhatsApp (opcional)** · Respuesta corta · **No obligatoria**
 > Para avisarte el día que abrimos. Nada más.
 
 ### Mensaje de confirmación
@@ -174,9 +170,9 @@ Guardá estos dos mensajes, son los que convierten la lista en pedidos.
 
 ### Mail/WhatsApp del **miércoles 9 de septiembre** — el aviso
 
-*(A los que pusieron barrio de CABA)*
+*(A los que pusieron CABA)*
 
-> **Abrimos en tu barrio el jueves 17. 🌾**
+> **Abrimos en tu zona el jueves 17. 🌾**
 >
 > Hola [nombre], te escribimos porque te anotaste en la lista de espera de Corteza.
 >
@@ -217,4 +213,9 @@ Mirá la planilla de Google **todos los domingos** y anotá el número.
 
 Si el 31/8 no llegaste a 100, ahí es donde entra la plata de Meta a acelerar (semana 3 y 4 del plan). Si el 7/9 vas muy abajo de 133, **corré el lanzamiento al 24/9** — está en la regla que no se negocia del `plan-lanzamiento.md`.
 
-Y mirá también **el mix por barrio**. Si te da que más de la mitad son de zona norte y no de CABA, el mensaje está apuntando mal y hay que corregirlo antes de poner plata en publicidad.
+Y mirá también **el mix por zona**. Si te da que más de la mitad no son de CABA, el mensaje está apuntando mal y hay que corregirlo antes de poner plata en publicidad.
+
+Con la columna de **barrio o localidad** hacés dos cosas más:
+
+- **Ver si Meta está pegando donde querés.** Si pusiste plata en Palermo, Villa Crespo, Colegiales y Belgrano y los anotados vienen de Flores y Mataderos, el público está mal armado.
+- **Saber el costo real de los que no son de CABA.** Los de Vicente López o San Isidro (Cordón 1, $6.265) son rescatables. Los de Pilar y Escobar (Cordón 3, $8.196) no: a esos les cobrás el envío completo.

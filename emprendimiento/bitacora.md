@@ -4,11 +4,13 @@ Registro con fecha de decisiones, avances y charlas importantes. Las entradas m�
 
 ## 13/08/2026 — Captura de lista de espera: textos listos y método definido
 
-Se resolvió cómo capturar el campo **zona**, que el newsletter nativo de Tiendanube no soporta. Método elegido: **barra de anuncio en Tiendanube que linkea a un Google Form** de 4 preguntas (nombre, mail, barrio en desplegable, WhatsApp opcional). Se descartó el formulario embebido con código (requiere tocar la plantilla) y el newsletter nativo solo (un mail sin zona no sirve: CABA se comunica distinto que zona norte, porque en CABA el envío se puede regalar y en Pilar no).
+Se resolvió cómo capturar el campo **zona**, que el newsletter nativo de Tiendanube no soporta. Método elegido: **barra de anuncio en Tiendanube que linkea a un Google Form**. Se descartó el formulario embebido con código (requiere tocar la plantilla) y el newsletter nativo solo (un mail sin zona no sirve: CABA se comunica distinto que zona norte, porque en CABA el envío se puede regalar y en Pilar no).
+
+**El formulario quedó en 5 preguntas:** nombre, mail, zona en desplegable (CABA / Zona Norte / Oeste / Sur / Este, simplificado a pedido de la dueña en vez de una lista larga de barrios), barrio o localidad en texto libre, y WhatsApp opcional. El campo de localidad se mantuvo obligatorio porque **la zona sola no determina el costo de envío**: Vicente López es Cordón 1 ($6.265) y Pilar es Cordón 3 ($8.196), y ambos son "Zona Norte". Sin ese dato no se puede decidir a quién regalarle el envío ni verificar si Meta está pegando en los 4 barrios elegidos.
 
 Quedó armado `textos/captura-lista-caba.md` con todo listo para copiar y pegar: el paso a paso del Google Form, tres variantes de la barra de Tiendanube, el posteo fijo de Instagram con la bio y la historia con encuesta, el mensaje de ausencia y la respuesta rápida `/caba` de WhatsApp Business, y los dos mensajes de conversión de la lista (aviso del miércoles 9/9 y cierre del lunes 14/9).
 
-**Recalculado el ritmo:** quedan 4 semanas y media hasta el 14/9, así que el objetivo pasa de 27 a **33 anotados por semana**. Se agregó la tabla de control semanal (33 / 66 / 100 / 133 / 150) y el segundo indicador a vigilar: **el mix por barrio**, porque si más de la mitad son de zona norte el mensaje está apuntando mal.
+**Recalculado el ritmo:** quedan 4 semanas y media hasta el 14/9, así que el objetivo pasa de 27 a **33 anotados por semana**. Se agregó la tabla de control semanal (33 / 66 / 100 / 133 / 150) y el segundo indicador a vigilar: **el mix por zona**, porque si más de la mitad no son de CABA el mensaje está apuntando mal.
 
 ## 10/08/2026 — PLAN DE LANZAMIENTO DEFINITIVO: jueves 17 de septiembre
 
