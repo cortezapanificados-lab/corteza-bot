@@ -2,6 +2,22 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 14/08/2026 — Captura en marcha: form, barra, píxel, posteo e historia
+
+Se ejecutó casi toda la semana 1 del plan de lanzamiento en un día. Quedó publicado: el **Google Form** de captura, la **barra de anuncio** en Tiendanube ("ESTAMOS POR ABRIR EN TODO AMBA — ANOTATE"), el **píxel de Meta**, el **posteo del feed** y la **primera historia**. El mensaje de ausencia automático de WhatsApp se descartó —las consultas las contesta ella—, y quedan las respuestas rápidas `/caba`, `/cierre` y `/envio`, que son atajos y no automatismos.
+
+**Decisiones de forma:** el formulario quedó en tres campos (nombre, WhatsApp o mail, zona) y el CTA pasó a ser **"activá tu recordatorio"** en vez de "anotate en la lista" —idea de la dueña, y es mejor: invierte quién le hace el favor a quién—. La condición fue alinear título, descripción y confirmación del formulario para que la promesa sea la misma de punta a punta. La bio quedó minimalista, como estaba: "100% agroecológico / Envíos a todo AMBA desde el 17 de septiembre / 👇 Activá tu recordatorio".
+
+**Las placas** se generan con `textos/generar-placas.py`, usando el **logo real** bajado de la tienda (se le aísla el canal alfa para teñirlo) más Playfair Display y Jost. Quedó una sola placa de historia —CABA está adentro del AMBA, así que la versión "¿Sos de CABA?" era redundante y dejaba afuera a Nordelta y San Isidro— y una tapa para la destacada.
+
+**Foto del feed:** se eligió la hogaza cortada al medio, recortada a 4:5, sin texto encima. Es la única de las tres que muestra la miga, que es la prueba visual de la fermentación larga. La estantería de la panadería queda de segunda en el carrusel: no genera deseo pero sí confianza, y además da para un posteo propio de curaduría ("nosotros no horneamos, elegimos").
+
+**Se desbloquearon las reseñas.** Estaban pospuestas porque no se quería abrir todavía el tema del envío con los clientes de Pilar, pero los textos de `mensajes-resenas.md` **no mencionan el envío ni los precios**: son solo el pedido de opinión. Se decidió mandarlos ya a los 11 clientes de dos pedidos o más, porque las reseñas tienen que estar publicadas antes del 31/8, cuando empiece a llegar tráfico pago de CABA. Plan completo en `textos/seccion-resenas.md`, con el mínimo de 4 reseñas para publicar y la regla de no poner solo cinco estrellas.
+
+**Fichas nuevas escritas:** kéfir de agua (tradicional e hibiscus) y las dos líneas de Booch Kombucha, la clásica y la funcional. En la funcional se decidió **vender el momento del día en vez del efecto** ("es la de la mañana") y no repetir "foco", "energía" y "calma": el Código Alimentario es estricto con las propiedades atribuidas a alimentos y los hongos adaptógenos son el rubro más mirado. Falta el costo de cada producto para calcular márgenes.
+
+Además se limpió `pendientes.md`, que tenía el píxel repetido tres veces y varias tareas duplicadas. Ahora está ordenado por semana del plan.
+
 ## 13/08/2026 — Ranking de zonas del AMBA para los anuncios localizados
 
 Idea de la dueña: hacer un anuncio por zona con el nombre del lugar en el titular ("El jueves 17 lanzamos en Nordelta"). La idea es buena —nombrar el barrio baja el costo del clic— pero tiene un límite duro: **Meta necesita unas 50 conversiones semanales por conjunto para salir de la fase de aprendizaje**, y con $500.000 en 4 semanas alcanza para unos 50 anotados semanales en total. **Máximo 3 zonas simultáneas**; con 8 el presupuesto se pulveriza. Se investigó y se armó `zonas-amba-ranking.md`.

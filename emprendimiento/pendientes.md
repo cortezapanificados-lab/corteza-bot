@@ -1,113 +1,124 @@
 # Pendientes
 
-Tareas y temas abiertos del emprendimiento. Ordenados por prioridad.
+Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
 
 ---
 
 ## 🚀 LANZAMIENTO: jueves 17 de septiembre — plan completo en `plan-lanzamiento.md`
 
-**Meta de la semana 1 (10-16 ago):**
-- [ ] 🔥 **Dejar corriendo la captura de lista de espera.** Textos y paso a paso listos en `textos/captura-lista-caba.md`. Objetivo: **150 anotados al 14/9**, o sea 33 por semana.
-  - [x] ~~Armar el Google Form~~ → ✅ **hecho el 14/08.**
-  - [x] ~~Barra de anuncio en Tiendanube apuntando al form~~ → ✅ **publicada el 14/08** ("ESTAMOS POR ABRIR EN TODO AMBA — ANOTATE").
-  - [ ] Posteo fijo de Instagram + bio con el link del form
-  - [x] ~~Mensaje de ausencia de WhatsApp~~ → **descartado por decisión propia**, las consultas las contesta ella. Queda pendiente cargar la **respuesta rápida `/caba`**, que no es automática: es un atajo para no reescribir lo mismo treinta veces.
-- [x] ~~Instalar el píxel de Meta~~ → ✅ **hecho el 14/08**, cargado en Tiendanube.
-- [ ] 🔥 **Llamar a Smart Post** *(esperando respuesta, prometieron el 14/08 a la tarde)*. Cuatro cosas en la misma llamada: (1) pedir **mínimo MENSUAL** en vez de por despacho — vale $133.246 solo en octubre; (2) confirmar si **Nordelta es Cordón 2 o 3**; (3) si **entran a los barrios cerrados** y si dejan en la casa o en la garita; (4) si **Beccar y Acassuso** están en Cordón 1. Los tres últimos destraban la campaña (ver `zonas-amba-ranking.md`).
-- [ ] Instalar el píxel de Meta.
-- [ ] 🔥 **Mandar los mensajes de reseñas a los 11 clientes de 2 pedidos o más.** Se habían pospuesto por no querer abrir el tema del envío, pero **los textos no mencionan el envío ni los precios**: son solo el pedido de opinión. Tienen que estar publicadas antes del 31/8, cuando empiece a llegar tráfico pago de CABA. Textos en `textos/mensajes-resenas.md`, plan completo en `textos/seccion-resenas.md`.
-- [ ] Cargar en la tienda las fichas nuevas: **kéfir de agua** (tradicional e hibiscus) y las **dos líneas de Booch Kombucha** (clásica y funcional). Textos escritos en la charla del 14/08. Falta el costo de cada uno para calcular margen.
-- [ ] Hablar con el contador por el monotributo (con $51M anuales proyectados se sale del régimen).
-
 **Regla que no se negocia:** no lanzar el 17 con menos de 100 anotados. Si no se llega, correr al 24/9.
 
-## 🎯 Objetivo de fondo: 40 pedidos por semana en CABA (ver `estrategia-caba.md`)
+### Semana 1 (10-16 ago) — la máquina de anotados
 
-Septiembre: se termina el reparto propio, todo por Smart Post, foco de captación en CABA. Se llega al objetivo en 4 meses con 40 clientes nuevos por mes y recompra del 70%.
+- [x] ~~Google Form de captura~~ → ✅ **14/08**
+- [x] ~~Barra de anuncio en Tiendanube~~ → ✅ **14/08** ("ESTAMOS POR ABRIR EN TODO AMBA — ANOTATE")
+- [x] ~~Píxel de Meta~~ → ✅ **14/08**, cargado en Tiendanube
+- [x] ~~Posteo del feed + historia~~ → ✅ **14/08**
+- [x] ~~Mensaje de ausencia de WhatsApp~~ → **descartado**, las consultas las contesta ella
+- [ ] Cargar las respuestas rápidas de WhatsApp: `/caba`, `/cierre`, `/envio` (textos en `textos/captura-lista-caba.md`)
+- [ ] Poner la historia en **destacadas**, con sticker de link y tapa (`textos/tapa-destacada.png`)
+- [ ] 🔥 **Llamar a Smart Post** *(esperando respuesta desde el 14/08)*. Cuatro cosas en la misma llamada:
+  1. **Mínimo MENSUAL** en vez de por despacho — vale $133.246 solo en octubre
+  2. ¿**Nordelta** es Cordón 2 o 3? Son $1.931 por pedido
+  3. ¿**Entran a los barrios cerrados**? ¿Dejan en la casa o en la garita?
+  4. ¿**Beccar y Acassuso** están en Cordón 1?
 
-**El orden está en `plan-agosto.md` — una tarea por semana, no todo junto.**
+  *(Las últimas tres destraban la campaña — ver `zonas-amba-ranking.md`.)*
+- [ ] 🔥 **Mandar los pedidos de reseña a los 11 clientes de 2 pedidos o más.** Los textos **no mencionan el envío ni los precios**, así que no abren el tema que se quería posponer. Plan en `textos/seccion-resenas.md`, textos en `textos/mensajes-resenas.md`.
 
-**Antes de lanzar (agosto):**
-- [ ] **SEMANA 1 — los 21 mensajes.** Reactiva, pide permiso para la lista y pide la reseña, todo en el mismo mensaje.
-- [ ] Armar la **sección de reseñas** en la web — plan completo en `textos/seccion-resenas.md`. Dos lugares: la app nativa "Opiniones de productos" en las fichas, y una página "Clientes" en el menú. **No publicar con menos de 4 reseñas.**
-- [ ] Definir la **suscripción**: Plan Casa quincenal $48.100 y Plan Semana $96.200. **No ofrecer plan semanal chico** — el flete (4,33 envíos/mes = $16.969) se lo come.
-- [ ] Instalar el píxel de Meta.
-- [ ] Poner a andar la captura de lista de espera **pidiendo la zona**.
-- [ ] **Contactar 15 micro-influencers de alimentación consciente de CABA y cerrar 10** para el mes del lanzamiento. Es el canal de mejor retorno: una caja de canje cuesta $13.500 reales y si trae 3 clientes el CAC es $4.500.
-- [ ] Armar la **caja de presentación de ~$16.100 con envío sin cargo** (la Promo de $28.900 es mucho para un primer pedido en CABA).
-- [ ] Montar la **suscripción semanal** (8% off). Objetivo: 30% de los clientes de CABA suscriptos.
-- [ ] **Test de Meta de $120.000 en tres conjuntos** (San Isidro-Martínez / Palermo-Villa Crespo-Colegiales-Belgrano / Nordelta con pin y radio de 3 km), $40.000 cada uno, mismo anuncio con el nombre de la zona cambiado. Ranking completo y textos en `zonas-amba-ranking.md`. **No más de 3 zonas a la vez**: con más, Meta no sale de la fase de aprendizaje.
-- [ ] Configurar umbrales de envío: **CABA sin cargo desde $15.000**, Cordón 1 desde $20.400, Cordón 2 y 3 desde $26.700.
-- [ ] Presupuestar los envíos fantasma del arranque (~$240.000 el mes 1, $56.000 el mes 2). Evaluar despachar cada 15 días hasta pasar los 30 estables.
-- [ ] **Reescribir la comunicación poniendo "harinas 100% agroecológicas" como titular**, no la masa madre: en CABA la masa madre no diferencia.
+### Semana 2 (17-23 ago) — armar la tienda
 
-## 🚨 Base de Pilar — recuperar lo que se pueda (ver `diagnostico-ventas.md`)
+- [ ] **Sección de reseñas** — `textos/seccion-resenas.md`. App nativa "Opiniones de productos" en las fichas + página "Clientes" en el menú. **No publicar con menos de 4 reseñas.**
+- [ ] **Caja de presentación de ~$16.100** con envío sin cargo (la Promo de $28.900 es mucho para un primer pedido en CABA)
+- [ ] **Suscripción**: Plan Casa quincenal $48.100 y Plan Semana $96.200. **No ofrecer plan semanal chico** — el flete (4,33 envíos/mes = $16.969) se lo come. Objetivo: 30% de los clientes de CABA suscriptos.
+- [ ] **Configurar las zonas de envío** en Tiendanube con el recargo del 6,38%: CABA $4.200 / Cordón 1 $6.700 / Cordón 2 y 3 $8.800. **Sin cargo en CABA desde $25.000.**
+- [ ] Activar la barrita de "te faltan $X para el envío sin cargo"
+- [ ] **Contactar 15 micro-influencers** de alimentación consciente de CABA. Mejor canal de retorno: la caja de canje cuesta $13.500 reales, y si trae 3 clientes el CAC es $4.500.
+- [ ] Cargar las fichas nuevas: **kéfir de agua** (tradicional e hibiscus) y las **dos líneas de Booch Kombucha**. Textos escritos el 14/08. **Falta el costo de cada uno** para calcular margen.
 
-Los pedidos cayeron de 27 en junio a 9 en julio. La causa: **la entrada de clientes nuevos pasó de 13 a 1**. Esto va antes que todo lo demás.
+### Semana 3 (24-30 ago) — cerrar influencers y probar Meta
 
-- [ ] **Reconstruir qué se hizo en junio que no se hizo en julio.** ¿Hubo un posteo, una feria, una recomendación, un grupo de WhatsApp? Ahí está la respuesta.
-- [ ] **Escribirles a los 21 clientes que ya compraron.** Es lo más rápido y barato que se puede hacer hoy: son gente que ya conoce el producto. Especialmente a los 14 que no compraron en el último mes.
-- [ ] **Atacar la recompra: está en 40% y debería estar arriba de 60%.** La lista de difusión de WhatsApp y la suscripción semanal son exactamente para esto.
-- [ ] **Replicar la fórmula de Pilar del Lago en otro country.** El 55% de los pedidos sale de ahí: la fórmula está probada, falta copiarla al barrio de al lado.
+- [ ] Cerrar 10 influencers, que publiquen la semana del 14/9
+- [ ] **Test de Meta, $120.000 en tres conjuntos de $40.000**: San Isidro-Martínez / Palermo-Villa Crespo-Colegiales-Belgrano / Nordelta (pin + 3 km). Mismo anuncio con el nombre de la zona cambiado. **No más de 3 zonas a la vez**: con más, Meta no sale de la fase de aprendizaje. Ver `zonas-amba-ranking.md`.
+- [ ] **Programar los anuncios de viernes a lunes 14:00** (70% viernes-domingo, 20% lunes hasta el cierre). Un anuncio visto un martes convierte mucho peor: el cliente tiene que esperar 9 días.
+- [ ] **Medir el costo por anotado.** Es el dato que define todo lo que sigue.
 
-## 🔴 Prioridad 1 — Destraban el lanzamiento del AMBA
+### Semanas 4 a 6 — escalar y despachar
 
-- [x] ~~Confirmar si el mínimo de 30 envíos es por despacho o por mes~~ → **por despacho**. Decidido: **un solo día de AMBA por semana** (ver `lanzamiento-amba.md`).
-- [x] ~~Definir el día de despacho~~ → **jueves**, único día para Pilar y AMBA. **Cierre de pedidos lunes 14:00**, ya actualizado en la tienda.
-- [ ] **Confirmar con Smart Post el horario de colecta** en la dirección de Pilar. El PDF sugiere 13:00 para zonas lejanas, lo que obliga a tener todo empacado antes del mediodía.
-- [ ] Confirmar que los proveedores pueden entregar los miércoles con el volumen necesario.
-- [ ] **Confirmar si los $20.000 del envío del proveedor son por mes o por viaje.** Está cargado como mensual; si fuera por viaje, los fijos pasan de $82.000 a $148.600.
-- [ ] **Instalar el píxel de Meta en Tiendanube.** Es gratis y necesita tiempo para juntar datos, así que conviene tenerlo andando desde ya aunque la publicidad recién arranque más adelante.
-- [ ] **Montar la suscripción semanal** (~8% off). Es el seguro contra no llegar a los 30. Objetivo: 20 suscriptores. Ver si Tiendanube la soporta nativamente o con una app.
-- [ ] **Planificar el lanzamiento escalonado**: dividir la lista de espera en tandas por semana para no gastar toda la demanda en el primer despacho.
-- [ ] **Definir una fecha estimada de lanzamiento del AMBA.** De ahí se cuentan 6-8 semanas para atrás y sale cuándo prender la publicidad paga.
-- [ ] *(Más adelante, 6-8 semanas antes de abrir)* Arrancar el empujón pago de Meta para completar los **150 anotados** que hacen falta para los 30 pedidos del primer despacho. **No antes**: las listas se enfrían.
-- [ ] **Dejar andando la captura de la lista de espera**: cartel en Tiendanube, posteo fijo en Instagram, respuesta automática de WhatsApp. **Pedir siempre la zona, no solo el mail.**
-- [ ] **Armar la lista de difusión de WhatsApp** con todos los clientes que ya compraron. Los dos mensajes de la semana van **domingo** ("mañana a las 14 cerramos") y **lunes temprano** ("hoy a las 14 cierra"). Textos en `textos/campana-agosto-2026.md`.
-- [x] ~~Mirar cuántos pedidos por mes y el ticket promedio~~ → ✅ **4,2 pedidos/semana, ticket $23.677.** Ver `diagnostico-ventas.md`.
+- [ ] Si el costo por anotado cierra, meter $200.000 más en el conjunto ganador y apagar el que peor rinde
+- [ ] Enviar las cajas de canje
+- [ ] **Avisar a toda la lista: "abrimos el jueves 17"** (miércoles 9/9) y el recordatorio del lunes 14 a la mañana
+- [ ] Confirmar con proveedores la entrega del miércoles 16 y comprar packaging para 40 pedidos
+- [ ] Pedirle reseña a cada cliente del primer despacho
+
+**El número de cada domingo:** 33 anotados por semana → 66 el 24/8 · 100 el 31/8 · 133 el 7/9 · **150 el 14/9**.
+
+---
+
+## 🔴 Prioridad 1 — Confirmaciones que faltan
+
+- [ ] **Por escrito de Smart Post: que no cobran IVA** (el PDF dice lo contrario)
+- [ ] **Horario de colecta** en la dirección de Pilar (el PDF sugiere 13:00 para zonas lejanas)
+- [ ] **¿Los $20.000 del envío del proveedor son por mes o por viaje?** Está cargado como mensual; si fuera por viaje, los fijos pasan de $82.000 a $148.600.
+- [ ] Confirmar que los proveedores pueden entregar los miércoles con el volumen necesario
+- [ ] **Hablar con el contador por el monotributo** — con $51M anuales proyectados se sale del régimen. En agosto, no en diciembre.
+
+---
 
 ## 🟠 Prioridad 2 — Márgenes y costos
 
-- [x] ~~Aplicar la nueva lista de precios~~ → ✅ **hecho y verificado en la tienda** el 10/08/2026.
-- [x] ~~Definir el aumento~~ → ✅ **no hacen falta más aumentos.** Techo de margen neto 37,9%. La palanca es volumen: **24 pedidos por jueves** para llegar al 30% neto.
-- [ ] **Negociar precio con Las Quinas y Contraviento.** Cinco productos quedaron al 24% de margen (mermeladas, dulce de leche, yerba, las dos pastas). Con el volumen del AMBA hay argumento. Alternativa: buscar otro proveedor o discontinuarlos.
+- [ ] **Negociar con Las Quinas y Contraviento.** Cinco productos al 24% de margen (mermeladas, dulce de leche, yerba, las dos pastas). Con el volumen del AMBA hay argumento. Alternativa: otro proveedor o discontinuarlos.
+- [ ] **Ofrecer descuento por transferencia (~5%)** para esquivar el 7% de Pago Nube. Es la carga más grande y la única evitable.
+- [ ] Empujar los productos de mejor margen: **pan de molde blanco (52,2%)** y **aceite Zuelo (36,4%)**
+- [ ] Buscar bolsas más baratas por cantidad: cada $300 de packaging es casi un punto de margen
 - [ ] **Estimar el costo del reparto propio en Pilar** (nafta, tiempo, desgaste). Hoy no está en ninguna cuenta.
-- [ ] Empujar en la comunicación los productos de mejor margen: **pan de molde blanco (52,2%)** y **aceite Zuelo (36,4%)**.
-- [ ] Cuando repongas stock de terceros, **chequear el mercado antes de fijar precio**. Faltan datos de: mieles Las Quinas, hummus Pampa Gourmet, pickles San Nicolás, mostaza Arytza, tés Intizen, Animal Extra Brut y La Linda Malbec orgánico.
-- [ ] **Ofrecer descuento por transferencia bancaria (~5%)** para esquivar el 7% de Pago Nube. Es la carga más grande de las dos y la única evitable.
-- [ ] Buscar bolsas más baratas por cantidad: cada $300 que baje el packaging es casi un punto de margen.
-- [x] ~~Consolidar los viajes al proveedor~~ → ✅ **hecho** al pasar a entregar solo los jueves: de $260.000 a $86.600 mensuales.
-- [ ] Con más volumen, renegociar precio con los proveedores para subir el margen bruto del 30%.
+- [ ] Al reponer stock de terceros, **chequear el mercado antes de fijar precio**. Faltan datos de: mieles Las Quinas, hummus Pampa Gourmet, pickles San Nicolás, mostaza Arytza, tés Intizen, Animal Extra Brut y La Linda Malbec orgánico.
+- [ ] Con más volumen, renegociar el margen bruto con los proveedores
+
+---
 
 ## 🟡 Prioridad 3 — Tienda y operación
 
-- [ ] **Pedirle a Smart Post por escrito** (mail o WhatsApp) que no cobran IVA — el PDF dice lo contrario.
-- [ ] Configurar las zonas de envío en Tiendanube (CABA / Cordón 1 / Cordón 2 y 3 / Pilar) **con el recargo del 6,38%**: $4.200 / $6.700 / $8.800.
-- [ ] Activar la barrita de "te faltan $X para el envío sin cargo".
 - [ ] Armar el combo **"Plan Semana"** apuntando a los $32.000. El tamaño de la caja no importa, así que se puede cargar.
-- [ ] Pensar formatos grandes (pack de 3 panes, media docena de prepizzas, caja del mes): con flete plano por pedido, cada producto extra es casi ganancia pura.
-- [ ] Comunicar la **franja horaria de entrega** como diferencial (se puede, porque la camioneta del día es exclusiva).
-- [ ] Cuando se lance AMBA: actualizar la última línea de "Sobre Corteza" y la logística en la tienda.
+- [ ] Pensar **formatos grandes** (pack de 3 panes, media docena de prepizzas, caja del mes): con flete plano, cada producto extra es casi ganancia pura.
+- [ ] Comunicar la **franja horaria de entrega** como diferencial — se puede, porque la camioneta del día es exclusiva.
+- [ ] **Armar la lista de difusión de WhatsApp** con los clientes que ya compraron. Los dos mensajes van **domingo** y **lunes temprano**. Textos en `textos/campana-agosto-2026.md`.
+- [ ] Al lanzar AMBA: actualizar la última línea de "Sobre Corteza" y la logística en la tienda
+- [ ] **Reescribir la comunicación con "harinas 100% agroecológicas" de titular**, no la masa madre: en CABA la masa madre no diferencia.
+
+---
 
 ## 🟢 Prioridad 4 — Marketing continuo
 
-- [ ] **Programar los anuncios de Meta de viernes a lunes 14:00** (70% viernes-domingo, 20% lunes hasta el cierre). Un anuncio visto un martes convierte mucho peor, porque el cliente tiene que esperar 9 días.
+- [ ] **Sacar fotos reales de producto** (pan cortado con la miga a la vista, rebanadas tostadas, mesa servida). Las de ahora son prestadas: sirven para el anuncio de apertura, no para las fichas.
+- [ ] Posteo de curaduría: **"Nosotros no horneamos. Elegimos."** con la panadería de alguno de los proveedores. Nadie lo puede copiar.
+- [ ] Pedirle a 3 o 4 clientes fieles una foto de su mesa con el pan y una frase
+- [ ] Preguntarle a cada cliente nuevo **"¿cómo nos conociste?"** y anotarlo
+- [ ] Armar la planilla con los números semanales
+- [ ] Listar 5 negocios para proponerles alianza (yoga, nutricionistas, dietéticas sin panadería, colegios alternativos)
+- [ ] **Replicar la fórmula de Pilar del Lago en otro country.** El 55% de los pedidos sale de ahí: está probada, falta copiarla.
 
-- [ ] Pedirle a 3 o 4 clientes fieles una foto de su mesa con el pan y una frase, para usar como prueba social.
-- [ ] Sacar fotos reales de producto para los anuncios (pan cortado al medio con la miga a la vista, rebanadas tostadas, mesa servida).
-- [ ] Identificar los grupos de Facebook/WhatsApp de los barrios cerrados de Pilar y presentarse con la propuesta de "pedido de barrio".
-- [ ] Listar 5 negocios de Pilar para proponerles alianza (yoga, nutricionistas, dietéticas sin panadería, colegios alternativos).
-- [ ] Empezar a preguntarle a cada cliente nuevo **"¿cómo nos conociste?"** y anotarlo.
-- [ ] Armar la planilla o libreta con los números semanales.
+---
 
 ## ⚪ Cuando haya tiempo
 
-- [ ] (Opcional) Negritas en frases clave del texto de "Sobre Corteza".
-- [ ] Replicar en el Canva original las dos correcciones de la placa ("elaboramos" → "seleccionamos"; sello → "PANES 100% / MASA MADRE").
+- [ ] Negritas en frases clave del texto de "Sobre Corteza"
+- [ ] Replicar en el Canva original las dos correcciones de la placa ("elaboramos" → "seleccionamos"; sello → "PANES 100% / MASA MADRE")
 
 ---
 
 ## 🔁 Recordatorios periódicos
 
-- **Cada 3 meses**: revisar los umbrales de envío. La tarifa de Smart Post se ajusta según los aumentos de MercadoLibre.
-- **Cada mes**: revisar pedidos por despacho (¿llegamos a 30?), ticket promedio, costo por cliente nuevo y porcentaje de pagos por transferencia.
+- **Cada mes**: pedidos por despacho (¿llegamos a 30?), ticket promedio, costo por cliente nuevo, % de pagos por transferencia.
+- **Cada 3 meses**: revisar los umbrales de envío. Smart Post ajusta siguiendo a MercadoLibre.
+
+---
+
+## ✅ Cerrados
+
+- **Mínimo de 30 envíos**: es por despacho, no por mes → un solo día de AMBA por semana (`lanzamiento-amba.md`)
+- **Día de despacho**: jueves, único día para Pilar y AMBA. Cierre lunes 14:00, ya cargado en la tienda.
+- **Lista de precios**: aplicada y verificada el 10/08. No hacen falta más aumentos — techo de margen neto 37,9%; la palanca es volumen (24 pedidos por jueves para el 30% neto).
+- **Viajes al proveedor**: consolidados al pasar a entregar solo los jueves, de $260.000 a $86.600 mensuales.
+- **Volumen actual**: 4,2 pedidos/semana, ticket $23.677 (`diagnostico-ventas.md`).
+- **Fecha de lanzamiento**: jueves 17/9, y resultó ser también la mejor financieramente (2 despachos, cero envíos fantasma).
