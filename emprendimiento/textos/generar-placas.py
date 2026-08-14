@@ -107,3 +107,21 @@ d.line([(cx + 15, y + 28), (cx, y + 46)], fill=OCHRE, width=3)
 
 grain(img).save(os.path.join(HERE, "story-amba.png"))
 print("listo: story-amba.png")
+
+
+# ---------------------------------------------------------------
+# Tapa para la destacada de Instagram (el círculo del perfil).
+# Instagram recorta un círculo del centro, así que todo va centrado
+# y con aire de sobra en los bordes.
+# ---------------------------------------------------------------
+tapa = Image.new("RGB", (W, H), CREAM)
+td = ImageDraw.Draw(tapa)
+
+logo_t = logo_tintado(600)
+tapa.paste(logo_t, ((W - logo_t.width) // 2, H // 2 - logo_t.height - 40), logo_t)
+
+f_t = ImageFont.truetype(JO_M, 74)
+draw_tracked(td, W // 2, H // 2 + 40, "AMBA", f_t, 22, OCHRE)
+
+grain(tapa).save(os.path.join(HERE, "tapa-destacada.png"))
+print("listo: tapa-destacada.png")
