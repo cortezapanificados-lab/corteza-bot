@@ -11,8 +11,9 @@ Tareas y temas abiertos del emprendimiento. Ordenados por prioridad.
   - [x] ~~Armar el Google Form~~ → ✅ **hecho el 14/08.**
   - [x] ~~Barra de anuncio en Tiendanube apuntando al form~~ → ✅ **publicada el 14/08** ("ESTAMOS POR ABRIR EN TODO AMBA — ANOTATE").
   - [ ] Posteo fijo de Instagram + bio con el link del form
-  - [ ] Mensaje de ausencia y respuesta rápida `/caba` en WhatsApp Business
-- [ ] 🔥 **Llamar a Smart Post.** Cuatro cosas en la misma llamada: (1) pedir **mínimo MENSUAL** en vez de por despacho — vale $133.246 solo en octubre; (2) confirmar si **Nordelta es Cordón 2 o 3**; (3) si **entran a los barrios cerrados** y si dejan en la casa o en la garita; (4) si **Beccar y Acassuso** están en Cordón 1. Los tres últimos destraban la campaña (ver `zonas-amba-ranking.md`).
+  - [x] ~~Mensaje de ausencia de WhatsApp~~ → **descartado por decisión propia**, las consultas las contesta ella. Queda pendiente cargar la **respuesta rápida `/caba`**, que no es automática: es un atajo para no reescribir lo mismo treinta veces.
+- [x] ~~Instalar el píxel de Meta~~ → ✅ **hecho el 14/08**, cargado en Tiendanube.
+- [ ] 🔥 **Llamar a Smart Post** *(esperando respuesta, prometieron el 14/08 a la tarde)*. Cuatro cosas en la misma llamada: (1) pedir **mínimo MENSUAL** en vez de por despacho — vale $133.246 solo en octubre; (2) confirmar si **Nordelta es Cordón 2 o 3**; (3) si **entran a los barrios cerrados** y si dejan en la casa o en la garita; (4) si **Beccar y Acassuso** están en Cordón 1. Los tres últimos destraban la campaña (ver `zonas-amba-ranking.md`).
 - [ ] Instalar el píxel de Meta.
 - [ ] ~~Mandar los 21 mensajes de reseñas~~ → **pospuesto por decisión propia** al mes que viene, cuando los de Pilar vean el costo real del envío. Textos listos en `textos/mensajes-resenas.md`.
 - [ ] Cargar en la tienda las fichas nuevas: **kéfir de agua** (tradicional e hibiscus) y las **dos líneas de Booch Kombucha** (clásica y funcional). Textos escritos en la charla del 14/08. Falta el costo de cada uno para calcular margen.
