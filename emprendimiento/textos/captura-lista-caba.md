@@ -52,11 +52,11 @@ En `script-formulario-lista.gs` está el formulario entero escrito como programa
 Andá a **forms.google.com** → formulario en blanco. Cargá esto:
 
 ### Título del formulario
-> **Corteza — Lista de espera CABA**
+> **Activá tu recordatorio**
 
 ### Descripción
-> En septiembre empezamos a repartir en CABA y alrededores.
-> Dejanos tus datos y te avisamos primero, antes de que abramos al público.
+> En septiembre abrimos en todo el AMBA.
+> Dejanos por dónde avisarte y te escribimos apenas abramos en tu zona.
 >
 > Son 3 datos, 15 segundos. Te escribimos una sola vez, cuando abramos.
 
@@ -84,7 +84,7 @@ Zona Sur
 
 **Este texto es tan importante como el formulario.** Es lo que hace que el aviso del 9 de septiembre efectivamente llegue.
 
-> **Listo, ya estás en la lista 🌾**
+> **Listo, tu recordatorio está activado 🌾**
 >
 > **Si nos dejaste tu WhatsApp**, un último paso para que el aviso te llegue:
 >
@@ -118,14 +118,10 @@ Y en la pestaña **Respuestas** → ícono verde de Sheets → se te crea la pla
 
 Poné el texto y en el link pegás la URL del formulario.
 
-**Opción A (la que te recomiendo):**
-> 🌾 En septiembre llegamos a CABA — anotate en la lista de espera
+✅ **Publicada el 14/08:** `ESTAMOS POR ABRIR EN TODO AMBA — ANOTATE`
 
-**Opción B (más urgente):**
-> Abrimos en CABA el 17 de septiembre · Anotate y enterate primero →
-
-**Opción C (más corta, si el tema te limita los caracteres):**
-> 🌾 Llegamos a CABA en septiembre · Anotate acá
+Si en algún momento la querés alinear con el resto:
+> Abrimos en todo AMBA el 17 de septiembre · Activá tu recordatorio →
 
 Si el tema te deja elegir color, poné el fondo en un tono cálido (el verde o el ocre de la marca) y el texto en blanco. Que se vea, pero que no tape el logo.
 
@@ -135,7 +131,9 @@ Si el tema te deja elegir color, poné el fondo en un tono cálido (el verde o e
 
 ### Posteo fijo
 
-**Imagen sugerida:** una hogaza cortada al medio, con la miga a la vista, sobre madera. Encima, texto grande: **"LLEGAMOS A CABA"** y abajo chiquito "septiembre 2026".
+**Imagen:** la hogaza **cortada al medio**, con la miga a la vista, recortada a 4:5. Es la única toma que muestra el adentro, y la miga abierta es la prueba de la fermentación larga. **Sin texto encima**: en el feed la foto limpia rinde más y el texto va en el epígrafe.
+
+Mejor todavía, como carrusel: (1) cortada, (2) integral con semillas, (3) molde blanco. Instagram vuelve a mostrar los carruseles a quien no los abrió.
 
 **Copy:**
 
@@ -149,7 +147,7 @@ Si el tema te deja elegir color, poné el fondo en un tono cálido (el verde o e
 >
 > **Arrancamos el jueves 17 de septiembre.** Los de la lista se enteran primero y entran antes.
 >
-> 📲 **Link en la bio para anotarte.** Son tres datos, 15 segundos.
+> 📲 **Activá tu recordatorio en el link de la bio.** Son tres datos, 15 segundos.
 >
 > #harinasagroecologicas #masamadre #agroecologia #comidareal #caba #palermo #villacrespo #colegiales #belgrano #panartesanal #sinagrotoxicos #alimentacionconsciente
 
@@ -157,16 +155,23 @@ Si el tema te deja elegir color, poné el fondo en un tono cálido (el verde o e
 
 ### Bio
 
-> 🌾 Corteza — Panificados
-> Seleccionamos pan de **harinas 100% agroecológicas**
-> 🚚 Pilar y zona · **CABA desde septiembre**
-> 👇 Anotate en la lista de espera
+**Nombre** (el campo de arriba, que no es la bio): `Corteza · Panificados`
+
+**Bio** — versión final, decidida el 14/08:
+
+> 100% agroecológico
+> Envíos a todo AMBA desde el 17 de septiembre
+> 👇 Activá tu recordatorio
+
+**Por qué "activá tu recordatorio" y no "anotate":** invierte quién le hace el favor a quién. No le pedís los datos, le das un servicio. Es la misma acción y convierte más. **La condición es que el formulario diga lo mismo** —título, descripción y confirmación—, así la promesa es coherente de punta a punta.
 
 Y en el link de la bio: el Google Form. **Mientras dure la captura, el link de la bio es el formulario, no la tienda.** Si querés los dos, usá un Linktree con el formulario arriba de todo.
 
 ### Historia (subila 2 veces por semana)
 
-Una foto de pan + sticker de encuesta:
+Las placas están hechas, en 1080×1920: **`story-caba.png`** (la de la encuesta, con el espacio de abajo libre para el sticker) y **`story-amba.png`** (la informativa, para alternar).
+
+Encima de la primera, el sticker de encuesta:
 
 > **¿Sos de CABA?**
 > · Sí, quiero 🙋
@@ -176,28 +181,34 @@ A los que votan "Sí" les respondés por privado con el link. Es la forma más b
 
 ---
 
-## PASO 4 — Respuesta automática de WhatsApp
+## PASO 4 — Respuestas rápidas de WhatsApp
 
-**Dónde:** WhatsApp Business → Herramientas para la empresa → **Mensaje de ausencia** y **Respuestas rápidas**.
+**El mensaje de ausencia automático quedó descartado:** las consultas las contesta ella. Lo que sí van son las **respuestas rápidas**, que no son automáticas: son atajos para no reescribir lo mismo treinta veces.
 
-### Mensaje de ausencia (el que sale solo cuando no estás)
+**Dónde:** WhatsApp Business → Herramientas para la empresa → **Respuestas rápidas** → **+**. En "Atajo" va la palabra, en "Mensaje" el texto. **Pegá los links ya escritos adentro del texto**, la gracia es que sea un solo movimiento.
 
-> ¡Hola! Gracias por escribir a Corteza 🌾
-> Te respondemos apenas podamos.
+### `/caba` — cuando preguntan si llegás a su zona
+
+> ¡Hola! Todavía no llegamos a tu zona, pero falta poco: **arrancamos en CABA y todo el AMBA el jueves 17 de septiembre** 🌾
 >
-> 📍 Hoy repartimos en Pilar y alrededores. Los pedidos cierran los **lunes a las 14:00** y entregamos los **jueves**.
->
-> 🏙️ **¿Sos de CABA?** En septiembre arrancamos allá. Anotate en la lista de espera y te avisamos primero: [link del formulario]
-
-### Respuesta rápida `/caba` (para cuando preguntan por la zona)
-
-Configurala con el atajo `/caba` y la mandás con dos toques:
-
-> ¡Hola! Todavía no llegamos a tu zona, pero falta poco: **arrancamos en CABA el jueves 17 de septiembre** 🌾
->
-> Anotate acá y sos de los primeros en enterarte: [link del formulario]
+> Activá tu recordatorio acá y sos de los primeros en enterarte, además comprás antes que el resto: [link del formulario]
 >
 > Repartimos una vez por semana, los jueves, con envío a domicilio.
+
+### `/cierre` — cuando preguntan cuándo llega el pedido
+
+> Los pedidos cierran los **lunes a las 14:00** y entregamos los **jueves** 🌾
+> Lo que pidas después del lunes a las 14 ya va para la semana siguiente.
+> 👉 [link a la tienda]
+
+### `/envio` — la que más te van a preguntar a partir del 17
+
+> El envío depende de la zona:
+> · CABA — $4.200
+> · Vicente López, San Isidro, Martínez, San Fernando — $6.700
+> · Resto del AMBA — $8.800
+>
+> **En CABA el envío es sin cargo a partir de $25.000.**
 
 ---
 

@@ -18,11 +18,11 @@ function crearFormularioCorteza() {
   var LINK_TIENDA    = 'https://www.cortezapan.com.ar';
   // --------------------------------------------------------------
 
-  var form = FormApp.create('Corteza — Lista de espera CABA');
+  var form = FormApp.create('Activá tu recordatorio');
 
   form.setDescription(
-    'En septiembre empezamos a repartir en CABA y alrededores.\n' +
-    'Dejanos tus datos y te avisamos primero, antes de que abramos al público.\n\n' +
+    'En septiembre abrimos en todo el AMBA.\n' +
+    'Dejanos por dónde avisarte y te escribimos apenas abramos en tu zona.\n\n' +
     'Son 3 datos, 15 segundos. Te escribimos una sola vez, cuando abramos.'
   );
 
@@ -52,7 +52,7 @@ function crearFormularioCorteza() {
 
   // Pantalla de confirmación — es la que hace que después les llegue la difusión
   form.setConfirmationMessage(
-    '¡Listo, ya estás en la lista! 🌾\n\n' +
+    '¡Listo, tu recordatorio está activado! 🌾\n\n' +
     'Si nos dejaste tu WhatsApp, un último paso para que el aviso te llegue:\n\n' +
     '1. Guardá nuestro número: ' + TELEFONO_LINDO + '\n' +
     '   (WhatsApp solo entrega los avisos a quien nos tenga agendados)\n' +
