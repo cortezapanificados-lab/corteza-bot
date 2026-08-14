@@ -1,15 +1,52 @@
-from PIL import Image, ImageDraw, ImageFont
-import random, os
+"""
+Corteza — genera la placa de historia para la captura de lista (1080x1920).
 
-F = "/tmp/claude-0/-home-user-corteza-bot/1de54431-12fe-52b7-96c7-204646ce999d/scratchpad/fonts/"
-PF_R, PF_B = F + "playfair-regular.ttf", F + "playfair-bold.ttf"
-JO_L, JO_M = F + "jost-light.ttf", F + "jost-medium.ttf"
+Uso:  python3 generar-placas.py
+Sale: story-amba.png
+
+Para hacer versiones por zona (anuncios de Nordelta, San Isidro, etc.),
+cambiá HEADLINE por ejemplo a ["ABRIMOS", "EN", "NORDELTA"].
+
+Fuentes: Playfair Display y Jost (los .ttf están en esta misma carpeta).
+Logo: logo-corteza.png, bajado de la tienda.
+"""
+from PIL import Image, ImageDraw, ImageFont, ImageOps
+import os
+import random
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+PF_B = os.path.join(HERE, "playfair-bold.ttf")
+JO_L = os.path.join(HERE, "jost-light.ttf")
+JO_M = os.path.join(HERE, "jost-medium.ttf")
+LOGO = os.path.join(HERE, "logo-corteza.png")
 
 W, H = 1080, 1920
 CREAM = (246, 242, 234)
 INK = (26, 26, 26)
 SOFT = (120, 112, 100)
 OCHRE = (176, 124, 46)
+RULE = (200, 190, 174)
+
+EYEBROW = "JUEVES 17 DE SEPTIEMBRE"
+HEADLINE = ["ABRIMOS", "EN TODO", "EL AMBA"]
+SUBTITLE = ["Pan de masa madre y", "harinas 100% agroecológicas"]
+CTA = "ACTIVÁ TU RECORDATORIO"
+CTA_SUB = "link en la bio"
+
+
+def logo_tintado(ancho_objetivo):
+    """Aísla las letras del logo, las vuelve transparentes alrededor y las tiñe de INK."""
+    src = Image.open(LOGO).convert("RGBA")
+    alpha = src.getchannel("A")
+    if alpha.getextrema()[0] == 255:
+        # el PNG no trae transparencia: es negro sobre blanco, así que la
+        # máscara sale de la luminancia (negro = opaco, blanco = transparente)
+        alpha = ImageOps.invert(ImageOps.grayscale(src.convert("RGB")))
+    logo = Image.new("RGBA", src.size, INK + (0,))
+    logo.putalpha(alpha)
+    logo = logo.crop(alpha.getbbox())
+    w, h = logo.size
+    return logo.resize((ancho_objetivo, round(h * ancho_objetivo / w)), Image.LANCZOS)
 
 
 def grain(img, amount=7):
@@ -24,10 +61,7 @@ def grain(img, amount=7):
 
 
 def track_width(d, text, font, tracking):
-    w = 0
-    for ch in text:
-        w += d.textlength(ch, font=font) + tracking
-    return w - tracking if text else 0
+    return sum(d.textlength(c, font=font) + tracking for c in text) - tracking if text else 0
 
 
 def draw_tracked(d, cx, y, text, font, tracking, fill):
@@ -38,83 +72,38 @@ def draw_tracked(d, cx, y, text, font, tracking, fill):
 
 
 def centered(d, cx, y, text, font, fill):
-    w = d.textlength(text, font=font)
-    d.text((cx - w / 2, y), text, font=font, fill=fill)
+    d.text((cx - d.textlength(text, font=font) / 2, y), text, font=font, fill=fill)
 
 
-def wheat(d, cx, cy, scale=1.0, fill=INK):
-    """Espiga simple, dibujada a mano con elipses."""
-    s = scale
-    d.line([(cx, cy + 46 * s), (cx, cy - 40 * s)], fill=fill, width=max(1, int(3 * s)))
-    for i, yy in enumerate([-34, -16, 2, 20]):
-        ry = cy + yy * s
-        for sign in (-1, 1):
-            xa, xb = cx + sign * 4 * s, cx + sign * 26 * s
-            d.ellipse(
-                [min(xa, xb), ry - 13 * s, max(xa, xb), ry + 11 * s],
-                outline=fill, width=max(1, int(2.5 * s)),
-            )
-    d.ellipse([cx - 8 * s, cy - 56 * s, cx + 8 * s, cy - 34 * s], outline=fill, width=max(1, int(2.5 * s)))
+img = Image.new("RGB", (W, H), CREAM)
+d = ImageDraw.Draw(img)
+d.rectangle([44, 44, W - 45, H - 45], outline=(222, 214, 200), width=2)
 
+# Logo real, centrado arriba
+logo = logo_tintado(560)
+img.paste(logo, ((W - logo.width) // 2, 130), logo)
+d.line([(W // 2 - 70, 130 + logo.height + 56), (W // 2 + 70, 130 + logo.height + 56)], fill=RULE, width=2)
 
-def base():
-    img = Image.new("RGB", (W, H), CREAM)
-    d = ImageDraw.Draw(img)
-    # marco finito
-    d.rectangle([44, 44, W - 45, H - 45], outline=(222, 214, 200), width=2)
-    return img, d
-
-
-def header(d):
-    draw_tracked(d, W // 2, 118, "CORTEZA", ImageFont.truetype(PF_R, 52), 16, INK)
-    d.line([(W // 2 - 70, 205), (W // 2 + 70, 205)], fill=(200, 190, 174), width=2)
-
-
-def footer(d, cta="ACTIVÁ TU RECORDATORIO", sub="link en la bio"):
-    draw_tracked(d, W // 2, 1618, cta, ImageFont.truetype(JO_M, 40), 7, INK)
-    centered(d, W // 2, 1682, sub, ImageFont.truetype(PF_R, 40), SOFT)
-    # flechita
-    cx, y = W // 2, 1772
-    d.line([(cx, y), (cx, y + 44)], fill=OCHRE, width=3)
-    d.line([(cx - 15, y + 28), (cx, y + 46)], fill=OCHRE, width=3)
-    d.line([(cx + 15, y + 28), (cx, y + 46)], fill=OCHRE, width=3)
-
-
-# ---------------- STORY A ----------------
-img, d = base()
-header(d)
-
-draw_tracked(d, W // 2, 330, "JUEVES 17 DE SEPTIEMBRE", ImageFont.truetype(JO_M, 33), 9, OCHRE)
+draw_tracked(d, W // 2, 372, EYEBROW, ImageFont.truetype(JO_M, 33), 9, OCHRE)
 
 f_big = ImageFont.truetype(PF_B, 148)
-for i, line in enumerate(["ABRIMOS", "EN TODO", "EL AMBA"]):
-    centered(d, W // 2, 425 + i * 168, line, f_big, INK)
+for i, line in enumerate(HEADLINE):
+    centered(d, W // 2, 462 + i * 168, line, f_big, INK)
 
-d.line([(W // 2 - 150, 960), (W // 2 + 150, 960)], fill=(200, 190, 174), width=2)
+d.line([(W // 2 - 150, 997), (W // 2 + 150, 997)], fill=RULE, width=2)
 
 f_sub = ImageFont.truetype(JO_L, 40)
-for i, line in enumerate(["Pan de masa madre y", "harinas 100% agroecológicas"]):
-    centered(d, W // 2, 1010 + i * 56, line, f_sub, SOFT)
+for i, line in enumerate(SUBTITLE):
+    centered(d, W // 2, 1047 + i * 56, line, f_sub, SOFT)
 
-footer(d)
-grain(img).save("story-amba.png")
+# (el hueco de acá abajo queda libre a propósito, para el sticker de encuesta)
 
-# ---------------- STORY B ----------------
-img, d = base()
-header(d)
+draw_tracked(d, W // 2, 1618, CTA, ImageFont.truetype(JO_M, 40), 7, INK)
+centered(d, W // 2, 1682, CTA_SUB, ImageFont.truetype(JO_L, 40), SOFT)
+cx, y = W // 2, 1772
+d.line([(cx, y), (cx, y + 44)], fill=OCHRE, width=3)
+d.line([(cx - 15, y + 28), (cx, y + 46)], fill=OCHRE, width=3)
+d.line([(cx + 15, y + 28), (cx, y + 46)], fill=OCHRE, width=3)
 
-f_q = ImageFont.truetype(PF_B, 160)
-centered(d, W // 2, 360, "¿SOS DE", f_q, INK)
-centered(d, W // 2, 540, "CABA?", f_q, INK)
-
-d.line([(W // 2 - 150, 790), (W // 2 + 150, 790)], fill=(200, 190, 174), width=2)
-
-f_sub = ImageFont.truetype(JO_L, 42)
-for i, line in enumerate(["En septiembre te llevamos", "el pan a tu casa."]):
-    centered(d, W // 2, 845 + i * 58, line, f_sub, SOFT)
-
-draw_tracked(d, W // 2, 1000, "JUEVES 17 DE SEPTIEMBRE", ImageFont.truetype(JO_M, 33), 9, OCHRE)
-footer(d)
-grain(img).save("story-caba.png")
-
-print("ok", os.getcwd())
+grain(img).save(os.path.join(HERE, "story-amba.png"))
+print("listo: story-amba.png")
