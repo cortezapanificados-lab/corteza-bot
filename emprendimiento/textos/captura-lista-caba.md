@@ -169,15 +169,16 @@ Y en el link de la bio: el Google Form. **Mientras dure la captura, el link de l
 
 ### Historia (subila 2 veces por semana)
 
-Las placas están hechas, en 1080×1920: **`story-caba.png`** (la de la encuesta, con el espacio de abajo libre para el sticker) y **`story-amba.png`** (la informativa, para alternar).
+La placa está hecha: **`story-amba.png`**, 1080×1920. Es una sola —CABA está adentro del AMBA, así que una placa de "¿Sos de CABA?" dejaba afuera a Nordelta y San Isidro, que son de las mejores zonas—. El espacio del medio quedó libre a propósito para el sticker.
 
-Encima de la primera, el sticker de encuesta:
+Encima va la encuesta, con las cuatro opciones que permite Instagram:
 
-> **¿Sos de CABA?**
-> · Sí, quiero 🙋
-> · No, soy de zona norte
+> **¿De dónde sos?**
+> · CABA · Zona Norte · Zona Oeste · Zona Sur
 
-A los que votan "Sí" les respondés por privado con el link. Es la forma más barata de sumar anotados: la historia se la muestra Instagram a tus seguidores actuales sin que pagues nada.
+A cada uno que vota le mandás el link por privado. **Es la mejor fuente de anotados de esta semana y es gratis:** son seguidores que ya te siguen y que ahora quedan identificados por zona.
+
+*(La placa se regenera con `generar-placas.py`, por si querés versiones con el nombre de cada zona para los anuncios.)* Es la forma más barata de sumar anotados: la historia se la muestra Instagram a tus seguidores actuales sin que pagues nada.
 
 ---
 
