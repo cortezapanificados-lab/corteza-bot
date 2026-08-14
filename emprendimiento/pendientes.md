@@ -15,7 +15,7 @@ Tareas y temas abiertos del emprendimiento. Ordenados por prioridad.
 - [x] ~~Instalar el píxel de Meta~~ → ✅ **hecho el 14/08**, cargado en Tiendanube.
 - [ ] 🔥 **Llamar a Smart Post** *(esperando respuesta, prometieron el 14/08 a la tarde)*. Cuatro cosas en la misma llamada: (1) pedir **mínimo MENSUAL** en vez de por despacho — vale $133.246 solo en octubre; (2) confirmar si **Nordelta es Cordón 2 o 3**; (3) si **entran a los barrios cerrados** y si dejan en la casa o en la garita; (4) si **Beccar y Acassuso** están en Cordón 1. Los tres últimos destraban la campaña (ver `zonas-amba-ranking.md`).
 - [ ] Instalar el píxel de Meta.
-- [ ] ~~Mandar los 21 mensajes de reseñas~~ → **pospuesto por decisión propia** al mes que viene, cuando los de Pilar vean el costo real del envío. Textos listos en `textos/mensajes-resenas.md`.
+- [ ] 🔥 **Mandar los mensajes de reseñas a los 11 clientes de 2 pedidos o más.** Se habían pospuesto por no querer abrir el tema del envío, pero **los textos no mencionan el envío ni los precios**: son solo el pedido de opinión. Tienen que estar publicadas antes del 31/8, cuando empiece a llegar tráfico pago de CABA. Textos en `textos/mensajes-resenas.md`, plan completo en `textos/seccion-resenas.md`.
 - [ ] Cargar en la tienda las fichas nuevas: **kéfir de agua** (tradicional e hibiscus) y las **dos líneas de Booch Kombucha** (clásica y funcional). Textos escritos en la charla del 14/08. Falta el costo de cada uno para calcular margen.
 - [ ] Hablar con el contador por el monotributo (con $51M anuales proyectados se sale del régimen).
 
@@ -29,7 +29,7 @@ Septiembre: se termina el reparto propio, todo por Smart Post, foco de captació
 
 **Antes de lanzar (agosto):**
 - [ ] **SEMANA 1 — los 21 mensajes.** Reactiva, pide permiso para la lista y pide la reseña, todo en el mismo mensaje.
-- [ ] Armar la **sección de reseñas** en la web. Solo reales, no solo 5 estrellas (un 4,8 es más creíble), con barrio y foto.
+- [ ] Armar la **sección de reseñas** en la web — plan completo en `textos/seccion-resenas.md`. Dos lugares: la app nativa "Opiniones de productos" en las fichas, y una página "Clientes" en el menú. **No publicar con menos de 4 reseñas.**
 - [ ] Definir la **suscripción**: Plan Casa quincenal $48.100 y Plan Semana $96.200. **No ofrecer plan semanal chico** — el flete (4,33 envíos/mes = $16.969) se lo come.
 - [ ] Instalar el píxel de Meta.
 - [ ] Poner a andar la captura de lista de espera **pidiendo la zona**.
