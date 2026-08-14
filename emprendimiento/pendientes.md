@@ -7,15 +7,15 @@ Tareas y temas abiertos del emprendimiento. Ordenados por prioridad.
 ## 🚀 LANZAMIENTO: jueves 17 de septiembre — plan completo en `plan-lanzamiento.md`
 
 **Meta de la semana 1 (10-16 ago):**
-- [ ] 🔥 **Dejar corriendo la captura de lista de espera.** Textos y paso a paso listos en `textos/captura-lista-caba.md`. Método: **barra de anuncio en Tiendanube → Google Form** (el newsletter nativo no guarda la zona). Objetivo: **150 anotados al 14/9**, o sea 33 por semana.
-  - [ ] Armar el Google Form (**3 preguntas: nombre, WhatsApp o mail, zona**) y acortar el link. En la pantalla de confirmación: pedir que **guarden el número** y botón de wa.me — si no te agendan, la difusión no les llega.
-  - [ ] Barra de anuncio en Tiendanube apuntando al form
+- [ ] 🔥 **Dejar corriendo la captura de lista de espera.** Textos y paso a paso listos en `textos/captura-lista-caba.md`. Objetivo: **150 anotados al 14/9**, o sea 33 por semana.
+  - [x] ~~Armar el Google Form~~ → ✅ **hecho el 14/08.**
+  - [x] ~~Barra de anuncio en Tiendanube apuntando al form~~ → ✅ **publicada el 14/08** ("ESTAMOS POR ABRIR EN TODO AMBA — ANOTATE").
   - [ ] Posteo fijo de Instagram + bio con el link del form
   - [ ] Mensaje de ausencia y respuesta rápida `/caba` en WhatsApp Business
-- [ ] 🔥 **Llamar a Smart Post: pedir mínimo MENSUAL en vez de por despacho.** Vale $133.246 solo en octubre.
+- [ ] 🔥 **Llamar a Smart Post.** Cuatro cosas en la misma llamada: (1) pedir **mínimo MENSUAL** en vez de por despacho — vale $133.246 solo en octubre; (2) confirmar si **Nordelta es Cordón 2 o 3**; (3) si **entran a los barrios cerrados** y si dejan en la casa o en la garita; (4) si **Beccar y Acassuso** están en Cordón 1. Los tres últimos destraban la campaña (ver `zonas-amba-ranking.md`).
 - [ ] Instalar el píxel de Meta.
-- [ ] Mandar los 21 mensajes de reseñas (`textos/mensajes-resenas.md`).
-- [ ] **Confirmar con Smart Post tres cosas antes de gastar en publicidad** (ver `zonas-amba-ranking.md`): que Nordelta sea Cordón 2 y no 3; que entren a los barrios cerrados y si dejan en la casa o en la garita; que Beccar y Acassuso estén en Cordón 1.
+- [ ] ~~Mandar los 21 mensajes de reseñas~~ → **pospuesto por decisión propia** al mes que viene, cuando los de Pilar vean el costo real del envío. Textos listos en `textos/mensajes-resenas.md`.
+- [ ] Cargar en la tienda las fichas nuevas: **kéfir de agua** (tradicional e hibiscus) y las **dos líneas de Booch Kombucha** (clásica y funcional). Textos escritos en la charla del 14/08. Falta el costo de cada uno para calcular margen.
 - [ ] Hablar con el contador por el monotributo (con $51M anuales proyectados se sale del régimen).
 
 **Regla que no se negocia:** no lanzar el 17 con menos de 100 anotados. Si no se llega, correr al 24/9.
