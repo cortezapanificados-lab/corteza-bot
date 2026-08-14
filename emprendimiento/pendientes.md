@@ -24,10 +24,10 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
   4. ¿**Beccar y Acassuso** están en Cordón 1?
 
   *(Las últimas tres destraban la campaña — ver `zonas-amba-ranking.md`.)*
-- [ ] 🔥 **Mandar los pedidos de reseña a los 11 clientes de 2 pedidos o más.** Los textos **no mencionan el envío ni los precios**, así que no abren el tema que se quería posponer. Plan en `textos/seccion-resenas.md`, textos en `textos/mensajes-resenas.md`.
 
 ### Semana 2 (17-23 ago) — armar la tienda
 
+- [ ] 🔥 **Lunes: mandar los pedidos de reseña a los 11 clientes de 2 pedidos o más.** Uno por uno, nunca por difusión. Los textos **no mencionan el envío ni los precios**, así que no abren el tema que se quería posponer. Textos en `textos/mensajes-resenas.md`. **Va primero en la semana** porque las respuestas tardan unos días y la sección tiene que estar publicada antes del 31/8, cuando empiece a llegar tráfico pago de CABA.
 - [ ] **Sección de reseñas** — `textos/seccion-resenas.md`. App nativa "Opiniones de productos" en las fichas + página "Clientes" en el menú. **No publicar con menos de 4 reseñas.**
 - [ ] **Caja de presentación de ~$16.100** con envío sin cargo (la Promo de $28.900 es mucho para un primer pedido en CABA)
 - [ ] **Suscripción**: Plan Casa quincenal $48.100 y Plan Semana $96.200. **No ofrecer plan semanal chico** — el flete (4,33 envíos/mes = $16.969) se lo come. Objetivo: 30% de los clientes de CABA suscriptos.
