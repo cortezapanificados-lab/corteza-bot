@@ -2,6 +2,8 @@
 
 *Última actualización: 10/08/2026 (estructura de costos, logística del AMBA y día único de entrega)*
 
+**Quien lleva Corteza: Juan (varón — hablarle en masculino).**
+
 Corteza es una marca de panificados artesanales de Pilar, Buenos Aires, Argentina. **Modelo de negocio: curaduría/reventa** — los panificados los elaboran distintos proveedores artesanales (masa madre, harinas 100% agroecológicas) y Corteza los selecciona y los vende bajo su marca. La tienda también vende productos orgánicos y artesanales de otras marcas (almacén, vinoteca, dips y té).
 
 **El negocio es 100% online.** No hay local a la calle. La dirección de Pilar es administrativa; si hace falta stockear algo, se stockea en la casa particular.
@@ -60,23 +62,23 @@ Cuando se lance, se abre **todo el AMBA de una vez**, no por zonas: como la log�
 
 ## Panificados propios
 
-*Precios relevados directamente de la tienda el 10/08/2026. La columna "nuevo" es el aumento del 15% decidido ese día (ver `numeros.md`).*
+*Precios relevados directamente de la tienda el 10/08/2026. La columna "nuevo" es el aumento del 15% decidido ese día (ver `numeros.md`). Costos y márgenes por producto en `tabla-margenes.md`.*
 
 | Producto | Precio anterior | **Precio nuevo (+15%)** | Notas |
 |---|---|---|---|
-| Pan de molde blanco | $10.000 | **$11.500** | masa madre |
-| Pan de molde integral | $10.000 | **$11.500** | masa madre |
-| Pan de molde de centeno | $10.000 | **$11.500** | masa madre |
-| Hogaza | $10.000 | **$11.500** | masa madre |
-| Pan de campo blanco | $7.500 | **$8.600** | masa madre |
-| Pan de campo integral | $7.500 | **$8.600** | masa madre |
-| Pan de campo de centeno | $7.500 | **$8.600** | masa madre |
+| Pan de molde blanco | $10.000 | **$11.500** | masa madre; 850g |
+| Pan de molde integral | $10.000 | **$11.500** | masa madre; 850g |
+| Pan de molde de centeno | $10.000 | **$11.500** | masa madre; 850g |
+| Hogaza | $10.000 | **$11.500** | masa madre; dos variantes |
+| Pan de campo blanco | $7.500 | **$8.600** | masa madre; 500g |
+| Pan de campo integral | $7.500 | **$8.600** | masa madre; 500g |
+| Pan de campo de centeno | $7.500 | **$8.600** | masa madre; 500g |
 | Pan árabe integral x5 | $7.500 | **$8.600** | masa madre |
-| Prepizzas x2 | $7.000 | **$8.000** | masa madre |
+| Prepizzas x2 | $7.000 | **$8.000** | masa madre; blancas. Variantes por cobertura: salsa de tomate / cebolla / 1 y 1. Si alguna vez se venden integrales, ese costo sube a $5.000 |
 | Budín | $7.000 | **$8.000** | por ahora solo blancos |
-| Cookies integrales con chips de chocolate y nuez | $6.000 | **$6.900** | |
-| Pepas integrales | $5.500 | **$6.300** | batata y membrillo |
-| Grisines integrales | $4.000 | **$4.600** | |
+| Cookies integrales con chips de chocolate y nuez | $6.000 | **$6.900** | veganas; 200g |
+| Pepas integrales | $5.500 | **$6.300** | veganas; batata y membrillo; 200g |
+| Grisines integrales | $4.000 | **$4.600** | 200g |
 
 Todos con harinas 100% agroecológicas. Los panes (molde, campo, árabe, prepizzas) son de masa madre; grisines, budines, pepas y cookies no.
 

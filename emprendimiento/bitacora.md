@@ -431,6 +431,18 @@ También se charló sobre si conviene usar Claude o Gemini para esto. Conclusió
 
 Pendientes cargados en `pendientes.md`. La primera tarea es armar la lista de WhatsApp.
 
+## 23/07/2026 — Costos completos en Tiendanube (los 13 productos + Hogaza)
+
+Se terminó la carga: prepizzas a $4.500 las tres variantes (Juan confirmó que son de masa blanca) y Hogaza a $6.400 (producto nuevo, se vende a $10.500 — margen 39%). Todo verificado releyendo los valores guardados en el panel. El perfil quedó actualizado con la tabla de costos definitiva.
+
+## 23/07/2026 — Costos cargados en Tiendanube (12 de 13 productos)
+
+Claude entró al panel de Tiendanube (cuenta juan_guerrini@hotmail.com, con código de verificación por mail) y cargó el campo "Costo" en todos los panificados propios: molde blanco/integral/centeno, campo blanco/integral/centeno, pan árabe, grisines, budín, pepas y cookies. El margen que calcula Tiendanube coincide con el del perfil (35% a 50%). Quedaron pendientes las PREPIZZAS X2: en la tienda las variantes son por cobertura (Salsa de tomate / Cebolla / 1 y 1), no por masa blanca/integral, así que hay que definir qué costo va. También apareció un producto nuevo "Hogaza" sin costo en la lista. Dato: las pepas tienen 3 variantes y el budín 2 en la tienda.
+
+## 23/07/2026 — Costos de los panificados registrados
+
+Se pasaron los costos de los 13 panificados propios (lo que se le paga al proveedor) y quedaron guardados en el perfil junto con el margen de cada producto. Los márgenes van del 35% (molde de centeno) al 50% (grisines, budín, pepas). Dato nuevo: hay prepizza blanca e integral con costos distintos ($4.500 y $5.000) pero se venden al mismo precio. Falta cargar los costos en el panel de Tiendanube (Claude no tiene acceso al panel; quedó anotado en pendientes con el paso a paso).
+
 ## 22/07/2026 — "Sobre Corteza" terminada: título con formato aplicado
 
 Verificado en la página: el título del texto ya tiene formato de encabezado y la descripción que Google muestra de la página ahora arranca con "Elegimos el mejor pan artesanal...". Tema cerrado; quedan como opcionales las negritas en frases clave.
