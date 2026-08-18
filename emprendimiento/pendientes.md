@@ -89,6 +89,7 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
 - [ ] Comunicar la **franja horaria de entrega** como diferencial — se puede, porque la camioneta del día es exclusiva.
 - [ ] **Armar la lista de difusión de WhatsApp** con los clientes que ya compraron. Los dos mensajes van **domingo** y **lunes temprano**. Textos en `textos/campana-agosto-2026.md`.
 - [ ] Al lanzar AMBA: actualizar la última línea de "Sobre Corteza" y la logística en la tienda
+- [ ] **Unificar el texto de medios de pago**: el pie de la tienda dice "tarjetas de crédito o efectivo", pero también se acepta débito y transferencia.
 - [ ] **Reescribir la comunicación con "harinas 100% agroecológicas" de titular**, no la masa madre: en CABA la masa madre no diferencia.
 
 ---
@@ -99,7 +100,9 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
 - [ ] Posteo de curaduría: **"Nosotros no horneamos. Elegimos."** con la panadería de alguno de los proveedores. Nadie lo puede copiar.
 - [ ] Pedirle a 3 o 4 clientes fieles una foto de su mesa con el pan y una frase
 - [ ] Preguntarle a cada cliente nuevo **"¿cómo nos conociste?"** y anotarlo
+- [ ] **Crear el perfil de Google de Corteza.** El material está listo en `google-business.md` (datos, descripción, fotos y paso a paso). Falta crearlo desde google.com/business y verificarlo. Alto retorno para búsquedas locales.
 - [ ] Armar la planilla con los números semanales
+- [ ] Sacar de Tiendanube el **% de clientes que compró más de una vez**. El ticket y el volumen ya están en `diagnostico-ventas.md`; la recompra falta y es el número que define el negocio del pan.
 - [ ] Listar 5 negocios para proponerles alianza (yoga, nutricionistas, dietéticas sin panadería, colegios alternativos)
 - [ ] **Replicar la fórmula de Pilar del Lago en otro country.** El 55% de los pedidos sale de ahí: está probada, falta copiarla.
 

@@ -18,6 +18,13 @@ Acá se anotan ideas para hacer crecer el emprendimiento: nuevas, en evaluación
   - **"Plan Semana"**: combo fijo que supere los $32.000 para que el cliente no tenga que decidir qué pedir.
   - Alianzas con negocios de Pilar que no vendan pan (yoga, nutricionistas, colegios alternativos).
   - Publicidad en Meta geolocalizada, **priorizando CABA y Cordón 1** (donde el envío es más barato). Plan completo en `campana-meta.md`.
+- **Combos para subir el ticket** (24/07/2026): armar 2 o 3 combos fijos con lo que ya se vende — "Desayuno" (pan de molde + mermelada + miel), "Picada" (pan de campo + aceitunas + pasta de aceitunas + vino orgánico), "Merienda" (budín + pepas + té). Suben el ticket promedio, mueven el almacén y la vinoteca, y simplifican la decisión de compra. *(Sigue vigente: se cruza con el "Plan Semana" y los formatos grandes de `pendientes.md`.)*
+
+- **Medir la recompra** (24/07/2026): el pan es compra semanal; el negocio está en que el que probó vuelva. Ver en Tiendanube qué % de clientes repite y trabajar ese número con los recordatorios de WhatsApp antes de cada cierre. *(Parcialmente medido en `diagnostico-ventas.md`; falta volverlo un número de seguimiento.)*
+
+- ~~**Planilla de márgenes por producto** (24/07/2026)~~ → **hecha**, está en `tabla-margenes.md`.
+
+- ~~**Suscripción semanal "Club Corteza"** (24/07/2026)~~ → **evolucionó** en la suscripción de acá arriba (Plan Casa / Plan Semana). El nombre "Club Corteza" queda disponible por si se quiere usar.
 
 ## Descartadas
 

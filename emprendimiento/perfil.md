@@ -142,6 +142,7 @@ Los vinos son lo más comparable de todo el catálogo: **no tocarlos sin chequea
 - Día de entrega: **jueves** (único día, para Pilar y para todo el AMBA).
 - **Cierre de pedidos: lunes 14:00** (ya actualizado en la tienda). El pedido a los proveedores sale el lunes a la tarde y la mercadería llega el miércoles.
 - Horario: de 9 a 17 hs aprox.
+- **Cierre de pedidos** (pan de masa madre, vigente desde el 24/07/2026): pedidos hasta el **sábado** se entregan el **martes**; pedidos hasta el **martes** se entregan el **viernes**. El pan llega el mismo día de entrega.
 - Sin pedido mínimo
 - Envío bonificado según zona (ver `envios-amba.md`): CABA y Pilar sin cargo desde $28.000; Cordón 1 y 2/3 con bonificación parcial de $3.000
 

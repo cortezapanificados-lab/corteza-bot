@@ -437,6 +437,22 @@ Dato nuevo: la marca **CORTEZA** se pidió en el INPI el 10/06/2026 (acta **4.72
 
 La vista de la oposición se notificó el **22/07/2026** y vence el **22/10/2026**: antes de esa fecha hay que negociar el levantamiento o contestar la vista. Lectura preliminar: la oposición parece defendible — los rubros no se superponen (panificados vs. marroquinería), la marca del oponente tiene aditamentos ("Naturalmente Genuinos") y ya coexisten muchas marcas "Corteza" en clase 35 (ej. "Corteza Mall", concedida en 2026). La moneda de negociación obvia: limitar la clase 35 de Corteza excluyendo ropa/calzado/bolsos/carteras. Todo salió de la consulta pública del INPI, sin necesidad de usuario ni clave.
 
+## 24/07/2026 — Diagnóstico de optimización del negocio
+
+Se analizó el negocio completo y se priorizaron 4 frentes: (1) conocer los márgenes por producto — planilla pendiente de que el dueño pase los costos; (2) suscripción semanal de pan, que encaja con el modelo de pedidos anticipados; (3) combos para subir el ticket (Desayuno, Picada, Merienda); (4) medir y trabajar la recompra. Ideas cargadas en ideas.md y datos a conseguir en pendientes (costos por proveedor, costo de reparto, ticket promedio, más vendidos, % de recompra). También se detectó la inconsistencia de medios de pago en el pie de la tienda.
+
+## 24/07/2026 — Decisión: nuevos cierres de pedidos (sábado y martes)
+
+Se adoptó el esquema nuevo: pedidos hasta el sábado → entrega el martes; pedidos hasta el martes → entrega el viernes. Motivo: un día más de margen para trabajar más relajado, pensando también en el volumen que traerá AMBA. Se actualizó el perfil y la descripción preparada para Google. Se prepararon los textos para publicar los cierres en la tienda ("Sobre Corteza" + barra de anuncio); queda pendiente que el dueño los pegue en Tiendanube.
+
+## 24/07/2026 — Se documentó el cierre de pedidos del pan de masa madre
+
+Esquema actual: pedidos hasta el domingo → entrega el martes; pedidos hasta el miércoles → entrega el viernes (el pan llega el día de entrega). En evaluación: adelantar los cierres a sábado y martes respectivamente, para trabajar más relajado. Se actualizó la logística en el perfil.
+
+## 24/07/2026 — Plan de campaña de marketing para el lanzamiento AMBA
+
+Se armó el plan completo de la campaña de lanzamiento en AMBA con foco en costo mínimo: quedó guardado en `emprendimiento/campania-amba.md`. Estructura: Fase 0 (prerrequisitos: logística, tienda, fotos, Google), Fase 1 (pre-lanzamiento: expectativa + lista de espera con 10% off + activar clientes de Pilar), Fase 2 (lanzamiento: Promo Lanzamiento como oferta estrella, sorteo, canjes con micro-cuentas, grupos de barrio), Fase 3 (sostener: referidos, rutina de contenido, difusión por WhatsApp, reseñas). Incluye presupuesto, métricas simples y textos listos para usar. Regla acordada: no pagar publicidad hasta que lo orgánico funcione. Se agregaron los prerrequisitos a pendientes.
+
 ## 23/07/2026 — Costos completos en Tiendanube (los 13 productos + Hogaza)
 
 Se terminó la carga: prepizzas a $4.500 las tres variantes (Juan confirmó que son de masa blanca) y Hogaza a $6.400 (producto nuevo, se vende a $10.500 — margen 39%). Todo verificado releyendo los valores guardados en el panel. El perfil quedó actualizado con la tabla de costos definitiva.

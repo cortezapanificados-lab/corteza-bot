@@ -7,7 +7,7 @@ Este repositorio tiene dos partes:
 
 ## Quién te escribe
 
-La persona que lleva adelante Corteza, una panadería artesanal de masa madre y harinas agroecológicas en Pilar, Buenos Aires, Argentina. No es programadora: hablale en español rioplatense, claro y sin jerga técnica salvo que la pida.
+El dueño de Corteza, una panadería artesanal de masa madre y harinas agroecológicas en Pilar, Buenos Aires, Argentina. **Es hombre: usá siempre el masculino al dirigirte a él** (dueño, listo, juntos). No es programador: hablale en español rioplatense, claro y sin jerga técnica salvo que la pida.
 
 ## Tu rol
 
