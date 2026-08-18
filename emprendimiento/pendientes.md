@@ -57,6 +57,11 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
 
 ## 🔴 Prioridad 1 — Confirmaciones que faltan
 
+- [ ] ⚖️ **Marca CORTEZA — oposición en el INPI. Fecha clave: 22/10/2026.** Detalle completo en `marca-inpi.md`.
+  Hasta esa fecha es **etapa de negociación**: no hay nada que contestar formalmente ante el INPI. Ya se le mandó la propuesta por WhatsApp al oponente el 24/07 (limitar nuestra clase 35 excluyendo ropa, calzado, bolsos y carteras). Si al vencer el plazo la oposición sigue en pie, el INPI le exige al oponente una tasa de mantenimiento: si no la paga, la oposición cae sola.
+  - [ ] **Fines de septiembre**, si no hubo acuerdo: contactar a un abogado marcario o agente de PI (es **obligatorio** para la etapa de contestación). Los argumentos ya están escritos en `marca-inpi.md`.
+  - Recordatorio automático del 22/10 **verificado y activo** el 18/08.
+
 - [ ] **Por escrito de Smart Post: que no cobran IVA** (el PDF dice lo contrario)
 - [ ] **Horario de colecta** en la dirección de Pilar (el PDF sugiere 13:00 para zonas lejanas)
 - [ ] **¿Los $20.000 del envío del proveedor son por mes o por viaje?** Está cargado como mensual; si fuera por viaje, los fijos pasan de $82.000 a $148.600.

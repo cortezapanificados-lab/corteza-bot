@@ -145,6 +145,11 @@ Los vinos son lo más comparable de todo el catálogo: **no tocarlos sin chequea
 - Sin pedido mínimo
 - Envío bonificado según zona (ver `envios-amba.md`): CABA y Pilar sin cargo desde $28.000; Cordón 1 y 2/3 con bonificación parcial de $3.000
 
+## Marca (INPI)
+
+- Solicitud de registro de "CORTEZA" (denominativa): **acta 4.729.366, clase 35** (venta minorista de alimentos, tienda online, marketing y afines), presentada el 10/06/2026 a nombre de Juan Martín Guerrini.
+- Estado al 24/07/2026: **con oposición** de Néstor Mario Valente ("Corteza Naturalmente Genuinos", rubro ropa/bolsos). Vista notificada el 22/07/2026, **vence el 22/10/2026**. Ver bitácora y pendientes.
+
 ## Medios de pago
 
 Transferencia bancaria, efectivo, tarjeta de crédito y débito. (El pie de la tienda dice "tarjetas de crédito o efectivo".)
