@@ -21,6 +21,8 @@ Los nombres de las ramas no tienen relación con el contenido: se generan solos.
 
 **Para que no se repita**, se agregaron dos reglas al `CLAUDE.md`: revisar las otras ramas antes de dar algo por perdido y no reescribir nunca la memoria asumiendo que está vacía; y dejar el trabajo en `main` al terminar.
 
+**Mensajes de reseña reescritos y página "Ustedes".** Juan reescribió el mensaje: sin presentación (los clientes ya lo conocen), más corto, y preguntando algo concreto —"qué te parecen nuestros panificados"— en vez de un "qué te pareció" demasiado abierto. Se le limpió la última frase para que el permiso quedara adelante y claro. El permiso ahora va pedido en el propio mensaje: al elegir cómo quiere figurar, el cliente ya lo está dando (Ley 25.326). Se sacó el pedido de foto del primer mensaje para no pedir dos cosas juntas. Además, la página de reseñas pasa a llamarse **"Ustedes"** (mejor que "Clientes" y hace juego con la destacada de Instagram) y va a incluir un **link a la destacada "Ustedes"** con las historias que subieron los propios clientes: es prueba social que ya existe, no se puede falsificar y sirve de respaldo si el 31/8 no hay 4 reseñas escritas.
+
 **Consultas de Juan en esta sesión**, respondidas con el plan real a la vista:
 
 - **¿Se puede aplazar la semana entera sin mover el 17/9?** No del todo. Dos cosas siguen siendo de esta semana: los 11 pedidos de reseña (las respuestas tardan y la sección tiene que estar publicada antes del 31/8) e insistirle a Smart Post. El resto de la semana 2 se corre, con la advertencia de que los 15 micro-influencers no pueden pasar de la semana del 24, porque la semana 3 ya carga el test de Meta.

@@ -38,10 +38,11 @@ Los 10 de un solo pedido pueden esperar: responden mucho menos y algunos ni se a
 
 Con 11 mensajes esperá **4 o 5 respuestas**. Alcanza y sobra para arrancar.
 
-### Cuando te contesten, dos cosas
+### Cuando te contesten, tres cosas
 
-1. **Pedile permiso:** *"¿Te parece bien si la publico con tu nombre y tu barrio?"*
-2. **Pedile la foto:** *"¿Tenés alguna foto de la mesa servida?"* Una reseña con foto vale por cinco sin foto.
+1. **El permiso ya viene pedido en el mensaje** (la pregunta de cómo quiere figurar). Guardá la captura de la respuesta como respaldo. Si contesta la reseña pero no dice cómo figurar, poné solo el nombre de pila.
+2. **Preguntale el barrio** si no lo sabés: es uno de los tres datos que hacen creíble la reseña.
+3. **Pedile la foto** solo si la charla fluye: *"¿tenés alguna foto de la mesa servida?"*. Ya no va en el primer mensaje, para no pedir dos cosas juntas.
 
 ---
 
@@ -53,9 +54,31 @@ Instalá **"Opiniones de productos"**, la app nativa y gratis de Tiendanube. Pan
 
 Es el lugar de mayor impacto porque es **donde la persona decide comprar**. Las estrellas al lado del precio hacen más que cualquier texto.
 
-### b) Una página "Clientes" en el menú
+### b) Una página "Ustedes" en el menú
 
 Panel → Mi Tiendanube → Páginas → Crear página. Que quede en el menú principal, al lado de "Sobre Corteza".
+
+El nombre **"Ustedes"** es mejor que "Clientes": habla de segunda persona y hace juego con la destacada de Instagram que ya se llama igual.
+
+### c) Link a la destacada "Ustedes" de Instagram *(decidido el 18/08)*
+
+Dentro de la página va un link que lleva a la **destacada "Ustedes"** del Instagram de Corteza, donde están las historias que subieron los propios clientes.
+
+Vale bastante más de lo que parece, por tres motivos:
+
+1. **Es la regla 4 en acción.** Las fotos de clientes convencen más que las propias, y ahí ya hay un archivo entero de mesas servidas sacadas con celular.
+2. **No se puede falsificar y se nota.** Una destacada de Instagram tiene caras, cuentas reales y fechas. Cualquiera puede entrar a mirar quién la subió.
+3. **Ya existe.** Es la única prueba social que está disponible hoy, sin esperar a que conteste nadie.
+
+Por eso mismo **resuelve en parte el riesgo del 31/8**: si para esa fecha todavía no hay 4 reseñas escritas, la página puede publicarse igual apoyada en la destacada más los números, en vez de quedar sin publicar.
+
+Texto sugerido para el link:
+
+> **Y hay más, en Instagram.**
+> Estas son las mesas de nuestros clientes, subidas por ellos mismos.
+> [Ver las historias de Ustedes →]
+
+Antes de publicarlo, chequear que la destacada esté **visible para quien no sigue la cuenta** y que el perfil sea público.
 
 ---
 
@@ -63,7 +86,7 @@ Panel → Mi Tiendanube → Páginas → Crear página. Que quede en el menú pr
 
 ### Encabezado
 
-> # Lo que dicen nuestros clientes
+> # Ustedes
 >
 > Corteza no hornea: elegimos. Estas son las personas que nos eligen a nosotros.
 

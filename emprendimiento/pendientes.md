@@ -28,7 +28,8 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
 ### Semana 2 (17-23 ago) — armar la tienda
 
 - [ ] 🔥 **YA — mandar los pedidos de reseña a los 11 clientes de 2 pedidos o más.** Uno por uno, nunca por difusión. Los textos **no mencionan el envío ni los precios**, así que no abren el tema que se quería posponer. Textos en `textos/mensajes-resenas.md`. **Va primero en la semana** porque las respuestas tardan unos días y la sección tiene que estar publicada antes del 31/8, cuando empiece a llegar tráfico pago de CABA. **Al 18/08 seguía sin hacerse: es lo primero de la semana.**
-- [ ] **Sección de reseñas** — `textos/seccion-resenas.md`. App nativa "Opiniones de productos" en las fichas + página "Clientes" en el menú. **No publicar con menos de 4 reseñas.**
+- [ ] **Sección de reseñas** — `textos/seccion-resenas.md`. App nativa "Opiniones de productos" en las fichas + página **"Ustedes"** en el menú. **No publicar con menos de 4 reseñas.**
+  - [ ] Dentro de la página, **link a la destacada "Ustedes" de Instagram** con las historias que subieron los clientes *(decidido el 18/08)*. Es la prueba social que ya existe y no depende de que conteste nadie; si el 31/8 faltan reseñas escritas, la página se puede publicar apoyada en ella. Chequear antes que la destacada se vea sin seguir la cuenta.
 - [ ] **Caja de presentación de ~$16.100** con envío sin cargo (la Promo de $28.900 es mucho para un primer pedido en CABA)
 - [ ] **Suscripción**: Plan Casa quincenal $48.100 y Plan Semana $96.200. **No ofrecer plan semanal chico** — el flete (4,33 envíos/mes = $16.969) se lo come. Objetivo: 30% de los clientes de CABA suscriptos.
 - [ ] **Configurar las zonas de envío** en Tiendanube con el recargo del 6,38%: CABA $4.200 / Cordón 1 $6.700 / Cordón 2 y 3 $8.800. **Sin cargo en CABA desde $25.000.**
