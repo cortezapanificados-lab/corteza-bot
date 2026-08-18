@@ -2,6 +2,31 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 18/08/2026 — Memoria consolidada: el trabajo estaba disperso en 5 ramas
+
+**Qué pasó.** Esta sesión arrancó leyendo la memoria del 22/07 y dio por perdido casi un mes de trabajo. No se había perdido nada: cada conversación se abre en una rama de git nueva creada desde `main`, guarda ahí, y nunca vuelve a `main`. Como `main` quedó congelado el 22/07, cada sesión nueva arrancaba ciega a las anteriores.
+
+**Se consolidó todo en una sola línea**, uniendo cuatro ramas:
+
+- `corteza-marketing-campaign` (8–14/08, 41 commits): todo el plan de lanzamiento, campaña de Meta, costos, márgenes, suscripciones, zonas del AMBA, formulario de captura y placas.
+- `riot-discord-autostart` (24/07): campaña AMBA, perfil de Google (`google-business.md`), cierres de pedidos.
+- `denuncia-persecucion-vehicular` (24/07): la oposición a la marca en el INPI (`marca-inpi.md`).
+- `tiendanube-product-costs` (23/07): costos y márgenes por producto.
+
+Los nombres de las ramas no tienen relación con el contenido: se generan solos.
+
+**Cómo se resolvieron los choques:** en `perfil.md` se conservaron los precios de agosto (los relevados el 10/08, que corrigieron los de julio) sumándoles los detalles que julio tenía y agosto había perdido (gramajes, "veganas", variantes de prepizza). La tabla de costos de julio se descartó por redundante: los mismos costos ya están en `tabla-margenes.md`, recalculados. En `bitacora.md` se intercalaron las 39 entradas por fecha. En `pendientes.md` se recuperaron tres tareas vivas que agosto no tenía: el perfil de Google, la inconsistencia de medios de pago y el % de recompra; y se agregó el INPI en Prioridad 1. Se descartaron por superadas las de logística del AMBA (ya resuelta con Smart Post) y los cierres sábado/martes (reemplazados por el jueves único).
+
+**Se verificó que el recordatorio del INPI del 22/10/2026 sigue activo.**
+
+**Para que no se repita**, se agregaron dos reglas al `CLAUDE.md`: revisar las otras ramas antes de dar algo por perdido y no reescribir nunca la memoria asumiendo que está vacía; y dejar el trabajo en `main` al terminar.
+
+**Consultas de Juan en esta sesión**, respondidas con el plan real a la vista:
+
+- **¿Se puede aplazar la semana entera sin mover el 17/9?** No del todo. Dos cosas siguen siendo de esta semana: los 11 pedidos de reseña (las respuestas tardan y la sección tiene que estar publicada antes del 31/8) e insistirle a Smart Post. El resto de la semana 2 se corre, con la advertencia de que los 15 micro-influencers no pueden pasar de la semana del 24, porque la semana 3 ya carga el test de Meta.
+- **¿Conviene vender ya con entrega el 17 en vez del formulario?** No reemplazarlo. "Dejá tu contacto" convierte mucho más que "pagá hoy, recibí en 30 días", y la lista es la que después convierte con el aviso del 9/9 y el cierre del 14/9. Además, vender ya elimina la salida de emergencia de correr el lanzamiento al 24/9 si no se llega a los 100 anotados. Sí conviene sumar la preventa **como extra desde el 1/9**, cuando se sepa si se llega.
+- **¿Avisar en Pilar que desde el 17 habrá costo de envío?** No. Contradice la decisión ya tomada de no abrir todavía el tema del envío con los clientes de Pilar, y caería en la misma semana en que se les pide una reseña. Además todavía no está calculado cuánto cuesta el reparto propio en Pilar, así que no hay con qué decidir. El tema se retoma después del 31/8.
+
 ## 14/08/2026 — Captura en marcha: form, barra, píxel, posteo e historia
 
 Se ejecutó casi toda la semana 1 del plan de lanzamiento en un día. Quedó publicado: el **Google Form** de captura, la **barra de anuncio** en Tiendanube ("ESTAMOS POR ABRIR EN TODO AMBA — ANOTATE"), el **píxel de Meta**, el **posteo del feed** y la **primera historia**. El mensaje de ausencia automático de WhatsApp se descartó —las consultas las contesta ella—, y quedan las respuestas rápidas `/caba`, `/cierre` y `/envio`, que son atajos y no automatismos.

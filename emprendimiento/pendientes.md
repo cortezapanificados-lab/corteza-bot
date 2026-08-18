@@ -27,13 +27,13 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
 
 ### Semana 2 (17-23 ago) — armar la tienda
 
-- [ ] 🔥 **Lunes: mandar los pedidos de reseña a los 11 clientes de 2 pedidos o más.** Uno por uno, nunca por difusión. Los textos **no mencionan el envío ni los precios**, así que no abren el tema que se quería posponer. Textos en `textos/mensajes-resenas.md`. **Va primero en la semana** porque las respuestas tardan unos días y la sección tiene que estar publicada antes del 31/8, cuando empiece a llegar tráfico pago de CABA.
+- [ ] 🔥 **YA — mandar los pedidos de reseña a los 11 clientes de 2 pedidos o más.** Uno por uno, nunca por difusión. Los textos **no mencionan el envío ni los precios**, así que no abren el tema que se quería posponer. Textos en `textos/mensajes-resenas.md`. **Va primero en la semana** porque las respuestas tardan unos días y la sección tiene que estar publicada antes del 31/8, cuando empiece a llegar tráfico pago de CABA. **Al 18/08 seguía sin hacerse: es lo primero de la semana.**
 - [ ] **Sección de reseñas** — `textos/seccion-resenas.md`. App nativa "Opiniones de productos" en las fichas + página "Clientes" en el menú. **No publicar con menos de 4 reseñas.**
 - [ ] **Caja de presentación de ~$16.100** con envío sin cargo (la Promo de $28.900 es mucho para un primer pedido en CABA)
 - [ ] **Suscripción**: Plan Casa quincenal $48.100 y Plan Semana $96.200. **No ofrecer plan semanal chico** — el flete (4,33 envíos/mes = $16.969) se lo come. Objetivo: 30% de los clientes de CABA suscriptos.
 - [ ] **Configurar las zonas de envío** en Tiendanube con el recargo del 6,38%: CABA $4.200 / Cordón 1 $6.700 / Cordón 2 y 3 $8.800. **Sin cargo en CABA desde $25.000.**
 - [ ] Activar la barrita de "te faltan $X para el envío sin cargo"
-- [ ] **Contactar 15 micro-influencers** de alimentación consciente de CABA. Mejor canal de retorno: la caja de canje cuesta $13.500 reales, y si trae 3 clientes el CAC es $4.500.
+- [ ] **Contactar 15 micro-influencers** de alimentación consciente de CABA. Mejor canal de retorno: la caja de canje cuesta $13.500 reales, y si trae 3 clientes el CAC es $4.500. ⚠️ **No puede pasar de la semana del 24**: tienen que publicar la semana del 14/9 y la semana 3 ya carga el test de Meta.
 - [ ] Cargar las fichas nuevas: **kéfir de agua** (tradicional e hibiscus) y las **dos líneas de Booch Kombucha**. Textos escritos el 14/08. **Falta el costo de cada uno** para calcular margen.
 
 ### Semana 3 (24-30 ago) — cerrar influencers y probar Meta
@@ -50,6 +50,10 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
 - [ ] **Avisar a toda la lista: "abrimos el jueves 17"** (miércoles 9/9) y el recordatorio del lunes 14 a la mañana
 - [ ] Confirmar con proveedores la entrega del miércoles 16 y comprar packaging para 40 pedidos
 - [ ] Pedirle reseña a cada cliente del primer despacho
+
+**Decidido el 18/08:** el formulario de captura **no se reemplaza** por venta directa. La preventa con entrega el 17/9 se suma **como extra desde el 1/9**, cuando se sepa si se llega a los 100 anotados. Motivo: vender ya elimina la salida de correr el lanzamiento al 24/9, y "dejá tu contacto" convierte mucho más que "pagá hoy, recibí en 30 días".
+
+**Decidido el 18/08:** en Pilar **no se avisa nada** sobre costos de envío por ahora — ni que es gratis ni que va a tener costo. Se retoma después del 31/8, con las reseñas ya publicadas y el costo del reparto propio calculado.
 
 **El número de cada domingo:** 33 anotados por semana → 66 el 24/8 · 100 el 31/8 · 133 el 7/9 · **150 el 14/9**.
 

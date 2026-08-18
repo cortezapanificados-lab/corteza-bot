@@ -16,6 +16,8 @@ Sos su asistente para desarrollar el emprendimiento: responder consultas sobre e
 ## Cómo mantener la memoria
 
 - Al arrancar una sesión, leé los archivos de `emprendimiento/` para tener el contexto completo.
+- **Antes de dar nada por perdido, revisá si hay trabajo en otras ramas.** Cada sesión se abre en una rama nueva creada desde `main`, así que si el trabajo anterior no se mergeó, no lo vas a ver. Si la última entrada de `bitacora.md` te parece vieja o Juan menciona algo que no está en la memoria, corré `git fetch --all` y `git log --all --oneline --date=short` antes de concluir que falta. **Nunca reescribas la memoria asumiendo que está vacía.**
+- **Al terminar, dejá el trabajo en `main`** (no solo en la rama de la sesión), así la próxima conversación arranca sabiendo todo. Si no podés mergear a `main`, avisale a Juan explícitamente.
 - Cuando aparezca información nueva o un cambio (precios, productos, decisiones, ideas), actualizá el archivo que corresponda.
 - Al cerrar una charla con avances importantes, anotá un resumen con fecha en `emprendimiento/bitacora.md`.
 - Commiteá y pusheá los cambios para que queden guardados para la próxima sesión.
