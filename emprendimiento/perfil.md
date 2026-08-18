@@ -1,10 +1,10 @@
 # Perfil de Corteza
 
-*Última actualización: 22/07/2026 (relevamiento completo de la tienda online)*
+*Última actualización: 18/08/2026 (fecha de lanzamiento a AMBA y logística)*
 
 Corteza es una marca de panificados artesanales de Pilar, Buenos Aires, Argentina. **Modelo de negocio: curaduría/reventa** — los panificados los elaboran distintos proveedores artesanales (masa madre, harinas 100% agroecológicas) y Corteza los selecciona y los vende bajo su marca. La tienda también vende productos orgánicos y artesanales de otras marcas (almacén, vinoteca, dips y té).
 
-**Proyección**: hoy se entrega solo en Pilar, pero la idea es lanzar en cualquier momento a todo el AMBA.
+**Proyección**: hoy se entrega solo en Pilar. **Lanzamiento a todo el AMBA previsto para el 17/09/2026** (fecha a confirmar).
 
 - Tienda online: www.cortezapan.com.ar (plataforma Tiendanube)
 - Email: corteza.panificados@gmail.com
@@ -84,6 +84,14 @@ Incluye: 1 pan de molde blanco rebanado, 1 paquete de pepas integrales (batata y
 - Horario: de 9 a 17 hs aprox.
 - Sin pedido mínimo
 - Envío gratis en pedidos de $25.000 o más; menores a $25.000 tienen costo de envío de $5.000
+- El reparto en Pilar lo hace Corteza en persona
+
+### Lanzamiento a AMBA (17/09/2026)
+
+- Se está negociando con **SmartPost** el reparto en AMBA. Punto abierto: ellos plantean un mínimo de 30 envíos por día y Corteza necesita 120 envíos mensuales. Pendiente de confirmación.
+- Plan B: envíos integrados de Tiendanube (Correo Argentino / Andreani), sin mínimo de volumen.
+- La venta se abre como **preventa** (compra directa en la tienda, con entrega a partir del 17/09), no como formulario de interesados.
+- En Pilar no cambia nada por ahora: sigue el reparto propio con la regla de envío actual.
 
 ## Medios de pago
 
