@@ -34,7 +34,7 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
   - [ ] **Cambiar "Cada hogaza que sale del horno"** del texto de arriba. Es la única línea del sitio que da a entender que horneás, y contradice a "Sobre Corteza". Alternativa: *"Cada hogaza que elegimos termina en una mesa."*
   - [ ] **Sumarle el barrio a cada reseña** ("Ana M. — Pilar del Lago"). Es el dato que la hace creíble para alguien de CABA que no te conoce.
   - [ ] **Chequear si "Marcelo Salvatore" y "Marcelo S." son la misma persona.** Si lo son, dejá una sola: dos reseñas del mismo cliente restan credibilidad.
-  - [ ] **Que el link de Instagram apunte a la destacada "Ustedes"**, no al perfil. Y chequear que la destacada se vea sin seguir la cuenta.
+  - [x] ~~Que el link de Instagram apunte a la destacada "Ustedes"~~ → **DESCARTADO 19/08.** Instagram no da un link público a una destacada que le sirva a alguien que no tiene la app abierta: cae en un muro de login. **Y ya no hace falta**: era la red de seguridad por si no llegaban 4 reseñas escritas, y llegaron 6. El link al perfil se queda como está. Si algún día querés esas historias en la web, la salida es **capturarlas y subirlas como imágenes** a la página.
 - [ ] **Instalar la app nativa "Opiniones de productos"** (Panel → Aplicaciones, gratis). Es **otra cosa** que el formulario de la página: pone estrellas y comentarios **en cada ficha de producto**, al lado del precio, que es donde la persona decide comprar. **Al instalarla, repartí las 6 reseñas que ya tenés** en el producto que menciona cada una: el pan de molde y las prepizzas a sus fichas, el centeno a la suya.
 - [ ] 🔥 **Countries y barrios cerrados: la entrega es en la guardia** *(confirmado 19/08)*. Cambia dos cosas y hay que resolverlas antes del 17/9:
   - [ ] **Decirlo en la ficha de envío, antes de que el cliente pague**: *"En barrios cerrados entregamos en la guardia."* Si se entera después, es un reclamo seguro — pan fresco esperando horas en una garita.
@@ -81,6 +81,10 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
   - [ ] **Fines de septiembre**, si no hubo acuerdo: contactar a un abogado marcario o agente de PI (es **obligatorio** para la etapa de contestación). Los argumentos ya están escritos en `marca-inpi.md`.
   - Recordatorio automático del 22/10 **verificado y activo** el 18/08.
 
+- [ ] 🔥 **DECISIÓN ABIERTA: quién reparte en Pilar.** Juan no quiere seguir haciéndolo él *(19/08)*. Análisis completo en `envios-amba.md`. Resumen: dárselo a Smart Post a lo bruto cuesta **$147.528 al mes** y se come el 91% del margen del pedido promedio, porque **Pilar es Cordón 3 ($8.196), la banda más cara** — las zonas se miden desde CABA, no desde tu puerta. Tres caminos, no excluyentes:
+  - [ ] **Ya mismo, gratis: meter Pilar en los lugares vacíos del mínimo de 30.** Pagás 30 envíos por despacho los uses o no. Si el AMBA trae 22, los 8 lugares libres se llenan con Pilar sin costo extra. Arranca cubriendo todo Pilar y va cediendo a medida que crece el AMBA.
+  - [ ] **Pedir presupuesto a un cadete o moto de Pilar** para la vuelta de los jueves. 18 entregas juntas en la misma ciudad tienen que costar mucho menos que $8.196 cada una. **Es la opción más prometedora y todavía no se cotizó.**
+  - [ ] Solo si las dos anteriores fallan: Smart Post a Pilar cobrándole el envío al cliente. **Es un 35% de recargo sobre el ticket promedio** para una entrega dentro de la misma ciudad; esperá rechazo.
 - [ ] **Por escrito de Smart Post: que no cobran IVA** (el PDF dice lo contrario)
 - [ ] **Horario de colecta** en la dirección de Pilar (el PDF sugiere 13:00 para zonas lejanas)
 - [ ] **¿Los $20.000 del envío del proveedor son por mes o por viaje?** Está cargado como mensual; si fuera por viaje, los fijos pasan de $82.000 a $148.600.
@@ -95,7 +99,7 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
 - [ ] **Ofrecer descuento por transferencia (~5%)** para esquivar el 7% de Pago Nube. Es la carga más grande y la única evitable.
 - [ ] Empujar los productos de mejor margen: **pan de molde blanco (52,2%)** y **aceite Zuelo (36,4%)**
 - [ ] Buscar bolsas más baratas por cantidad: cada $300 de packaging es casi un punto de margen
-- [ ] **Estimar el costo del reparto propio en Pilar** (nafta, tiempo, desgaste). Hoy no está en ninguna cuenta.
+- [ ] 🔥 **Estimar el costo del reparto propio en Pilar** (nafta, horas, desgaste). Hoy no está en ninguna cuenta y **pasó a ser urgente**: Juan no quiere seguir repartiendo y sin este número no se puede comparar contra las alternativas. Hacen falta dos datos: **cuántas horas te lleva la vuelta del jueves** y **cuánta nafta**.
 - [ ] Al reponer stock de terceros, **chequear el mercado antes de fijar precio**. Faltan datos de: mieles Las Quinas, hummus Pampa Gourmet, pickles San Nicolás, mostaza Arytza, tés Intizen, Animal Extra Brut y La Linda Malbec orgánico.
 - [ ] Con más volumen, renegociar el margen bruto con los proveedores
 

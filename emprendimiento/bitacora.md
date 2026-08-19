@@ -2,6 +2,20 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 19/08/2026 (3) — Juan no quiere seguir repartiendo en Pilar
+
+**El planteo.** Juan quiere que la logística tercerizada cubra también Pilar, no solo el AMBA. Es entendible: el reparto propio le come el jueves entero.
+
+**El problema es que Pilar es la banda más cara de todas.** Las zonas de Smart Post se miden desde CABA, no desde su puerta, así que Pilar cae en **Cordón 3: $8.196 por envío**. Contra un ticket promedio de $23.677 con margen bruto efectivo del 37,9% —o sea $8.973 de ganancia—, **el envío se lleva el 91%: quedan $777 por pedido.** Al volumen actual (18 pedidos al mes) absorberlo cuesta **$147.528 mensuales**. Cobrárselo al cliente es un **35% de recargo para una entrega dentro de la misma ciudad**, y el vecino de Pilar sabe que Corteza es de Pilar.
+
+**La salida que sí funciona y no cuesta nada: aprovechar el mínimo.** Se pagan 30 envíos por despacho, se usen o no. Si un jueves el AMBA trae 22 pedidos, sobran 8 lugares ya pagados y ahí entran los de Pilar **gratis**. La regla queda: *Pilar entra hasta completar los 30, el resto lo repartís vos*. Al principio eso cubre el 100% de Pilar, porque el AMBA no va a llegar solo a 30; y va cediendo a medida que el AMBA crece, justo cuando ya haya plata para pagarle a alguien. Si Smart Post acepta el **mínimo mensual de 120**, los lugares libres se cuentan sobre el mes entero y mejora todavía más.
+
+**La tercera opción, que nunca se había pensado y es la más prometedora: un cadete o moto de Pilar** para la vuelta de los jueves. No hay que elegir entre manejar él o pagar $8.196 por cuadra. **Falta pedir presupuesto.**
+
+**Lo que traba la decisión:** nunca se calculó cuánto cuesta hoy el reparto propio (nafta + horas + desgaste). Pasó de "cuando haya tiempo" a urgente.
+
+**Link a la destacada de Instagram: descartado.** Instagram no da un link público a una destacada que le sirva a alguien sin la app abierta — cae en un muro de login. Además ya no hace falta: era la red de seguridad por si no llegaban 4 reseñas escritas, y llegaron 6. Si algún día se quieren esas historias en la web, se capturan y se suben como imágenes.
+
 ## 19/08/2026 (2) — "Ustedes" publicada con 6 reseñas y la entrega en countries es por guardia
 
 **La página "Ustedes" está online** en `cortezapan.com.ar/ustedes`, en el menú, con **6 reseñas y 4,9 estrellas** (Martha Levin, Marcelo Salvatore, Patricia Schneider, Ana M., Federico Sasson, Marcelo S.), formulario para dejar reseña y link a Instagram. Se pasó holgado el mínimo de 4 que se había fijado. **Sobre Corteza** también quedó rehecha y verificada: la curaduría se entiende, explica masa madre y agroecológico, y cierra prometiendo el AMBA sin dar fecha.

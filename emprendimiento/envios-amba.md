@@ -34,7 +34,32 @@ Esto da vuelta la estrategia geográfica que veníamos armando. Yo venía suponi
 
 ### Dos conclusiones directas
 
-**1. No le des Pilar a Smart Post.** A $8.196 el envío, hacer tus entregas de Pilar con ellos sería el peor negocio posible. Seguí repartiendo vos, ahora los jueves junto con el despacho del AMBA.
+**1. No le des Pilar a Smart Post como regla general.** A $8.196 el envío, hacer *todas* tus entregas de Pilar con ellos sería el peor negocio posible.
+
+> ### 🔄 Revisado el 19/08: Juan no quiere seguir repartiendo en Pilar
+>
+> Es un planteo válido —el reparto propio le come el jueves— pero el número no da para hacerlo a lo bruto:
+>
+> | | |
+> |---|---:|
+> | Ticket promedio en Pilar | $23.677 |
+> | Margen bruto efectivo (37,9%) | **$8.973** |
+> | Envío de Smart Post a Pilar (Cordón 3) | **−$8.196** |
+> | **Te queda** | **$777** |
+>
+> **El envío se come el 91% de la ganancia del pedido promedio.** Y si en vez de absorberlo se lo cobrás al cliente, son $8.196 sobre un pedido de $23.677: un **35% de recargo para que le lleven el pan a diez cuadras**. El vecino de Pilar sabe que sos de Pilar; ese recargo no lo va a pagar.
+>
+> Al volumen actual (4,2 pedidos/semana ≈ 18 al mes) absorberlo cuesta **$147.528 mensuales**.
+>
+> **La versión que sí funciona: Pilar viaja en los lugares que ya pagaste.** El mínimo es de 30 envíos **por despacho**, se usen o no. Si un jueves el AMBA trae 22 pedidos, quedan **8 lugares pagados vacíos**: ahí metés los pedidos de Pilar y **te salen gratis**. Recién a partir del pedido 31 cada envío de Pilar cuesta $8.196 de verdad.
+>
+> O sea: **la regla es "Pilar entra hasta completar los 30, el resto lo repartís vos"**, y arranca cubriendo el 100% de Pilar, porque al principio el AMBA no va a llegar a 30 solo. A medida que crezca el AMBA, Pilar va volviendo al reparto propio — justo cuando ya haya plata para pagarle a alguien.
+>
+> **Si Smart Post acepta el mínimo mensual de 120**, esto mejora todavía más: los lugares libres se cuentan sobre el mes entero y no sobre cada jueves suelto.
+>
+> **La tercera salida, y la que conviene cotizar ya: un cadete o moto de Pilar** que haga la vuelta de los jueves. No hay que elegir entre manejar vos o pagar $8.196 por cuadra. Un reparto local por 18 entregas juntas y todas en la misma ciudad debería costar una fracción de eso. **Falta pedir presupuesto.**
+>
+> **Lo que falta para decidir bien: cuánto te cuesta hoy el reparto propio** (nafta + horas + desgaste). Nunca se calculó y es el número que dice si esto es un ahorro o un gasto.
 
 **2. Tu mejor zona es CABA, y por lejos.** Es donde el envío te cuesta la mitad, donde podés ofrecer las mejores condiciones y donde conviene poner la plata de publicidad. Volvé a leer eso: **el lugar más rentable para vender no es el que tenés al lado, es la Capital.**
 
