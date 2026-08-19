@@ -2,6 +2,22 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 19/08/2026 (2) — "Ustedes" publicada con 6 reseñas y la entrega en countries es por guardia
+
+**La página "Ustedes" está online** en `cortezapan.com.ar/ustedes`, en el menú, con **6 reseñas y 4,9 estrellas** (Martha Levin, Marcelo Salvatore, Patricia Schneider, Ana M., Federico Sasson, Marcelo S.), formulario para dejar reseña y link a Instagram. Se pasó holgado el mínimo de 4 que se había fijado. **Sobre Corteza** también quedó rehecha y verificada: la curaduría se entiende, explica masa madre y agroecológico, y cierra prometiendo el AMBA sin dar fecha.
+
+Retoques anotados: la bajada dice *"cada hogaza que sale del horno"*, que es la única línea del sitio que da a entender que Corteza hornea y choca con "Sobre Corteza"; falta el **barrio** en cada reseña (el dato que la hace creíble para alguien de CABA); hay que chequear si **"Marcelo Salvatore" y "Marcelo S."** son la misma persona; y el link de Instagram va al **perfil**, no a la destacada "Ustedes".
+
+**Se descubrió que el título y la descripción del inicio siguen siendo los que trae Tiendanube por defecto** ("Tienda Online de Corteza — Comprá productos de Corteza por internet…"). Es lo que ve Google y lo que se muestra al pegar el link en WhatsApp, y no nombra ni la masa madre ni las harinas agroecológicas. Hay que reescribirlo antes del 31/8. De paso se verificó que el texto de medios de pago del pie ya está corregido ("débito, crédito o transferencia"); queda confirmar si se sigue aceptando efectivo en Pilar.
+
+**Smart Post no entra a los barrios cerrados: llega hasta la guardia y entrega ahí.** Tres consecuencias:
+
+1. **Hay que avisarlo antes de que el cliente pague**, en la ficha de envío. Enterarse después es un reclamo seguro: pan fresco esperando horas en una garita.
+2. **Hay que avisarle al cliente el día del despacho** para que lo retire ese mismo jueves.
+3. **Refuerza el ranking de zonas.** San Isidro–Martínez–Acassuso–Beccar son casas de calle: entrega en la puerta. Nordelta es todo barrio cerrado: todo por garita. Nordelta ya perdía por $1.931 de flete y ahora suma la fricción de la guardia. **Pilar no se ve afectado: ahí el reparto es propio.**
+
+**Se aclaró qué son los conjuntos A, B y C** del test de Meta, que se habían nombrado sin explicar: son los tres grupos de anuncios de la semana del 24, no las zonas de entrega. A = San Isidro–Martínez–Acassuso–Beccar, **B = Palermo–Villa Crespo–Colegiales–Belgrano, o sea CABA**, C = Nordelta. **Pilar no está en el test porque ya es mercado propio**: ahí no hace falta pagar para que te conozcan.
+
 ## 19/08/2026 — Avanza la tienda; Smart Post frenado por un comercial que no contesta
 
 **Lo que hizo Juan.** Mandó los pedidos de reseña y **ya tiene un par de respuestas**. Creó la página **"Ustedes"** en Tiendanube, rehízo **"Sobre Corteza"** (no lo convencía cómo había quedado) y cambió las fotos de la **página de inicio** que no le gustaban.

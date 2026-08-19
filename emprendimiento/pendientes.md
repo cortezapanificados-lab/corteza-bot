@@ -20,7 +20,7 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
 - [ ] 🔥 **Smart Post — el comercial no contesta. Escalado a soporte el 19/08 pidiendo cambio de comercial; quedaron en avisar.**
   - [x] ~~Pedir el **mínimo MENSUAL** (120 pedidos por mes en vez de 30+30+30+30)~~ → **pedido el 19/08, sin respuesta**. Vale $133.246 solo en octubre.
   - [ ] ¿**Nordelta** es Cordón 2 o 3? Son $1.931 por pedido
-  - [ ] ¿**Entran a los barrios cerrados**? ¿Dejan en la casa o en la garita?
+  - [x] ~~¿Entran a los barrios cerrados?~~ → **RESUELTO 19/08: NO entran. Llegan hasta la guardia y entregan ahí.** Ver más abajo qué hay que hacer con eso.
   - [ ] ¿**Beccar y Acassuso** están en Cordón 1?
   - [ ] **Si el viernes 21/8 no apareció comercial nuevo**: volver a escribirle a soporte por mail (que quede por escrito) y pedir las respuestas ahí mismo, sin esperar a que asignen a alguien.
 
@@ -29,22 +29,25 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
 ### Semana 2 (17-23 ago) — armar la tienda
 
 - [x] ~~Mandar los pedidos de reseña a los clientes de 2 pedidos o más~~ → ✅ **19/08**, con **un par de respuestas** ya en mano.
-- [ ] 🔥 **Llegar a 4 reseñas antes del 31/8.** Faltan dos. En orden:
-  1. **Recordarles a los que no contestaron** (los del listado de `textos/seccion-resenas.md`). Un solo recordatorio, a los 4 o 5 días del primer mensaje, y no se insiste más.
-  2. Si con eso no alcanza, **abrir el pedido a los 10 clientes de un solo pedido**. Contestan menos, pero con mandar 10 alcanza para sacar dos.
-  3. Al que ya contestó: **preguntarle el barrio** (si no lo sabés) y, si la charla fluye, la foto de la mesa servida.
-- [x] ~~Crear la página **"Ustedes"** en el menú de Tiendanube~~ → ✅ **19/08**
-- [ ] **Terminar la sección de reseñas** — `textos/seccion-resenas.md`:
-  - [ ] Instalar la app nativa **"Opiniones de productos"** en las fichas de producto (es el lugar de más impacto: las estrellas al lado del precio)
-  - [ ] Cargar en "Ustedes" las reseñas que vayan llegando. **No publicarla en el menú con menos de 4** *(salvo que se apoye en la destacada de Instagram, ver abajo)*
-  - [ ] **Link a la destacada "Ustedes" de Instagram** con las historias que subieron los clientes *(decidido el 18/08)*. Es la prueba social que ya existe y no depende de que conteste nadie; si el 31/8 faltan reseñas escritas, la página se puede publicar apoyada en ella. Chequear antes que la destacada se vea sin seguir la cuenta.
+- [x] ~~**Página "Ustedes" publicada** en el menú, con **6 reseñas y 4,9 estrellas**~~ → ✅ **19/08**. Verificada en cortezapan.com.ar/ustedes: tiene además formulario "Dejanos tu reseña" y link a Instagram. **Se cumplió el mínimo de 4 con margen.**
+- [ ] **Retoques de la página "Ustedes"** *(revisado el 19/08)*:
+  - [ ] **Cambiar "Cada hogaza que sale del horno"** del texto de arriba. Es la única línea del sitio que da a entender que horneás, y contradice a "Sobre Corteza". Alternativa: *"Cada hogaza que elegimos termina en una mesa."*
+  - [ ] **Sumarle el barrio a cada reseña** ("Ana M. — Pilar del Lago"). Es el dato que la hace creíble para alguien de CABA que no te conoce.
+  - [ ] **Chequear si "Marcelo Salvatore" y "Marcelo S." son la misma persona.** Si lo son, dejá una sola: dos reseñas del mismo cliente restan credibilidad.
+  - [ ] **Que el link de Instagram apunte a la destacada "Ustedes"**, no al perfil. Y chequear que la destacada se vea sin seguir la cuenta.
+- [ ] **Instalar la app nativa "Opiniones de productos"** (Panel → Aplicaciones, gratis). Es **otra cosa** que el formulario de la página: pone estrellas y comentarios **en cada ficha de producto**, al lado del precio, que es donde la persona decide comprar. **Al instalarla, repartí las 6 reseñas que ya tenés** en el producto que menciona cada una: el pan de molde y las prepizzas a sus fichas, el centeno a la suya.
+- [ ] 🔥 **Countries y barrios cerrados: la entrega es en la guardia** *(confirmado 19/08)*. Cambia dos cosas y hay que resolverlas antes del 17/9:
+  - [ ] **Decirlo en la ficha de envío, antes de que el cliente pague**: *"En barrios cerrados entregamos en la guardia."* Si se entera después, es un reclamo seguro — pan fresco esperando horas en una garita.
+  - [ ] **Avisar al cliente el día del despacho** para que lo retire el mismo jueves. Es el mensaje que evita el 90% de los problemas.
+  - [ ] Empujar el **"pedido de barrio"** en countries: varios pedidos que caen juntos en la misma guardia se retiran mejor y bajan el flete.
+  - **Consecuencia para el ranking de zonas:** refuerza a **San Isidro–Martínez–Acassuso–Beccar** (casas de calle, entrega en la puerta) por encima de **Nordelta** (todo cerrado, todo por garita). Nordelta ya perdía por $1.931 de flete; ahora suma la garita. **Pilar no cambia: ahí el reparto es propio.**
 - [ ] **Caja de presentación de ~$16.100** con envío sin cargo (la Promo de $28.900 es mucho para un primer pedido en CABA)
 - [ ] **Suscripción**: Plan Casa quincenal $48.100 y Plan Semana $96.200. **No ofrecer plan semanal chico** — el flete (4,33 envíos/mes = $16.969) se lo come. Objetivo: 30% de los clientes de CABA suscriptos.
 - [ ] **Configurar las zonas de envío** en Tiendanube con el recargo del 6,38%: CABA $4.200 / Cordón 1 $6.700 / Cordón 2 y 3 $8.800. **Sin cargo en CABA desde $25.000.**
 - [ ] Activar la barrita de "te faltan $X para el envío sin cargo"
 - [ ] **Contactar 15 micro-influencers** de alimentación consciente de CABA. Mejor canal de retorno: la caja de canje cuesta $13.500 reales, y si trae 3 clientes el CAC es $4.500. ⚠️ **No puede pasar de la semana del 24**: tienen que publicar la semana del 14/9 y la semana 3 ya carga el test de Meta.
 - [ ] Cargar las fichas nuevas: **kéfir de agua** (tradicional e hibiscus) y las **dos líneas de Booch Kombucha**. Textos escritos el 14/08. **Falta el costo de cada uno** para calcular margen.
-- [x] ~~Reescribir la página **"Sobre Corteza"**~~ → ✅ **19/08**, Juan la rehízo porque no lo convencía
+- [x] ~~Reescribir la página **"Sobre Corteza"**~~ → ✅ **19/08**, Juan la rehízo porque no lo convencía. **Leída y verificada**: la curaduría queda clara ("recorremos, probamos y elegimos"), explica masa madre y agroecológico, y cierra con "hoy entregamos en Pilar, los jueves; pronto en todo el AMBA" — sin fecha, como corresponde. URL real: `/sobrecorteza/`.
 - [x] ~~Cambiar las fotos que no gustaban de la **página de inicio**~~ → ✅ **19/08**
 - [ ] **Mirar la tienda entera desde el celular**, como la va a ver alguien de CABA que nunca escuchó la marca: inicio → producto → carrito. Es el único chequeo que queda antes de que empiece a llegar tráfico pago el 31/8.
 
@@ -105,8 +108,9 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
 - [ ] Comunicar la **franja horaria de entrega** como diferencial — se puede, porque la camioneta del día es exclusiva.
 - [ ] **Armar la lista de difusión de WhatsApp** con los clientes que ya compraron. Los dos mensajes van **domingo** y **lunes temprano**. Textos en `textos/campana-agosto-2026.md`.
 - [ ] Al lanzar AMBA: actualizar la última línea de "Sobre Corteza" y la logística en la tienda
-- [ ] **Unificar el texto de medios de pago**: el pie de la tienda dice "tarjetas de crédito o efectivo", pero también se acepta débito y transferencia.
+- [x] ~~**Unificar el texto de medios de pago**~~ → **aparentemente resuelto**: al 19/08 el inicio dice "Tarjetas de débito, crédito o transferencia". **Confirmar una cosa: ¿se sigue aceptando efectivo en Pilar?** Si sí, falta nombrarlo.
 - [ ] **Reescribir la comunicación con "harinas 100% agroecológicas" de titular**, no la masa madre: en CABA la masa madre no diferencia.
+- [ ] 🔥 **Reescribir el título y la descripción del inicio.** Al 19/08 están en el texto que viene por defecto: *"Tienda Online de Corteza — Comprá productos de Corteza por internet. Tenemos promo lanzamiento, panes y más"*. **Eso es exactamente lo que ve alguien en Google y lo que aparece cuando se pega el link en WhatsApp.** No dice ni masa madre ni agroecológico. Se arregla en Panel → Mi Tiendanube → Configuración → SEO. Propuesta: *"Corteza — Pan de masa madre y harinas 100% agroecológicas"* / *"Elegimos a los mejores panaderos artesanales y te llevamos el pan a tu casa. Entregas los jueves en Pilar."* **Antes del 31/8**, que es cuando empieza el tráfico pago.
 
 ---
 
