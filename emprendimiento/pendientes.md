@@ -17,25 +17,36 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
 - [x] ~~Mensaje de ausencia de WhatsApp~~ → **descartado**, las consultas las contesta ella
 - [ ] Cargar las respuestas rápidas de WhatsApp: `/caba`, `/cierre`, `/envio` (textos en `textos/captura-lista-caba.md`)
 - [ ] Poner la historia en **destacadas**, con sticker de link y tapa (`textos/tapa-destacada.png`)
-- [ ] 🔥 **Llamar a Smart Post** *(esperando respuesta desde el 14/08)*. Cuatro cosas en la misma llamada:
-  1. **Mínimo MENSUAL** en vez de por despacho — vale $133.246 solo en octubre
-  2. ¿**Nordelta** es Cordón 2 o 3? Son $1.931 por pedido
-  3. ¿**Entran a los barrios cerrados**? ¿Dejan en la casa o en la garita?
-  4. ¿**Beccar y Acassuso** están en Cordón 1?
+- [ ] 🔥 **Smart Post — el comercial no contesta. Escalado a soporte el 19/08 pidiendo cambio de comercial; quedaron en avisar.**
+  - [x] ~~Pedir el **mínimo MENSUAL** (120 pedidos por mes en vez de 30+30+30+30)~~ → **pedido el 19/08, sin respuesta**. Vale $133.246 solo en octubre.
+  - [ ] ¿**Nordelta** es Cordón 2 o 3? Son $1.931 por pedido
+  - [ ] ¿**Entran a los barrios cerrados**? ¿Dejan en la casa o en la garita?
+  - [ ] ¿**Beccar y Acassuso** están en Cordón 1?
+  - [ ] **Si el viernes 21/8 no apareció comercial nuevo**: volver a escribirle a soporte por mail (que quede por escrito) y pedir las respuestas ahí mismo, sin esperar a que asignen a alguien.
 
-  *(Las últimas tres destraban la campaña — ver `zonas-amba-ranking.md`.)*
+  **Qué bloquea de verdad y qué no** *(revisado el 19/08)*: el **mínimo mensual es plata, no es bloqueo** — si dicen que no, el plan sigue igual con el mínimo por despacho. De las tres preguntas de zona, **ninguna frena el test de Meta de la semana del 24**: el conjunto A (San Isidro–Martínez–Acassuso–Beccar) se lanza igual, porque aunque Beccar y Acassuso fueran Cordón 2 seguirían siendo la mejor zona. La única con consecuencia real es **Nordelta**: si es Cordón 3, el recargo del 36,7% se va más arriba. Si el 24/8 sigue sin respuesta, **arrancar con los conjuntos A y B y dejar Nordelta para cuando esté confirmado**. Lo de los barrios cerrados es operativo: hace falta antes del **17/9**, no antes del anuncio. Ver `zonas-amba-ranking.md`.
 
 ### Semana 2 (17-23 ago) — armar la tienda
 
-- [ ] 🔥 **YA — mandar los pedidos de reseña a los 11 clientes de 2 pedidos o más.** Uno por uno, nunca por difusión. Los textos **no mencionan el envío ni los precios**, así que no abren el tema que se quería posponer. Textos en `textos/mensajes-resenas.md`. **Va primero en la semana** porque las respuestas tardan unos días y la sección tiene que estar publicada antes del 31/8, cuando empiece a llegar tráfico pago de CABA. **Al 18/08 seguía sin hacerse: es lo primero de la semana.**
-- [ ] **Sección de reseñas** — `textos/seccion-resenas.md`. App nativa "Opiniones de productos" en las fichas + página **"Ustedes"** en el menú. **No publicar con menos de 4 reseñas.**
-  - [ ] Dentro de la página, **link a la destacada "Ustedes" de Instagram** con las historias que subieron los clientes *(decidido el 18/08)*. Es la prueba social que ya existe y no depende de que conteste nadie; si el 31/8 faltan reseñas escritas, la página se puede publicar apoyada en ella. Chequear antes que la destacada se vea sin seguir la cuenta.
+- [x] ~~Mandar los pedidos de reseña a los clientes de 2 pedidos o más~~ → ✅ **19/08**, con **un par de respuestas** ya en mano.
+- [ ] 🔥 **Llegar a 4 reseñas antes del 31/8.** Faltan dos. En orden:
+  1. **Recordarles a los que no contestaron** (los del listado de `textos/seccion-resenas.md`). Un solo recordatorio, a los 4 o 5 días del primer mensaje, y no se insiste más.
+  2. Si con eso no alcanza, **abrir el pedido a los 10 clientes de un solo pedido**. Contestan menos, pero con mandar 10 alcanza para sacar dos.
+  3. Al que ya contestó: **preguntarle el barrio** (si no lo sabés) y, si la charla fluye, la foto de la mesa servida.
+- [x] ~~Crear la página **"Ustedes"** en el menú de Tiendanube~~ → ✅ **19/08**
+- [ ] **Terminar la sección de reseñas** — `textos/seccion-resenas.md`:
+  - [ ] Instalar la app nativa **"Opiniones de productos"** en las fichas de producto (es el lugar de más impacto: las estrellas al lado del precio)
+  - [ ] Cargar en "Ustedes" las reseñas que vayan llegando. **No publicarla en el menú con menos de 4** *(salvo que se apoye en la destacada de Instagram, ver abajo)*
+  - [ ] **Link a la destacada "Ustedes" de Instagram** con las historias que subieron los clientes *(decidido el 18/08)*. Es la prueba social que ya existe y no depende de que conteste nadie; si el 31/8 faltan reseñas escritas, la página se puede publicar apoyada en ella. Chequear antes que la destacada se vea sin seguir la cuenta.
 - [ ] **Caja de presentación de ~$16.100** con envío sin cargo (la Promo de $28.900 es mucho para un primer pedido en CABA)
 - [ ] **Suscripción**: Plan Casa quincenal $48.100 y Plan Semana $96.200. **No ofrecer plan semanal chico** — el flete (4,33 envíos/mes = $16.969) se lo come. Objetivo: 30% de los clientes de CABA suscriptos.
 - [ ] **Configurar las zonas de envío** en Tiendanube con el recargo del 6,38%: CABA $4.200 / Cordón 1 $6.700 / Cordón 2 y 3 $8.800. **Sin cargo en CABA desde $25.000.**
 - [ ] Activar la barrita de "te faltan $X para el envío sin cargo"
 - [ ] **Contactar 15 micro-influencers** de alimentación consciente de CABA. Mejor canal de retorno: la caja de canje cuesta $13.500 reales, y si trae 3 clientes el CAC es $4.500. ⚠️ **No puede pasar de la semana del 24**: tienen que publicar la semana del 14/9 y la semana 3 ya carga el test de Meta.
 - [ ] Cargar las fichas nuevas: **kéfir de agua** (tradicional e hibiscus) y las **dos líneas de Booch Kombucha**. Textos escritos el 14/08. **Falta el costo de cada uno** para calcular margen.
+- [x] ~~Reescribir la página **"Sobre Corteza"**~~ → ✅ **19/08**, Juan la rehízo porque no lo convencía
+- [x] ~~Cambiar las fotos que no gustaban de la **página de inicio**~~ → ✅ **19/08**
+- [ ] **Mirar la tienda entera desde el celular**, como la va a ver alguien de CABA que nunca escuchó la marca: inicio → producto → carrito. Es el único chequeo que queda antes de que empiece a llegar tráfico pago el 31/8.
 
 ### Semana 3 (24-30 ago) — cerrar influencers y probar Meta
 
@@ -101,7 +112,7 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
 
 ## 🟢 Prioridad 4 — Marketing continuo
 
-- [ ] **Sacar fotos reales de producto** (pan cortado con la miga a la vista, rebanadas tostadas, mesa servida). Las de ahora son prestadas: sirven para el anuncio de apertura, no para las fichas.
+- [ ] **Sacar fotos reales de producto** (pan cortado con la miga a la vista, rebanadas tostadas, mesa servida). Sigue pendiente para las **fichas de producto**, que es donde se decide la compra. *(El 19/08 se cambiaron las fotos de la página de inicio, que es otra cosa.)*
 - [ ] Posteo de curaduría: **"Nosotros no horneamos. Elegimos."** con la panadería de alguno de los proveedores. Nadie lo puede copiar.
 - [ ] Pedirle a 3 o 4 clientes fieles una foto de su mesa con el pan y una frase
 - [ ] Preguntarle a cada cliente nuevo **"¿cómo nos conociste?"** y anotarlo

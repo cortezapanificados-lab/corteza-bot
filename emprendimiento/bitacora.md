@@ -2,6 +2,23 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 19/08/2026 — Avanza la tienda; Smart Post frenado por un comercial que no contesta
+
+**Lo que hizo Juan.** Mandó los pedidos de reseña y **ya tiene un par de respuestas**. Creó la página **"Ustedes"** en Tiendanube, rehízo **"Sobre Corteza"** (no lo convencía cómo había quedado) y cambió las fotos de la **página de inicio** que no le gustaban.
+
+**Smart Post: se pidió el mínimo mensual y el comercial desapareció.** El pedido concreto fue pasar del mínimo de **30 envíos por despacho** a **120 por mes**, que es la misma cantidad pero permite compensar una semana floja con otra fuerte. Como el comercial dejó de responder, Juan **escaló a soporte pidiendo que le cambien de comercial**; quedaron en avisarle.
+
+**Qué se ordenó de eso.** Se separó lo que es plata de lo que es bloqueo:
+
+- El **mínimo mensual vale $133.246 solo en octubre**, pero **si dicen que no, el plan sigue igual**. Es una mejora, no un requisito.
+- De las tres preguntas de zona que seguían abiertas, **ninguna frena el test de Meta de la semana del 24**. El conjunto A (San Isidro–Martínez–Acassuso–Beccar) se lanza igual: aunque Beccar y Acassuso fueran Cordón 2, seguiría siendo la mejor zona del ranking. La única con consecuencia real es **Nordelta**: si es Cordón 3, el recargo del 36,7% se va más arriba. **Si el 24/8 sigue sin respuesta, se arranca con los conjuntos A y B y Nordelta espera.**
+- Lo de los **barrios cerrados** es operativo: hace falta antes del **17/9**, no antes de anunciar.
+- Se le puso fecha al escalamiento: **si el viernes 21/8 no hay comercial nuevo, escribirle a soporte por mail** —que quede por escrito— y pedir ahí mismo las respuestas, sin esperar a que asignen a alguien. Junto con eso conviene sacar de una vez las dos confirmaciones que ya estaban pendientes: **que no cobran IVA** y el **horario de colecta** en Pilar.
+
+**Reseñas: faltan dos.** La regla sigue siendo **no publicar "Ustedes" con menos de 4**. El orden para conseguirlas: un único recordatorio a los que no contestaron (a los 4 o 5 días del primer mensaje, y no se insiste más) y, si no alcanza, abrir el pedido a los 10 clientes de un solo pedido. La red de seguridad ya está decidida desde el 18/08: si el 31/8 faltan reseñas escritas, la página se publica **apoyada en la destacada "Ustedes" de Instagram**, que es prueba social que ya existe y no depende de que conteste nadie.
+
+**Lo que sigue faltando de la semana 2** y no se puede correr: la app **"Opiniones de productos"** en las fichas —que es donde se decide la compra—, las **zonas de envío** cargadas en Tiendanube y los **15 micro-influencers**, que no pueden pasar de la semana del 24 porque tienen que publicar la semana del 14/9.
+
 ## 18/08/2026 — Memoria consolidada: el trabajo estaba disperso en 5 ramas
 
 **Qué pasó.** Esta sesión arrancó leyendo la memoria del 22/07 y dio por perdido casi un mes de trabajo. No se había perdido nada: cada conversación se abre en una rama de git nueva creada desde `main`, guarda ahí, y nunca vuelve a `main`. Como `main` quedó congelado el 22/07, cada sesión nueva arrancaba ciega a las anteriores.
