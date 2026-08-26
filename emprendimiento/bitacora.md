@@ -2,6 +2,23 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 26/08/2026 — Smart Post dejó de responder: se abre la búsqueda de alternativas
+
+**Lo que pasó.** Smart Post volvió a dejar de contestar. Ya van dos rondas: primero desapareció el comercial, después el escalamiento a soporte también quedó sin respuesta.
+
+**Cómo se reencuadró el problema.** Lo grave no es el silencio, es que **a tres semanas del lanzamiento todo el plan del AMBA depende de una sola empresa sin contrato firmado, sin tarifas por escrito y sin un canal de contacto que funcione.** Y Smart Post ya tenía dos condiciones malas conocidas: el mínimo de 30 envíos por despacho y Pilar cayendo en Cordón 3. O sea que aunque contestaran mañana, convenía cotizar en otro lado igual.
+
+**Se decidió trabajar en dos vías al mismo tiempo**, con todo guardado en `logistica-alternativas.md`:
+
+- **Vía A, recuperarlos:** tres canales el mismo día en vez de insistir por el mismo. Mail formal a soporte (deja constancia), mensaje por Instagram a **@smartpost.logistica** —el único contacto público que publican en su web— y llamado anotando nombre y hora. **Fecha de corte: viernes 28/8**, que es cuando arranca el test de Meta.
+- **Vía B, cotizar en paralelo:** se releva el mercado de same day en AMBA y quedan seis candidatos (**Flexit, GT Pack, Welivery, BNZ Express, Fixy, Falco**) más tres que ya se integran a Tiendanube (**Envíopack, clicOH, Moova**). Envíopack es el más interesante de fondo porque **no es transportista sino intermediario**: cotiza contra varias empresas con una sola integración, así que un comercial que desaparece deja de ser un problema estructural.
+
+**Se armó un pliego de 10 preguntas** para mandarle igual a todos, sacado de lo que costó caro averiguar con Smart Post. Las dos que definen todo: **¿cobran por peso volumétrico?** (el pan es liviano y voluminoso: con divisor 4000 una caja de 45×35×30 se cobra como 11,8 kg en vez de 3) y **¿tienen volumen mínimo?**. La tarifa plana por tamaño que da Smart Post es su mayor virtud y casi nadie la ofrece.
+
+**El hallazgo que puede cambiar el plan entero.** **Flexit dice no tener volumen mínimo** ("empezás con 5 pedidos diarios"), hace colecta sin costo en todo el AMBA y se integra con Tiendanube. Toda la estrategia del lanzamiento —la regla de no lanzar con menos de 100 anotados, el objetivo de 150, la urgencia de los $120.000 en Meta— está construida sobre el mínimo de 30 de Smart Post. **Si el mínimo desaparece y el precio cierra, se podría lanzar el 17/9 con 40 anotados en vez de 150, sin pagar envíos fantasma.** No se festeja todavía: sin mínimo el precio por envío suele ser más alto, y el peso volumétrico puede arruinar la cuenta. Se decide con las respuestas del pliego.
+
+**Pilar sigue aparte.** Ninguna empresa del AMBA lo resuelve barato: es zona periférica para todas. La vuelta de los jueves se cotiza por separado con un cadete o moto local.
+
 ## 19/08/2026 (3) — Juan no quiere seguir repartiendo en Pilar
 
 **El planteo.** Juan quiere que la logística tercerizada cubra también Pilar, no solo el AMBA. Es entendible: el reparto propio le come el jueves entero.

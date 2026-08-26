@@ -17,14 +17,13 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
 - [x] ~~Mensaje de ausencia de WhatsApp~~ → **descartado**, las consultas las contesta ella
 - [ ] Cargar las respuestas rápidas de WhatsApp: `/caba`, `/cierre`, `/envio` (textos en `textos/captura-lista-caba.md`)
 - [ ] Poner la historia en **destacadas**, con sticker de link y tapa (`textos/tapa-destacada.png`)
-- [ ] 🔥 **Smart Post — el comercial no contesta. Escalado a soporte el 19/08 pidiendo cambio de comercial; quedaron en avisar.**
-  - [x] ~~Pedir el **mínimo MENSUAL** (120 pedidos por mes en vez de 30+30+30+30)~~ → **pedido el 19/08, sin respuesta**. Vale $133.246 solo en octubre.
-  - [ ] ¿**Nordelta** es Cordón 2 o 3? Son $1.931 por pedido
-  - [x] ~~¿Entran a los barrios cerrados?~~ → **RESUELTO 19/08: NO entran. Llegan hasta la guardia y entregan ahí.** Ver más abajo qué hay que hacer con eso.
-  - [ ] ¿**Beccar y Acassuso** están en Cordón 1?
-  - [ ] **Si el viernes 21/8 no apareció comercial nuevo**: volver a escribirle a soporte por mail (que quede por escrito) y pedir las respuestas ahí mismo, sin esperar a que asignen a alguien.
-
-  **Qué bloquea de verdad y qué no** *(revisado el 19/08)*: el **mínimo mensual es plata, no es bloqueo** — si dicen que no, el plan sigue igual con el mínimo por despacho. De las tres preguntas de zona, **ninguna frena el test de Meta de la semana del 24**: el conjunto A (San Isidro–Martínez–Acassuso–Beccar) se lanza igual, porque aunque Beccar y Acassuso fueran Cordón 2 seguirían siendo la mejor zona. La única con consecuencia real es **Nordelta**: si es Cordón 3, el recargo del 36,7% se va más arriba. Si el 24/8 sigue sin respuesta, **arrancar con los conjuntos A y B y dejar Nordelta para cuando esté confirmado**. Lo de los barrios cerrados es operativo: hace falta antes del **17/9**, no antes del anuncio. Ver `zonas-amba-ranking.md`.
+- [ ] 🔥🔥 **LOGÍSTICA EN RIESGO — Smart Post dejó de responder otra vez (26/08).** Plan completo en `logistica-alternativas.md`. Se trabaja en dos vías al mismo tiempo:
+  - [ ] **Vía A — recuperarlos.** Tres canales el mismo día: mail formal a soporte (texto listo), mensaje por Instagram a @smartpost.logistica (único contacto público de su web) y llamado anotando nombre y hora. **Fecha de corte: viernes 28/8.**
+  - [ ] **Vía B — cotizar en paralelo, se haga o no la A.** Mandar el mismo pedido de cotización a **Flexit, GT Pack, Welivery, BNZ Express y Envíopack**. Texto listo para copiar y pegar.
+  - [ ] **Cotizar aparte la vuelta de Pilar** con un cadete o moto local (18 entregas juntas). Ninguna empresa del AMBA resuelve Pilar barato.
+  - **Lo que hay que mirar primero de cada respuesta:** ¿cobran por peso volumétrico? ¿tienen volumen mínimo? Todo lo demás es secundario.
+  - ⚠️ **Flexit dice no tener volumen mínimo.** Si eso se confirma y el precio cierra, **se cae la regla de los 150 anotados** y el lanzamiento del 17/9 deja de depender de llenar la lista. Ver sección 7 de `logistica-alternativas.md`.
+  - **Preguntas viejas que siguen sin respuesta** y ahora van dentro del pliego a todos: que no cobran IVA por escrito, horario de colecta en Pilar, y en qué cordón caen Nordelta, Beccar y Acassuso.
 
 ### Semana 2 (17-23 ago) — armar la tienda
 
