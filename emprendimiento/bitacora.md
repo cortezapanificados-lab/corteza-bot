@@ -2,6 +2,14 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 26/08/2026 (3) — Escalado a Smart Post y encargo para salir a cotizar
+
+**Smart Post, Vía A ejecutada.** Juan escribió por Instagram a @smartpost.logistica y además **volvió a llenar el formulario de la web como si fuera un cliente nuevo** — buena jugada: los leads nuevos suelen atenderse mucho más rápido que los reclamos de un cliente en proceso. Queda en pie la fecha de corte del **viernes 28/8**.
+
+**Vía B: se armó el encargo para Claude in Chrome** (`textos/encargo-claude-chrome-logistica.md`) para escribirle a **10 empresas** de una sola vez, con los cuatro requisitos innegociables (same day en todo el AMBA, panificados a temperatura ambiente, colecta en Pilar, integración con Tiendanube), el triaje previo de cada sitio y las 11 preguntas. Los diez dominios se verificaron uno por uno antes de mandarlo.
+
+**El hallazgo de redacción, que puede cambiar cuántas contestan que sí:** **no hay que decir "alimentos frescos"**. Muchas logísticas tienen un rechazo automático a esa frase porque piensan en carne, lácteos y congelados. El pan de Corteza **no necesita frío**. La formulación correcta es *"panificados a temperatura ambiente, sin cadena de frío ni congelados"*. Es igual de honesto y evita el rebote de entrada. Quedó así en todos los textos.
+
 ## 26/08/2026 (2) — Shipnow descartado, y aparecen dos preguntas eliminatorias
 
 Juan preguntó por **Shipnow**. Se revisó y **no sirve**, por dos motivos independientes, ambos de la documentación oficial de Tiendanube:

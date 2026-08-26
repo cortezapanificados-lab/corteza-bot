@@ -18,10 +18,11 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
 - [ ] Cargar las respuestas rápidas de WhatsApp: `/caba`, `/cierre`, `/envio` (textos en `textos/captura-lista-caba.md`)
 - [ ] Poner la historia en **destacadas**, con sticker de link y tapa (`textos/tapa-destacada.png`)
 - [ ] 🔥🔥 **LOGÍSTICA EN RIESGO — Smart Post dejó de responder otra vez (26/08).** Plan completo en `logistica-alternativas.md`. Se trabaja en dos vías al mismo tiempo:
-  - [ ] **Vía A — recuperarlos.** Tres canales el mismo día: mail formal a soporte (texto listo), mensaje por Instagram a @smartpost.logistica (único contacto público de su web) y llamado anotando nombre y hora. **Fecha de corte: viernes 28/8.**
-  - [ ] **Vía B — cotizar en paralelo, se haga o no la A.** Mandar el mismo pedido de cotización a **Flexit, GT Pack, Welivery, BNZ Express y Envíopack**. Texto listo para copiar y pegar.
+  - [x] ~~**Vía A — recuperarlos.**~~ → **26/08: hecho por dos canales.** Juan escribió por Instagram a @smartpost.logistica y volvió a llenar el formulario de la web como si fuera cliente nuevo. **Fecha de corte: viernes 28/8** — si no contestan, dejan de ser el plan principal.
+  - [ ] **Vía B — cotizar en paralelo.** Encargo listo para Claude in Chrome en `textos/encargo-claude-chrome-logistica.md`: escribirle a **10 empresas** (Flexit, GT Pack, Welivery, BNZ Express, Fixy, Falco, DAR, Envíopack, clicOH, Moova). Al terminar, cargar las respuestas en la tabla de estado de `logistica-alternativas.md`.
   - [ ] **Cotizar aparte la vuelta de Pilar** con un cadete o moto local (18 entregas juntas). Ninguna empresa del AMBA resuelve Pilar barato.
-  - **Lo que hay que mirar primero de cada respuesta:** ¿cobran por peso volumétrico? ¿tienen volumen mínimo? Todo lo demás es secundario.
+  - **Lo que hay que mirar primero de cada respuesta:** ¿aceptan panificados a temperatura ambiente? ¿el same day cubre todo el AMBA o solo CABA? ¿cobran por peso volumétrico? ¿tienen volumen mínimo? Todo lo demás es secundario.
+  - 💡 **Cómo se pregunta importa:** no decir "alimentos frescos" sino **"panificados a temperatura ambiente, sin cadena de frío ni congelados"**. Muchas logísticas tienen un rechazo automático a "fresco" pensando en carne y lácteos.
   - ⚠️ **Flexit dice no tener volumen mínimo.** Si eso se confirma y el precio cierra, **se cae la regla de los 150 anotados** y el lanzamiento del 17/9 deja de depender de llenar la lista. Ver sección 7 de `logistica-alternativas.md`.
   - **Preguntas viejas que siguen sin respuesta** y ahora van dentro del pliego a todos: que no cobran IVA por escrito, horario de colecta en Pilar, y en qué cordón caen Nordelta, Beccar y Acassuso.
 
