@@ -134,6 +134,9 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
 
 ## ⚪ Cuando haya tiempo
 
+- [ ] **Configurar Lumi, la IA de Tiendanube** *(anotado el 26/08 a pedido de Juan)*. Se usa desde el panel de administrador, por texto, voz o imagen. Tiene dos partes: **Lumi Assistant** (análisis y diagnóstico del negocio con tus datos reales de ventas) y **Lumi Actions** (genera descripciones con SEO, calcula envíos por imagen, recomienda productos, crea imágenes con Lumi Studio). El chat no consume créditos; la generación de contenido sí.
+  - 💡 **Puede resolver dos cosas que ya están en esta lista:** las **descripciones y el SEO** de las fichas nuevas (kéfir y kombucha), y sobre todo el **% de clientes que compró más de una vez** — el número que define el negocio del pan y que hoy está trabado esperando una exportación. Lumi Assistant analiza las ventas desde adentro del panel, así que ese dato podría salir preguntándoselo.
+
 - [ ] Negritas en frases clave del texto de "Sobre Corteza"
 - [ ] Replicar en el Canva original las dos correcciones de la placa ("elaboramos" → "seleccionamos"; sello → "PANES 100% / MASA MADRE")
 
