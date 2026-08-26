@@ -2,6 +2,19 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 26/08/2026 (2) — Shipnow descartado, y aparecen dos preguntas eliminatorias
+
+Juan preguntó por **Shipnow**. Se revisó y **no sirve**, por dos motivos independientes, ambos de la documentación oficial de Tiendanube:
+
+1. **No transportan alimentos frescos.** Está en las restricciones del servicio.
+2. **Same day solo en CABA; en AMBA es next day** (y en CABA con corte a las 12:00). Corteza despacha el jueves y entrega el jueves: un next day rompe la propuesta.
+
+**La trampa que casi funciona:** Shipnow tiene una página entera dedicada a "Alimentos y bebidas", que hace pensar que el rubro está cubierto. Pero esa categoría es **alimentos envasados y bebidas**, no fresco.
+
+**Lo que dejó:** el pliego pasó de 10 a 11 preguntas, y las dos nuevas van **primero** porque son eliminatorias: *¿tienen restricción para alimentos frescos?* y *¿el same day es en todo el AMBA o solo en CABA?*. Antes de discutir precio hay que pasar ese filtro. Si se hubieran hecho estas dos preguntas al principio, Shipnow se descartaba en un mensaje en vez de en una reunión.
+
+Otros datos, por si alguna vez cambia el panorama: aceptan hasta 70×70×70 cm y 20 kg (la caja entra cómoda) y facturan en cuenta corriente.
+
 ## 26/08/2026 — Smart Post dejó de responder: se abre la búsqueda de alternativas
 
 **Lo que pasó.** Smart Post volvió a dejar de contestar. Ya van dos rondas: primero desapareció el comercial, después el escalamiento a soporte también quedó sin respuesta.

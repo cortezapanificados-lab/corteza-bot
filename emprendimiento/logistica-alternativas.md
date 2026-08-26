@@ -83,20 +83,21 @@ Ninguna de estas resuelve Pilar barato (es zona periférica para todas). **La vu
 
 ---
 
-## 5. El pliego: las 10 preguntas que hay que hacerle a todos
+## 5. El pliego: las 11 preguntas que hay que hacerle a todos
 
-Estas diez salieron de lo que costó caro averiguar con Smart Post. **Si una empresa no las contesta por escrito, no está cotizando en serio.**
+**Las dos primeras son eliminatorias: si las contestan mal, cortá ahí y no pierdas tiempo con el precio.** El resto salió de lo que costó caro averiguar con Smart Post. **Si una empresa no las contesta por escrito, no está cotizando en serio.**
 
-1. **¿Cobran por peso real o por peso volumétrico?** Si es volumétrico, ¿cuál es el divisor (4000, 5000)? *— La pregunta más importante. El pan es liviano y voluminoso: acá se define si la tarifa es real o de folleto.*
-2. **¿Hay volumen mínimo por despacho o por mes?** ¿Qué pasa si un día tengo menos?
-3. **¿Hacen colecta en Pilar? ¿A qué hora y con qué costo?**
-4. **¿Es entrega el mismo día (same day) en todo el AMBA saliendo de Pilar?**
-5. **¿Las tarifas incluyen IVA o no?** *— Por escrito. Es el error que ya casi cometemos una vez.*
-6. **¿Entran a barrios cerrados y countries, o dejan en la guardia?** *— Si alguno entra, es una ventaja enorme para Nordelta y los countries de Pilar.*
-7. **¿Se puede comprometer una franja horaria al cliente?** *— Es el diferencial de Corteza.*
-8. **¿Cuál es la tarifa por zona?** Pedir el mapa de zonas, y confirmar en cuál cae **Pilar**, **Nordelta**, **Beccar** y **Acassuso**.
-9. **¿Cómo se factura y con qué plazo de pago?** ¿Hay que dejar depósito o garantía?
-10. **¿Se integran con Tiendanube?** ¿La integración cotiza sola en el checkout?
+1. **¿Tienen alguna restricción para alimentos frescos o perecederos?** *— Agregada el 26/08 después de descartar a Shipnow por esto. Muchas empresas de ecommerce excluyen alimentos frescos en la letra chica aunque tengan una página entera dedicada a "alimentos y bebidas". Es eliminatoria: preguntala primero.*
+2. **¿La entrega es el mismo día (same day) en TODO el AMBA, o solo en CABA?** *— También eliminatoria. Varias hacen same day únicamente en Capital y next day en el conurbano. Para pan fresco despachado el jueves, next day no sirve.*
+3. **¿Cobran por peso real o por peso volumétrico?** Si es volumétrico, ¿cuál es el divisor (4000, 5000)? *— La pregunta más importante. El pan es liviano y voluminoso: acá se define si la tarifa es real o de folleto.*
+4. **¿Hay volumen mínimo por despacho o por mes?** ¿Qué pasa si un día tengo menos?
+5. **¿Hacen colecta en Pilar? ¿A qué hora y con qué costo?**
+6. **¿Las tarifas incluyen IVA o no?** *— Por escrito. Es el error que ya casi cometemos una vez.*
+7. **¿Entran a barrios cerrados y countries, o dejan en la guardia?** *— Si alguno entra, es una ventaja enorme para Nordelta y los countries de Pilar.*
+8. **¿Se puede comprometer una franja horaria al cliente?** *— Es el diferencial de Corteza.*
+9. **¿Cuál es la tarifa por zona?** Pedir el mapa de zonas, y confirmar en cuál cae **Pilar**, **Nordelta**, **Beccar** y **Acassuso**.
+10. **¿Cómo se factura y con qué plazo de pago?** ¿Hay que dejar depósito o garantía?
+11. **¿Se integran con Tiendanube?** ¿La integración cotiza sola en el checkout?
 
 **Además, pedir siempre:** una cotización escrita para **30, 50 y 80 pedidos** en un mismo día, así se ve si el precio baja por volumen.
 
@@ -150,16 +151,17 @@ Estas diez salieron de lo que costó caro averiguar con Smart Post. **Si una emp
 >
 > **Lo que necesito que me confirmen por escrito:**
 >
-> 1. ¿Cobran por peso real o volumétrico? Si es volumétrico, ¿qué divisor usan?
-> 2. ¿Tienen volumen mínimo por despacho o por mes?
-> 3. ¿Hacen colecta en Pilar? ¿A qué hora y con qué costo?
-> 4. ¿La entrega es el mismo día en todo el AMBA saliendo de Pilar?
-> 5. ¿Las tarifas incluyen IVA?
-> 6. ¿Entran a barrios cerrados y countries o entregan en la guardia?
-> 7. ¿Se puede comprometer una franja horaria de entrega?
-> 8. Tarifario por zona y mapa. En particular: **Pilar, Nordelta, Beccar y Acassuso**.
-> 9. Forma de facturación, plazo de pago y si piden depósito o garantía.
-> 10. ¿Se integran con Tiendanube?
+> 1. **¿Tienen alguna restricción para transportar alimentos frescos o perecederos?**
+> 2. **¿La entrega es el mismo día (same day) en todo el AMBA saliendo de Pilar, o solo en CABA?**
+> 3. ¿Cobran por peso real o volumétrico? Si es volumétrico, ¿qué divisor usan?
+> 4. ¿Tienen volumen mínimo por despacho o por mes?
+> 5. ¿Hacen colecta en Pilar? ¿A qué hora y con qué costo?
+> 6. ¿Las tarifas incluyen IVA?
+> 7. ¿Entran a barrios cerrados y countries o entregan en la guardia?
+> 8. ¿Se puede comprometer una franja horaria de entrega?
+> 9. Tarifario por zona y mapa. En particular: **Pilar, Nordelta, Beccar y Acassuso**.
+> 10. Forma de facturación, plazo de pago y si piden depósito o garantía.
+> 11. ¿Se integran con Tiendanube?
 >
 > Si pueden, mándenme el precio por envío para tres escenarios: **30, 50 y 80 pedidos** en un mismo día.
 >
@@ -187,6 +189,23 @@ Pero si los números dan, **el plan del lanzamiento se rehace entero y en direcc
 
 ---
 
+## 7 bis. Evaluados y descartados
+
+### ❌ Shipnow — descartado el 26/08
+
+Se evaluó a pedido de Juan. **No sirve, por dos motivos independientes y cada uno alcanza para descartarlo.** Ambos están en la documentación oficial de Tiendanube, no en interpretaciones:
+
+1. **No transportan alimentos frescos.** Está escrito en las restricciones del servicio. El pan de masa madre entregado el día es exactamente lo que excluyen.
+2. **Same day solo en CABA. En AMBA es next day** (y en CABA con corte a las 12:00). El modelo de Corteza es despachar el jueves y entregar el jueves: un next day rompe la propuesta entera.
+
+**Ojo con la confusión:** Shipnow tiene una página entera dedicada a *"Alimentos y bebidas"*, y eso hace pensar que sirve. Pero esa categoría es para **alimentos envasados y bebidas**, no para fresco. Es justamente el tipo de letra chica que hay que preguntar antes de perder una semana.
+
+Dos datos más, por si alguna vez cambia el panorama: aceptan hasta **70×70×70 cm y 20 kg** (la caja de Corteza entra cómoda) y facturan en **cuenta corriente**, que es una buena condición. Tienen dos modalidades: **Shipcross** (crossdocking, con colecta programada) y **Shipfull** (fulfillment desde su depósito en CABA — que para pan fresco no tiene sentido: la mercadería llega el miércoles y sale el jueves).
+
+**Lo que dejó de aprendizaje:** se agregaron dos preguntas eliminatorias al pliego, y van primero. Antes de mirar precios hay que preguntar por **alimentos frescos** y por **same day en todo el AMBA, no solo CABA**.
+
+---
+
 ## 8. Estado
 
 | Empresa | Contactada | Respondió | Tarifa | Mínimo | Volumétrico |
@@ -198,3 +217,4 @@ Pero si los números dan, **el plan del lanzamiento se rehace entero y en direcc
 | BNZ Express | | | | | |
 | Envíopack | | | | | |
 | Cadete local Pilar | | | | | |
+| ~~Shipnow~~ | 26/08 | ❌ **DESCARTADO** | — | — | no lleva alimentos frescos; AMBA es next day |
