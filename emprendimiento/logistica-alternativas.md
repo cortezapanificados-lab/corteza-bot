@@ -206,12 +206,28 @@ Dos datos más, por si alguna vez cambia el panorama: aceptan hasta **70×70×70
 
 ---
 
+## 7 ter. Flexit contestó — 28/08
+
+**Primera cotización real que entra.** Mandaron el tarifario de septiembre por escrito, con mapa de zonas. **El análisis completo está en `propuesta-flexit.md`.** Lo esencial:
+
+- **Precio: empate con Smart Post**, y empata donde conviene — **más barato en San Isidro/Beccar/Acassuso ($6.102 vs $6.265) y en Nordelta ($7.848 vs $8.196)**, más caro en CABA (+11,2%) y en Pilar (+11,7%).
+- **Resuelve las tres zonas que estaban en duda**: Beccar y Acassuso son San Isidro → Zona Media. Nordelta es Tigre → Zona Lejana. Pilar → Muy lejana.
+- **Segunda y tercera visita incluidas en el precio.** Es mejor que Smart Post y con pan fresco vale mucho.
+- **El IVA está explícito en el PDF** (precios sin IVA). Juan avisa que **sería 10,5% pagando en efectivo** — hay que consultarlo con el contador antes de aceptar: si Corteza es responsable inscripto el descuento no vale nada, y en cualquier caso implica retirar ~$197.000 semanales en efectivo cobrando 100% digital.
+- **Pilar da pérdida**: $9.157 de flete contra $8.974 de margen del pedido promedio. **Confirma que el cadete local es la única salida.**
+- ❌ **Siguen sin contestar las dos eliminatorias**: panificados a temperatura ambiente y peso volumétrico. Sin eso no se cierra nada. Tampoco contestaron mínimo, colecta en Pilar, barrios cerrados ni Tiendanube.
+- ⚠️ El PDF está escrito para vendedores de MercadoLibre (reputación MELI, tarifas alineadas a Flex de ML): hay que confirmar que atienden tiendas propias.
+
+**Texto listo para repreguntarles en `propuesta-flexit.md`, sección 10.**
+
+---
+
 ## 8. Estado
 
 | Empresa | Contactada | Respondió | Tarifa | Mínimo | Volumétrico |
 |---|---|---|---|---|---|
 | Smart Post | 19/08 (sin respuesta) | ❌ | $3.919 / $6.265 / $8.196 | 30/despacho | ❌ plana |
-| Flexit | | | | | |
+| **Flexit** | **28/08** ✅ | ✅ **tarifario Sept. por escrito** — análisis completo en `propuesta-flexit.md` | $3.942 / $5.522 / $7.102 / $8.287 **sin IVA** (+10,5% pagando en efectivo) | **a confirmar** | **a confirmar** ⚠️ |
 | GT Pack | | | | | |
 | Welivery | | | | | |
 | BNZ Express | | | | | |

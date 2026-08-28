@@ -2,6 +2,20 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 28/08/2026 — Flexit cotizó: primera cotización real de logística
+
+Juan pasó el tarifario de Flexit de septiembre (PDF) y el dato de que **el IVA sería del 10,5% pagando en efectivo**. Análisis completo en `propuesta-flexit.md`.
+
+**El precio empata con Smart Post, y empata bien:** con IVA al 10,5% son $4.356 CABA / $6.102 zona Media / $7.848 Lejana / $9.157 Muy lejana. Es **más caro en CABA (+11,2%) y en Pilar (+11,7%)**, pero **más barato justo en las dos zonas del ranking de publicidad**: San Isidro–Beccar–Acassuso ($163 menos) y Nordelta ($348 menos). Suma dos cosas que Smart Post no daba: **segunda y tercera visita incluidas en el precio** (clave con pan fresco) y **el IVA aclarado por escrito**. Amplía cobertura a Campana, Zárate, Luján y La Plata.
+
+**Resolvió las tres zonas que estaban en duda hace un mes:** Beccar y Acassuso son San Isidro → zona Media; Nordelta es Tigre → zona Lejana; Pilar → Muy lejana.
+
+**Pilar quedó cerrado como tema:** el flete de $9.157 supera el margen del pedido promedio de Pilar ($8.974), o sea que cada pedido daría pérdida. Ninguna logística del AMBA resuelve Pilar. **El cadete o moto local pasó de ser una opción a ser la única salida.**
+
+**Sobre el 10,5% en efectivo:** a 30 envíos por jueves ahorra $74.837 al mes (casi los fijos completos), pero **solo si Corteza es monotributista** — si es responsable inscripto el IVA es crédito fiscal y el descuento no vale nada. Además implica retirar ~$197.000 semanales en efectivo cobrando 100% digital por Pago Nube, y deja el segundo costo más grande del negocio a medio documentar. **Quedó como pendiente de consulta al contador antes de aceptar nada.**
+
+**Lo que falta y es eliminatorio:** Flexit no contestó si transportan panificados a temperatura ambiente ni si cobran por peso volumétrico (la caja de 45×35×30 pesa 3 kg reales pero 11,8 kg volumétricos). Tampoco el volumen mínimo — que es lo más valioso que tienen, porque si se confirma que no hay, se cae la regla de los 150 anotados y el lanzamiento del 17/9 deja de depender de llenar la lista. Texto de repregunta listo.
+
 ## 26/08/2026 (3) — Escalado a Smart Post y encargo para salir a cotizar
 
 **Smart Post, Vía A ejecutada.** Juan escribió por Instagram a @smartpost.logistica y además **volvió a llenar el formulario de la web como si fuera un cliente nuevo** — buena jugada: los leads nuevos suelen atenderse mucho más rápido que los reclamos de un cliente en proceso. Queda en pie la fecha de corte del **viernes 28/8**.
