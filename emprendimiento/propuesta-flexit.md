@@ -14,8 +14,8 @@
 > - ✅ **Flexit sabe que son panificados a temperatura ambiente.** La pregunta eliminatoria está contestada.
 > - ✅ **Mínimo: 120 envíos por MES**, no 30 por despacho. **Es la condición que Smart Post nunca dio.** Pero no es "sin mínimo": mueve el punto de equilibrio de 8 a 49 pedidos por mes. Análisis en `envios-amba.md` sección 5 y en `numeros.md`.
 > - ✅ **Pago del total en efectivo, una vez por mes.**
-> - 🔥 **Dato nuevo que abre la pregunta más cara: cada pedido va en 2 bolsas camiseta de ~2 kg.** Son **dos bultos por pedido**. Si Flexit cobra por bulto y no por envío, el flete se duplica y **el AMBA no cierra en ninguna zona salvo CABA**. Es lo primero que hay que preguntar.
-> - 🔥 **Y la segunda: ¿cómo se cuenta el primer mes?** Arrancando el 17/9 hay solo dos despachos en septiembre; si el mínimo de 120 corre igual, harían falta 60 pedidos por jueves desde el día uno.
+> - ✅ **La tarifa es POR PEDIDO, no por bulto.** Cada pedido va en 2 bolsas camiseta de ~2 kg y **las dos entran en un solo envío**. ⭐ **Es la condición que hace que el AMBA cierre**: si hubiera sido por bulto, el flete se duplicaba y no cerraba en ninguna zona salvo CABA. **Las tarifas de este documento son las definitivas.**
+> - 🔥 **La única pregunta urgente que queda: ¿cómo se cuenta el primer mes del mínimo?** Arrancando el 17/9 hay solo dos despachos en septiembre; si el mínimo de 120 corre igual, harían falta 60 pedidos por jueves desde el día uno.
 
 ---
 
@@ -159,9 +159,9 @@ Del pliego de 11 preguntas de `logistica-alternativas.md`, el PDF contesta **3**
 | # | Pregunta | Estado |
 |---|---|---|
 | 1 | **¿Llevan panificados a temperatura ambiente?** (sin cadena de frío ni congelados) | ✅ **Contestada el 28/08: sí, Flexit lo sabe y lo acepta.** |
-| **0** | 🔥🔥 **¿Cobran por envío o por bulto?** *(agregada el 28/08 — cada pedido son 2 bolsas camiseta de ~2 kg)* | ❌ **Sin respuesta. Es la más cara de todas.** Si es por bulto, el flete se duplica: $12.204 en zona Media contra $10.612 de margen. |
+| **0** | **¿Cobran por envío o por bulto?** *(agregada el 28/08 — cada pedido son 2 bolsas camiseta de ~2 kg)* | ✅ **Contestada: por pedido, con las 2 bolsas incluidas.** Era la pregunta más cara y salió bien. Falta saber qué pasa con una tercera bolsa. |
 | 2 | **¿El same-day es en las 4 zonas o solo en CABA?** | ⚠️ Parece que sí, pero **no está dicho**. También eliminatoria. |
-| 3 | **¿Peso real o volumétrico? ¿Qué divisor?** | ❌ Sin respuesta. Hoy son 2 bolsas camiseta de ~2 kg (4 kg por pedido). **Si se pasa a caja consolidada, hay que dar las medidas y volver a preguntar.** |
+| 3 | **¿Peso real o volumétrico? ¿Qué divisor?** | ✅ **Sin efecto práctico**: la tarifa es plana por pedido con las 2 bolsas incluidas. |
 | 4 | ¿Volumen mínimo por despacho o por mes? | ✅ **Contestada: 120 por MES.** Falta saber **cómo se cuenta el primer mes** y **si hay tope máximo**. |
 | 5 | ¿Colectan en Pilar? ¿A qué hora y con qué costo? | ❌ **Sin respuesta, y acá hay un riesgo escondido:** Pilar es "Muy lejana" para ellos. Si cobran la colecta, puede salir cara. |
 | 6 | ¿Las tarifas incluyen IVA? | ✅ **Contestada.** Sin IVA, +IVA aparte. |
@@ -235,8 +235,7 @@ Toda la estrategia del 17/9 está construida sobre el mínimo de 30 envíos de S
 >
 > 1. **¿Transportan panificados a temperatura ambiente?** No llevan cadena de frío ni congelado: es pan, se despacha y se entrega el mismo día.
 > 2. **¿El same-day aplica a las cuatro zonas del tarifario**, o solo a Cercana y Media?
-> 3. 🔥 **¿La tarifa es por envío o por bulto?** Cada pedido lo despacho en **2 bolsas camiseta de aproximadamente 2 kg cada una** (unos 4 kg en total, misma dirección, mismo destinatario). Necesito saber si eso cuenta como un envío o como dos. **Si es como dos, puedo consolidarlas en una sola caja: díganme si con eso queda como un solo envío y qué medidas máximas admiten.**
-> 3 bis. **¿Cobran por peso real o volumétrico?** Si es volumétrico, ¿qué divisor usan?
+> 3. Me confirmaron que la tarifa es **por pedido**, con las 2 bolsas incluidas. **¿Qué pasa si un pedido lleva 3 bolsas?** ¿Sigue siendo un solo envío o se cobra aparte? Lo pregunto porque voy a vender un plan de suscripción más grande y pedidos agrupados por barrio.
 > 4. Sobre el **mínimo de 120 envíos mensuales** que me confirmaron: **¿cómo se cuenta el primer mes?** Arranco el jueves 17 de septiembre, así que en septiembre tendría solo dos despachos. ¿Es proporcional, o el conteo empieza con el primer despacho? **¿Y hay tope máximo de envíos por mes?**
 > 5. **¿Hacen colecta en Pilar? ¿A qué hora y con qué costo?** Pilar les figura como zona Muy lejana y necesito saber si eso afecta la colecta.
 > 6. **¿Entran a barrios cerrados y countries o entregan en la guardia?** ¿Se puede comprometer una franja horaria al cliente?

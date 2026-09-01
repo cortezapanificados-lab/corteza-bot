@@ -2,6 +2,20 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 28/08/2026 — Flexit cobra por pedido, no por bulto: el riesgo grande quedó cerrado
+
+Juan confirmó que **la tarifa de Flexit es por pedido y que las 2 bolsas camiseta van incluidas en un solo envío.**
+
+**Era el riesgo más grande que tenía la operación del AMBA.** Si hubieran cobrado por bulto, el flete se duplicaba: $12.204 en zona Media contra $10.612 de margen del pedido promedio, $15.696 en Lejana, $18.314 en Muy lejana. **El negocio no cerraba en ninguna zona salvo CABA.** Con la respuesta, **las tarifas cargadas en `perfil.md` y `envios-amba.md` quedan como definitivas.**
+
+**Y refuerza la palanca principal del negocio: subir el ticket.** Con flete plano por pedido, cada peso extra que entre en esas dos bolsas es casi ganancia pura — el envío no se mueve. Es el argumento de fondo de los combos, la Promo y la suscripción.
+
+**Queda una pregunta chica derivada:** Juan entendió "hasta dos bolsas" como el mínimo garantizado, no como un tope. **Falta saber qué pasa con un pedido de 3 bolsas**, porque el Plan Semana ($96.200) y los pedidos de barrio en countries van a superar las dos.
+
+**El packaging deja de ser un problema de plata y pasa a ser uno de calidad y de marca.** Sigue en pie que una bolsa camiseta no protege el pan cuando viaja apilado en una camioneta compartida, y que no representa a Corteza en pedidos de $28.000 que van a CABA y San Isidro con influencers publicando. Pero ya no cambia los números: se resuelve barato y no bloquea el lanzamiento.
+
+**La única pregunta urgente que queda con Flexit es cómo se cuenta el primer mes del mínimo de 120**, porque arrancando el jueves 17 septiembre tiene solo dos despachos.
+
 ## 28/08/2026 — Condiciones cerradas con Flexit: mínimo mensual, efectivo y el problema de las dos bolsas
 
 Juan confirmó tres cosas y una de ellas abre un riesgo que no estaba visto.

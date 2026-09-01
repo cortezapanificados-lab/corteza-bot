@@ -30,11 +30,11 @@ Lo que incluye Flexit: **segunda y tercera visita sin costo adicional**, same-da
 - **Pago del total en efectivo, una vez por mes** (~$727.000 mensuales en el piso de 120 envíos).
 - **Flexit sabe que Corteza manda panificados a temperatura ambiente**, sin cadena de frío.
 
-**Packaging: cada pedido va en 2 bolsas camiseta de ~2 kg cada una** (unos 4 kg por pedido).
+- **La tarifa es POR PEDIDO, no por bulto.** Cada pedido va en **2 bolsas camiseta de ~2 kg cada una** (unos 4 kg) y **las dos van incluidas en un solo envío**. ⭐ Es la condición que hace que el AMBA cierre: si hubiera sido por bulto, el flete se duplicaba.
 
-🔥 **La pregunta abierta más cara: ¿Flexit cobra por envío o por bulto?** Como cada pedido son dos bolsas, si cobran por bulto el flete se duplica y **el AMBA deja de cerrar en todas las zonas salvo CABA**. Si la respuesta es "por bulto", la solución es consolidar las dos bolsas en un solo bulto cerrado — algo que conviene hacer igual, porque una bolsa camiseta no protege el pan en una camioneta compartida ni representa a la marca. Ver `envios-amba.md`.
+**Consecuencia directa: subir el ticket es la mejor palanca del negocio.** Con flete plano por pedido, cada peso extra que entre en esas dos bolsas es casi ganancia pura.
 
-⚠️ **También falta confirmar**: cómo se cuenta el primer mes del mínimo (arrancando el 17/9 hay solo dos despachos en septiembre), si hay tope máximo, el horario y costo de la colecta en Pilar y el tope de responsabilidad por bulto.
+⚠️ **Falta confirmar**: cómo se cuenta el primer mes del mínimo (arrancando el 17/9 hay solo dos despachos en septiembre), si un pedido de **3 bolsas** sigue siendo un solo envío, si hay tope máximo de envíos, el horario y costo de la colecta en Pilar y el tope de responsabilidad por bulto.
 
 **Las tarifas son mensuales** y están alineadas a los envíos Flex de MercadoLibre: hay que pedir el tarifario nuevo todos los meses.
 

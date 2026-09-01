@@ -44,36 +44,33 @@
 - **Flexit sabe que Corteza manda panificados a temperatura ambiente**, sin cadena de frío. **La pregunta eliminatoria está contestada.**
 - **El mínimo es de 120 envíos por mes**, no de 30 por despacho. Ver sección 5.
 - **Se paga el total en efectivo, una vez por mes.**
+- **La tarifa es por pedido: las 2 bolsas van incluidas en un solo envío.**
 
-### 🔥 La pregunta que quedó abierta y es la más cara de todas
+### ✅ La tarifa es por pedido, no por bulto (confirmado el 28/08)
 
-**Cada pedido va en 2 bolsas camiseta de ~2 kg cada una** (unos 4 kg por pedido). O sea que **cada pedido son dos bultos, no uno.**
+**Cada pedido va en 2 bolsas camiseta de ~2 kg cada una (unos 4 kg), y Flexit las cuenta como un solo envío.** Las dos bolsas entran en la tarifa.
 
-> ### ¿Flexit cobra por envío o por bulto?
+**Esto cierra el riesgo más grande que tenía la operación.** Si hubieran cobrado por bulto, el flete se duplicaba y el AMBA no cerraba en ninguna zona salvo CABA. **Las tarifas de la tabla de arriba son las definitivas.**
 
-| Zona | 1 bulto | **Si cobran por bulto (×2)** | Sobre el margen de un pedido de $28.000 |
-|---|---:|---:|---:|
-| Cercana | $4.356 | $8.712 | 82% |
-| Media | $6.102 | **$12.204** | **115%** ❌ |
-| Lejana | $7.848 | **$15.696** | **148%** ❌ |
-| Muy lejana | $9.157 | **$18.314** | **173%** ❌ |
+**Y refuerza algo que ya estaba en `numeros.md`: subir el ticket es la mejor palanca que tenés.** Con tarifa plana por pedido, **cada peso extra que entre en esas dos bolsas es casi ganancia pura** — el flete no se mueve. Es el argumento de fondo de los combos, la Promo y la suscripción.
 
-**Si cobran por bulto, el negocio del AMBA no cierra en ninguna zona salvo CABA, y ahí apenas.** Toda esta tabla se cae.
+> ⚠️ **Lo que falta preguntar: qué pasa con un pedido de 3 bolsas.** Juan entendió "hasta dos bolsas" como el mínimo garantizado, no como un tope. Importa para tres cosas que ya están en el plan: la **suscripción Plan Semana ($96.200)**, los **pedidos de barrio** en countries y cualquier pedido grande. **Si la tercera bolsa se cobra aparte, hay que saberlo antes de vender esos productos.**
 
-**La solución, si la respuesta es "por bulto": que las 2 bolsas viajen dentro de un solo bulto** — una caja o un bolsón cerrado con la marca. Y conviene hacerlo igual, por dos razones más:
+### El packaging sigue siendo un tema, pero ya no por plata
 
-1. **Una bolsa camiseta no protege nada.** El pan viaja en una camioneta con paquetes de otros clientes, apilado. Va a llegar aplastado.
-2. **No se condice con lo que estás vendiendo.** Corteza sale a CABA y San Isidro con influencers y pedidos de $28.000. Lo que abre el cliente es la marca. Una bolsa de supermercado no es eso — y encima no tiene dónde poner el logo.
+Resuelto el flete, quedan dos razones para no mandar bolsas camiseta sueltas al AMBA — más chicas que la anterior, pero reales:
 
-*(En Pilar, con reparto propio y entrega en mano, la bolsa camiseta está bien. El problema aparece solo cuando el pedido viaja solo.)*
+1. **Una bolsa no protege.** El pan viaja apilado en una camioneta con paquetes de otros clientes. En Pilar, con reparto propio y entrega en mano, no pasa nada; cuando el pedido viaja solo, sí.
+2. **No representa a la marca.** Corteza sale a CABA y San Isidro con pedidos de $28.000 y con influencers publicando. Lo que la persona abre *es* Corteza, y una bolsa de supermercado no tiene dónde llevar el logo.
+
+**Ya no es urgente ni cambia los números: es una decisión de calidad y de marca**, y se puede resolver barato (una bolsa impresa propia, o una caja liviana adentro de la cual van las dos bolsas). Conviene tenerlo definido antes del 17/9, pero no bloquea nada.
 
 ### Lo que todavía falta confirmar
 
-1. 🔥 **¿Cobran por envío o por bulto?** — arriba.
-2. **¿Peso real o volumétrico?** Si consolidás en una caja, avisá las medidas y preguntá el divisor.
-3. **¿Colectan en Pilar? ¿A qué hora y con qué costo?** Pilar les figura como zona Muy lejana.
-4. **¿Hasta qué monto responden por un bulto perdido o dañado?**
-5. **¿La factura va a decir el total que se les paga, o solo una parte?**
+1. **¿Un pedido de 3 bolsas cuenta igual como un envío, o la tercera se cobra?** Importa para el Plan Semana, los pedidos de barrio y los pedidos grandes.
+2. **¿Colectan en Pilar? ¿A qué hora y con qué costo?** Pilar les figura como zona Muy lejana.
+3. **¿Hasta qué monto responden por un bulto perdido o dañado?**
+4. **¿La factura va a decir el total que se les paga, o solo una parte?**
 
 ---
 
@@ -224,14 +221,14 @@ El mínimo mensual es, en los hechos, **un costo fijo nuevo de $726.993 por mes*
 
 ## 8. Lo que falta confirmar
 
-1. 🔥🔥 **¿Cobran por envío o por bulto?** Cada pedido son 2 bolsas. Si es por bulto, el AMBA no cierra en ninguna zona salvo CABA.
-2. 🔥 **¿Cómo se cuenta el primer mes del mínimo de 120?** Arrancando el 17/9 hay solo dos despachos en septiembre.
+1. 🔥 **¿Cómo se cuenta el primer mes del mínimo de 120?** Arrancando el 17/9 hay solo dos despachos en septiembre. **Es la única pregunta urgente que queda.**
+2. **¿Un pedido de 3 bolsas sigue siendo un solo envío?**
 3. **¿Hay tope máximo de envíos por mes?**
-4. **Peso real o volumétrico**, si se pasa a caja consolidada (y con qué divisor).
-5. **Horario y costo de la colecta en Pilar.**
+4. **Horario y costo de la colecta en Pilar.**
 6. **Tope de responsabilidad por bulto perdido o dañado.**
 7. **Si integran con Tiendanube** y si la integración cotiza sola en el checkout.
 8. **Si la factura cubre el total que se paga**, o solo una parte.
 9. **Comisión real de Pago Nube: ¿6% o 7%?** Y si se aplica sobre producto + envío o solo sobre el producto.
 10. **Costo real del reparto propio en Pilar.**
-11. ✅ ~~Panificados a temperatura ambiente~~ → **confirmado: Flexit lo sabe y lo acepta.**
+10. ✅ ~~Panificados a temperatura ambiente~~ → **confirmado: Flexit lo sabe y lo acepta.**
+11. ✅ ~~¿Por envío o por bulto?~~ → **confirmado: por pedido, con las 2 bolsas incluidas.**
