@@ -2,7 +2,9 @@
 
 *Reescrito el 28/08/2026, cuando **Flexit pasó a ser la logística de Corteza**. Reemplaza toda la versión armada con las tarifas de Smart Post.*
 
-> **Condición fiscal: Corteza es monotributista.** El IVA que paga por el flete **no se recupera**: es costo puro. Por eso todas las tarifas de acá están **con IVA al 10,5%**, que es la condición acordada con Flexit pagando en efectivo.
+> **Condición fiscal: Corteza es monotributista.** El IVA que paga por el flete **no se recupera**: es costo puro. Por eso todas las tarifas de acá están **con IVA al 10,5%**, que es la condición acordada con Flexit **pagando el total en efectivo, una vez por mes**.
+>
+> **Mínimo acordado: 120 envíos por mes** (no 30 por despacho, como pedía Smart Post). Es la mejor condición que se consiguió y cambia el plan de lanzamiento — ver sección 5.
 
 ---
 
@@ -37,16 +39,41 @@
 ✅ **El IVA está por escrito** en el tarifario (a diferencia de Smart Post).
 ⚪ **Seguros opcionales** (0,5% en depósito, 0,7% en tránsito): **no tomarlos.** Sobre un pedido de $28.000 son $196 por envío para asegurar pan que, si se pierde, se repone.
 
-### ⚠️ Lo que todavía NO está confirmado — y puede mover estos precios
+### ✅ Confirmado el 28/08
 
-Esto no es un detalle: **son las preguntas que hacen que la tarifa sea real o de folleto.** Están en `propuesta-flexit.md` con el texto listo para mandar.
+- **Flexit sabe que Corteza manda panificados a temperatura ambiente**, sin cadena de frío. **La pregunta eliminatoria está contestada.**
+- **El mínimo es de 120 envíos por mes**, no de 30 por despacho. Ver sección 5.
+- **Se paga el total en efectivo, una vez por mes.**
 
-1. **¿Cobran por peso real o volumétrico?** La caja de Corteza (45×35×30 cm) pesa **3 kg reales y 11,8 kg volumétricos**. Si cobran volumétrico, toda esta tabla se cae. **Es la pregunta más importante que queda.**
-2. **¿Transportan panificados a temperatura ambiente?** Es lo que hizo caer a Shipnow.
-3. **¿Hay volumen mínimo?** Si no lo hay, se cae la regla de los 150 anotados y el lanzamiento del 17/9 deja de depender de llenar la lista.
-4. **¿Colectan en Pilar? ¿A qué hora y con qué costo?** Pilar les figura como zona Muy lejana: si cobran la colecta, puede salir caro.
-5. **¿Hasta qué monto responden por un bulto perdido o dañado?** Casi todas las logísticas tienen un tope por bulto.
-6. **¿La factura va a decir el total que se les paga, o solo una parte?**
+### 🔥 La pregunta que quedó abierta y es la más cara de todas
+
+**Cada pedido va en 2 bolsas camiseta de ~2 kg cada una** (unos 4 kg por pedido). O sea que **cada pedido son dos bultos, no uno.**
+
+> ### ¿Flexit cobra por envío o por bulto?
+
+| Zona | 1 bulto | **Si cobran por bulto (×2)** | Sobre el margen de un pedido de $28.000 |
+|---|---:|---:|---:|
+| Cercana | $4.356 | $8.712 | 82% |
+| Media | $6.102 | **$12.204** | **115%** ❌ |
+| Lejana | $7.848 | **$15.696** | **148%** ❌ |
+| Muy lejana | $9.157 | **$18.314** | **173%** ❌ |
+
+**Si cobran por bulto, el negocio del AMBA no cierra en ninguna zona salvo CABA, y ahí apenas.** Toda esta tabla se cae.
+
+**La solución, si la respuesta es "por bulto": que las 2 bolsas viajen dentro de un solo bulto** — una caja o un bolsón cerrado con la marca. Y conviene hacerlo igual, por dos razones más:
+
+1. **Una bolsa camiseta no protege nada.** El pan viaja en una camioneta con paquetes de otros clientes, apilado. Va a llegar aplastado.
+2. **No se condice con lo que estás vendiendo.** Corteza sale a CABA y San Isidro con influencers y pedidos de $28.000. Lo que abre el cliente es la marca. Una bolsa de supermercado no es eso — y encima no tiene dónde poner el logo.
+
+*(En Pilar, con reparto propio y entrega en mano, la bolsa camiseta está bien. El problema aparece solo cuando el pedido viaja solo.)*
+
+### Lo que todavía falta confirmar
+
+1. 🔥 **¿Cobran por envío o por bulto?** — arriba.
+2. **¿Peso real o volumétrico?** Si consolidás en una caja, avisá las medidas y preguntá el divisor.
+3. **¿Colectan en Pilar? ¿A qué hora y con qué costo?** Pilar les figura como zona Muy lejana.
+4. **¿Hasta qué monto responden por un bulto perdido o dañado?**
+5. **¿La factura va a decir el total que se les paga, o solo una parte?**
 
 ---
 
@@ -116,7 +143,46 @@ Es el número que decide si aprieta comprar o abandona el carrito:
 
 ---
 
-## 5. Pilar: no va por Flexit
+## 5. El mínimo de 120 envíos por mes
+
+**Esta es la mejor condición que se consiguió, y es exactamente la que Smart Post nunca quiso dar.** Con Smart Post el mínimo era de 30 **por despacho**: un jueves flojo se pagaba ese mismo jueves. Con Flexit **el mínimo se cuenta sobre el mes entero**, así que un jueves flojo se compensa con uno bueno.
+
+### Pero no es lo mismo que "sin mínimo"
+
+120 por mes son **27,7 pedidos por jueves de promedio**. Si el mes cierra corto, la diferencia se paga igual:
+
+| Pedidos en el mes | Envíos fantasma | Lo que pagás de más | Costo real por pedido |
+|---:|---:|---:|---:|
+| 40 | 80 | **$484.662** | $18.175 |
+| 60 | 60 | **$363.496** | $12.117 |
+| 80 | 40 | $242.331 | $9.087 |
+| 100 | 20 | $121.165 | $7.270 |
+| **120** | 0 | **$0** | **$6.058** ✅ |
+
+*(Calculado con el envío promedio de $6.058, mezcla 40% CABA / 30% Media / 20% Lejana / 10% Muy lejana.)*
+
+### Lo que esto le hace al punto de equilibrio
+
+El mínimo mensual es, en los hechos, **un costo fijo nuevo de $726.993 por mes** — casi nueve veces los $82.000 que tenías. Eso mueve el equilibrio:
+
+| | Equilibrio antes | **Equilibrio con el mínimo de 120** |
+|---|---:|---:|
+| Sin publicidad | 8 pedidos/mes | **49/mes (11,2 por jueves)** |
+| Con Meta a $150.000 | 22 pedidos/mes | **58/mes (13,3 por jueves)** |
+
+**Sigue siendo alcanzable, pero ya no podés arrancar con 8 pedidos al mes.** Necesitás llegar a ~50 en el primer mes para no perder plata, y a 120 para que el flete te salga lo que dice el tarifario.
+
+### Tres cosas que hacer con esto
+
+1. **Los pedidos de Pilar entran a completar el cupo.** Si el mes viene con 95 pedidos de AMBA, quedan **25 lugares pagados vacíos**: ahí metés los pedidos de Pilar y **te salen gratis**. Es el mismo truco que se pensó con Smart Post, pero **mucho mejor**, porque se calcula sobre el mes y no sobre cada jueves suelto. **Regla: Pilar viaja por Flexit hasta completar los 120; el resto lo repartís vos.**
+2. **La regla de "no lanzar con menos de 100 anotados" se relaja, pero no desaparece.** Ya no necesitás 30 el día 1: necesitás ~50 en el primer mes para no perder, y 120 para estar cómodo.
+3. ⚠️ **Preguntá cómo se cuenta el primer mes.** Si arrancás el **jueves 17/9**, en septiembre hay solo **dos despachos** (17 y 24). Si el mínimo de 120 corre igual sobre septiembre completo, **necesitarías 60 pedidos por jueves desde el día uno**, que es imposible. **Preguntá si el primer mes es proporcional o si el conteo arranca en el primer despacho.** Es la pregunta más urgente de todas junto con la del bulto.
+
+**Y preguntá también si hay tope máximo.** Con Smart Post no lo había, y eso era importante: pasado el mínimo, cada pedido extra es contribución casi pura.
+
+---
+
+## 5 bis. Pilar: no va por Flexit (salvo para completar el cupo)
 
 | | |
 |---|---:|
@@ -125,13 +191,13 @@ Es el número que decide si aprieta comprar o abandona el carrito:
 | Flete de Flexit a Pilar (Muy lejana) | **−$9.157** |
 | **Te queda** | **−$183** |
 
-**Cada pedido de Pilar despachado por Flexit te daría pérdida.** Y cobrárselo al cliente tampoco funciona: $9.900 sobre un pedido de $23.677 es un **42% de recargo para que le lleven el pan a diez cuadras**. El vecino de Pilar sabe que sos de Pilar; no lo va a pagar.
+**Un pedido de Pilar despachado por Flexit *fuera del cupo* te da pérdida.** Y cobrárselo al cliente tampoco funciona: $9.900 sobre un pedido de $23.677 es un **42% de recargo para que le lleven el pan a diez cuadras**. El vecino de Pilar sabe que sos de Pilar; no lo va a pagar.
 
-> **Pilar sigue con reparto propio, y la tarea pendiente más rentable que queda es cotizar un cadete o moto local** para las ~18 entregas de los jueves. Ninguna logística del AMBA lo resuelve: para todas, Pilar es zona periférica.
+**Pero dentro del cupo de 120 es distinto: ahí el envío ya está pagado y el pedido de Pilar viaja gratis.** Esa es la única forma en que Pilar entra a Flexit.
+
+> **Igual sigue faltando cotizar un cadete o moto local** para los jueves en que el cupo ya está lleno. Ninguna logística del AMBA resuelve Pilar: para todas es zona periférica.
 >
 > **Y falta el número que decide:** cuánto te cuesta hoy el reparto propio (nafta + horas + desgaste). Nunca se calculó.
-
-**Ojo con una diferencia respecto de Smart Post:** con Smart Post existía el truco de "meter los pedidos de Pilar en los lugares ya pagados del mínimo de 30". **Con Flexit ese truco no existe** (o al menos no está confirmado que haya mínimo). Cada envío de Pilar cuesta $9.157 desde el primero.
 
 ---
 
@@ -158,12 +224,14 @@ Es el número que decide si aprieta comprar o abandona el carrito:
 
 ## 8. Lo que falta confirmar
 
-1. 🔥 **Peso volumétrico** — la pregunta que define si estos precios son reales.
-2. 🔥 **Panificados a temperatura ambiente** — eliminatoria.
-3. **Volumen mínimo**, si lo hay.
-4. **Horario y costo de la colecta en Pilar.**
-5. **Tope de responsabilidad por bulto perdido o dañado.**
-6. **Si integran con Tiendanube** y si la integración cotiza sola en el checkout.
-7. **Si la factura cubre el total que se paga**, o solo una parte.
-8. **Comisión real de Pago Nube: ¿6% o 7%?** Y si se aplica sobre producto + envío o solo sobre el producto.
-9. **Costo real del reparto propio en Pilar.**
+1. 🔥🔥 **¿Cobran por envío o por bulto?** Cada pedido son 2 bolsas. Si es por bulto, el AMBA no cierra en ninguna zona salvo CABA.
+2. 🔥 **¿Cómo se cuenta el primer mes del mínimo de 120?** Arrancando el 17/9 hay solo dos despachos en septiembre.
+3. **¿Hay tope máximo de envíos por mes?**
+4. **Peso real o volumétrico**, si se pasa a caja consolidada (y con qué divisor).
+5. **Horario y costo de la colecta en Pilar.**
+6. **Tope de responsabilidad por bulto perdido o dañado.**
+7. **Si integran con Tiendanube** y si la integración cotiza sola en el checkout.
+8. **Si la factura cubre el total que se paga**, o solo una parte.
+9. **Comisión real de Pago Nube: ¿6% o 7%?** Y si se aplica sobre producto + envío o solo sobre el producto.
+10. **Costo real del reparto propio en Pilar.**
+11. ✅ ~~Panificados a temperatura ambiente~~ → **confirmado: Flexit lo sabe y lo acepta.**

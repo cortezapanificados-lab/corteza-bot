@@ -152,7 +152,7 @@ Ninguna de estas resuelve Pilar barato (es zona periférica para todas). **La vu
 > - **Un solo día por semana: jueves.** Colecta en Pilar cerca del mediodía.
 > - **Entrega el mismo día (same day)** en CABA y GBA.
 > - **Volumen inicial: 30 a 60 envíos por jueves**, con proyección a crecer.
-> - **Producto:** cajas de alimentos, livianas pero voluminosas. Aproximadamente 45×35×30 cm y **3 kg reales**.
+> - **Producto:** panificados a temperatura ambiente, sin cadena de frío. **Cada pedido va en 2 bolsas camiseta de aproximadamente 2 kg cada una** (unos 4 kg en total, mismo destinatario). *Corregido el 28/08.* **Preguntar siempre si eso cuenta como un envío o como dos.**
 > - **Sin cadena de frío.** Es pan, no requiere refrigeración.
 >
 > **Lo que necesito que me confirmen por escrito:**

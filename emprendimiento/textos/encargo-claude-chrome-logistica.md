@@ -77,7 +77,7 @@ Escribile a estas diez. Todas las URLs están verificadas y funcionan:
 > - **Entrega el mismo día (same day)** en CABA y GBA.
 > - **Volumen inicial: 30 a 60 envíos por jueves**, con proyección a crecer.
 > - **Producto: panificados y almacén, a temperatura ambiente. Sin cadena de frío, sin congelados.**
-> - **Bulto tipo:** caja de aproximadamente 45×35×30 cm, **3 kg reales**. Liviana pero voluminosa.
+> - **Bulto tipo:** **2 bolsas camiseta de aproximadamente 2 kg cada una por pedido** (unos 4 kg en total, mismo destinatario). *Corregido el 28/08: antes acá decía "caja de 45×35×30 cm y 3 kg", que era un dato equivocado.* **Preguntar siempre si eso cuenta como un envío o como dos.**
 > - Vendemos con **Tiendanube**.
 >
 > **Lo que necesito que me confirmen por escrito:**

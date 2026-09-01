@@ -9,7 +9,13 @@
 >
 > **Las tarifas ya están cargadas en la memoria**: `perfil.md` y `envios-amba.md` (precios por zona, qué cobrarle al cliente y umbrales de envío sin cargo, todos recalculados).
 >
-> **Pero la decisión se tomó con información incompleta.** Siguen sin contestar las preguntas de la sección 7, y dos de ellas pueden mover el precio: **peso volumétrico** y **volumen mínimo**. Mandar el texto de la sección 10 igual, aunque ya esté decidido.
+> ### Actualizado el 28/08 con lo que Juan confirmó después
+>
+> - ✅ **Flexit sabe que son panificados a temperatura ambiente.** La pregunta eliminatoria está contestada.
+> - ✅ **Mínimo: 120 envíos por MES**, no 30 por despacho. **Es la condición que Smart Post nunca dio.** Pero no es "sin mínimo": mueve el punto de equilibrio de 8 a 49 pedidos por mes. Análisis en `envios-amba.md` sección 5 y en `numeros.md`.
+> - ✅ **Pago del total en efectivo, una vez por mes.**
+> - 🔥 **Dato nuevo que abre la pregunta más cara: cada pedido va en 2 bolsas camiseta de ~2 kg.** Son **dos bultos por pedido**. Si Flexit cobra por bulto y no por envío, el flete se duplica y **el AMBA no cierra en ninguna zona salvo CABA**. Es lo primero que hay que preguntar.
+> - 🔥 **Y la segunda: ¿cómo se cuenta el primer mes?** Arrancando el 17/9 hay solo dos despachos en septiembre; si el mínimo de 120 corre igual, harían falta 60 pedidos por jueves desde el día uno.
 
 ---
 
@@ -152,10 +158,11 @@ Del pliego de 11 preguntas de `logistica-alternativas.md`, el PDF contesta **3**
 
 | # | Pregunta | Estado |
 |---|---|---|
-| 1 | **¿Llevan panificados a temperatura ambiente?** (sin cadena de frío ni congelados) | ❌ **Sin respuesta. ELIMINATORIA.** Es lo que hizo caer a Shipnow. |
+| 1 | **¿Llevan panificados a temperatura ambiente?** (sin cadena de frío ni congelados) | ✅ **Contestada el 28/08: sí, Flexit lo sabe y lo acepta.** |
+| **0** | 🔥🔥 **¿Cobran por envío o por bulto?** *(agregada el 28/08 — cada pedido son 2 bolsas camiseta de ~2 kg)* | ❌ **Sin respuesta. Es la más cara de todas.** Si es por bulto, el flete se duplica: $12.204 en zona Media contra $10.612 de margen. |
 | 2 | **¿El same-day es en las 4 zonas o solo en CABA?** | ⚠️ Parece que sí, pero **no está dicho**. También eliminatoria. |
-| 3 | **¿Peso real o volumétrico? ¿Qué divisor?** | ❌ **Sin respuesta, y es la pregunta que define todo.** Tu caja es 45×35×30 y pesa 3 kg: con divisor 4000 te la cobran como **11,8 kg**. "Alineado a Flex de ML" no alcanza como respuesta. |
-| 4 | ¿Volumen mínimo por despacho o por mes? | ❌ Sin respuesta en el PDF. En su web decían "empezás con 5 pedidos diarios". **Confirmalo por escrito: es lo más valioso que tienen.** |
+| 3 | **¿Peso real o volumétrico? ¿Qué divisor?** | ❌ Sin respuesta. Hoy son 2 bolsas camiseta de ~2 kg (4 kg por pedido). **Si se pasa a caja consolidada, hay que dar las medidas y volver a preguntar.** |
+| 4 | ¿Volumen mínimo por despacho o por mes? | ✅ **Contestada: 120 por MES.** Falta saber **cómo se cuenta el primer mes** y **si hay tope máximo**. |
 | 5 | ¿Colectan en Pilar? ¿A qué hora y con qué costo? | ❌ **Sin respuesta, y acá hay un riesgo escondido:** Pilar es "Muy lejana" para ellos. Si cobran la colecta, puede salir cara. |
 | 6 | ¿Las tarifas incluyen IVA? | ✅ **Contestada.** Sin IVA, +IVA aparte. |
 | 7 | ¿Entran a barrios cerrados? | ❌ Sin respuesta. Importa para Nordelta y los countries de Pilar. |
@@ -180,7 +187,9 @@ Toda la estrategia del 17/9 está construida sobre el mínimo de 30 envíos de S
 
 **Sin mínimo, esas tres reglas se caen.** Podés salir el 17/9 con 25 pedidos y no pagar un peso de más, y crecer tranquilo. El riesgo más grande del lanzamiento desaparece.
 
-**No lo des por hecho hasta tenerlo por escrito.** Y ojo con el orden: primero panificados y peso volumétrico (preguntas 1 y 3), después el mínimo. De nada sirve no tener mínimo si te cobran la caja como 11,8 kg.
+**Confirmado el 28/08: el mínimo es de 120 por mes.** Es mucho mejor que 30 por despacho — un jueves flojo se compensa con uno bueno — **pero no es lo mismo que no tener mínimo.** Mueve el equilibrio de 8 a 49 pedidos mensuales, y en un mes de 60 pedidos el flete te sale $12.117 por envío en vez de $6.058.
+
+**La regla de "no lanzar con menos de 100 anotados" se relaja pero no desaparece:** ya no necesitás 30 el día 1, necesitás ~50 en el primer mes para no perder plata y 120 para estar cómodo. Y falta resolver cómo se cuenta septiembre, que solo tiene dos despachos.
 
 ---
 
@@ -226,8 +235,9 @@ Toda la estrategia del 17/9 está construida sobre el mínimo de 30 envíos de S
 >
 > 1. **¿Transportan panificados a temperatura ambiente?** No llevan cadena de frío ni congelado: es pan, se despacha y se entrega el mismo día.
 > 2. **¿El same-day aplica a las cuatro zonas del tarifario**, o solo a Cercana y Media?
-> 3. **¿Cobran por peso real o por peso volumétrico?** Si es volumétrico, ¿qué divisor usan? Mis cajas son de aproximadamente **45×35×30 cm y pesan 3 kg reales** — es el dato que define si la tarifa me sirve.
-> 4. **¿Tienen volumen mínimo por despacho o por mes?** ¿Qué pasa un jueves que junto menos pedidos de los previstos?
+> 3. 🔥 **¿La tarifa es por envío o por bulto?** Cada pedido lo despacho en **2 bolsas camiseta de aproximadamente 2 kg cada una** (unos 4 kg en total, misma dirección, mismo destinatario). Necesito saber si eso cuenta como un envío o como dos. **Si es como dos, puedo consolidarlas en una sola caja: díganme si con eso queda como un solo envío y qué medidas máximas admiten.**
+> 3 bis. **¿Cobran por peso real o volumétrico?** Si es volumétrico, ¿qué divisor usan?
+> 4. Sobre el **mínimo de 120 envíos mensuales** que me confirmaron: **¿cómo se cuenta el primer mes?** Arranco el jueves 17 de septiembre, así que en septiembre tendría solo dos despachos. ¿Es proporcional, o el conteo empieza con el primer despacho? **¿Y hay tope máximo de envíos por mes?**
 > 5. **¿Hacen colecta en Pilar? ¿A qué hora y con qué costo?** Pilar les figura como zona Muy lejana y necesito saber si eso afecta la colecta.
 > 6. **¿Entran a barrios cerrados y countries o entregan en la guardia?** ¿Se puede comprometer una franja horaria al cliente?
 > 7. **¿Hasta qué monto responden por un bulto perdido o dañado?** Mis cajas valen alrededor de $28.000.

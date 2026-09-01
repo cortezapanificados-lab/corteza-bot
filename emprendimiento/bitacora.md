@@ -2,6 +2,24 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 28/08/2026 — Condiciones cerradas con Flexit: mínimo mensual, efectivo y el problema de las dos bolsas
+
+Juan confirmó tres cosas y una de ellas abre un riesgo que no estaba visto.
+
+**1. Mínimo de 120 envíos por MES, no 30 por despacho.** Es exactamente la condición que se le pidió a Smart Post y nunca dio. Un jueves flojo ya no se paga ese jueves: se compensa con uno bueno del mismo mes. **Pero no es lo mismo que "sin mínimo", y esto había que calcularlo:** los 120 son un costo fijo nuevo de **$726.993 mensuales**, casi nueve veces los $82.000 que había. **El punto de equilibrio pasa de 8 a 49 pedidos por mes (11,2 por jueves), y con Meta a $150.000 a 58 (13,3 por jueves).** Sigue siendo alcanzable, pero ya no se cubren costos con dos pedidos por semana. Y en un mes de 60 pedidos el flete sale $12.117 por envío en vez de $6.058. Rehecho en `numeros.md` y en `envios-amba.md` sección 5.
+
+Consecuencia para el lanzamiento: **la regla de los 100 anotados se relaja pero no se cae.** Ya no hacen falta 30 pedidos el día 1; hacen falta ~50 en el primer mes. ⚠️ **Queda una pregunta urgente: cómo se cuenta septiembre.** Arrancando el jueves 17 hay solo dos despachos (17 y 24): si el mínimo de 120 corre igual sobre el mes completo, harían falta 60 pedidos por jueves desde el día uno, que es imposible.
+
+**2. Pago del total en efectivo, una vez por mes.** El piso son ~$727.000 mensuales en un solo retiro. Queda chequear el tope de extracción del banco.
+
+**3. Flexit sabe que son panificados a temperatura ambiente.** La pregunta eliminatoria que hizo caer a Shipnow está contestada.
+
+**Y el dato que abre el riesgo nuevo: cada pedido va en 2 bolsas camiseta de ~2 kg cada una.** Son **dos bultos por pedido**, y nadie preguntó todavía si Flexit cobra por envío o por bulto. **Si cobra por bulto, el flete se duplica y el AMBA deja de cerrar en todas las zonas salvo CABA**: $12.204 en zona Media contra $10.612 de margen del pedido promedio; $15.696 en Lejana; $18.314 en Muy lejana. **Es la pregunta más cara que queda abierta.**
+
+De paso quedó a la vista un tema que no era de logística: **la bolsa camiseta no sirve para el AMBA.** En Pilar, con reparto propio y entrega en mano, está bien. Pero cuando el pedido viaja solo en una camioneta compartida, una bolsa no protege el pan, y sobre todo **no representa a la marca** en pedidos de $28.000 que van a CABA y San Isidro justo cuando publican los influencers. **Consolidar las dos bolsas en una caja o bolsón cerrado con la marca resuelve las tres cosas juntas** — el flete, la protección y la presentación. Quedó como tarea a decidir antes del 17/9.
+
+**También se corrigió un dato viejo de la memoria:** venía anotado que el bulto tipo era "una caja de 45×35×30 cm y 3 kg". No es así: son 2 bolsas camiseta de ~2 kg (4 kg por pedido). Ese dato estaba en el pliego de preguntas y en los encargos, y se estuvo preguntando por peso volumétrico sobre medidas que no existen.
+
 ## 28/08/2026 — Decisión: FLEXIT es la logística del AMBA
 
 Juan confirmó dos cosas que cerraron el tema: **es monotributista** y **Flexit va a ser la nueva logística**. Smart Post queda descartado — nunca contestó ni puso nada por escrito.

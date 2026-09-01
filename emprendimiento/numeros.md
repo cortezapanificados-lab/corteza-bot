@@ -1,6 +1,6 @@
 # Los números de Corteza
 
-*Modelo definido el 10/08/2026. Reemplaza todas las versiones anteriores.*
+*Modelo definido el 10/08/2026. Punto de equilibrio rehecho el 28/08/2026 con el mínimo mensual de Flexit.*
 
 ---
 
@@ -49,13 +49,21 @@ El detalle producto por producto está en `tabla-margenes.md` y en el Excel.
 
 ## 3. Punto de equilibrio
 
-| Presupuesto de Meta | Costos fijos | Pedidos/mes | Por jueves |
-|---|---|---|---|
-| $0 | $82.000 | **8** | 1,8 |
-| $60.000 | $142.000 | **13** | 3,1 |
-| $150.000 | $232.000 | **22** | 5,0 |
+> ### ⚠️ Rehecho el 28/08/2026: el mínimo de Flexit cambia estos números
+>
+> Flexit exige **120 envíos por mes**. Los que no uses, los pagás igual. En los hechos es **un costo fijo nuevo de $726.993 mensuales** — casi nueve veces los $82.000 que tenías. La cuenta ya no es "fijos ÷ contribución": cada pedido real, además de aportar margen, **cancela un envío fantasma**.
+>
+> **Equilibrio = (fijos + 120 × $6.058) ÷ (contribución por pedido + $6.058)**
 
-**Con 5 pedidos por jueves cubrís todo, incluida una campaña de publicidad de $150.000 mensuales.**
+| Presupuesto de Meta | Costos fijos | Antes | **Ahora (con el mínimo de 120)** | Por jueves |
+|---|---|---:|---:|---:|
+| $0 | $82.000 | 8/mes | **49/mes** | **11,2** |
+| $60.000 | $142.000 | 13/mes | **52/mes** | **12,0** |
+| $150.000 | $232.000 | 22/mes | **58/mes** | **13,3** |
+
+**Con 13 pedidos por jueves cubrís todo, incluida una campaña de $150.000 mensuales.** Sigue siendo alcanzable, pero ya no arrancás cubriendo costos con 2 pedidos por semana: **abajo de ~11 por jueves, el mes da pérdida.**
+
+**Y el objetivo real no es el equilibrio, son los 120.** Recién ahí el flete te sale lo que dice el tarifario ($6.058 por envío en vez de $12.117 con 60 pedidos). Detalle completo en `envios-amba.md`, sección 5.
 
 ---
 
@@ -68,7 +76,7 @@ Ticket promedio $28.000, Meta a $150.000/mes:
 | 10 | 43 | $1.212.400 | $227.500 | 18,8% |
 | 20 | 87 | $2.424.800 | $686.999 | 28,3% |
 | **24** | 104 | $2.909.760 | **$870.799** | **29,9%** ✅ |
-| **30** (mínimo Smart Post) | 130 | $3.637.200 | **$1.146.499** | **31,5%** |
+| **30** (≈ el mínimo de Flexit) | 130 | $3.637.200 | **$1.146.499** | **31,5%** |
 | 40 | 173 | $4.849.600 | $1.605.998 | 33,1% |
 | 50 | 216 | $6.062.000 | $2.065.498 | 34,1% |
 | 65 | 281 | $7.880.600 | $2.754.747 | 35,0% |
@@ -78,7 +86,9 @@ Ticket promedio $28.000, Meta a $150.000/mes:
 
 **1. Llegás al 30% de margen neto con 24 pedidos por jueves.**
 
-**2. El mínimo que te exige Smart Post (30 por jueves) ya te pone en 31,5%.** O sea que **el día que puedas despachar con Smart Post, por definición vas a estar por encima de tu objetivo.** El mínimo dejó de ser un problema: es la garantía de que el negocio cierra.
+**2. El mínimo de Flexit son 120 por mes (~28 por jueves), y ahí ya estás en el 31,5%.** O sea que **el día que llegues al mínimo, por definición estás por encima de tu objetivo del 30%.** El mínimo no es solo una exigencia: es la garantía de que el negocio cierra.
+
+> *Actualizado el 28/08: la tabla de arriba se calculó con el mínimo de Smart Post (30 por jueves). Con el de Flexit (120 por mes) el resultado es prácticamente el mismo, porque 120/mes ≈ 28 por jueves. Lo que cambió de verdad es el punto de equilibrio, arriba.*
 
 **Techo de margen neto: 37,9%.** Es el máximo al que tendés con mucho volumen.
 

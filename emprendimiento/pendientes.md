@@ -8,6 +8,8 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
 
 **Regla que no se negocia:** no lanzar el 17 con menos de 100 anotados. Si no se llega, correr al 24/9.
 
+> 🔄 **Revisado el 28/08 con el mínimo de Flexit (120 por mes en vez de 30 por despacho):** la regla se **relaja pero no se cae**. Ya no hace falta juntar 30 pedidos para el día 1 — el mínimo se cuenta sobre el mes entero. Lo que sí hace falta: **~50 pedidos en el primer mes para no perder plata, y 120 para que el flete salga lo que dice el tarifario.** ⚠️ **Antes de aflojar la regla hay que saber cómo se cuenta septiembre**, que arrancando el 17 tiene solo dos despachos.
+
 ### Semana 1 (10-16 ago) — la máquina de anotados
 
 - [x] ~~Google Form de captura~~ → ✅ **14/08**
@@ -21,11 +23,17 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
 - [ ] 📌 **Contexto de la decisión (para no perderlo).** Plan completo en `logistica-alternativas.md`. Se trabaja en dos vías al mismo tiempo:
   - [x] ~~**Vía A — recuperarlos.**~~ → **26/08: hecho por dos canales.** Juan escribió por Instagram a @smartpost.logistica y volvió a llenar el formulario de la web como si fuera cliente nuevo. **Fecha de corte: viernes 28/8** — si no contestan, dejan de ser el plan principal.
   - [x] ~~**Flexit cotizó y se cerró con ellos (28/08)**~~ → ✅ **primera cotización real por escrito, y la elegida.** Análisis completo en `propuesta-flexit.md`. Empata en precio con Smart Post y **gana en San Isidro/Beccar/Acassuso y en Nordelta**, que son las zonas del ranking. **Pero falta lo eliminatorio.** Lo que hay que hacer ahora:
-    - [ ] 🔥 **Repreguntarle a Flexit** las 6 que no contestó: **panificados a temperatura ambiente**, **peso volumétrico**, same-day en las 4 zonas, **volumen mínimo**, colecta en Pilar (les figura como zona Muy lejana) y barrios cerrados. Texto listo en `propuesta-flexit.md` sección 10.
+    - [x] ~~Panificados a temperatura ambiente~~ → ✅ **28/08: Flexit lo sabe y lo acepta.**
+    - [x] ~~Volumen mínimo~~ → ✅ **28/08: 120 envíos por MES**, no 30 por despacho. **Es la condición que Smart Post nunca dio.** ⚠️ Pero mueve el punto de equilibrio de 8 a **49 pedidos por mes (11,2 por jueves)** — ver `numeros.md` y `envios-amba.md` sección 5.
+    - [ ] 🔥🔥 **PREGUNTARLE A FLEXIT: ¿la tarifa es por envío o por bulto?** Cada pedido va en **2 bolsas camiseta de ~2 kg**. Si cobran por bulto, el flete se duplica y **el AMBA no cierra en ninguna zona salvo CABA** ($12.204 en zona Media contra $10.612 de margen). **Es la pregunta más cara que queda abierta.**
+    - [ ] 🔥 **PREGUNTARLE A FLEXIT: ¿cómo se cuenta el primer mes del mínimo de 120?** Arrancando el 17/9, septiembre tiene solo dos despachos (17 y 24): si el mínimo corre completo, harían falta 60 pedidos por jueves desde el día uno. Preguntar también **si hay tope máximo**.
+    - [ ] **Repreguntar el resto**: colecta en Pilar (horario y costo — les figura como zona Muy lejana), barrios cerrados, franja horaria e integración con Tiendanube. Texto listo en `propuesta-flexit.md` sección 10.
+    - [ ] 📦 **Decidir el packaging del AMBA.** Hoy son 2 bolsas camiseta por pedido. Para el reparto propio de Pilar (entrega en mano) está bien, pero **para el AMBA hay tres problemas**: puede duplicar el flete si cobran por bulto, **una bolsa camiseta no protege el pan** en una camioneta compartida con paquetes de otros, y **no representa a la marca** en pedidos de $28.000 que van a CABA y San Isidro con influencers mirando. **Consolidar las dos bolsas en una caja o bolsón cerrado con la marca resuelve las tres cosas de una vez.** Cotizar y decidir antes del 17/9.
     - [x] ~~Confirmar condición fiscal~~ → ✅ **28/08: Corteza es monotributista.** El IVA del flete es costo puro, así que **el 10,5% en efectivo es un ahorro real de ~$74.837 al mes** (a 30 envíos por jueves). Pago mensual, no semanal.
     - [ ] 🔥 **Consulta al contador, dos preguntas en una:** (1) ¿el 10,5% en efectivo está bien o conviene factura completa al 21%? (2) **¿hasta cuándo te alcanza el monotributo?** Con 30 pedidos por jueves facturarías ~$3,6 millones por mes (más de $43M al año) y eso puede sacarte de la categoría. **Si pasás a responsable inscripto, el IVA se vuelve crédito fiscal y el descuento del 10,5% deja de valer.**
     - [ ] **Preguntarle a Flexit el tope de responsabilidad por bulto perdido o dañado.** Es lo que respalda un reclamo, no la factura. Tus cajas valen ~$28.000.
-    - [ ] Chequear el **tope de extracción del banco**: son ~$788.000 en efectivo en un solo retiro mensual.
+    - [x] ~~Forma de pago~~ → ✅ **28/08: el total en efectivo, una vez por mes.**
+    - [ ] Chequear el **tope de extracción del banco**: el piso son ~$727.000 mensuales (120 envíos), en un solo retiro.
   - [ ] **Vía B — cotizar en paralelo.** Encargo listo para Claude in Chrome en `textos/encargo-claude-chrome-logistica.md`: escribirle a **10 empresas** (Flexit, GT Pack, Welivery, BNZ Express, Fixy, Falco, DAR, Envíopack, clicOH, Moova). Al terminar, cargar las respuestas en la tabla de estado de `logistica-alternativas.md`.
   - [ ] **Cotizar aparte la vuelta de Pilar** con un cadete o moto local (18 entregas juntas). Ninguna empresa del AMBA resuelve Pilar barato.
   - **Lo que hay que mirar primero de cada respuesta:** ¿aceptan panificados a temperatura ambiente? ¿el same day cubre todo el AMBA o solo CABA? ¿cobran por peso volumétrico? ¿tienen volumen mínimo? Todo lo demás es secundario.

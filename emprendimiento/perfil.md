@@ -25,7 +25,16 @@ Corteza es una marca de panificados artesanales de Pilar, Buenos Aires, Argentin
 
 Lo que incluye Flexit: **segunda y tercera visita sin costo adicional**, same-day, IVA aclarado por escrito y cobertura más amplia que Smart Post (suma Campana, Zárate, Luján y La Plata). Los seguros (0,5% depósito / 0,7% tránsito) son opcionales y **no se toman**.
 
-⚠️ **Sigue sin confirmarse lo eliminatorio**: si transportan panificados a temperatura ambiente, si cobran por **peso volumétrico** (la caja de 45×35×30 pesa 3 kg reales pero 11,8 kg volumétricos), si hay volumen mínimo, el horario y costo de la colecta en Pilar, y el tope de responsabilidad por bulto. **Hasta que eso esté por escrito, estas tarifas pueden moverse.** Ver `propuesta-flexit.md`.
+**Condiciones acordadas con Flexit (28/08/2026):**
+- **Mínimo de 120 envíos por mes**, no 30 por despacho. Se cuenta sobre el mes entero, así que un jueves flojo se compensa con uno bueno. **Es la condición que Smart Post nunca quiso dar.**
+- **Pago del total en efectivo, una vez por mes** (~$727.000 mensuales en el piso de 120 envíos).
+- **Flexit sabe que Corteza manda panificados a temperatura ambiente**, sin cadena de frío.
+
+**Packaging: cada pedido va en 2 bolsas camiseta de ~2 kg cada una** (unos 4 kg por pedido).
+
+🔥 **La pregunta abierta más cara: ¿Flexit cobra por envío o por bulto?** Como cada pedido son dos bolsas, si cobran por bulto el flete se duplica y **el AMBA deja de cerrar en todas las zonas salvo CABA**. Si la respuesta es "por bulto", la solución es consolidar las dos bolsas en un solo bulto cerrado — algo que conviene hacer igual, porque una bolsa camiseta no protege el pan en una camioneta compartida ni representa a la marca. Ver `envios-amba.md`.
+
+⚠️ **También falta confirmar**: cómo se cuenta el primer mes del mínimo (arrancando el 17/9 hay solo dos despachos en septiembre), si hay tope máximo, el horario y costo de la colecta en Pilar y el tope de responsabilidad por bulto.
 
 **Las tarifas son mensuales** y están alineadas a los envíos Flex de MercadoLibre: hay que pedir el tarifario nuevo todos los meses.
 
