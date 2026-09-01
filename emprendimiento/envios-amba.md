@@ -1,192 +1,169 @@
-# Envíos al AMBA: zonas, mínimos y umbrales
+# Envíos al AMBA: zonas, precios y umbrales
 
-*Armado el 10/08/2026 con la tarifa de Smart Post, el mapa de cobertura y las condiciones acordadas.*
+*Reescrito el 28/08/2026, cuando **Flexit pasó a ser la logística de Corteza**. Reemplaza toda la versión armada con las tarifas de Smart Post.*
 
----
-
-## 1. El hallazgo importante: las zonas se miden desde CABA, no desde Pilar
-
-Revisé el mapa del PDF con lupa y confirma lo que me dijiste. La correspondencia es:
-
-| Tarifa Smart Post | Cordón del mapa | Precio |
-|---|---|---|
-| Misma zona | **CABA** | **$3.919** |
-| Zona cercana | **Cordón 1** | **$6.265** |
-| Zona lejana | **Cordón 2** | **$8.196** |
-| Periféricas | **Cordón 3** | **$8.196** |
-
-Como zona lejana y periféricas cuestan lo mismo, en la práctica tenés **tres precios, no cuatro**.
-
-### Y acá está la sorpresa
-
-**Pilar es Cordón 3.** En el mapa está pintado de verde azulado, igual que General Rodríguez, Marcos Paz, Cañuelas y La Plata. O sea que tu propia ciudad es la banda **más cara** de todas: $8.196.
-
-Y al revés: **CABA, que es donde hoy no vendés, es tu zona más barata.** $3.919, menos de la mitad.
-
-Esto da vuelta la estrategia geográfica que veníamos armando. Yo venía suponiendo que lo natural era expandirte hacia los partidos vecinos —Escobar, Tigre, Pilar del Este— y resulta que son de los más caros:
-
-| Zona | Partidos | Envío |
-|---|---|---|
-| **CABA** | Capital Federal | **$3.919** ✅ |
-| **Cordón 1** | San Isidro, Vicente López, San Fernando, Gral. San Martín, Tres de Febrero, Morón, La Matanza 1, Lanús, Avellaneda, Lomas de Zamora | **$6.265** |
-| **Cordón 2** | Tigre, Malvinas Argentinas, José C. Paz, San Miguel, Hurlingham, Ituzaingó, Moreno, Merlo, La Matanza, Ezeiza, Esteban Echeverría, Almirante Brown, Quilmes, Berazategui, Florencio Varela | $8.196 |
-| **Cordón 3** | **Pilar**, Escobar, General Rodríguez, Marcos Paz, Cañuelas, San Vicente, Presidente Perón, La Plata, Berisso, Ensenada | $8.196 |
-
-### Dos conclusiones directas
-
-**1. No le des Pilar a Smart Post como regla general.** A $8.196 el envío, hacer *todas* tus entregas de Pilar con ellos sería el peor negocio posible.
-
-> ### 🔄 Revisado el 19/08: Juan no quiere seguir repartiendo en Pilar
->
-> Es un planteo válido —el reparto propio le come el jueves— pero el número no da para hacerlo a lo bruto:
->
-> | | |
-> |---|---:|
-> | Ticket promedio en Pilar | $23.677 |
-> | Margen bruto efectivo (37,9%) | **$8.973** |
-> | Envío de Smart Post a Pilar (Cordón 3) | **−$8.196** |
-> | **Te queda** | **$777** |
->
-> **El envío se come el 91% de la ganancia del pedido promedio.** Y si en vez de absorberlo se lo cobrás al cliente, son $8.196 sobre un pedido de $23.677: un **35% de recargo para que le lleven el pan a diez cuadras**. El vecino de Pilar sabe que sos de Pilar; ese recargo no lo va a pagar.
->
-> Al volumen actual (4,2 pedidos/semana ≈ 18 al mes) absorberlo cuesta **$147.528 mensuales**.
->
-> **La versión que sí funciona: Pilar viaja en los lugares que ya pagaste.** El mínimo es de 30 envíos **por despacho**, se usen o no. Si un jueves el AMBA trae 22 pedidos, quedan **8 lugares pagados vacíos**: ahí metés los pedidos de Pilar y **te salen gratis**. Recién a partir del pedido 31 cada envío de Pilar cuesta $8.196 de verdad.
->
-> O sea: **la regla es "Pilar entra hasta completar los 30, el resto lo repartís vos"**, y arranca cubriendo el 100% de Pilar, porque al principio el AMBA no va a llegar a 30 solo. A medida que crezca el AMBA, Pilar va volviendo al reparto propio — justo cuando ya haya plata para pagarle a alguien.
->
-> **Si Smart Post acepta el mínimo mensual de 120**, esto mejora todavía más: los lugares libres se cuentan sobre el mes entero y no sobre cada jueves suelto.
->
-> **La tercera salida, y la que conviene cotizar ya: un cadete o moto de Pilar** que haga la vuelta de los jueves. No hay que elegir entre manejar vos o pagar $8.196 por cuadra. Un reparto local por 18 entregas juntas y todas en la misma ciudad debería costar una fracción de eso. **Falta pedir presupuesto.**
->
-> **Lo que falta para decidir bien: cuánto te cuesta hoy el reparto propio** (nafta + horas + desgaste). Nunca se calculó y es el número que dice si esto es un ahorro o un gasto.
-
-**2. Tu mejor zona es CABA, y por lejos.** Es donde el envío te cuesta la mitad, donde podés ofrecer las mejores condiciones y donde conviene poner la plata de publicidad. Volvé a leer eso: **el lugar más rentable para vender no es el que tenés al lado, es la Capital.**
+> **Condición fiscal: Corteza es monotributista.** El IVA que paga por el flete **no se recupera**: es costo puro. Por eso todas las tarifas de acá están **con IVA al 10,5%**, que es la condición acordada con Flexit pagando en efectivo.
 
 ---
 
-## 2. Las condiciones de Smart Post
+## 1. Las cuatro zonas de Flexit
 
-✅ **No cobran IVA** (acordado por fuera del PDF, que dice lo contrario — conviene tenerlo por escrito).
-✅ **No hay costo de colecta.**
-✅ **Tarifa plana por envío, sin importar el tamaño** — la camioneta del día es exclusiva para Corteza.
-⚠️ **Mínimo de 30 envíos, sin tope máximo.**
+**Atención: las zonas cambiaron de nombre y de contenido.** No son los cordones de Smart Post. Hay que cargarlas de cero en Tiendanube.
 
-### Qué significa el mínimo de 30
-
-Es la condición que ordena todo el plan de lanzamiento. Dos lecturas:
-
-**La mala:** no podés "abrir el AMBA" con 8 pedidos. Necesitás 30 el mismo día. Si un día tenés 22, la diferencia la pagás igual: 8 envíos fantasma que te salen unos $50.000 y te comen la ganancia de todo el día.
-
-| Pedidos reales ese día | Costo real por pedido (a $6.265) |
+| Zona | Qué incluye |
 |---|---|
-| 30 | $6.265 |
-| 25 | $7.518 |
-| 20 | $9.398 |
-| 15 | $12.530 |
-
-**La buena, y es mejor de lo que parece: no hay tope máximo.** Una vez que llegaste a 30, **cada pedido extra de ese mismo día es contribución casi pura.** El pedido número 45 te deja lo mismo que el 31 y no agrega ningún costo fijo.
-
-### Las tres decisiones que se desprenden
-
-**1. Un solo día de AMBA por semana. Decidido.** Juntar 30 pedidos en un día es mucho más fácil que juntar 60 en dos, y partirlo no ahorra nada: con 60 pedidos semanales el resultado es idéntico en uno o dos días, pero con 35 semanales un día deja $1.109.618 mensuales y dos días solo $344.832. El plan operativo completo está en `lanzamiento-amba.md`.
-
-**2. No lances hasta tener la lista de espera cargada.** Ahora es literal: la lista de espera del AMBA no es una buena práctica de marketing, es **el requisito para que la camioneta salga.** Necesitás llegar al día 1 con 30 pedidos asegurados.
-
-**3. Abrir todo el AMBA de una vez es obligatorio, no opcional.** Cuantas más zonas abiertas, más fácil llegar a 30 en un día. Confirma lo que ya habíamos decidido, pero ahora por una razón dura.
-
-**Truco para los días flojos:** si un día te quedan 26 pedidos de AMBA y te faltan 4, podés meter en la camioneta pedidos de Pilar que ibas a repartir vos. Te sale más caro que repartirlos vos, pero mucho menos que pagar 4 envíos fantasma.
+| **Cercana** | Todos los barrios de Capital Federal |
+| **Media** | Avellaneda, Hurlingham, Ituzaingó, Lanús, Lomas de Zamora, Morón, San Fernando, **San Isidro** (Beccar, Martínez, Acassuso), General San Martín, Tres de Febrero, Vicente López, La Matanza norte |
+| **Lejana** | Almirante Brown, Berazategui, Esteban Echeverría, Ezeiza, Florencio Varela, José C. Paz, La Matanza sur, Malvinas Argentinas, Merlo, Moreno, Quilmes, San Miguel, **Tigre** (Nordelta) |
+| **Muy lejana** | Berisso, Campana, Cañuelas, Del Viso, Derqui, Ensenada, Escobar, Garín, General Rodríguez, Guernica, Ingeniero Maschwitz, La Plata (Centro, Norte y Oeste), Luján, Marcos Paz, **Pilar**, San Vicente, Villa Rosa, Zárate |
 
 ---
 
-## 3. Qué cobrarle de envío al cliente (con el recargo de la comisión)
+## 2. Lo que te cuesta cada envío
 
-Como Pago Nube se lleva el 6% de **todo** lo que cobrás —incluido el envío—, si le cobrás al cliente exactamente lo que te cuesta el flete, esos 6% los ponés vos. Hay que recargarlo.
+| Zona | Sin IVA (tarifario) | **Costo real (IVA 10,5%)** |
+|---|---:|---:|
+| **Cercana (CABA)** | $3.942,10 | **$4.356** |
+| **Media** | $5.522,10 | **$6.102** |
+| **Lejana** | $7.102,10 | **$7.848** |
+| **Muy lejana** | $8.287,10 | **$9.157** |
 
-**Pero el recargo no es 6%: es 6,38%.** Y la razón es que la comisión también pega sobre el recargo.
+**Sigue valiendo la regla vieja: CABA es tu zona más barata y la más rentable para vender.** Y tu propia ciudad, Pilar, sigue siendo la banda más cara.
 
-Con +6% sobre un envío de $6.265: cobrás $6.641, Pago Nube se lleva $398, te quedan $6.243 y tenés que pagar $6.265. **Te faltan $23.**
+### Qué incluye la tarifa
 
-> **La fórmula es dividir por 0,94, no multiplicar por 1,06.**
+✅ **Segunda y tercera visita incluidas en el precio.** Si el cliente no está, reintentan sin cobrarte. Con pan fresco y gente que trabaja, esto vale mucho.
+✅ **Same-day**: se despacha el jueves y se entrega el jueves.
+✅ **El IVA está por escrito** en el tarifario (a diferencia de Smart Post).
+⚪ **Seguros opcionales** (0,5% en depósito, 0,7% en tránsito): **no tomarlos.** Sobre un pedido de $28.000 son $196 por envío para asegurar pan que, si se pierde, se repone.
+
+### ⚠️ Lo que todavía NO está confirmado — y puede mover estos precios
+
+Esto no es un detalle: **son las preguntas que hacen que la tarifa sea real o de folleto.** Están en `propuesta-flexit.md` con el texto listo para mandar.
+
+1. **¿Cobran por peso real o volumétrico?** La caja de Corteza (45×35×30 cm) pesa **3 kg reales y 11,8 kg volumétricos**. Si cobran volumétrico, toda esta tabla se cae. **Es la pregunta más importante que queda.**
+2. **¿Transportan panificados a temperatura ambiente?** Es lo que hizo caer a Shipnow.
+3. **¿Hay volumen mínimo?** Si no lo hay, se cae la regla de los 150 anotados y el lanzamiento del 17/9 deja de depender de llenar la lista.
+4. **¿Colectan en Pilar? ¿A qué hora y con qué costo?** Pilar les figura como zona Muy lejana: si cobran la colecta, puede salir caro.
+5. **¿Hasta qué monto responden por un bulto perdido o dañado?** Casi todas las logísticas tienen un tope por bulto.
+6. **¿La factura va a decir el total que se les paga, o solo una parte?**
+
+---
+
+## 3. Qué cobrarle de envío al cliente
+
+Pago Nube se lleva su comisión de **todo** lo que cobrás, envío incluido. Si le cobrás al cliente exactamente lo que te cuesta el flete, esa comisión la ponés vos.
+
+> **La fórmula es dividir por 0,93, no multiplicar por 1,07.** Si multiplicás, te quedás corto: la comisión también pega sobre el recargo.
 
 ### Precios de envío a cargar en Tiendanube
 
-| Zona | Costo real | Exacto (÷0,94) | **A cobrar** | Te queda de más |
-|---|---|---|---|---|
-| CABA | $3.919 | $4.169 | **$4.200** | +$29 |
-| Cordón 1 | $6.265 | $6.665 | **$6.700** | +$33 |
-| Cordón 2 y 3 | $8.196 | $8.719 | **$8.800** | +$76 |
+| Zona | Costo real | Exacto (÷0,93) | **A cobrar** |
+|---|---:|---:|---:|
+| **Cercana (CABA)** | $4.356 | $4.684 | **$4.700** |
+| **Media** | $6.102 | $6.561 | **$6.600** |
+| **Lejana** | $7.848 | $8.439 | **$8.500** |
+| **Muy lejana** | $9.157 | $9.847 | **$9.900** |
+| **Pilar** (reparto propio) | — | — | ver sección 5 |
 
-Redondeados para arriba, así te queda un colchoncito y son números más prolijos.
+Redondeados para arriba, así queda un colchoncito.
 
-### Lo que esto te recupera
-
-| | Techo de margen neto |
-|---|---|
-| Sin recargo (como está hoy) | 19,1% |
-| **Con el recargo** | **20,4%** |
-
-**Recuperás 1,3 puntos, y tu intuición original queda confirmada.** Los 20,4% que vos calculabas son exactamente lo que da la cuenta una vez que el envío deja de costarte plata.
-
-> ⚠️ **Ojo con el alcance:** el recargo solo funciona en los pedidos donde el cliente paga el envío. En los pedidos con envío bonificado no hay nada que recargar — ahí el flete sale entero de tu bolsillo y los umbrales de abajo no cambian.
+> ⚠️ **Queda una inconsistencia sin resolver:** `perfil.md` y `numeros.md` dicen que Pago Nube cobra **7%**, la versión vieja de este archivo usaba **6%**. Acá está calculado con **7%**, que es el número del modelo vigente y además el más conservador: si al final resulta ser 6%, te quedan unos $50 de más por envío y no al revés. **Chequealo en una liquidación real de Pago Nube.**
 
 ---
 
 ## 4. Los umbrales de envío sin cargo
 
-La cuenta, con margen efectivo del **24%** (30% bruto menos 6% de comisión de Pago Nube) y $1.000 de packaging:
+Calculados con el **margen efectivo real del 37,9%** (45,9% de margen bruto en panificados menos el 8% de comisión y packaging).
 
-> **Piso = (envío + $1.000) ÷ 0,24**
+> **Piso = costo del envío ÷ 0,379**
 
-| Zona | Envío | Piso (ganás cero) |
-|---|---|---|
-| CABA | $3.919 | $20.496 |
-| Cordón 1 | $6.265 | $30.271 |
-| Cordón 2 y 3 | $8.196 | $38.317 |
+| Zona | Costo | Piso (ganás cero) |
+|---|---:|---:|
+| Cercana (CABA) | $4.356 | $11.493 |
+| Media | $6.102 | $16.100 |
+| Lejana | $7.848 | $20.707 |
+| Muy lejana | $9.157 | $24.162 |
 
-*Calculado a precios actuales (margen bruto 30%). Con el aumento del 15% el margen efectivo sube a 33,1% y los pisos bajan bastante — hay que rehacer esta tabla cuando se aplique.*
+**Los pisos bajaron mucho respecto de la tabla vieja**, y no por Flexit: la tabla anterior estaba calculada con un margen del 24% que era una estimación desactualizada. Con el margen real de 37,9% podés ser bastante más generoso con el envío.
 
-### Lo que te propongo
+### Lo que te propongo ofrecer
 
-| Zona | Qué ofrecer | Te queda en el umbral |
-|---|---|---|
-| **CABA** | **Envío sin cargo desde $28.000** | $1.801 |
-| **Cordón 1** | **Bonificamos $3.000 desde $32.000** (cliente paga $3.700) | $3.893 |
-| **Cordón 2 y 3** | **Bonificamos $3.000 desde $35.000** (cliente paga $5.800) | $4.656 |
-| **Pilar** (reparto propio) | **Envío sin cargo desde $28.000** | según tu costo real de reparto |
+| Zona | Qué ofrecer | Cliente paga | Te queda en el umbral |
+|---|---|---:|---:|
+| **Cercana (CABA)** | **Envío sin cargo desde $18.000** | $0 | $2.466 |
+| **Media** | **Envío sin cargo desde $24.000** | $0 | $2.994 |
+| **Lejana** | **Bonificamos $3.000 desde $28.000** | $5.500 | $7.612 |
+| **Muy lejana** | **Bonificamos $3.000 desde $32.000** | $6.900 | $9.128 |
+| **Pilar** (reparto propio) | **Envío sin cargo desde $18.000** | $0 | según tu costo real de reparto |
 
-Fijate que **en las zonas con bonificación parcial ganás más que en CABA con envío gratis pleno.** Ese es el punto: bonificar una parte te deja dar un beneficio real sin quedarte sin margen.
+**Lo importante de este cambio: ahora podés ofrecer envío sin cargo en San Isidro, Beccar, Martínez, Acassuso y Vicente López** desde $24.000, que está por debajo de tu ticket promedio ($28.000). Antes eso era imposible. **Es la zona #1 del ranking de publicidad y ahora tiene la mejor oferta después de CABA.**
 
-> Estos umbrales están calculados con los precios actuales. Si aplicás el aumento del 15% que está en `numeros.md`, hay que recalcularlos — el margen efectivo sube y los pisos bajan.
+Y fijate que en las zonas con bonificación parcial ganás más que en CABA con envío gratis pleno. Ese es el punto: bonificar una parte te deja dar un beneficio real sin quedarte sin margen.
+
+### Cuánto recargo ve el cliente
+
+Es el número que decide si aprieta comprar o abandona el carrito:
+
+| Zona | Envío | Sobre un pedido de $28.000 |
+|---|---:|---:|
+| Cercana (CABA) | $4.700 | **16,8%** |
+| Media | $6.600 | 23,6% |
+| Lejana | $8.500 | 30,4% |
+| Muy lejana | $9.900 | **35,4%** |
+
+**Arriba del 30% el envío espanta.** Por eso en Lejana y Muy lejana no se regala el envío: se empuja un pedido más grande.
 
 ---
 
-## 5. Cómo comunicarlo
+## 5. Pilar: no va por Flexit
+
+| | |
+|---|---:|
+| Ticket promedio en Pilar | $23.677 |
+| Margen efectivo (37,9%) | **$8.974** |
+| Flete de Flexit a Pilar (Muy lejana) | **−$9.157** |
+| **Te queda** | **−$183** |
+
+**Cada pedido de Pilar despachado por Flexit te daría pérdida.** Y cobrárselo al cliente tampoco funciona: $9.900 sobre un pedido de $23.677 es un **42% de recargo para que le lleven el pan a diez cuadras**. El vecino de Pilar sabe que sos de Pilar; no lo va a pagar.
+
+> **Pilar sigue con reparto propio, y la tarea pendiente más rentable que queda es cotizar un cadete o moto local** para las ~18 entregas de los jueves. Ninguna logística del AMBA lo resuelve: para todas, Pilar es zona periférica.
+>
+> **Y falta el número que decide:** cuánto te cuesta hoy el reparto propio (nafta + horas + desgaste). Nunca se calculó.
+
+**Ojo con una diferencia respecto de Smart Post:** con Smart Post existía el truco de "meter los pedidos de Pilar en los lugares ya pagados del mínimo de 30". **Con Flexit ese truco no existe** (o al menos no está confirmado que haya mínimo). Cada envío de Pilar cuesta $9.157 desde el primero.
+
+---
+
+## 6. Cómo comunicarlo
 
 1. **El envío se muestra desde el principio**, nunca recién en el checkout.
 2. **Mostrá siempre lo que falta:** *"Te faltan $4.200 para el envío sin cargo"*.
 3. **Usá "envío sin cargo"**, no "envío gratis".
 4. **Comunicá la bonificación parcial como beneficio:** *"Te bonificamos $3.000 del envío"*.
 5. **Sugerí qué agregar** cuando falta poco. El tamaño de la caja no importa: mostrale lo que más margen te deje.
-6. **Prometé franja horaria.** Con camioneta exclusiva podés, y casi nadie de tu tamaño puede.
+6. **En barrios cerrados, avisá antes de que pague** que la entrega es en la guardia — falta confirmar si Flexit entra o no.
 
 ---
 
-## 6. Qué revisar cada mes
+## 7. Qué revisar cada mes
 
-- **¿Cuántos pedidos por día de camioneta?** Si estás por debajo de 30, estás perdiendo plata en cada despacho.
+- ¿Cuántos pedidos por jueves?
 - ¿Subió el ticket promedio?
 - ¿Qué porcentaje de pedidos supera el umbral? Menos del 30% → muy alto. Más del 80% → muy bajo.
 - ¿Qué porcentaje se pagó por transferencia?
-
-Los aumentos de Smart Post siguen a los de MercadoLibre: **revisá los umbrales cada 3 meses.**
+- **¿Cambió el tarifario de Flexit?** Son tarifas mensuales ("vigentes septiembre") y están alineadas a los envíos Flex de ML. **Pedí el tarifario nuevo todos los meses** y recalculá esta tabla.
 
 ---
 
-## 7. Lo que falta confirmar
+## 8. Lo que falta confirmar
 
-1. ✅ ~~¿El mínimo de 30 es por despacho o por mes?~~ → **por despacho**. Confirmado.
-2. **Dejar por escrito** que no cobran IVA.
-3. **Confirmar el horario de colecta** en la dirección de Pilar (el PDF sugiere 13:00 para zonas lejanas).
-4. **Confirmar si Pago Nube cobra el 6% sobre producto + envío o solo sobre el producto.** Si fuera solo sobre el producto, el recargo de la sección 3 no hace falta.
-5. **Tu cantidad de pedidos por mes actual**, de las estadísticas de Tiendanube.
+1. 🔥 **Peso volumétrico** — la pregunta que define si estos precios son reales.
+2. 🔥 **Panificados a temperatura ambiente** — eliminatoria.
+3. **Volumen mínimo**, si lo hay.
+4. **Horario y costo de la colecta en Pilar.**
+5. **Tope de responsabilidad por bulto perdido o dañado.**
+6. **Si integran con Tiendanube** y si la integración cotiza sola en el checkout.
+7. **Si la factura cubre el total que se paga**, o solo una parte.
+8. **Comisión real de Pago Nube: ¿6% o 7%?** Y si se aplica sobre producto + envío o solo sobre el producto.
+9. **Costo real del reparto propio en Pilar.**

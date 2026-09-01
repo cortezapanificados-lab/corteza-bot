@@ -2,6 +2,12 @@
 
 *Armado el 26/08/2026, cuando Smart Post dejó de responder por segunda vez.*
 
+> # ✅ CERRADO el 28/08/2026 — la logística del AMBA es **FLEXIT**
+>
+> Smart Post queda descartado: nunca contestó y nunca puso nada por escrito. **Las tarifas y zonas vigentes están en `perfil.md` y `envios-amba.md`; el análisis de la propuesta, en `propuesta-flexit.md`.**
+>
+> **Este documento se conserva como historial y como plan B**: el pliego de preguntas de la sección 5 sigue sirviendo, y la lista de alternativas también, por si Flexit falla o si las respuestas pendientes (peso volumétrico, mínimo) vienen mal.
+
 ---
 
 ## 1. El problema real no es que no contesten

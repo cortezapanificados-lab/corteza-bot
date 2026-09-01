@@ -2,6 +2,31 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 28/08/2026 — Decisión: FLEXIT es la logística del AMBA
+
+Juan confirmó dos cosas que cerraron el tema: **es monotributista** y **Flexit va a ser la nueva logística**. Smart Post queda descartado — nunca contestó ni puso nada por escrito.
+
+**Por qué el monotributo importa:** el IVA que paga por el flete es **costo puro**, no crédito fiscal. Eso valida el acuerdo del 10,5% en efectivo: son **~$74.837 de ahorro por mes** a 30 envíos por jueves, casi los costos fijos completos. El pago sería mensual (~$788.000 en un retiro), no semanal.
+
+**Precios cargados en toda la memoria** (con IVA 10,5%), reemplazando los cordones de Smart Post por las cuatro zonas de Flexit:
+
+| Zona | Costo | Se le cobra al cliente | Envío sin cargo |
+|---|---:|---:|---|
+| Cercana (CABA) | $4.356 | $4.700 | desde $18.000 |
+| Media (San Isidro, Beccar, Acassuso, V. López) | $6.102 | $6.600 | desde $24.000 |
+| Lejana (Nordelta, Tigre) | $7.848 | $8.500 | bonificar $3.000 desde $28.000 |
+| Muy lejana (Escobar, Pilar) | $9.157 | $9.900 | bonificar $3.000 desde $32.000 |
+
+**El hallazgo del día: los umbrales bajaron mucho, y no por Flexit.** La tabla vieja estaba calculada con un margen del 24% que era una estimación desactualizada; con el margen real del 37,9% los pisos son bastante más bajos. **Consecuencia concreta: San Isidro–Beccar–Acassuso ahora puede tener envío sin cargo desde $24.000, por debajo del ticket promedio.** Es la zona #1 del ranking de publicidad y pasó a tener la segunda mejor oferta de la tienda. Antes era imposible.
+
+**Pilar queda con reparto propio, definitivamente.** Por Flexit cada pedido de Pilar daría pérdida ($9.157 de flete contra $8.974 de margen), y cobrárselo al cliente sería un 42% de recargo. **Cotizar el cadete local es la tarea pendiente más rentable que queda.**
+
+**Corrección de lo que se dijo el día anterior:** se había planteado que pagar en efectivo dejaba el gasto "a medio documentar" y debilitaba un reclamo por carga perdida. **Estaba mal enfocado.** En monotributo no se deducen gastos, así que la factura del flete no cambia nada impositivo; y lo que respalda un reclamo por carga perdida es **el remito, el seguimiento y el tope de responsabilidad de la empresa**, no la factura del servicio. Quedaron dos preguntas nuevas para Flexit: **hasta qué monto responden por bulto perdido** y **si la factura cubre el total que se paga**.
+
+**Riesgo abierto que hay que mirar antes del lanzamiento:** con 30 pedidos por jueves Corteza facturaría ~$3,6 millones al mes (más de $43M al año), y eso puede sacarla del monotributo. Si pasa a responsable inscripto, el IVA se vuelve crédito fiscal y el descuento del 10,5% deja de valer. **Va en la misma consulta al contador.**
+
+⚠️ **La decisión se tomó con información incompleta y conviene no olvidarlo:** Flexit todavía no confirmó si transporta panificados a temperatura ambiente, si cobra por **peso volumétrico** (la caja de 45×35×30 pesa 3 kg reales y 11,8 kg volumétricos), si hay volumen mínimo, ni el horario y costo de la colecta en Pilar. **Las dos primeras pueden mover estos precios.** El texto para repreguntarles está listo en `propuesta-flexit.md`.
+
 ## 28/08/2026 — Flexit cotizó: primera cotización real de logística
 
 Juan pasó el tarifario de Flexit de septiembre (PDF) y el dato de que **el IVA sería del 10,5% pagando en efectivo**. Análisis completo en `propuesta-flexit.md`.

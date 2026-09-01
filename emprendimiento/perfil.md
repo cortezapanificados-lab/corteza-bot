@@ -1,6 +1,6 @@
 # Perfil de Corteza
 
-*Última actualización: 10/08/2026 (estructura de costos, logística del AMBA y día único de entrega)*
+*Última actualización: 28/08/2026 (Flexit pasa a ser la logística del AMBA; condición fiscal)*
 
 **Quien lleva Corteza: Juan (varón — hablarle en masculino).**
 
@@ -8,20 +8,26 @@ Corteza es una marca de panificados artesanales de Pilar, Buenos Aires, Argentin
 
 **El negocio es 100% online.** No hay local a la calle. La dirección de Pilar es administrativa; si hace falta stockear algo, se stockea en la casa particular.
 
-**Proyección — AMBA**: la capacidad de entregar en todo el AMBA **ya existe** y se hace con **Smart Post** (logística tercerizada, no reparto propio). Cubre todo el GBA y CABA, con servicios Flex, Same Day y 24-48hs. El costo de envío depende de la zona del comprador y **lo paga el comprador**, salvo que supere un mínimo de compra (ver `envios-amba.md`).
+**Condición fiscal: Corteza es monotributista** (Juan Martín Guerrini). El IVA que paga por sus costos **no se recupera**: es costo puro, no crédito fiscal. ⚠️ **Al volumen proyectado del AMBA (~$3,6 millones mensuales con 30 pedidos por jueves) puede quedar fuera del monotributo. Hay que consultarlo con el contador antes del lanzamiento**, porque si pasa a responsable inscripto cambian el IVA del flete y toda la estructura de costos.
 
-**Zonas y tarifas Smart Post** (se miden desde CABA, no desde Pilar):
+**Logística del AMBA: FLEXIT** (decidido el 28/08/2026, reemplaza a Smart Post, que dejó de responder). Logística tercerizada, same-day, con cuatro zonas. El costo de envío depende de la zona del comprador y **lo paga el comprador**, salvo que supere un mínimo de compra (ver `envios-amba.md`).
 
-| Tarifa | Zona | Precio |
-|---|---|---|
-| Misma zona | CABA | $3.919 |
-| Cercana | Cordón 1 | $6.265 |
-| Lejana | Cordón 2 | $8.196 |
-| Periféricas | Cordón 3 | $8.196 |
+**Tarifas Flexit** (tarifario de septiembre 2026, **con IVA al 10,5%** — la condición acordada pagando en efectivo):
 
-**Pilar está en el Cordón 3**, o sea la banda más cara. Por eso las entregas de Pilar se siguen haciendo con reparto propio. **CABA es la zona más barata y la más rentable para vender.**
+| Zona | Qué incluye | Costo | **Se le cobra al cliente** |
+|---|---|---:|---:|
+| **Cercana** | Todo CABA | $4.356 | **$4.700** |
+| **Media** | San Isidro (Beccar, Martínez, Acassuso), Vicente López, San Fernando, Gral. San Martín, Tres de Febrero, Morón, Hurlingham, Ituzaingó, Avellaneda, Lanús, Lomas de Zamora, La Matanza norte | $6.102 | **$6.600** |
+| **Lejana** | Tigre (Nordelta), San Miguel, José C. Paz, Malvinas Argentinas, Moreno, Merlo, La Matanza sur, Quilmes, Berazategui, Florencio Varela, Alte. Brown, E. Echeverría, Ezeiza | $7.848 | **$8.500** |
+| **Muy lejana** | **Pilar**, Escobar, Del Viso, Derqui, Garín, Villa Rosa, Ing. Maschwitz, Gral. Rodríguez, Luján, Campana, Zárate, Marcos Paz, Cañuelas, San Vicente, Guernica, La Plata, Berisso, Ensenada | $9.157 | **$9.900** |
 
-Condiciones acordadas con Smart Post: **no cobran IVA** (conviene tenerlo por escrito, porque el PDF dice lo contrario), **no hay costo de colecta**, **tarifa plana por envío sin importar el tamaño** (la camioneta del día es exclusiva) y **mínimo de 30 envíos por despacho, sin tope máximo**. Los aumentos siguen a los de MercadoLibre.
+**Pilar está en la zona más cara**, igual que con Smart Post. Por eso las entregas de Pilar se siguen haciendo con **reparto propio**: por Flexit cada pedido de Pilar daría pérdida. **CABA es la zona más barata y la más rentable para vender.**
+
+Lo que incluye Flexit: **segunda y tercera visita sin costo adicional**, same-day, IVA aclarado por escrito y cobertura más amplia que Smart Post (suma Campana, Zárate, Luján y La Plata). Los seguros (0,5% depósito / 0,7% tránsito) son opcionales y **no se toman**.
+
+⚠️ **Sigue sin confirmarse lo eliminatorio**: si transportan panificados a temperatura ambiente, si cobran por **peso volumétrico** (la caja de 45×35×30 pesa 3 kg reales pero 11,8 kg volumétricos), si hay volumen mínimo, el horario y costo de la colecta en Pilar, y el tope de responsabilidad por bulto. **Hasta que eso esté por escrito, estas tarifas pueden moverse.** Ver `propuesta-flexit.md`.
+
+**Las tarifas son mensuales** y están alineadas a los envíos Flex de MercadoLibre: hay que pedir el tarifario nuevo todos los meses.
 
 ## Estructura de costos
 
@@ -33,7 +39,7 @@ Condiciones acordadas con Smart Post: **no cobran IVA** (conviene tenerlo por es
   - *(El "30%" que se venía usando era una estimación y quedó desactualizado. El margen real es bastante mejor.)*
 - **Comisión Pago Nube: 7%** de la venta.
 - **Packaging: 1%** de la venta.
-- **Envío**: según zona (arriba), a cargo del comprador. El precio que se le cobra lleva recargo para cubrir la comisión: $4.200 CABA, $6.700 Cordón 1, $8.800 Cordón 2 y 3.
+- **Envío**: según zona (arriba), a cargo del comprador. El precio que se le cobra lleva recargo para cubrir la comisión de Pago Nube (se divide por 0,93): **$4.700 Cercana, $6.600 Media, $8.500 Lejana, $9.900 Muy lejana**.
 
 > **El modelo, en una línea: ganancia por pedido = venta × (margen bruto − 8%).**
 
@@ -138,13 +144,13 @@ Los vinos son lo más comparable de todo el catálogo: **no tocarlos sin chequea
 
 ## Logística
 
-- Zona de entrega: hoy únicamente Pilar; al lanzar, todo el AMBA vía Smart Post
+- Zona de entrega: hoy únicamente Pilar; al lanzar, todo el AMBA vía **Flexit**. Pilar queda siempre con reparto propio.
 - Día de entrega: **jueves** (único día, para Pilar y para todo el AMBA).
 - **Cierre de pedidos: lunes 14:00** (ya actualizado en la tienda). El pedido a los proveedores sale el lunes a la tarde y la mercadería llega el miércoles.
 - Horario: de 9 a 17 hs aprox.
 - **Cierre de pedidos** (pan de masa madre, vigente desde el 24/07/2026): pedidos hasta el **sábado** se entregan el **martes**; pedidos hasta el **martes** se entregan el **viernes**. El pan llega el mismo día de entrega.
 - Sin pedido mínimo
-- Envío bonificado según zona (ver `envios-amba.md`): CABA y Pilar sin cargo desde $28.000; Cordón 1 y 2/3 con bonificación parcial de $3.000
+- Envío bonificado según zona (ver `envios-amba.md`): **CABA y Pilar sin cargo desde $18.000; Media sin cargo desde $24.000; Lejana bonificación de $3.000 desde $28.000; Muy lejana bonificación de $3.000 desde $32.000**
 
 ## Marca (INPI)
 

@@ -1,6 +1,7 @@
 # Dónde poner la publicidad — ranking de zonas del AMBA
 
 *Armado el 13/08/2026, para los anuncios localizados del lanzamiento del 17/9.*
+*Actualizado el 28/08/2026 con las tarifas de **Flexit**, que reemplazó a Smart Post.*
 
 ---
 
@@ -43,8 +44,8 @@ Lo que sí cambia por zona es **cuánta gente aprieta comprar cuando ve el costo
 
 De ahí salen las dos reglas:
 
-1. **En CABA, el envío se regala** (el piso es $11.876 y tu ticket es $24.000: entra cómodo).
-2. **En Cordón 2 y 3, el envío no se regala: se empuja un pedido más grande.** El piso ahí es $24.836, casi tu ticket entero.
+1. **En CABA el envío se regala desde $18.000**, y ahora **también en San Isidro–Beccar–Acassuso desde $24.000** — por debajo de tu ticket promedio. Con Flexit y el margen real del 37,9%, la zona #1 del ranking pasó a tener la segunda mejor oferta de la tienda. **Es una novedad importante: antes esto no se podía.**
+2. **En Lejana y Muy lejana el envío no se regala: se bonifican $3.000 y se empuja un pedido más grande.** Arriba del 30% de recargo, el cliente abandona el carrito.
 
 ---
 
@@ -52,12 +53,12 @@ De ahí salen las dos reglas:
 
 Ordenado por lo que conviene hacer primero, no por tamaño.
 
-| # | Zona | Cordón | Envío | Por qué |
+| # | Zona | Zona Flexit | Envío (costo) | Por qué |
 |---:|---|---|---:|---|
-| **1** | **San Isidro · Martínez · Acassuso · Beccar** | 1 | **$6.265** | Perfil de country a precio de Cordón 1 |
-| **2** | **Palermo · Villa Crespo · Colegiales · Belgrano** | CABA | **$3.919** | El envío más barato y el único regalable |
-| **3** | **Nordelta** | 2 | $8.196 | Tu fórmula probada, en su versión más grande |
-| 4 | Vicente López · Olivos · La Lucila · Florida | 1 | $6.265 | Igual que #1, más departamentos |
+| **1** | **San Isidro · Martínez · Acassuso · Beccar** | Media | **$6.102** | Perfil de country al precio de la zona Media — **y ahora con envío sin cargo desde $24.000** |
+| **2** | **Palermo · Villa Crespo · Colegiales · Belgrano** | Cercana | **$4.356** | El envío más barato, sin cargo desde $18.000 |
+| **3** | **Nordelta** | Lejana | $7.848 | Tu fórmula probada, en su versión más grande. Con Flexit quedó $348 más barato |
+| 4 | Vicente López · Olivos · La Lucila · Florida | Media | $6.102 | Igual que #1, más departamentos |
 | 5 | Núñez · Saavedra · Belgrano R · Villa Urquiza | CABA | $3.919 | Segunda tanda de CABA |
 | 6 | Villanueva · Tortugas · Pilar del Este | 2 y 3 | $8.196 | Countries, pero más caros y más lejos |
 | 7 | Canning · Saint Thomas | 2 | $8.196 | El polo ABC1 del sur |

@@ -17,12 +17,15 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
 - [x] ~~Mensaje de ausencia de WhatsApp~~ → **descartado**, las consultas las contesta ella
 - [ ] Cargar las respuestas rápidas de WhatsApp: `/caba`, `/cierre`, `/envio` (textos en `textos/captura-lista-caba.md`)
 - [ ] Poner la historia en **destacadas**, con sticker de link y tapa (`textos/tapa-destacada.png`)
-- [ ] 🔥🔥 **LOGÍSTICA EN RIESGO — Smart Post dejó de responder otra vez (26/08).** Plan completo en `logistica-alternativas.md`. Se trabaja en dos vías al mismo tiempo:
+- [x] ~~🔥🔥 **LOGÍSTICA EN RIESGO — Smart Post dejó de responder otra vez (26/08).**~~ → ✅ **RESUELTO 28/08: la logística del AMBA es FLEXIT.** Tarifas y zonas ya cargadas en `perfil.md` y `envios-amba.md`. Smart Post queda descartado. **Lo que sigue abierto está abajo.**
+- [ ] 📌 **Contexto de la decisión (para no perderlo).** Plan completo en `logistica-alternativas.md`. Se trabaja en dos vías al mismo tiempo:
   - [x] ~~**Vía A — recuperarlos.**~~ → **26/08: hecho por dos canales.** Juan escribió por Instagram a @smartpost.logistica y volvió a llenar el formulario de la web como si fuera cliente nuevo. **Fecha de corte: viernes 28/8** — si no contestan, dejan de ser el plan principal.
-  - [x] ~~**Flexit cotizó (28/08)**~~ → ✅ **primera cotización real por escrito.** Análisis completo en `propuesta-flexit.md`. Empata en precio con Smart Post y **gana en San Isidro/Beccar/Acassuso y en Nordelta**, que son las zonas del ranking. **Pero falta lo eliminatorio.** Lo que hay que hacer ahora:
+  - [x] ~~**Flexit cotizó y se cerró con ellos (28/08)**~~ → ✅ **primera cotización real por escrito, y la elegida.** Análisis completo en `propuesta-flexit.md`. Empata en precio con Smart Post y **gana en San Isidro/Beccar/Acassuso y en Nordelta**, que son las zonas del ranking. **Pero falta lo eliminatorio.** Lo que hay que hacer ahora:
     - [ ] 🔥 **Repreguntarle a Flexit** las 6 que no contestó: **panificados a temperatura ambiente**, **peso volumétrico**, same-day en las 4 zonas, **volumen mínimo**, colecta en Pilar (les figura como zona Muy lejana) y barrios cerrados. Texto listo en `propuesta-flexit.md` sección 10.
-    - [ ] 🔥 **Consultarle al contador lo del IVA al 10,5% en efectivo.** Pregunta exacta: *"¿me conviene el 10,5% en efectivo o el 21% con factura, según mi condición fiscal?"* Si Corteza es responsable inscripto el descuento no vale nada. Y en cualquier caso implica **retirar ~$197.000 por semana en efectivo** cobrando 100% digital. **No cerrar el acuerdo antes de esta consulta.**
-    - [ ] Pedirle a Flexit la alternativa de **transferencia con factura completa al 21%**, para comparar las dos.
+    - [x] ~~Confirmar condición fiscal~~ → ✅ **28/08: Corteza es monotributista.** El IVA del flete es costo puro, así que **el 10,5% en efectivo es un ahorro real de ~$74.837 al mes** (a 30 envíos por jueves). Pago mensual, no semanal.
+    - [ ] 🔥 **Consulta al contador, dos preguntas en una:** (1) ¿el 10,5% en efectivo está bien o conviene factura completa al 21%? (2) **¿hasta cuándo te alcanza el monotributo?** Con 30 pedidos por jueves facturarías ~$3,6 millones por mes (más de $43M al año) y eso puede sacarte de la categoría. **Si pasás a responsable inscripto, el IVA se vuelve crédito fiscal y el descuento del 10,5% deja de valer.**
+    - [ ] **Preguntarle a Flexit el tope de responsabilidad por bulto perdido o dañado.** Es lo que respalda un reclamo, no la factura. Tus cajas valen ~$28.000.
+    - [ ] Chequear el **tope de extracción del banco**: son ~$788.000 en efectivo en un solo retiro mensual.
   - [ ] **Vía B — cotizar en paralelo.** Encargo listo para Claude in Chrome en `textos/encargo-claude-chrome-logistica.md`: escribirle a **10 empresas** (Flexit, GT Pack, Welivery, BNZ Express, Fixy, Falco, DAR, Envíopack, clicOH, Moova). Al terminar, cargar las respuestas en la tabla de estado de `logistica-alternativas.md`.
   - [ ] **Cotizar aparte la vuelta de Pilar** con un cadete o moto local (18 entregas juntas). Ninguna empresa del AMBA resuelve Pilar barato.
   - **Lo que hay que mirar primero de cada respuesta:** ¿aceptan panificados a temperatura ambiente? ¿el same day cubre todo el AMBA o solo CABA? ¿cobran por peso volumétrico? ¿tienen volumen mínimo? Todo lo demás es secundario.
@@ -49,7 +52,18 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
   - **Consecuencia para el ranking de zonas:** refuerza a **San Isidro–Martínez–Acassuso–Beccar** (casas de calle, entrega en la puerta) por encima de **Nordelta** (todo cerrado, todo por garita). Nordelta ya perdía por $1.931 de flete; ahora suma la garita. **Pilar no cambia: ahí el reparto es propio.**
 - [ ] **Caja de presentación de ~$16.100** con envío sin cargo (la Promo de $28.900 es mucho para un primer pedido en CABA)
 - [ ] **Suscripción**: Plan Casa quincenal $48.100 y Plan Semana $96.200. **No ofrecer plan semanal chico** — el flete (4,33 envíos/mes = $16.969) se lo come. Objetivo: 30% de los clientes de CABA suscriptos.
-- [ ] **Configurar las zonas de envío** en Tiendanube con el recargo del 6,38%: CABA $4.200 / Cordón 1 $6.700 / Cordón 2 y 3 $8.800. ⏸️ **Frenado hasta cerrar logística** — con Flexit las zonas y los precios son otros (tabla en `propuesta-flexit.md` sección 9), y hasta que no esté resuelto el peso volumétrico la tarifa puede cambiar. ⚠️ Además hay que unificar la comisión de Pago Nube: `envios-amba.md` usa 6%, `perfil.md` y `numeros.md` dicen 7%. **Sin cargo en CABA desde $25.000.**
+- [ ] 🔥 **Configurar las zonas de envío en Tiendanube con las zonas y tarifas de FLEXIT** *(actualizado 28/08 — reemplaza los cordones de Smart Post, que ya no van)*:
+
+  | Zona Flexit | Cobrar | Envío sin cargo |
+  |---|---:|---|
+  | **Cercana** (todo CABA) | **$4.700** | sin cargo desde **$18.000** |
+  | **Media** (San Isidro, Beccar, Martínez, Acassuso, Vicente López, San Fernando, Gral. San Martín, Tres de Febrero, Morón, Hurlingham, Ituzaingó, Avellaneda, Lanús, Lomas de Zamora, La Matanza norte) | **$6.600** | sin cargo desde **$24.000** |
+  | **Lejana** (Tigre/Nordelta, San Miguel, José C. Paz, Malvinas Arg., Moreno, Merlo, La Matanza sur, Quilmes, Berazategui, F. Varela, Alte. Brown, E. Echeverría, Ezeiza) | **$8.500** | bonificar **$3.000** desde **$28.000** |
+  | **Muy lejana** (Escobar, Del Viso, Derqui, Garín, Villa Rosa, Maschwitz, Gral. Rodríguez, Luján, Campana, Zárate, Marcos Paz, Cañuelas, San Vicente, Guernica, La Plata, Berisso, Ensenada) | **$9.900** | bonificar **$3.000** desde **$32.000** |
+  | **Pilar** (reparto propio, NO va por Flexit) | — | sin cargo desde **$18.000** |
+
+  **Lo nuevo y lo que hay que aprovechar: San Isidro–Beccar–Acassuso ahora tiene envío sin cargo desde $24.000**, por debajo del ticket promedio. Es la zona #1 del ranking de publicidad. Vale la pena decirlo en los anuncios.
+  ~~⏸️ Frenado hasta cerrar logística~~ — con Flexit las zonas y los precios son otros (tabla en `propuesta-flexit.md` sección 9), y hasta que no esté resuelto el peso volumétrico la tarifa puede cambiar. ⚠️ Además hay que unificar la comisión de Pago Nube: `envios-amba.md` usa 6%, `perfil.md` y `numeros.md` dicen 7%.
 - [ ] Activar la barrita de "te faltan $X para el envío sin cargo"
 - [ ] **Contactar 15 micro-influencers** de alimentación consciente de CABA. Mejor canal de retorno: la caja de canje cuesta $13.500 reales, y si trae 3 clientes el CAC es $4.500. ⚠️ **No puede pasar de la semana del 24**: tienen que publicar la semana del 14/9 y la semana 3 ya carga el test de Meta.
 - [ ] Cargar las fichas nuevas: **kéfir de agua** (tradicional e hibiscus) y las **dos líneas de Booch Kombucha**. Textos escritos el 14/08. **Falta el costo de cada uno** para calcular margen.

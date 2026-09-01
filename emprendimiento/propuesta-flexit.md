@@ -3,6 +3,14 @@
 *Analizada el 28/08/2026, sobre el PDF "Tarifario Flexit Septiembre26" que mandó Juan.*
 *Dato agregado por Juan: **el IVA sería del 10,5% pagando en efectivo** (el PDF solo dice "+IVA").*
 
+> ## ✅ DECIDIDO el 28/08/2026 — Flexit es la logística de Corteza
+>
+> Juan confirmó que **es monotributista**, así que el IVA del flete es **costo puro** y el 10,5% en efectivo **sí es un ahorro real** (~$74.837 al mes a 30 envíos por jueves). También confirmó que **el pago sería una vez por mes**, no semanal.
+>
+> **Las tarifas ya están cargadas en la memoria**: `perfil.md` y `envios-amba.md` (precios por zona, qué cobrarle al cliente y umbrales de envío sin cargo, todos recalculados).
+>
+> **Pero la decisión se tomó con información incompleta.** Siguen sin contestar las preguntas de la sección 7, y dos de ellas pueden mover el precio: **peso volumétrico** y **volumen mínimo**. Mandar el texto de la sección 10 igual, aunque ya esté decidido.
+
 ---
 
 ## 1. El resumen en cinco líneas
@@ -97,26 +105,31 @@ Con una mezcla razonable de zonas (40% CABA, 30% Media, 20% Lejana, 10% Muy leja
 
 ### 5.2 Pero antes hay que contestar una pregunta
 
-> ### ⚠️ ¿Corteza es monotributista o responsable inscripto?
+> ### ✅ Confirmado el 28/08: Corteza es **monotributista**
 >
-> **De esto depende todo el análisis, y no está en la memoria.**
+> **Eso valida el ahorro.** Queda registrado en `perfil.md`. Para entender por qué importa:
 >
 > - **Si sos monotributista:** el IVA que te cobran es **costo puro**, no lo recuperás nunca. El 10,5% te ahorra los $74.837 mensuales de verdad. **Conviene.**
 > - **Si sos responsable inscripto:** el IVA que pagás es **crédito fiscal** — lo descontás del IVA que cobrás en tus ventas. O sea que **el IVA no te cuesta nada**, y el "descuento" del 10,5% **no vale un peso**. Peor: si te facturan la mitad, perdés crédito fiscal y el gasto no te lo podés computar entero. **Ahí conviene pagar 21% con factura A.**
 >
-> **Antes de aceptar el efectivo, confirmá esto con tu contador.** Es la diferencia entre ahorrar $75.000 por mes y regalar plata creyendo que ahorrás.
+> **Como Corteza es monotributista, el ahorro de $74.837 mensuales es real.** Lo que sí hay que consultar con el contador es el punto 3 de la sección 5.3: hasta cuándo te alcanza el monotributo con el volumen del AMBA.
 
 ### 5.3 Y hay que entender qué te están proponiendo en realidad
 
 **La alícuota de IVA la define el servicio, no cómo pagás.** Que te la bajen "si pagás en efectivo" no es una condición comercial normal: significa que te van a facturar distinto de lo que realmente te cobran, o que una parte va sin factura.
 
-Eso no es ilegal para vos por el solo hecho de pagar, pero traé estas tres consecuencias a la mesa:
+**Hay dos maneras de que esto funcione, y hay que saber cuál es:**
 
-1. **Menos respaldo.** Si un jueves te pierden 30 cajas de pan, el reclamo lo hacés contra lo que esté facturado. Si la mitad no está documentada, tu reclamo también vale la mitad.
-2. **No podés computar el gasto entero.** Sea cual sea tu condición fiscal, el flete es el segundo costo más grande de Corteza. Tenerlo a medio documentar te ensucia los números propios, no solo los de AFIP.
-3. **El efectivo hay que conseguirlo.** Y esto es lo más concreto de todo: **cobrás 100% digital por Pago Nube, y tendrías que retirar ~$197.000 por semana en efectivo** para pagarle al fletero. Todas las semanas. Eso tiene costo de extracción, tiempo, y el riesgo de andar con esa plata encima el mismo día que estás despachando.
+- **Te facturan todo, con el 10,5% adentro.** La factura dice exactamente lo que pagás. **No hay nada sin documentar** y el riesgo de la alícuota es de ellos.
+- **Te facturan una parte y el resto va sin comprobante.** Ahí sí queda un hueco entre lo que pagás y lo que tenés en papel.
 
-> **Lo que yo haría:** pedile a Flexit la opción de **factura completa con transferencia**, aunque sea al 21%, y compará los dos números con el contador en la mano. Si aun así el efectivo conviene, que quede claro por escrito qué te facturan y qué no. **No cierres el acuerdo por el descuento sin haber hecho esa consulta.**
+> **La pregunta concreta para Flexit: *"¿la factura va a decir el total que les pago, o solo una parte?"*** Si dice el total, tema cerrado.
+
+**Siendo monotributista esto pesa poco**: en monotributo no deducís gastos, así que tener o no la factura del flete no te cambia un peso de impuestos. Lo que sí queda:
+
+1. **El efectivo hay que conseguirlo.** Si el pago es mensual, son ~$788.000 en un solo retiro a 30 envíos por jueves. **Fijate el tope de extracción de tu banco**, porque esa cifra en un día suele pasarse.
+2. **El tope de responsabilidad.** *(Corregido el 28/08: lo que respalda un reclamo por carga perdida no es la factura del servicio, es el remito, el seguimiento y el límite de responsabilidad de la empresa.)* **Preguntales hasta qué monto responden por un bulto perdido o dañado.** Casi todas tienen un tope — por eso te ofrecen el seguro aparte. Si el tope es $10.000 y mandás cajas de $28.000, mejor saberlo ahora.
+3. **El monotributo tiene techo.** A 30 pedidos por jueves facturarías ~$3,6 millones por mes, más de $43 millones al año. **Eso puede sacarte del monotributo**, y el día que pases a responsable inscripto este análisis se da vuelta: el IVA pasa a ser crédito fiscal y el descuento del 10,5% deja de valer. **Preguntale al contador las dos cosas en la misma consulta.**
 
 ---
 
@@ -150,6 +163,8 @@ Del pliego de 11 preguntas de `logistica-alternativas.md`, el PDF contesta **3**
 | 9 | Tarifario y mapa de zonas | ✅ **Contestada, y bien.** |
 | 10 | Facturación, plazo de pago, depósito o garantía | ⚠️ A medias: apareció lo del efectivo, falta todo lo demás. |
 | 11 | ¿Integran con Tiendanube? | ❌ Sin respuesta en el PDF. |
+| **12** | **¿Hasta qué monto responden por un bulto perdido o dañado?** *(agregada el 28/08 — es lo que respalda un reclamo, no la factura)* | ❌ Sin respuesta. |
+| **13** | **¿La factura cubre el total que se paga, o solo una parte?** | ❌ Sin respuesta. |
 
 ---
 
@@ -215,11 +230,12 @@ Toda la estrategia del 17/9 está construida sobre el mínimo de 30 envíos de S
 > 4. **¿Tienen volumen mínimo por despacho o por mes?** ¿Qué pasa un jueves que junto menos pedidos de los previstos?
 > 5. **¿Hacen colecta en Pilar? ¿A qué hora y con qué costo?** Pilar les figura como zona Muy lejana y necesito saber si eso afecta la colecta.
 > 6. **¿Entran a barrios cerrados y countries o entregan en la guardia?** ¿Se puede comprometer una franja horaria al cliente?
+> 7. **¿Hasta qué monto responden por un bulto perdido o dañado?** Mis cajas valen alrededor de $28.000.
 >
 > Dos consultas más:
 >
 > - **¿Se integran con Tiendanube?** ¿La integración cotiza sola en el checkout?
-> - Sobre la forma de pago: me comentaron la opción de **IVA 10,5% pagando en efectivo**. **¿Cuál sería la condición pagando por transferencia con factura completa?** Quiero comparar las dos con mi contador antes de decidir.
+> - Sobre la forma de pago: me comentaron la opción de **IVA 10,5% pagando en efectivo**, con pago mensual. **¿La factura va a decir el total que les pago, o solo una parte?** Y para comparar: ¿cuál sería la condición pagando por transferencia con factura completa?
 >
 > Si pueden, mándenme también el precio por envío para **30, 50 y 80 pedidos en un mismo día**, así veo si baja por volumen.
 >
