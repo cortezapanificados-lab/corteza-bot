@@ -2,6 +2,10 @@
 
 *Escrita el 07/09/2026, a pedido de Juan. Texto listo para copiar y pegar en Tiendanube.*
 
+> 👁️ **Vista previa de cómo queda, tal como la vería un cliente:**
+> https://claude.ai/code/artifact/c080de5c-d4be-4b33-bcea-132dd8862206
+> *(Armada el 07/09 con las tipografías de la marca — Playfair Display y Jost — y los precios y umbrales corregidos.)*
+
 **Dónde va:** Panel → Mi Tiendanube → Páginas → Crear página. Nombre: **Envíos**. URL: `/envios`. Sumarla al menú principal, al lado de "Ustedes".
 
 **Título SEO:** `Envíos — Corteza | Pan de masa madre a domicilio en CABA y AMBA`
@@ -31,16 +35,15 @@ Entregamos **todos los jueves** en CABA, zona norte, el resto del AMBA y Pilar.
 
 ### Cómo funciona
 
-**1. Hacé tu pedido hasta el lunes a las 14.**
-Ese es el corte de la semana. Lo que entre después queda para el jueves siguiente.
+**Lunes 14:00 — cierra tu pedido.** Ese es el corte de la semana. Lo que entre después queda para el jueves siguiente.
 
-**2. El lunes a la tarde le pasamos tu pedido a los panaderos.**
-No trabajamos con stock: cada semana se hornea lo que se pidió.
+**Le pasamos tu pedido a los panaderos.** No trabajamos con stock: cada semana se hornea lo que se pidió.
 
-**3. El jueves recibimos todo y sale a tu casa.**
-El pan que llega a tu mesa el jueves salió del horno ese mismo día.
+**Jueves — llega a tu casa, durante el día.** El pan que llega a tu mesa el jueves salió del horno ese mismo día.
 
 > **Pedís el lunes, comés pan del jueves.**
+
+💡 **En la web esto va como una línea de la semana** (Lun a Dom) con el lunes y el jueves marcados. Ver la vista previa: es lo que hace que se entienda el ritual de un vistazo, sin leer.
 
 ---
 
@@ -88,6 +91,10 @@ Por ahora no. Si sos de otra zona, escribinos igual y te avisamos cuando lleguem
 
 **¿Puedo retirar el pedido?**
 Sí, en Pilar. Escribinos y coordinamos.
+
+---
+
+¿Te quedó alguna duda? Escribinos por WhatsApp al **11 5415-3989**.
 
 ---
 

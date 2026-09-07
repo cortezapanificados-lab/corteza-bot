@@ -72,7 +72,7 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
   - [ ] **Revisar el carrusel:** los carruseles rotativos rinden mal, la mayoría de la gente ve solo la primera imagen. Conviene un banner fijo con la promesa (masa madre + agroecológico + jueves) y un botón "Ver productos".
   - [ ] **Sumar "Envíos" al menú** cuando esté creada la página. El menú hoy es Inicio · Productos · Sobre Corteza · Ustedes.
 
-- [ ] 📄 **Crear la página "Envíos"** *(idea de Juan, 07/09)*. **Texto completo listo para pegar en `textos/pagina-envios.md`**, con título y descripción de SEO. Explica el ciclo (pedís hasta el lunes 14:00 → recibís el jueves), los costos por zona, Pilar, barrios cerrados y las preguntas frecuentes.
+- [ ] 📄 **Crear la página "Envíos"** *(idea de Juan, 07/09)*. 👁️ **Vista previa de cómo queda: https://claude.ai/code/artifact/c080de5c-d4be-4b33-bcea-132dd8862206** — **texto completo listo para pegar en `textos/pagina-envios.md`**, con título y descripción de SEO. Explica el ciclo (pedís hasta el lunes 14:00 → recibís el jueves), los costos por zona, Pilar, barrios cerrados y las preguntas frecuentes.
   - ⚠️ **No reemplaza a lo de abajo.** Una página de envíos la lee poca gente y casi siempre después de dudar. **El cierre del lunes y el "entregamos en la guardia" tienen que estar igual en la barra de anuncio, en la ficha de producto y en el checkout**, que es donde el cliente decide.
   - ✅ **Pilar: envío sin cargo, sin mínimo** (reparto propio). Ya está así en el texto.
   - 💡 La línea **"Pedís el lunes, comés pan del jueves"** salió de esta página y sirve igual para Instagram y para el anuncio de Meta.

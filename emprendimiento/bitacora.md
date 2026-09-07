@@ -2,6 +2,26 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 07/09/2026 (9) — La página de Envíos, armada de verdad
+
+Se rehizo la página completa con toda la información acumulada y quedó una **vista previa navegable**, tal como la vería un cliente: https://claude.ai/code/artifact/c080de5c-d4be-4b33-bcea-132dd8862206
+
+**La decisión de fondo: el eje de la página es la semana, no la tabla de precios.** El costo de envío se lo puede copiar cualquiera; **el ritual del lunes-a-jueves no.** Por eso la página abre con una **línea de los siete días** con el lunes (cierre, 14:00) y el jueves (entrega) marcados, y recién después vienen los precios. Es lo que hace entender el mecanismo **de un vistazo, sin leer** — y es información real, no decoración.
+
+Debajo de esa línea va la frase que ordena todo: ***"Pedís el lunes, comés pan del jueves."***
+
+**Otras decisiones que quedaron tomadas:**
+- **Se usaron las tipografías de la marca** —Playfair Display para los títulos y Jost para el texto, las mismas de la placa de "Sobre Corteza"— así la página se siente parte de la tienda y no un agregado.
+- **Los nombres de zona son comerciales, no los de Flexit.** El cliente lee "Zona Norte y GBA cercano", no "Zona Media". Y debajo de cada zona van las localidades en letra chica, para que nadie tenga que adivinar si su barrio entra.
+- **El "pedido de barrio" se comunica dentro de la sección de countries**, como un consejo al vecino y no como una promoción. Ahí entra natural.
+- **La segunda y tercera visita incluidas** están en las preguntas, que es donde aparece el miedo real ("¿y si no estoy en casa?").
+- **No se promete franja horaria**: dice "durante el día". Cuando Flexit confirme si se puede elegir, esa respuesta mejora y pasa a ser un diferencial.
+- **Cierra con el WhatsApp.** Una página de envíos que no ofrece a quién preguntarle deja la duda sin salida.
+
+**Y una advertencia que sigue en pie:** esta página es la referencia, no el reemplazo. **El cierre del lunes y el aviso de entrega en la guardia tienen que estar igual en la barra de anuncio, en la ficha de producto y en el checkout**, que es donde el cliente decide.
+
+---
+
 ## 07/09/2026 (8) — Corrección: el piso de rentabilidad no es el umbral de envío sin cargo
 
 Juan frenó el umbral de **$18.000 para envío sin cargo en CABA** y tenía razón. **El error era de criterio, no de cuenta:** se venía usando el **piso de rentabilidad** —costo ÷ 0,379, el punto donde ganás cero— como si fuera el umbral. Son dos cosas distintas. El piso dice *dónde empezás a no perder*; el umbral tiene que decir *a partir de dónde te conviene regalar el envío*.
