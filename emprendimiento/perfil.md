@@ -12,14 +12,16 @@ Corteza es una marca de panificados artesanales de Pilar, Buenos Aires, Argentin
 
 **Logística del AMBA: FLEXIT** (decidido el 28/08/2026, reemplaza a Smart Post, que dejó de responder). Logística tercerizada, same-day, con cuatro zonas. El costo de envío depende de la zona del comprador y **lo paga el comprador**, salvo que supere un mínimo de compra (ver `envios-amba.md`).
 
-**Tarifas Flexit** (tarifario de septiembre 2026, **con IVA al 10,5%** — la condición acordada pagando en efectivo):
+**Tarifas Flexit** (**actualizadas por Flexit el 07/09/2026**, con IVA al 10,5% — la condición acordada pagando en efectivo). **Subieron 4,6% parejo en las cuatro zonas.** El tarifario es mensual: hay que pedirlo todos los meses.
 
 | Zona | Qué incluye | Costo | **Se le cobra al cliente** |
 |---|---|---:|---:|
-| **Cercana** | Todo CABA | $4.356 | **$4.700** |
-| **Media** | San Isidro (Beccar, Martínez, Acassuso), Vicente López, San Fernando, Gral. San Martín, Tres de Febrero, Morón, Hurlingham, Ituzaingó, Avellaneda, Lanús, Lomas de Zamora, La Matanza norte | $6.102 | **$6.600** |
-| **Lejana** | Tigre (Nordelta), San Miguel, José C. Paz, Malvinas Argentinas, Moreno, Merlo, La Matanza sur, Quilmes, Berazategui, Florencio Varela, Alte. Brown, E. Echeverría, Ezeiza | $7.848 | **$8.500** |
-| **Muy lejana** | **Pilar**, Escobar, Del Viso, Derqui, Garín, Villa Rosa, Ing. Maschwitz, Gral. Rodríguez, Luján, Campana, Zárate, Marcos Paz, Cañuelas, San Vicente, Guernica, La Plata, Berisso, Ensenada | $9.157 | **$9.900** |
+| **Cercana** | Todo CABA | $4.560 | **$4.900** |
+| **Media** | San Isidro (Beccar, Martínez, Acassuso), Vicente López, San Fernando, Gral. San Martín, Tres de Febrero, Morón, Hurlingham, Ituzaingó, Avellaneda, Lanús, Lomas de Zamora, La Matanza norte | $6.385 | **$6.900** |
+| **Lejana** | Tigre (Nordelta), San Miguel, José C. Paz, Malvinas Argentinas, Moreno, Merlo, La Matanza sur, Quilmes, Berazategui, Florencio Varela, Alte. Brown, E. Echeverría, Ezeiza | $8.210 | **$8.900** |
+| **Muy lejana** | **Pilar**, Escobar, Del Viso, Derqui, Garín, Villa Rosa, Ing. Maschwitz, Gral. Rodríguez, Luján, Campana, Zárate, Marcos Paz, Cañuelas, San Vicente, Guernica, La Plata, Berisso, Ensenada | $9.580 | **$10.400** |
+
+> ⚠️ **Lo que se le cobra al cliente NO es el costo: es costo ÷ 0,93.** Pago Nube se lleva su 7% también sobre el envío, así que cargar el costo exacto en Tiendanube **da pérdida en cada pedido**. La cuenta y los redondeos, en `envios-amba.md` sección 3.
 
 **Pilar está en la zona más cara**, igual que con Smart Post. Por eso las entregas de Pilar se siguen haciendo con **reparto propio**: por Flexit cada pedido de Pilar daría pérdida. **CABA es la zona más barata y la más rentable para vender.**
 

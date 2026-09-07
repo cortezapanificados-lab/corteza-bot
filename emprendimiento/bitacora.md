@@ -2,6 +2,31 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 07/09/2026 (7) — Flexit aumentó 4,6% y aparece un error caro en las zonas cargadas
+
+Juan pasó las tarifas actualizadas que le mandó Flexit y la captura de cómo quedaron cargadas en Tiendanube.
+
+**El aumento es del 4,6% parejo en las cuatro zonas:** CABA $4.356 → **$4.560**, Media $6.102 → **$6.385**, Lejana $7.848 → **$8.210**, Muy lejana $9.157 → **$9.580**. *(El tarifario de Flexit es mensual: este salto de un mes al otro es la referencia de a qué ritmo se mueve. **Hay que pedirlo todos los meses.**)*
+
+> ### 🔥 El hallazgo: los precios cargados dan pérdida en cada pedido
+>
+> En la tienda quedaron cargados **los costos de Flexit tal cual** ($4.560 / $6.385 / $8.210 / $9.580). **Pago Nube se lleva su 7% también sobre el envío**, así que de $4.560 cobrados entran $4.241: **−$319 en cada pedido de CABA**, y con 30 pedidos son ~$9.500 al mes regalados.
+>
+> **Y los precios viejos tampoco alcanzan ya.** Cobrando $4.700 con el costo nuevo entran $4.371 contra $4.560: **−$189**. Con el aumento del 4,6%, **las cuatro zonas quedaron en rojo**: −$189 / −$247 / −$305 / −$373.
+>
+> **La fórmula es costo ÷ 0,93, no el costo.** Precios corregidos: **$4.900 / $6.900 / $8.900 / $10.400.**
+
+**Lo que NO cambia, y conviene saberlo:** los **umbrales de envío sin cargo** aguantan el aumento sin tocarse. Los pisos de rentabilidad quedan en $12.032 / $16.847 / $21.662 / $25.277, holgadamente por debajo de los umbrales de $18.000 / $24.000 / $28.000 / $32.000. **La oferta al cliente sigue igual.**
+
+**Lo que sí se movió en los números:**
+- Envío promedio ponderado: $6.058 → **$6.340**.
+- **Septiembre** con 30 pedidos: de +$54.620 a **+$46.160** antes de publicidad. El equilibrio del mes pasa de 18 a **20 pedidos**.
+- **Octubre**, primer mes con el mínimo corriendo: los 120 envíos pasan de $726.960 a **$760.740**. El equilibrio pasa a **50 pedidos al mes** (11,5 por jueves).
+
+**Y refuerza algo que ya estaba decidido:** Pilar por Flexit ahora costaría $9.580 contra $8.974 de margen del pedido promedio. **La brecha se agrandó** — el reparto propio no era una preferencia, era la única cuenta que cierra.
+
+---
+
 ## 07/09/2026 (6) — El pan árabe es sin levado, y de ahí sale una regla de redacción
 
 Juan aclaró algo que parecía un detalle y ordena toda la comunicación de producto: **el pan árabe no lleva masa madre porque no lleva levado.** No usa otro fermento — no usa ninguno, no lo necesita.

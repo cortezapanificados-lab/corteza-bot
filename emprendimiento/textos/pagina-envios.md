@@ -48,10 +48,10 @@ El pan que llega a tu mesa el jueves salió del horno ese mismo día.
 
 | Zona | Envío | Sin cargo |
 |---|---|---|
-| **CABA** (toda la ciudad) | $4.700 | **desde $18.000** |
-| **Zona Norte y GBA cercano**<br>San Isidro, Beccar, Martínez, Acassuso, Vicente López, San Fernando, San Martín, Tres de Febrero, Morón, Hurlingham, Ituzaingó, Avellaneda, Lanús, Lomas de Zamora | $6.600 | **desde $24.000** |
-| **GBA norte y sur**<br>Tigre, Nordelta, San Miguel, José C. Paz, Malvinas Argentinas, Moreno, Merlo, Quilmes, Berazategui, Florencio Varela, Alte. Brown, Esteban Echeverría, Ezeiza | $8.500 | **te bonificamos $3.000 desde $28.000** |
-| **Zona extendida**<br>Escobar, Del Viso, Garín, Maschwitz, Gral. Rodríguez, Luján, Campana, Zárate, Marcos Paz, Cañuelas, San Vicente, La Plata | $9.900 | **te bonificamos $3.000 desde $32.000** |
+| **CABA** (toda la ciudad) | $4.900 | **desde $18.000** |
+| **Zona Norte y GBA cercano**<br>San Isidro, Beccar, Martínez, Acassuso, Vicente López, San Fernando, San Martín, Tres de Febrero, Morón, Hurlingham, Ituzaingó, Avellaneda, Lanús, Lomas de Zamora | $6.900 | **desde $24.000** |
+| **GBA norte y sur**<br>Tigre, Nordelta, San Miguel, José C. Paz, Malvinas Argentinas, Moreno, Merlo, Quilmes, Berazategui, Florencio Varela, Alte. Brown, Esteban Echeverría, Ezeiza | $8.900 | **te bonificamos $3.000 desde $28.000** |
+| **Zona extendida**<br>Escobar, Del Viso, Garín, Maschwitz, Gral. Rodríguez, Luján, Campana, Zárate, Marcos Paz, Cañuelas, San Vicente, La Plata | $10.400 | **te bonificamos $3.000 desde $32.000** |
 | **Pilar** | **sin cargo** | **desde $18.000** |
 
 *El costo exacto se calcula solo en el carrito cuando ponés tu dirección.*
@@ -98,4 +98,5 @@ Sí, en Pilar. Escribinos y coordinamos.
 - **Lo de la segunda y tercera visita sin costo** es una condición real de Flexit y **conviene decirlo**: es de las pocas cosas que tranquilizan a alguien que compra pan fresco por internet por primera vez.
 - **"Pedís el lunes, comés pan del jueves"** es la línea que más trabaja de toda la página. Sirve también para Instagram y para el anuncio de Meta.
 - **La tabla de zonas está escrita para el cliente, no para vos.** Los nombres de las zonas son los comerciales ("Zona Norte", "GBA norte y sur"), no los de Flexit ("Media", "Lejana"). Las tarifas sí son las de la tabla de `pendientes.md`.
-- **Cuando cambien las tarifas de Flexit** (son mensuales), esta página hay que actualizarla junto con las zonas de Tiendanube.
+- **Cuando cambien las tarifas de Flexit** (son mensuales), esta página hay que actualizarla junto con las zonas de Tiendanube. **Ya pasó una vez: el 07/09 subieron 4,6% de un mes al otro.** Los precios de la tabla son los del tarifario del 07/09/2026.
+- **Recordá la fórmula:** lo que se cobra es **costo ÷ 0,93**, no el costo. Pago Nube se lleva su 7% también sobre el envío.

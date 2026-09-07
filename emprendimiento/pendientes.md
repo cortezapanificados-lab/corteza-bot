@@ -85,13 +85,15 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 - [ ] **Caja de presentación de ~$16.100** con envío sin cargo (la Promo de $28.900 es mucho para un primer pedido en CABA)
 - [ ] **Suscripción**: Plan Casa quincenal $48.100 y Plan Semana $96.200. **No ofrecer plan semanal chico** — el flete (4,33 envíos/mes = $16.969) se lo come. Objetivo: 30% de los clientes de CABA suscriptos.
 - [ ] 🔧 **EN CURSO (07/09): configurar las zonas de envío en Tiendanube con las zonas y tarifas de FLEXIT.** Juan lo está cargando. **Pilar va con envío sin cargo, sin excepciones — reparto propio.**
+  - 🔥 **CORREGIR LO QUE YA ESTÁ CARGADO.** Juan cargó los costos de Flexit tal cual ($4.560 / $6.385 / $8.210 / $9.580). **Pago Nube se lleva el 7% también sobre el envío**, así que cargar el costo exacto da pérdida en cada pedido (−$319 en CABA, ~$9.500 al mes con 30 pedidos). **Los precios correctos son costo ÷ 0,93, redondeados: $4.900 / $6.900 / $8.900 / $10.400.**
+  - ✅ **Los umbrales de envío sin cargo no cambian** con el aumento del 4,6%: siguen $18.000 / $24.000 / $28.000 / $32.000.
 
   | Zona Flexit | Cobrar | Envío sin cargo |
   |---|---:|---|
-  | **Cercana** (todo CABA) | **$4.700** | sin cargo desde **$18.000** |
-  | **Media** (San Isidro, Beccar, Martínez, Acassuso, Vicente López, San Fernando, Gral. San Martín, Tres de Febrero, Morón, Hurlingham, Ituzaingó, Avellaneda, Lanús, Lomas de Zamora, La Matanza norte) | **$6.600** | sin cargo desde **$24.000** |
-  | **Lejana** (Tigre/Nordelta, San Miguel, José C. Paz, Malvinas Arg., Moreno, Merlo, La Matanza sur, Quilmes, Berazategui, F. Varela, Alte. Brown, E. Echeverría, Ezeiza) | **$8.500** | bonificar **$3.000** desde **$28.000** |
-  | **Muy lejana** (Escobar, Del Viso, Derqui, Garín, Villa Rosa, Maschwitz, Gral. Rodríguez, Luján, Campana, Zárate, Marcos Paz, Cañuelas, San Vicente, Guernica, La Plata, Berisso, Ensenada) | **$9.900** | bonificar **$3.000** desde **$32.000** |
+  | **Cercana** (todo CABA) | **$4.900** | sin cargo desde **$18.000** |
+  | **Media** (San Isidro, Beccar, Martínez, Acassuso, Vicente López, San Fernando, Gral. San Martín, Tres de Febrero, Morón, Hurlingham, Ituzaingó, Avellaneda, Lanús, Lomas de Zamora, La Matanza norte) | **$6.900** | sin cargo desde **$24.000** |
+  | **Lejana** (Tigre/Nordelta, San Miguel, José C. Paz, Malvinas Arg., Moreno, Merlo, La Matanza sur, Quilmes, Berazategui, F. Varela, Alte. Brown, E. Echeverría, Ezeiza) | **$8.900** | bonificar **$3.000** desde **$28.000** |
+  | **Muy lejana** (Escobar, Del Viso, Derqui, Garín, Villa Rosa, Maschwitz, Gral. Rodríguez, Luján, Campana, Zárate, Marcos Paz, Cañuelas, San Vicente, Guernica, La Plata, Berisso, Ensenada) | **$10.400** | bonificar **$3.000** desde **$32.000** |
   | **Pilar** (reparto propio, NO va por Flexit) | — | sin cargo desde **$18.000** |
 
   **Lo nuevo y lo que hay que aprovechar: San Isidro–Beccar–Acassuso ahora tiene envío sin cargo desde $24.000**, por debajo del ticket promedio. Es la zona #1 del ranking de publicidad. Vale la pena decirlo en los anuncios.

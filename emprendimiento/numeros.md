@@ -73,7 +73,7 @@ El detalle producto por producto está en `tabla-margenes.md` y en el Excel.
 
 Septiembre queda con **un único despacho de AMBA**. El objetivo son **30 pedidos ese día**, y **Flexit cobra solo los envíos despachados** — el mínimo de 120 se ajusta a los días de despacho del mes.
 
-> ⚠️ **Ojo con octubre**, que es el primer mes normal: tiene **5 jueves** y ahí el mínimo sí corre completo. Son 120 envíos = **$726.960 de flete fijo**, o sea **24 pedidos por jueves solo para no pagar envíos fantasma**. El equilibrio de octubre son **49 pedidos** (11,2 por jueves) — la tabla de la sección 3.
+> ⚠️ **Ojo con octubre**, que es el primer mes normal: tiene **5 jueves** y ahí el mínimo sí corre completo. Son 120 envíos = **$760.740 de flete fijo** (con el tarifario del 07/09), o sea **24 pedidos por jueves solo para no pagar envíos fantasma**. El equilibrio de octubre son **50 pedidos** (11,5 por jueves).
 
 **Con 30 pedidos a $28.000 de ticket:**
 
@@ -81,15 +81,15 @@ Septiembre queda con **un único despacho de AMBA**. El objetivo son **30 pedido
 |---|---:|
 | Facturación | $840.000 |
 | Contribución (37,9%) | $318.360 |
-| Flete (30 × $6.058) | −$181.740 |
+| Flete (30 × $6.340) | −$190.200 |
 | Costos fijos del mes | −$82.000 |
-| **Resultado antes de publicidad** | **+$54.620** |
+| **Resultado antes de publicidad** | **+$46.160** |
 
-**El equilibrio de septiembre así calculado son 18 pedidos.** Con 30 el mes cierra en positivo, aunque ajustado: el margen real de un despacho único es chico porque los $82.000 de fijos se reparten entre un solo día.
+**El equilibrio de septiembre son 20 pedidos** *(recalculado el 07/09 con el envío promedio de $6.340: Flexit actualizó las tarifas 4,6%)*. Con 30 el mes cierra en positivo, aunque ajustado: el margen real de un despacho único es chico porque los $82.000 de fijos se reparten entre un solo día.
 
 *(La cuenta es conservadora: no computa lo que se le cobra de envío a los pedidos que quedan bajo el umbral de envío sin cargo. Tampoco incluye los pedidos de Pilar, que van por reparto propio y no pagan flete.)*
 
-**Si además corrés el test de Meta de $120.000**, septiembre da **−$65.380**. Eso está bien y es lo esperable: la publicidad del mes de lanzamiento es inversión en la lista, no gasto del despacho. Lo que hay que mirar no es ese número, es **el costo por anotado**.
+**Si además corrés el test de Meta de $120.000**, septiembre da **−$73.840**. Eso está bien y es lo esperable: la publicidad del mes de lanzamiento es inversión en la lista, no gasto del despacho. Lo que hay que mirar no es ese número, es **el costo por anotado**.
 
 > ✅ **El mínimo de 120 no corre en septiembre.** Juan lo confirmó el 07/09: al haber un solo día de envío, Flexit cobra solo los pedidos despachados. El mínimo mensual empieza a aplicar con la operación normal, desde octubre.
 

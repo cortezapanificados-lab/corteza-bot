@@ -23,12 +23,16 @@
 
 ## 2. Lo que te cuesta cada envío
 
-| Zona | Sin IVA (tarifario) | **Costo real (IVA 10,5%)** |
+*Actualizadas por Flexit el 07/09/2026: subieron **4,6% parejo** en las cuatro zonas.*
+
+| Zona | Costo anterior | **Costo real (IVA 10,5%)** |
 |---|---:|---:|
-| **Cercana (CABA)** | $3.942,10 | **$4.356** |
-| **Media** | $5.522,10 | **$6.102** |
-| **Lejana** | $7.102,10 | **$7.848** |
-| **Muy lejana** | $8.287,10 | **$9.157** |
+| **Cercana (CABA)** | $4.356 | **$4.560** |
+| **Media** | $6.102 | **$6.385** |
+| **Lejana** | $7.848 | **$8.210** |
+| **Muy lejana** | $9.157 | **$9.580** |
+
+> **El tarifario de Flexit es mensual.** Este aumento del 4,6% en un mes es la referencia de a qué ritmo se mueve: **hay que pedir el tarifario nuevo todos los meses y rehacer esta tabla y la de abajo.**
 
 **Sigue valiendo la regla vieja: CABA es tu zona más barata y la más rentable para vender.** Y tu propia ciudad, Pilar, sigue siendo la banda más cara.
 
@@ -84,13 +88,24 @@ Pago Nube se lleva su comisión de **todo** lo que cobrás, envío incluido. Si 
 
 | Zona | Costo real | Exacto (÷0,93) | **A cobrar** |
 |---|---:|---:|---:|
-| **Cercana (CABA)** | $4.356 | $4.684 | **$4.700** |
-| **Media** | $6.102 | $6.561 | **$6.600** |
-| **Lejana** | $7.848 | $8.439 | **$8.500** |
-| **Muy lejana** | $9.157 | $9.847 | **$9.900** |
-| **Pilar** (reparto propio) | — | — | ver sección 5 |
+| **Cercana (CABA)** | $4.560 | $4.903 | **$4.900** |
+| **Media** | $6.385 | $6.866 | **$6.900** |
+| **Lejana** | $8.210 | $8.828 | **$8.900** |
+| **Muy lejana** | $9.580 | $10.301 | **$10.400** |
+| **Pilar** (reparto propio) | — | — | **sin cargo** |
 
 Redondeados para arriba, así queda un colchoncito.
+
+> ⚠️ **El error que hay que evitar: cargar el costo de Flexit tal cual como precio de envío.** Pago Nube se lleva el 7% también sobre el envío, así que de $4.560 cobrados te entran $4.241 y **perdés $319 en cada pedido**. Con 30 pedidos son ~$9.500 al mes regalados.
+>
+> **Y los precios viejos tampoco alcanzan ya**: cobrando $4.700 con el costo nuevo te entran $4.371 contra $4.560 de costo — **$189 de pérdida por envío**. Las cuatro zonas quedaron en rojo con el aumento del 4,6%:
+>
+> | Zona | Cobrando el precio viejo | Resultado |
+> |---|---:|---:|
+> | Cercana | $4.700 | **−$189** |
+> | Media | $6.600 | **−$247** |
+> | Lejana | $8.500 | **−$305** |
+> | Muy lejana | $9.900 | **−$373** |
 
 > ⚠️ **Queda una inconsistencia sin resolver:** `perfil.md` y `numeros.md` dicen que Pago Nube cobra **7%**, la versión vieja de este archivo usaba **6%**. Acá está calculado con **7%**, que es el número del modelo vigente y además el más conservador: si al final resulta ser 6%, te quedan unos $50 de más por envío y no al revés. **Chequealo en una liquidación real de Pago Nube.**
 
@@ -104,10 +119,12 @@ Calculados con el **margen efectivo real del 37,9%** (45,9% de margen bruto en p
 
 | Zona | Costo | Piso (ganás cero) |
 |---|---:|---:|
-| Cercana (CABA) | $4.356 | $11.493 |
-| Media | $6.102 | $16.100 |
-| Lejana | $7.848 | $20.707 |
-| Muy lejana | $9.157 | $24.162 |
+| Cercana (CABA) | $4.560 | $12.032 |
+| Media | $6.385 | $16.847 |
+| Lejana | $8.210 | $21.662 |
+| Muy lejana | $9.580 | $25.277 |
+
+✅ **Los umbrales de envío sin cargo NO cambian con el aumento del 4,6%**: los pisos siguen holgadamente por debajo de $18.000 / $24.000 / $28.000 / $32.000. **La tabla de umbrales queda como está.**
 
 **Los pisos bajaron mucho respecto de la tabla vieja**, y no por Flexit: la tabla anterior estaba calculada con un margen del 24% que era una estimación desactualizada. Con el margen real de 37,9% podés ser bastante más generoso con el envío.
 
@@ -158,6 +175,8 @@ Es el número que decide si aprieta comprar o abandona el carrito:
 
 *(Calculado con el envío promedio de $6.058, mezcla 40% CABA / 30% Media / 20% Lejana / 10% Muy lejana.)*
 
+> 🔄 **Actualizado el 07/09**: con las tarifas nuevas el envío promedio pasa a **$6.340**. La tabla de arriba queda ~4,6% corrida hacia arriba; el mínimo de 120 pasa a costar **$760.740 al mes** en vez de $726.960.
+
 ### Lo que esto le hace al punto de equilibrio
 
 El mínimo mensual es, en los hechos, **un costo fijo nuevo de $726.993 por mes** — casi nueve veces los $82.000 que tenías. Eso mueve el equilibrio:
@@ -185,7 +204,7 @@ El mínimo mensual es, en los hechos, **un costo fijo nuevo de $726.993 por mes*
 |---|---:|
 | Ticket promedio en Pilar | $23.677 |
 | Margen efectivo (37,9%) | **$8.974** |
-| Flete de Flexit a Pilar (Muy lejana) | **−$9.157** |
+| Flete de Flexit a Pilar (Muy lejana) | **−$9.580** |
 | **Te queda** | **−$183** |
 
 **Un pedido de Pilar despachado por Flexit *fuera del cupo* te da pérdida.** Y cobrárselo al cliente tampoco funciona: $9.900 sobre un pedido de $23.677 es un **42% de recargo para que le lleven el pan a diez cuadras**. El vecino de Pilar sabe que sos de Pilar; no lo va a pagar.
