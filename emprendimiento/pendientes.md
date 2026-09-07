@@ -1,14 +1,26 @@
 # Pendientes
 
-Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
+Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Última revisión: 07/09/2026.
 
 ---
 
-## 🚀 LANZAMIENTO: jueves 17 de septiembre — plan completo en `plan-lanzamiento.md`
+## 🚀 LANZAMIENTO: jueves 24 de septiembre — plan completo en `plan-lanzamiento.md`
 
-**Regla que no se negocia:** no lanzar el 17 con menos de 100 anotados. Si no se llega, correr al 24/9.
+> ### 📅 Decidido el 07/09/2026: la fecha pasa del 17 al **jueves 24/9**
+>
+> Las dos semanas previas quedaron sin avanzar (ni influencers ni test de Meta) y salir el 17 era abrir a medias. **Septiembre queda con un solo día de envío.**
+>
+> **El objetivo dejó de ser "150 anotados": ahora son 30 pedidos en el despacho del 24.** El mínimo mensual de 120 de Flexit no se persigue este mes; se trabaja sobre el supuesto de que se paga solo lo despachado. Con 30 pedidos el mes cierra en positivo (+$54.620 antes de publicidad) y el equilibrio son 18. Cuenta completa en `numeros.md` sección 3 bis.
 
-> 🔄 **Revisado el 28/08 con el mínimo de Flexit (120 por mes en vez de 30 por despacho):** la regla se **relaja pero no se cae**. Ya no hace falta juntar 30 pedidos para el día 1 — el mínimo se cuenta sobre el mes entero. Lo que sí hace falta: **~50 pedidos en el primer mes para no perder plata, y 120 para que el flete salga lo que dice el tarifario.** ⚠️ **Antes de aflojar la regla hay que saber cómo se cuenta septiembre**, que arrancando el 17 tiene solo dos despachos.
+### El calendario que queda
+
+| Cuándo | Qué |
+|---|---|
+| **Miércoles 16/9** | Avisar a toda la lista: "abrimos el jueves 24" |
+| **Lunes 21/9, 14:00** | Cierra el primer pedido |
+| Lunes 21/9 a la mañana | Recordatorio a la lista |
+| Miércoles 23/9 | Recepción de mercadería + packaging para 40 pedidos |
+| **Jueves 24/9** | **PRIMER DESPACHO A TODO AMBA** |
 
 ### Semana 1 (10-16 ago) — la máquina de anotados
 
@@ -20,29 +32,18 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
 - [ ] Cargar las respuestas rápidas de WhatsApp: `/caba`, `/cierre`, `/envio` (textos en `textos/captura-lista-caba.md`)
 - [ ] Poner la historia en **destacadas**, con sticker de link y tapa (`textos/tapa-destacada.png`)
 - [x] ~~🔥🔥 **LOGÍSTICA EN RIESGO — Smart Post dejó de responder otra vez (26/08).**~~ → ✅ **RESUELTO 28/08: la logística del AMBA es FLEXIT.** Tarifas y zonas ya cargadas en `perfil.md` y `envios-amba.md`. Smart Post queda descartado. **Lo que sigue abierto está abajo.**
-- [ ] 📌 **Contexto de la decisión (para no perderlo).** Plan completo en `logistica-alternativas.md`. Se trabaja en dos vías al mismo tiempo:
-  - [x] ~~**Vía A — recuperarlos.**~~ → **26/08: hecho por dos canales.** Juan escribió por Instagram a @smartpost.logistica y volvió a llenar el formulario de la web como si fuera cliente nuevo. **Fecha de corte: viernes 28/8** — si no contestan, dejan de ser el plan principal.
-  - [x] ~~**Flexit cotizó y se cerró con ellos (28/08)**~~ → ✅ **primera cotización real por escrito, y la elegida.** Análisis completo en `propuesta-flexit.md`. Empata en precio con Smart Post y **gana en San Isidro/Beccar/Acassuso y en Nordelta**, que son las zonas del ranking. **Pero falta lo eliminatorio.** Lo que hay que hacer ahora:
-    - [x] ~~Panificados a temperatura ambiente~~ → ✅ **28/08: Flexit lo sabe y lo acepta.**
-    - [x] ~~Volumen mínimo~~ → ✅ **28/08: 120 envíos por MES**, no 30 por despacho. **Es la condición que Smart Post nunca dio.** ⚠️ Pero mueve el punto de equilibrio de 8 a **49 pedidos por mes (11,2 por jueves)** — ver `numeros.md` y `envios-amba.md` sección 5.
-    - [x] ~~¿Por envío o por bulto?~~ → ✅ **28/08: POR PEDIDO, con las 2 bolsas incluidas.** ⭐ Era el riesgo más grande de toda la operación y salió bien: **las tarifas cargadas son las definitivas.** Refuerza que **subir el ticket es la mejor palanca**: con flete plano, cada peso extra en esas dos bolsas es casi ganancia pura.
-    - [ ] **Preguntarle a Flexit qué pasa con un pedido de 3 bolsas.** Juan entendió "hasta dos" como mínimo garantizado, no como tope. Importa para el **Plan Semana ($96.200)**, los **pedidos de barrio** en countries y cualquier pedido grande.
-    - [ ] 🔥 **PREGUNTARLE A FLEXIT: ¿cómo se cuenta el primer mes del mínimo de 120?** Arrancando el 17/9, septiembre tiene solo dos despachos (17 y 24): si el mínimo corre completo, harían falta 60 pedidos por jueves desde el día uno. Preguntar también **si hay tope máximo**.
-    - [ ] **Repreguntar el resto**: colecta en Pilar (horario y costo — les figura como zona Muy lejana), barrios cerrados, franja horaria e integración con Tiendanube. Texto listo en `propuesta-flexit.md` sección 10.
-    - [ ] 📦 **Decidir el packaging del AMBA** *(ya no es urgente: el flete quedó resuelto, no cambia los números).* Quedan dos razones, de calidad y de marca: **una bolsa camiseta no protege el pan** cuando viaja apilado en una camioneta con paquetes de otros, y **no representa a la marca** en pedidos de $28.000 que van a CABA y San Isidro con influencers mirando. En Pilar, con entrega en mano, no hay problema. Se resuelve barato: una bolsa impresa propia, o una caja liviana con las dos bolsas adentro. **Definirlo antes del 17/9, pero no bloquea nada.**
-    - [x] ~~Confirmar condición fiscal~~ → ✅ **28/08: Corteza es monotributista.** El IVA del flete es costo puro, así que **el 10,5% en efectivo es un ahorro real de ~$74.837 al mes** (a 30 envíos por jueves). Pago mensual, no semanal.
-    - [ ] 🔥 **Consulta al contador, dos preguntas en una:** (1) ¿el 10,5% en efectivo está bien o conviene factura completa al 21%? (2) **¿hasta cuándo te alcanza el monotributo?** Con 30 pedidos por jueves facturarías ~$3,6 millones por mes (más de $43M al año) y eso puede sacarte de la categoría. **Si pasás a responsable inscripto, el IVA se vuelve crédito fiscal y el descuento del 10,5% deja de valer.**
-    - [ ] **Preguntarle a Flexit el tope de responsabilidad por bulto perdido o dañado.** Es lo que respalda un reclamo, no la factura. Tus cajas valen ~$28.000.
-    - [x] ~~Forma de pago~~ → ✅ **28/08: el total en efectivo, una vez por mes.**
-    - [ ] Chequear el **tope de extracción del banco**: el piso son ~$727.000 mensuales (120 envíos), en un solo retiro.
-  - [ ] **Vía B — cotizar en paralelo.** Encargo listo para Claude in Chrome en `textos/encargo-claude-chrome-logistica.md`: escribirle a **10 empresas** (Flexit, GT Pack, Welivery, BNZ Express, Fixy, Falco, DAR, Envíopack, clicOH, Moova). Al terminar, cargar las respuestas en la tabla de estado de `logistica-alternativas.md`.
-  - [ ] **Cotizar aparte la vuelta de Pilar** con un cadete o moto local (18 entregas juntas). Ninguna empresa del AMBA resuelve Pilar barato.
-  - **Lo que hay que mirar primero de cada respuesta:** ¿aceptan panificados a temperatura ambiente? ¿el same day cubre todo el AMBA o solo CABA? ¿cobran por peso volumétrico? ¿tienen volumen mínimo? Todo lo demás es secundario.
-  - 💡 **Cómo se pregunta importa:** no decir "alimentos frescos" sino **"panificados a temperatura ambiente, sin cadena de frío ni congelados"**. Muchas logísticas tienen un rechazo automático a "fresco" pensando en carne y lácteos.
-  - ⚠️ **Flexit dice no tener volumen mínimo.** Si eso se confirma y el precio cierra, **se cae la regla de los 150 anotados** y el lanzamiento del 17/9 deja de depender de llenar la lista. Ver sección 7 de `logistica-alternativas.md`.
-  - ✅ **Resuelto por el mapa de Flexit (28/08):** **Beccar y Acassuso** son San Isidro → zona Media ($6.102 con IVA 10,5%); **Nordelta** es Tigre → zona Lejana ($7.848); **Pilar** → Muy lejana ($9.157). *Son las zonas de Flexit, no las de Smart Post.*
-  - ⚠️ **Pilar da pérdida con logística tercerizada:** el flete de Flexit ($9.157) supera el margen del pedido promedio de Pilar ($8.974). **El cadete local dejó de ser una opción: es la única salida.**
-  - **Preguntas viejas que siguen sin respuesta** y ahora van dentro del pliego a todos: que no cobran IVA por escrito, horario de colecta en Pilar, y en qué cordón caen Nordelta, Beccar y Acassuso.
+- [x] ~~**Logística del AMBA: FLEXIT.**~~ → ✅ **cerrado el 28/08, condiciones confirmadas el 07/09.** Análisis completo en `propuesta-flexit.md`; tarifas y zonas en `perfil.md` y `envios-amba.md`. Smart Post descartado.
+
+  **Todo lo que se confirmó:** panificados a temperatura ambiente ✅ · tarifa **por pedido, no por bulto** ✅ · **un pedido de 3 bolsas cuenta como uno** ✅ · **colecta en Pilar incluida** en el precio ✅ · **barrios cerrados: entrega en la guardia** ✅ · pago **del total en efectivo, IVA 10,5%, una vez por mes** ✅ · el banco **no tiene tope de extracción** ✅ · mínimo de **120 envíos por mes**.
+
+  - [ ] ⚠️ **Lo único de plata que queda sin confirmar por escrito: cómo se cuenta el mínimo de 120 en un mes con un solo despacho.** Juan opera sobre el supuesto de que en septiembre paga solo lo despachado. **Si Flexit cobrara los 120 igual, la diferencia son ~$545.000 en el mes.** Un mensaje de WhatsApp antes del 24 lo cierra.
+  - [ ] **Preguntar si hay tope máximo de envíos por mes.** No urgente: importa cuando el volumen crezca, porque pasado el mínimo cada pedido extra es contribución casi pura.
+  - [ ] ⏸️ **Consulta al contador — postergada por decisión de Juan (07/09).** Eran dos: si el 10,5% en efectivo conviene sobre la factura al 21% (ya decidido: se paga en efectivo al 10,5%), y hasta cuándo alcanza el monotributo. Ver el ítem de monotributo en Prioridad 1.
+  - [ ] 📦 **Decidir el packaging del AMBA** *(no bloquea, pero conviene antes del 24/9)*. No es un tema de plata: el flete es plano por pedido. Es de **calidad y de marca** — una bolsa camiseta no protege el pan viajando apilado en una camioneta compartida, y no representa a Corteza en un pedido de $28.000 que va a CABA o San Isidro con influencers mirando. En Pilar, con entrega en mano, no hay problema. Se resuelve barato: una bolsa impresa propia, o una caja liviana con las dos bolsas adentro.
+  - [ ] **Pedir el tarifario nuevo de Flexit todos los meses.** Son tarifas mensuales alineadas a los envíos Flex de MercadoLibre.
+
+- [x] ~~**Vía B — cotizar 10 logísticas en paralelo.**~~ → **cerrada el 07/09**: con Flexit confirmado en todas sus condiciones, la búsqueda de alternativas deja de tener sentido. El encargo queda archivado en `textos/encargo-claude-chrome-logistica.md` por si alguna vez hay que volver a salir a cotizar.
+  - 💡 **Lo que conviene no perder de ahí:** no se dice "alimentos frescos" sino **"panificados a temperatura ambiente, sin cadena de frío ni congelados"** — muchas logísticas rechazan de entrada por la primera frase. Y las dos preguntas eliminatorias van primero: restricción para frescos, y si el same day cubre todo el AMBA o solo CABA.
 
 ### Semana 2 (17-23 ago) — armar la tienda
 
@@ -54,14 +55,14 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
   - [ ] **Chequear si "Marcelo Salvatore" y "Marcelo S." son la misma persona.** Si lo son, dejá una sola: dos reseñas del mismo cliente restan credibilidad.
   - [x] ~~Que el link de Instagram apunte a la destacada "Ustedes"~~ → **DESCARTADO 19/08.** Instagram no da un link público a una destacada que le sirva a alguien que no tiene la app abierta: cae en un muro de login. **Y ya no hace falta**: era la red de seguridad por si no llegaban 4 reseñas escritas, y llegaron 6. El link al perfil se queda como está. Si algún día querés esas historias en la web, la salida es **capturarlas y subirlas como imágenes** a la página.
 - [ ] **Instalar la app nativa "Opiniones de productos"** (Panel → Aplicaciones, gratis). Es **otra cosa** que el formulario de la página: pone estrellas y comentarios **en cada ficha de producto**, al lado del precio, que es donde la persona decide comprar. **Al instalarla, repartí las 6 reseñas que ya tenés** en el producto que menciona cada una: el pan de molde y las prepizzas a sus fichas, el centeno a la suya.
-- [ ] 🔥 **Countries y barrios cerrados: la entrega es en la guardia** *(confirmado 19/08)*. Cambia dos cosas y hay que resolverlas antes del 17/9:
+- [ ] 🔥 **Countries y barrios cerrados: la entrega es en la guardia** *(confirmado 19/08)*. Cambia dos cosas y hay que resolverlas antes del 24/9:
   - [ ] **Decirlo en la ficha de envío, antes de que el cliente pague**: *"En barrios cerrados entregamos en la guardia."* Si se entera después, es un reclamo seguro — pan fresco esperando horas en una garita.
   - [ ] **Avisar al cliente el día del despacho** para que lo retire el mismo jueves. Es el mensaje que evita el 90% de los problemas.
   - [ ] Empujar el **"pedido de barrio"** en countries: varios pedidos que caen juntos en la misma guardia se retiran mejor y bajan el flete.
   - **Consecuencia para el ranking de zonas:** refuerza a **San Isidro–Martínez–Acassuso–Beccar** (casas de calle, entrega en la puerta) por encima de **Nordelta** (todo cerrado, todo por garita). Nordelta ya perdía por $1.931 de flete; ahora suma la garita. **Pilar no cambia: ahí el reparto es propio.**
 - [ ] **Caja de presentación de ~$16.100** con envío sin cargo (la Promo de $28.900 es mucho para un primer pedido en CABA)
 - [ ] **Suscripción**: Plan Casa quincenal $48.100 y Plan Semana $96.200. **No ofrecer plan semanal chico** — el flete (4,33 envíos/mes = $16.969) se lo come. Objetivo: 30% de los clientes de CABA suscriptos.
-- [ ] 🔥 **Configurar las zonas de envío en Tiendanube con las zonas y tarifas de FLEXIT** *(actualizado 28/08 — reemplaza los cordones de Smart Post, que ya no van)*:
+- [ ] 🔧 **EN CURSO (07/09): configurar las zonas de envío en Tiendanube con las zonas y tarifas de FLEXIT.** Juan lo está cargando. **Pilar va con envío sin cargo, sin excepciones — reparto propio.**
 
   | Zona Flexit | Cobrar | Envío sin cargo |
   |---|---:|---|
@@ -72,18 +73,18 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
   | **Pilar** (reparto propio, NO va por Flexit) | — | sin cargo desde **$18.000** |
 
   **Lo nuevo y lo que hay que aprovechar: San Isidro–Beccar–Acassuso ahora tiene envío sin cargo desde $24.000**, por debajo del ticket promedio. Es la zona #1 del ranking de publicidad. Vale la pena decirlo en los anuncios.
-  ~~⏸️ Frenado hasta cerrar logística~~ — con Flexit las zonas y los precios son otros (tabla en `propuesta-flexit.md` sección 9), y hasta que no esté resuelto el peso volumétrico la tarifa puede cambiar. ⚠️ Además hay que unificar la comisión de Pago Nube: `envios-amba.md` usa 6%, `perfil.md` y `numeros.md` dicen 7%.
+  ✅ **Las tarifas son definitivas** (por pedido, con las 2 bolsas incluidas y la colecta adentro del precio). ⚠️ Queda un detalle de la memoria a unificar: la comisión de Pago Nube figura al 6% en `envios-amba.md` y al 7% en `perfil.md` y `numeros.md`.
 - [ ] Activar la barrita de "te faltan $X para el envío sin cargo"
-- [ ] **Contactar 15 micro-influencers** de alimentación consciente de CABA. Mejor canal de retorno: la caja de canje cuesta $13.500 reales, y si trae 3 clientes el CAC es $4.500. ⚠️ **No puede pasar de la semana del 24**: tienen que publicar la semana del 14/9 y la semana 3 ya carga el test de Meta.
+- [ ] 🔥 **Contactar 15 micro-influencers** de alimentación consciente de CABA. Mejor canal de retorno: la caja de canje cuesta $13.500 reales, y si trae 3 clientes el CAC es $4.500. ⚠️ **Con la fecha en el 24/9 tienen que publicar la semana del 21/9: hay que contactarlos esta semana y mandar las cajas de canje la que viene.** Es lo más atrasado de todo el plan.
 - [ ] Cargar las fichas nuevas: **kéfir de agua** (tradicional e hibiscus) y las **dos líneas de Booch Kombucha**. Textos escritos el 14/08. **Falta el costo de cada uno** para calcular margen.
 - [x] ~~Reescribir la página **"Sobre Corteza"**~~ → ✅ **19/08**, Juan la rehízo porque no lo convencía. **Leída y verificada**: la curaduría queda clara ("recorremos, probamos y elegimos"), explica masa madre y agroecológico, y cierra con "hoy entregamos en Pilar, los jueves; pronto en todo el AMBA" — sin fecha, como corresponde. URL real: `/sobrecorteza/`.
 - [x] ~~Cambiar las fotos que no gustaban de la **página de inicio**~~ → ✅ **19/08**
-- [ ] **Mirar la tienda entera desde el celular**, como la va a ver alguien de CABA que nunca escuchó la marca: inicio → producto → carrito. Es el único chequeo que queda antes de que empiece a llegar tráfico pago el 31/8.
+- [ ] **Mirar la tienda entera desde el celular**, como la va a ver alguien de CABA que nunca escuchó la marca: inicio → producto → carrito. Es el chequeo que hay que hacer **antes de largar el test de Meta**, no después: si algo se rompe ahí, la plata de los anuncios se tira.
 
 ### Semana 3 (24-30 ago) — cerrar influencers y probar Meta
 
 - [ ] Cerrar 10 influencers, que publiquen la semana del 14/9
-- [ ] **Test de Meta, $120.000 en tres conjuntos de $40.000**: San Isidro-Martínez / Palermo-Villa Crespo-Colegiales-Belgrano / Nordelta (pin + 3 km). Mismo anuncio con el nombre de la zona cambiado. **No más de 3 zonas a la vez**: con más, Meta no sale de la fase de aprendizaje. Ver `zonas-amba-ranking.md`.
+- [ ] 🔥 **Test de Meta, $120.000 en tres conjuntos de $40.000** *(debía arrancar el 31/8; largándolo ahora quedan ~2 semanas de aprendizaje antes del 24)*: San Isidro-Martínez / Palermo-Villa Crespo-Colegiales-Belgrano / Nordelta (pin + 3 km). Mismo anuncio con el nombre de la zona cambiado. **No más de 3 zonas a la vez**: con más, Meta no sale de la fase de aprendizaje. Ver `zonas-amba-ranking.md`.
 - [ ] **Programar los anuncios de viernes a lunes 14:00** (70% viernes-domingo, 20% lunes hasta el cierre). Un anuncio visto un martes convierte mucho peor: el cliente tiene que esperar 9 días.
 - [ ] **Medir el costo por anotado.** Es el dato que define todo lo que sigue.
 
@@ -91,15 +92,15 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
 
 - [ ] Si el costo por anotado cierra, meter $200.000 más en el conjunto ganador y apagar el que peor rinde
 - [ ] Enviar las cajas de canje
-- [ ] **Avisar a toda la lista: "abrimos el jueves 17"** (miércoles 9/9) y el recordatorio del lunes 14 a la mañana
-- [ ] Confirmar con proveedores la entrega del miércoles 16 y comprar packaging para 40 pedidos
+- [ ] **Avisar a toda la lista: "abrimos el jueves 24"** (miércoles 16/9) y el recordatorio del lunes 21 a la mañana
+- [ ] Confirmar con proveedores la entrega del miércoles 23 y comprar packaging para 40 pedidos
 - [ ] Pedirle reseña a cada cliente del primer despacho
 
 **Decidido el 18/08:** el formulario de captura **no se reemplaza** por venta directa. La preventa con entrega el 17/9 se suma **como extra desde el 1/9**, cuando se sepa si se llega a los 100 anotados. Motivo: vender ya elimina la salida de correr el lanzamiento al 24/9, y "dejá tu contacto" convierte mucho más que "pagá hoy, recibí en 30 días".
 
-**Decidido el 18/08:** en Pilar **no se avisa nada** sobre costos de envío por ahora — ni que es gratis ni que va a tener costo. Se retoma después del 31/8, con las reseñas ya publicadas y el costo del reparto propio calculado.
+~~**Decidido el 18/08:** en Pilar no se avisa nada sobre costos de envío por ahora.~~ → **Resuelto el 07/09: en Pilar el envío sigue sin cargo y con reparto propio de Juan.** No hay nada que avisar ni que cambiar para el lanzamiento.
 
-**El número de cada domingo:** 33 anotados por semana → 66 el 24/8 · 100 el 31/8 · 133 el 7/9 · **150 el 14/9**.
+~~**El número de cada domingo:** 33 anotados por semana → 66 el 24/8 · 100 el 31/8 · 133 el 7/9 · 150 el 14/9.~~ → **reemplazado el 07/09.** Con un solo despacho en septiembre, el número a seguir ya no es la lista sino **los 30 pedidos del jueves 24/9**.
 
 ---
 
@@ -110,15 +111,13 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
   - [ ] **Fines de septiembre**, si no hubo acuerdo: contactar a un abogado marcario o agente de PI (es **obligatorio** para la etapa de contestación). Los argumentos ya están escritos en `marca-inpi.md`.
   - Recordatorio automático del 22/10 **verificado y activo** el 18/08.
 
-- [ ] 🔥 **DECISIÓN ABIERTA: quién reparte en Pilar.** Juan no quiere seguir haciéndolo él *(19/08)*. Análisis completo en `envios-amba.md`. Resumen: dárselo a Smart Post a lo bruto cuesta **$147.528 al mes** y se come el 91% del margen del pedido promedio, porque **Pilar es Cordón 3 ($8.196), la banda más cara** — las zonas se miden desde CABA, no desde tu puerta. Tres caminos, no excluyentes:
-  - [ ] **Ya mismo, gratis: meter Pilar en los lugares vacíos del mínimo de 30.** Pagás 30 envíos por despacho los uses o no. Si el AMBA trae 22, los 8 lugares libres se llenan con Pilar sin costo extra. Arranca cubriendo todo Pilar y va cediendo a medida que crece el AMBA.
-  - [ ] **Pedir presupuesto a un cadete o moto de Pilar** para la vuelta de los jueves. 18 entregas juntas en la misma ciudad tienen que costar mucho menos que $8.196 cada una. **Es la opción más prometedora y todavía no se cotizó.**
-  - [ ] Solo si las dos anteriores fallan: Smart Post a Pilar cobrándole el envío al cliente. **Es un 35% de recargo sobre el ticket promedio** para una entrega dentro de la misma ciudad; esperá rechazo.
-- [ ] **Por escrito de Smart Post: que no cobran IVA** (el PDF dice lo contrario)
-- [ ] **Horario de colecta** en la dirección de Pilar (el PDF sugiere 13:00 para zonas lejanas)
+- [x] ~~🔥 **DECISIÓN ABIERTA: quién reparte en Pilar.**~~ → ✅ **Decidido el 07/09: sigue repartiendo Juan, y el envío en Pilar se mantiene sin cargo.** No se toca nada para el lanzamiento: ni tarifa al cliente ni comunicación. **Los pedidos de Pilar no consumen envíos de Flexit** (van por reparto propio), así que el AMBA tiene que llenar su cupo solo.
+  - [ ] **Postergado, no cerrado: cotizar un cadete o moto local** para la vuelta de los jueves (18 entregas juntas en la misma ciudad). Se retoma cuando el volumen del AMBA haga que la vuelta no entre más en el día.
+  - [ ] **Postergado: estimar el costo real del reparto propio** (nafta, horas, desgaste). Sin ese número no se puede comparar contra el cadete.
+
 - [ ] **¿Los $20.000 del envío del proveedor son por mes o por viaje?** Está cargado como mensual; si fuera por viaje, los fijos pasan de $82.000 a $148.600.
 - [ ] Confirmar que los proveedores pueden entregar los miércoles con el volumen necesario
-- [ ] **Hablar con el contador por el monotributo** — con $51M anuales proyectados se sale del régimen. En agosto, no en diciembre.
+- [ ] ⏸️ **Monotributo: postergado por decisión de Juan (07/09).** Se resuelve cuando haya que resolverlo, no antes. Queda anotado el porqué, para el día que aparezca: con 30 pedidos por jueves la facturación proyectada supera los $43M anuales y saca del régimen; **si pasás a responsable inscripto el IVA se vuelve crédito fiscal y el descuento del 10,5% en efectivo deja de valer.** Revisarlo cuando el volumen se sostenga arriba de ~20 pedidos por jueves.
 
 ---
 
@@ -143,7 +142,7 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
 - [ ] Al lanzar AMBA: actualizar la última línea de "Sobre Corteza" y la logística en la tienda
 - [x] ~~**Unificar el texto de medios de pago**~~ → **aparentemente resuelto**: al 19/08 el inicio dice "Tarjetas de débito, crédito o transferencia". **Confirmar una cosa: ¿se sigue aceptando efectivo en Pilar?** Si sí, falta nombrarlo.
 - [ ] **Reescribir la comunicación con "harinas 100% agroecológicas" de titular**, no la masa madre: en CABA la masa madre no diferencia.
-- [ ] 🔥 **Reescribir el título y la descripción del inicio.** Al 19/08 están en el texto que viene por defecto: *"Tienda Online de Corteza — Comprá productos de Corteza por internet. Tenemos promo lanzamiento, panes y más"*. **Eso es exactamente lo que ve alguien en Google y lo que aparece cuando se pega el link en WhatsApp.** No dice ni masa madre ni agroecológico. Se arregla en Panel → Mi Tiendanube → Configuración → SEO. Propuesta: *"Corteza — Pan de masa madre y harinas 100% agroecológicas"* / *"Elegimos a los mejores panaderos artesanales y te llevamos el pan a tu casa. Entregas los jueves en Pilar."* **Antes del 31/8**, que es cuando empieza el tráfico pago.
+- [ ] 🔥 **Reescribir el título y la descripción del inicio.** Al 19/08 están en el texto que viene por defecto: *"Tienda Online de Corteza — Comprá productos de Corteza por internet. Tenemos promo lanzamiento, panes y más"*. **Eso es exactamente lo que ve alguien en Google y lo que aparece cuando se pega el link en WhatsApp.** No dice ni masa madre ni agroecológico. Se arregla en Panel → Mi Tiendanube → Configuración → SEO. Propuesta: *"Corteza — Pan de masa madre y harinas 100% agroecológicas"* / *"Elegimos a los mejores panaderos artesanales y te llevamos el pan a tu casa. Entregas los jueves en Pilar."* **Antes de largar el test de Meta**, que es cuando empieza a llegar tráfico pago.
 
 ---
 
@@ -174,7 +173,7 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
 ## 🔁 Recordatorios periódicos
 
 - **Cada mes**: pedidos por despacho (¿llegamos a 30?), ticket promedio, costo por cliente nuevo, % de pagos por transferencia.
-- **Cada 3 meses**: revisar los umbrales de envío. Smart Post ajusta siguiendo a MercadoLibre.
+- **Cada mes**: pedirle a Flexit el tarifario nuevo — son tarifas mensuales alineadas a los envíos Flex de MercadoLibre — y recalcular los umbrales de envío sin cargo.
 
 ---
 
@@ -185,4 +184,5 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026.
 - **Lista de precios**: aplicada y verificada el 10/08. No hacen falta más aumentos — techo de margen neto 37,9%; la palanca es volumen (24 pedidos por jueves para el 30% neto).
 - **Viajes al proveedor**: consolidados al pasar a entregar solo los jueves, de $260.000 a $86.600 mensuales.
 - **Volumen actual**: 4,2 pedidos/semana, ticket $23.677 (`diagnostico-ventas.md`).
-- **Fecha de lanzamiento**: jueves 17/9, y resultó ser también la mejor financieramente (2 despachos, cero envíos fantasma).
+- **Fecha de lanzamiento**: **jueves 24/9** (movida desde el 17 el 07/09). Septiembre queda con un solo despacho y el objetivo son 30 pedidos ese día.
+- **Logística del AMBA**: Flexit, con todas las condiciones confirmadas. Pilar sigue con reparto propio de Juan y envío sin cargo.

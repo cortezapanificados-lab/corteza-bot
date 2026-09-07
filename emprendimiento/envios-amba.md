@@ -173,7 +173,7 @@ El mínimo mensual es, en los hechos, **un costo fijo nuevo de $726.993 por mes*
 
 1. **Los pedidos de Pilar entran a completar el cupo.** Si el mes viene con 95 pedidos de AMBA, quedan **25 lugares pagados vacíos**: ahí metés los pedidos de Pilar y **te salen gratis**. Es el mismo truco que se pensó con Smart Post, pero **mucho mejor**, porque se calcula sobre el mes y no sobre cada jueves suelto. **Regla: Pilar viaja por Flexit hasta completar los 120; el resto lo repartís vos.**
 2. **La regla de "no lanzar con menos de 100 anotados" se relaja, pero no desaparece.** Ya no necesitás 30 el día 1: necesitás ~50 en el primer mes para no perder, y 120 para estar cómodo.
-3. ⚠️ **Preguntá cómo se cuenta el primer mes.** Si arrancás el **jueves 17/9**, en septiembre hay solo **dos despachos** (17 y 24). Si el mínimo de 120 corre igual sobre septiembre completo, **necesitarías 60 pedidos por jueves desde el día uno**, que es imposible. **Preguntá si el primer mes es proporcional o si el conteo arranca en el primer despacho.** Es la pregunta más urgente de todas junto con la del bulto.
+3. ⚠️ **El primer mes: septiembre tiene UN solo despacho.** Con el lanzamiento movido al **jueves 24/9**, septiembre queda con un único despacho. **Juan decidió operar sobre el supuesto de que se paga solo lo despachado** (objetivo: 30 pedidos ese día). Con ese supuesto, septiembre cierra en positivo desde los 18 pedidos — cuenta completa en `numeros.md` sección 3 bis. **Sigue sin estar por escrito**, y la exposición si Flexit cobrara los 120 igual son ~$545.000. Vale pedirlo por WhatsApp antes del 24.
 
 **Y preguntá también si hay tope máximo.** Con Smart Post no lo había, y eso era importante: pasado el mínimo, cada pedido extra es contribución casi pura.
 
@@ -192,9 +192,13 @@ El mínimo mensual es, en los hechos, **un costo fijo nuevo de $726.993 por mes*
 
 **Pero dentro del cupo de 120 es distinto: ahí el envío ya está pagado y el pedido de Pilar viaja gratis.** Esa es la única forma en que Pilar entra a Flexit.
 
-> **Igual sigue faltando cotizar un cadete o moto local** para los jueves en que el cupo ya está lleno. Ninguna logística del AMBA resuelve Pilar: para todas es zona periférica.
+> ### ✅ Decidido el 07/09/2026: en Pilar reparte Juan, y el envío sigue sin cargo
 >
-> **Y falta el número que decide:** cuánto te cuesta hoy el reparto propio (nafta + horas + desgaste). Nunca se calculó.
+> Para el lanzamiento, **Pilar se mantiene con reparto propio y envío sin cargo**, como hasta ahora. No se toca nada: ni tarifa al cliente, ni comunicación.
+>
+> **Qué implica:** los pedidos de Pilar **no consumen** envíos de Flexit ni cuentan para el mínimo de 120. El AMBA tiene que llenar el cupo por su cuenta.
+>
+> **Lo que queda postergado, no cerrado:** cotizar el cadete o moto local, y calcular cuánto cuesta realmente el reparto propio (nafta + horas + desgaste). Se retoma cuando el volumen del AMBA haga que la vuelta de los jueves no entre más en el día.
 
 ---
 
@@ -221,14 +225,17 @@ El mínimo mensual es, en los hechos, **un costo fijo nuevo de $726.993 por mes*
 
 ## 8. Lo que falta confirmar
 
-1. 🔥 **¿Cómo se cuenta el primer mes del mínimo de 120?** Arrancando el 17/9 hay solo dos despachos en septiembre. **Es la única pregunta urgente que queda.**
-2. **¿Un pedido de 3 bolsas sigue siendo un solo envío?**
-3. **¿Hay tope máximo de envíos por mes?**
-4. **Horario y costo de la colecta en Pilar.**
-6. **Tope de responsabilidad por bulto perdido o dañado.**
-7. **Si integran con Tiendanube** y si la integración cotiza sola en el checkout.
-8. **Si la factura cubre el total que se paga**, o solo una parte.
-9. **Comisión real de Pago Nube: ¿6% o 7%?** Y si se aplica sobre producto + envío o solo sobre el producto.
-10. **Costo real del reparto propio en Pilar.**
-10. ✅ ~~Panificados a temperatura ambiente~~ → **confirmado: Flexit lo sabe y lo acepta.**
-11. ✅ ~~¿Por envío o por bulto?~~ → **confirmado: por pedido, con las 2 bolsas incluidas.**
+1. ⚠️ **Cómo se cuenta el mínimo de 120 en un mes con un solo despacho.** Único punto de plata sin confirmar por escrito. Exposición: ~$545.000.
+2. **¿Hay tope máximo de envíos por mes?** Importa recién cuando el volumen crezca: pasado el mínimo, cada pedido extra es contribución casi pura.
+3. **Si integran con Tiendanube** y si la integración cotiza sola en el checkout.
+4. **Comisión real de Pago Nube: ¿6% o 7%?** Y si se aplica sobre producto + envío o solo sobre el producto. *(Discrepancia interna de la memoria, no es una pregunta a Flexit.)*
+5. **Costo real del reparto propio en Pilar** (nafta + horas + desgaste). Postergado: Juan sigue repartiendo él.
+
+### ✅ Cerrados
+
+- ~~Panificados a temperatura ambiente~~ → **Flexit lo sabe y lo acepta** *(28/08)*.
+- ~~¿Por envío o por bulto?~~ → **por pedido, con las 2 bolsas incluidas** *(28/08)*.
+- ~~¿Un pedido de 3 bolsas sigue siendo un solo envío?~~ → **sí, cuenta como uno** *(07/09)*.
+- ~~Horario y costo de la colecta en Pilar~~ → **incluida en las tarifas** *(07/09)*.
+- ~~Tope de responsabilidad por bulto~~ → **decisión de Juan: no se pregunta hasta que pase algo** *(07/09)*.
+- ~~Si la factura cubre el total~~ → **se paga en efectivo al 10,5%, decidido** *(07/09)*.

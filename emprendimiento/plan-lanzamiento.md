@@ -1,10 +1,26 @@
-# Plan de lanzamiento — jueves 17 de septiembre de 2026
+# Plan de lanzamiento — jueves 24 de septiembre de 2026
 
 *Armado el 10/08/2026. Este documento reemplaza a `plan-agosto.md` como plan operativo.*
 
+> ## 📅 ACTUALIZADO el 07/09/2026 — la fecha pasó al jueves 24/9
+>
+> Juan movió el primer envío a todo AMBA del 17 al **jueves 24 de septiembre**. Motivo: las dos semanas previas quedaron sin avanzar (ni influencers ni test de Meta), y salir el 17 era abrir a medias.
+>
+> **Todo lo que sigue en este documento está escrito para el 17/9 y quedó corrido una semana.** El calendario y el objetivo válidos son estos:
+>
+> | Cuándo | Qué |
+> |---|---|
+> | **Miércoles 16/9** | Avisar a toda la lista: "abrimos el jueves 24" |
+> | **Lunes 21/9, 14:00** | Cierra el primer pedido |
+> | Lunes 21/9 a la mañana | Recordatorio a la lista |
+> | Miércoles 23/9 | Recepción de mercadería |
+> | **Jueves 24/9** | **PRIMER DESPACHO** |
+>
+> **El objetivo dejó de ser "150 anotados": ahora son 30 pedidos en el despacho del 24.** Septiembre tiene un solo día de envío, así que el mínimo mensual de 120 de Flexit ya no se persigue este mes — la cuenta completa está en `numeros.md` sección 3 bis.
+
 ---
 
-## 1. La fecha: jueves 17 de septiembre
+## 1. La fecha: jueves 17 de septiembre *(reemplazada por el 24/9 — ver el recuadro de arriba)*
 
 Tu fecha tope resultó ser la mejor financieramente. Septiembre tiene 4 jueves (3, 10, 17, 24), así que **lanzando el 17 quedan solo 2 despachos en el mes.**
 

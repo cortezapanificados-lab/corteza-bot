@@ -15,7 +15,10 @@
 > - ✅ **Mínimo: 120 envíos por MES**, no 30 por despacho. **Es la condición que Smart Post nunca dio.** Pero no es "sin mínimo": mueve el punto de equilibrio de 8 a 49 pedidos por mes. Análisis en `envios-amba.md` sección 5 y en `numeros.md`.
 > - ✅ **Pago del total en efectivo, una vez por mes.**
 > - ✅ **La tarifa es POR PEDIDO, no por bulto.** Cada pedido va en 2 bolsas camiseta de ~2 kg y **las dos entran en un solo envío**. ⭐ **Es la condición que hace que el AMBA cierre**: si hubiera sido por bulto, el flete se duplicaba y no cerraba en ninguna zona salvo CABA. **Las tarifas de este documento son las definitivas.**
-> - 🔥 **La única pregunta urgente que queda: ¿cómo se cuenta el primer mes del mínimo?** Arrancando el 17/9 hay solo dos despachos en septiembre; si el mínimo de 120 corre igual, harían falta 60 pedidos por jueves desde el día uno.
+> - ✅ **Un pedido de 3 bolsas cuenta como un solo envío** *(07/09)*. No hay tope de bultos.
+> - ✅ **La colecta en Pilar está incluida** en las tarifas de este documento *(07/09)*.
+> - ✅ **Barrios cerrados: se entrega en la guardia** *(07/09)*.
+> - ⚠️ **Lo único sin confirmación escrita: cómo se cuenta el mínimo de 120 en un mes con un solo despacho.** Con el lanzamiento movido al **24/9**, septiembre tiene un único despacho. Juan trabaja sobre el supuesto de que paga solo lo despachado; **si Flexit cobrara los 120 igual, son ~$545.000 de diferencia en el mes.** Conviene tenerlo por escrito antes del 24.
 
 ---
 

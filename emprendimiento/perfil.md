@@ -34,7 +34,13 @@ Lo que incluye Flexit: **segunda y tercera visita sin costo adicional**, same-da
 
 **Consecuencia directa: subir el ticket es la mejor palanca del negocio.** Con flete plano por pedido, cada peso extra que entre en esas dos bolsas es casi ganancia pura.
 
-⚠️ **Falta confirmar**: cómo se cuenta el primer mes del mínimo (arrancando el 17/9 hay solo dos despachos en septiembre), si un pedido de **3 bolsas** sigue siendo un solo envío, si hay tope máximo de envíos, el horario y costo de la colecta en Pilar y el tope de responsabilidad por bulto.
+**Confirmado el 07/09/2026:**
+- **Un pedido de 3 bolsas sigue siendo un solo envío.** No hay tope de bultos por pedido. Habilita el Plan Semana ($96.200) y los pedidos de barrio sin recargo de flete.
+- **La colecta en Pilar está incluida** en los precios de la tabla. No hay costo extra por retirar.
+- **Barrios cerrados: la entrega es en la guardia.** Es la operatoria aceptada.
+- **El pago es en efectivo con IVA al 10,5%**, una vez por mes. El banco no tiene tope de extracción.
+
+⚠️ **Lo único que sigue sin confirmación escrita de Flexit: cómo se cuenta el mínimo de 120 en un mes con un solo despacho.** Juan trabaja con el supuesto de que en septiembre paga solo los envíos despachados (ver `numeros.md` sección 3 bis). Si Flexit cobrara los 120 igual, la diferencia son ~$545.000 en el mes.
 
 **Las tarifas son mensuales** y están alineadas a los envíos Flex de MercadoLibre: hay que pedir el tarifario nuevo todos los meses.
 

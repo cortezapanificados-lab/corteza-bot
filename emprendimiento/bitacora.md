@@ -2,6 +2,32 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 07/09/2026 — El lanzamiento pasa al 24/9 y Flexit queda cerrado en todos sus puntos
+
+Juan volvió después de dos semanas sin poder avanzar y tomó siete decisiones que destraban casi todo lo que estaba abierto.
+
+**1. El primer envío a todo AMBA es el jueves 24 de septiembre, no el 17.** Las dos semanas previas quedaron sin ejecutar (ni los influencers ni el test de Meta), y salir el 17 era abrir a medias. **Septiembre queda con un solo día de envío.**
+
+**2. El objetivo dejó de ser la lista de anotados: ahora son 30 pedidos en el despacho del 24.** Con un solo despacho, el mínimo mensual de 120 de Flexit no se persigue este mes. La regla de "no lanzar con menos de 100 anotados" se retira: era una consecuencia del mínimo de 30 por despacho de Smart Post, que ya no existe.
+
+**La cuenta de septiembre** (30 pedidos, ticket $28.000, pagando solo lo despachado): contribución $318.360 − flete $181.740 − fijos $82.000 = **+$54.620 antes de publicidad**. El equilibrio del mes son **18 pedidos**. Con el test de Meta de $120.000 el mes da −$65.380, que es lo esperable: la publicidad del lanzamiento es inversión en la lista, y lo que hay que mirar es el costo por anotado. Detalle en `numeros.md` sección 3 bis.
+
+> ⚠️ **El único supuesto que no está por escrito es justamente el que sostiene la cuenta:** que en un mes con un solo despacho Flexit cobra los envíos despachados y no los 120 del mínimo. **Si cobraran los 120 igual, septiembre daría −$490.600.** La diferencia entre los dos escenarios es de **$545.220** — vale un mensaje de WhatsApp antes del 24.
+
+**3. En Pilar sigue repartiendo Juan, y el envío se mantiene sin cargo.** No se toca nada para el lanzamiento. **Consecuencia operativa que conviene tener presente: los pedidos de Pilar no consumen envíos de Flexit**, así que no ayudan a llenar el cupo de 120 — el AMBA tiene que llenarlo solo. Cotizar el cadete local y calcular el costo del reparto propio quedan postergados, no cerrados: se retoman cuando el volumen del AMBA haga que la vuelta de los jueves no entre más en el día.
+
+**4. Se paga en efectivo con IVA al 10,5%, y el monotributo se posterga.** Decisión explícita: ocuparse cuando haya que ocuparse. Queda anotado el porqué para el día que aparezca — arriba de ~$43M anuales se sale del régimen, y como responsable inscripto el IVA pasa a ser crédito fiscal y el descuento del 10,5% deja de valer. El banco no tiene tope de extracción, así que el retiro mensual en efectivo no es un problema.
+
+**5. Flexit quedó cerrado en todos sus puntos:** un pedido de **3 bolsas cuenta como un solo envío** (no hay tope de bultos, así que el Plan Semana y los pedidos de barrio no tienen recargo de flete), **la colecta en Pilar está incluida** en las tarifas que ya están cargadas, y **en barrios cerrados se entrega en la guardia**. El tope de responsabilidad por bulto no se pregunta por ahora, por decisión de Juan: si pasa algo, se ve.
+
+**6. Se cierra la Vía B.** Con Flexit confirmado en todo, dejar de tener sentido cotizar las otras nueve logísticas. El encargo queda archivado por si alguna vez hay que volver a salir.
+
+**7. Las zonas de envío se están cargando en Tiendanube** con las tarifas de Flexit, mientras se escribía esto.
+
+**Lo que queda y ahora es lo urgente:** los **15 micro-influencers** (tienen que publicar la semana del 21/9, o sea que se contactan esta semana), el **test de Meta**, el **SEO del inicio** —que sigue con el texto por defecto de Tiendanube y es lo que ve Google y lo que aparece al pegar el link en WhatsApp—, el aviso a la lista del **miércoles 16**, y el packaging del AMBA antes del 24.
+
+---
+
 ## 28/08/2026 — Flexit cobra por pedido, no por bulto: el riesgo grande quedó cerrado
 
 Juan confirmó que **la tarifa de Flexit es por pedido y que las 2 bolsas camiseta van incluidas en un solo envío.**
