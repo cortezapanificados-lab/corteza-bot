@@ -124,11 +124,44 @@ Calculados con el **margen efectivo real del 37,9%** (45,9% de margen bruto en p
 | Lejana | $8.210 | $21.662 |
 | Muy lejana | $9.580 | $25.277 |
 
-✅ **Los umbrales de envío sin cargo NO cambian con el aumento del 4,6%**: los pisos siguen holgadamente por debajo de $18.000 / $24.000 / $28.000 / $32.000. **La tabla de umbrales queda como está.**
+> ## 🔴 CORREGIDO EL 07/09/2026 — el piso NO es el umbral
+>
+> **Los umbrales de $18.000 / $24.000 estaban mal, y el error era de criterio, no de cuenta.** Se venía usando el **piso de rentabilidad** (costo ÷ 0,379, el punto donde ganás cero) como si fuera el umbral. Son dos cosas distintas: el piso dice *dónde empezás a no perder*; el umbral tiene que decir *a partir de dónde te conviene regalar el envío*.
+>
+> **Los dos motivos por los que $18.000 estaba mal:**
+>
+> **1. Está por debajo del ticket promedio ($23.677), así que no empuja nada.** Un umbral solo sirve si el cliente tiene que **agregar algo** para alcanzarlo. Con el umbral abajo del ticket promedio, casi todos los pedidos entran gratis y el mecanismo no hace absolutamente nada: regalás el envío que ibas a regalar igual.
+>
+> **2. Con flete plano y mínimo mensual, cada envío es un recurso escaso.** No pagás por kilo ni por bulto: pagás **por envío**, y tenés 120 al mes que salen igual los uses o no. Entonces la pregunta no es "¿este pedido da positivo?" sino **"¿este pedido justifica gastar uno de mis 120 envíos?"**. Un pedido de $18.000 en CABA deja **$2.262**; uno de $28.000 deja **$6.052** — casi el triple, con el mismo envío.
+>
+> **La regla correcta: el umbral va por encima del ticket promedio, entre 1,2 y 1,4 veces.** Con un ticket de $23.677 eso da entre $28.400 y $33.100.
+>
+> ### Lo que te deja un pedido justo en el umbral, con envío sin cargo
+>
+> | Zona | Con umbral $18.000 | **Con el umbral nuevo** |
+> |---|---:|---:|
+> | CABA | $2.262 | **$6.052** (umbral $28.000) |
+> | Media | $437 | **$4.985** (umbral $30.000) |
+> | Lejana | −$1.388 ❌ | bonificación parcial |
+> | Muy lejana | −$2.758 ❌ | bonificación parcial |
+>
+> **En Lejana y Muy lejana el umbral de $18.000 directamente daba pérdida.**
 
 **Los pisos bajaron mucho respecto de la tabla vieja**, y no por Flexit: la tabla anterior estaba calculada con un margen del 24% que era una estimación desactualizada. Con el margen real de 37,9% podés ser bastante más generoso con el envío.
 
 ### Lo que te propongo ofrecer
+
+> ⚠️ **Reemplazado el 07/09.** La tabla vigente es esta:
+>
+> | Zona | Envío | **Envío sin cargo** | Te deja en el umbral |
+> |---|---:|---|---:|
+> | **Cercana (CABA)** | $4.900 | **desde $28.000** | $6.052 |
+> | **Media** | $6.900 | **desde $30.000** | $4.985 |
+> | **Lejana** | $8.900 | **bonificación de $3.000 desde $32.000** | $9.405 |
+> | **Muy lejana** | $10.400 | **bonificación de $3.000 desde $35.000** | $10.567 |
+> | **Pilar** (reparto propio) | sin cargo | — | — |
+>
+> **El umbral de CABA quedó en $28.000 a propósito: la Promo Lanzamiento sale $28.900.** El producto estrella entra con envío sin cargo justo por arriba del umbral, que es exactamente donde tiene que estar.
 
 | Zona | Qué ofrecer | Cliente paga | Te queda en el umbral |
 |---|---|---:|---:|

@@ -74,7 +74,7 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 
 - [ ] 📄 **Crear la página "Envíos"** *(idea de Juan, 07/09)*. **Texto completo listo para pegar en `textos/pagina-envios.md`**, con título y descripción de SEO. Explica el ciclo (pedís hasta el lunes 14:00 → recibís el jueves), los costos por zona, Pilar, barrios cerrados y las preguntas frecuentes.
   - ⚠️ **No reemplaza a lo de abajo.** Una página de envíos la lee poca gente y casi siempre después de dudar. **El cierre del lunes y el "entregamos en la guardia" tienen que estar igual en la barra de anuncio, en la ficha de producto y en el checkout**, que es donde el cliente decide.
-  - [ ] **Confirmar el umbral de Pilar antes de publicarla**: la memoria dice "sin cargo desde $18.000", pero la decisión del 07/09 fue dejar el envío gratis. **¿Es gratis siempre o desde $18.000?** El texto está escrito con el umbral; si es sin mínimo, hay que sacarlo.
+  - ✅ **Pilar: envío sin cargo, sin mínimo** (reparto propio). Ya está así en el texto.
   - 💡 La línea **"Pedís el lunes, comés pan del jueves"** salió de esta página y sirve igual para Instagram y para el anuncio de Meta.
 
 - [ ] 🔥 **Countries y barrios cerrados: la entrega es en la guardia** *(confirmado 19/08)*. Cambia dos cosas y hay que resolverlas antes del 24/9:
@@ -86,17 +86,17 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 - [ ] **Suscripción**: Plan Casa quincenal $48.100 y Plan Semana $96.200. **No ofrecer plan semanal chico** — el flete (4,33 envíos/mes = $16.969) se lo come. Objetivo: 30% de los clientes de CABA suscriptos.
 - [ ] 🔧 **EN CURSO (07/09): configurar las zonas de envío en Tiendanube con las zonas y tarifas de FLEXIT.** Juan lo está cargando. **Pilar va con envío sin cargo, sin excepciones — reparto propio.**
   - 🔥 **CORREGIR LO QUE YA ESTÁ CARGADO.** Juan cargó los costos de Flexit tal cual ($4.560 / $6.385 / $8.210 / $9.580). **Pago Nube se lleva el 7% también sobre el envío**, así que cargar el costo exacto da pérdida en cada pedido (−$319 en CABA, ~$9.500 al mes con 30 pedidos). **Los precios correctos son costo ÷ 0,93, redondeados: $4.900 / $6.900 / $8.900 / $10.400.**
-  - ✅ **Los umbrales de envío sin cargo no cambian** con el aumento del 4,6%: siguen $18.000 / $24.000 / $28.000 / $32.000.
+  - 🔴 **CORREGIDOS los umbrales de envío sin cargo (07/09).** Estaban puestos en el **piso de rentabilidad** ($18.000 / $24.000), que no es lo mismo que el umbral. **Un umbral por debajo del ticket promedio ($23.677) no empuja a nadie**: regalás el envío que ibas a regalar igual. Y con flete plano, cada envío es uno de los 120 del mínimo: un pedido de $18.000 en CABA deja $2.262, uno de $28.000 deja $6.052. **La regla: entre 1,2 y 1,4 veces el ticket promedio.** Nuevos umbrales: **$28.000 / $30.000 / $32.000 / $35.000**.
 
   | Zona Flexit | Cobrar | Envío sin cargo |
   |---|---:|---|
-  | **Cercana** (todo CABA) | **$4.900** | sin cargo desde **$18.000** |
-  | **Media** (San Isidro, Beccar, Martínez, Acassuso, Vicente López, San Fernando, Gral. San Martín, Tres de Febrero, Morón, Hurlingham, Ituzaingó, Avellaneda, Lanús, Lomas de Zamora, La Matanza norte) | **$6.900** | sin cargo desde **$24.000** |
-  | **Lejana** (Tigre/Nordelta, San Miguel, José C. Paz, Malvinas Arg., Moreno, Merlo, La Matanza sur, Quilmes, Berazategui, F. Varela, Alte. Brown, E. Echeverría, Ezeiza) | **$8.900** | bonificar **$3.000** desde **$28.000** |
-  | **Muy lejana** (Escobar, Del Viso, Derqui, Garín, Villa Rosa, Maschwitz, Gral. Rodríguez, Luján, Campana, Zárate, Marcos Paz, Cañuelas, San Vicente, Guernica, La Plata, Berisso, Ensenada) | **$10.400** | bonificar **$3.000** desde **$32.000** |
-  | **Pilar** (reparto propio, NO va por Flexit) | — | sin cargo desde **$18.000** |
+  | **Cercana** (todo CABA) | **$4.900** | sin cargo desde **$28.000** |
+  | **Media** (San Isidro, Beccar, Martínez, Acassuso, Vicente López, San Fernando, Gral. San Martín, Tres de Febrero, Morón, Hurlingham, Ituzaingó, Avellaneda, Lanús, Lomas de Zamora, La Matanza norte) | **$6.900** | sin cargo desde **$30.000** |
+  | **Lejana** (Tigre/Nordelta, San Miguel, José C. Paz, Malvinas Arg., Moreno, Merlo, La Matanza sur, Quilmes, Berazategui, F. Varela, Alte. Brown, E. Echeverría, Ezeiza) | **$8.900** | bonificar **$3.000** desde **$32.000** |
+  | **Muy lejana** (Escobar, Del Viso, Derqui, Garín, Villa Rosa, Maschwitz, Gral. Rodríguez, Luján, Campana, Zárate, Marcos Paz, Cañuelas, San Vicente, Guernica, La Plata, Berisso, Ensenada) | **$10.400** | bonificar **$3.000** desde **$35.000** |
+  | **Pilar** (reparto propio, NO va por Flexit) | — | **sin cargo** |
 
-  **Lo nuevo y lo que hay que aprovechar: San Isidro–Beccar–Acassuso ahora tiene envío sin cargo desde $24.000**, por debajo del ticket promedio. Es la zona #1 del ranking de publicidad. Vale la pena decirlo en los anuncios.
+  **El umbral de CABA quedó en $28.000 a propósito: la Promo Lanzamiento sale $28.900.** El producto estrella entra con envío sin cargo justo por encima del umbral, que es donde tiene que estar. Es lo que conviene decir en los anuncios.
   ✅ **Las tarifas son definitivas** (por pedido, con las 2 bolsas incluidas y la colecta adentro del precio). ⚠️ Queda un detalle de la memoria a unificar: la comisión de Pago Nube figura al 6% en `envios-amba.md` y al 7% en `perfil.md` y `numeros.md`.
 - [ ] Activar la barrita de "te faltan $X para el envío sin cargo"
 - [ ] 🔥 **Contactar 15 micro-influencers** de alimentación consciente de CABA. Mejor canal de retorno: la caja de canje cuesta $13.500 reales, y si trae 3 clientes el CAC es $4.500. ⚠️ **Con la fecha en el 24/9 tienen que publicar la semana del 21/9: hay que contactarlos esta semana y mandar las cajas de canje la que viene.** Es lo más atrasado de todo el plan.

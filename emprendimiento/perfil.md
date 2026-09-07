@@ -186,7 +186,8 @@ Los vinos son lo más comparable de todo el catálogo: **no tocarlos sin chequea
 
 *(Histórico: hasta el 24/07/2026 el esquema era pedidos hasta el sábado → entrega el martes, y hasta el martes → entrega el viernes. Se unificó todo en el jueves.)*
 - Sin pedido mínimo
-- Envío bonificado según zona (ver `envios-amba.md`): **CABA y Pilar sin cargo desde $18.000; Media sin cargo desde $24.000; Lejana bonificación de $3.000 desde $28.000; Muy lejana bonificación de $3.000 desde $32.000**
+- **Envío sin cargo por zona** *(corregido el 07/09/2026 — ver `envios-amba.md` sección 4)*: **CABA desde $28.000 · Media desde $30.000 · Lejana bonificación de $3.000 desde $32.000 · Muy lejana bonificación de $3.000 desde $35.000 · Pilar sin cargo (reparto propio)**.
+  - ⚠️ **La regla: el umbral va entre 1,2 y 1,4 veces el ticket promedio, NO en el piso de rentabilidad.** Un umbral por debajo del ticket promedio no empuja a nadie a comprar más: regala el envío que ibas a regalar igual. Y con flete plano por pedido, cada envío es uno de los 120 del mínimo mensual — la pregunta no es si el pedido da positivo, sino si justifica gastar un envío.
 
 ## Marca (INPI)
 

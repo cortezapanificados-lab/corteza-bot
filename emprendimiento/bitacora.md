@@ -2,6 +2,36 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 07/09/2026 (8) — Corrección: el piso de rentabilidad no es el umbral de envío sin cargo
+
+Juan frenó el umbral de **$18.000 para envío sin cargo en CABA** y tenía razón. **El error era de criterio, no de cuenta:** se venía usando el **piso de rentabilidad** —costo ÷ 0,379, el punto donde ganás cero— como si fuera el umbral. Son dos cosas distintas. El piso dice *dónde empezás a no perder*; el umbral tiene que decir *a partir de dónde te conviene regalar el envío*.
+
+**Dos motivos por los que $18.000 estaba mal:**
+
+**1. Estaba por debajo del ticket promedio ($23.677), así que no empujaba nada.** Un umbral solo sirve si el cliente tiene que **agregar algo al carrito** para alcanzarlo. Con el umbral abajo del promedio, casi todos los pedidos entran gratis y el mecanismo no hace nada: se regala el envío que se iba a regalar igual.
+
+**2. Con flete plano y mínimo mensual, cada envío es un recurso escaso.** No se paga por kilo ni por bulto: se paga **por envío**, y hay 120 al mes que salen igual se usen o no. La pregunta no es "¿este pedido da positivo?" sino **"¿justifica gastar uno de mis 120 envíos?"**. Un pedido de $18.000 en CABA deja **$2.262**; uno de $28.000 deja **$6.052** — casi el triple, con el mismo envío.
+
+**Y en las dos zonas lejanas el umbral de $18.000 directamente daba pérdida**: −$1.388 en Lejana y −$2.758 en Muy lejana.
+
+> **La regla que queda: el umbral va entre 1,2 y 1,4 veces el ticket promedio.** Con $23.677 de ticket, eso da entre $28.400 y $33.100.
+
+**La tabla corregida:**
+
+| Zona | Envío | Envío sin cargo | Te deja en el umbral |
+|---|---:|---|---:|
+| Cercana (CABA) | $4.900 | **desde $28.000** | $6.052 |
+| Media | $6.900 | **desde $30.000** | $4.985 |
+| Lejana | $8.900 | **bonificación de $3.000 desde $32.000** | $9.405 |
+| Muy lejana | $10.400 | **bonificación de $3.000 desde $35.000** | $10.567 |
+| Pilar | sin cargo (reparto propio) | — | — |
+
+**El umbral de CABA quedó en $28.000 a propósito: la Promo Lanzamiento sale $28.900.** El producto estrella entra con envío sin cargo justo por encima del umbral, que es exactamente donde tiene que estar.
+
+**Se pierde el argumento publicitario de "San Isidro con envío sin cargo desde $24.000"**, que venía del error. Pero era un argumento que costaba plata: cada pedido de esa zona en $24.000 dejaba $2.789 y consumía un envío. El argumento nuevo —la Promo con envío sin cargo— es mejor y además empuja el ticket.
+
+---
+
 ## 07/09/2026 (7) — Flexit aumentó 4,6% y aparece un error caro en las zonas cargadas
 
 Juan pasó las tarifas actualizadas que le mandó Flexit y la captura de cómo quedaron cargadas en Tiendanube.
