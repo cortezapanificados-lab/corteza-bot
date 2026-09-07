@@ -16,11 +16,20 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 
 | Cuándo | Qué |
 |---|---|
-| **Miércoles 16/9** | Avisar a toda la lista: "abrimos el jueves 24" |
-| **Lunes 21/9, 14:00** | Cierra el primer pedido |
-| Lunes 21/9 a la mañana | Recordatorio a la lista |
-| Miércoles 23/9 | Recepción de mercadería + packaging para 40 pedidos |
+| **Miércoles 16/9** | Aviso a toda la lista: **"tenés tiempo hasta el lunes 21 a las 14"** |
+| Jueves 18 a domingo 20 | Los anuncios de Meta corriendo (viernes a domingo es la franja que convierte) |
+| **Lunes 21/9 a la mañana** | Recordatorio: "hoy a las 14 cerramos" |
+| **Lunes 21/9, 14:00** | **Cierra el primer pedido.** A la tarde sale el pedido a los productores |
+| Martes 22 y miércoles 23 | Producen los proveedores. **El packaging ya tiene que estar comprado** |
+| **Jueves 24/9 temprano** | Llega la mercadería, se arman los pedidos con su packaging y se entrega a Flexit |
 | **Jueves 24/9** | **PRIMER DESPACHO A TODO AMBA** |
+
+> 💬 **Cómo se comunica** *(decidido el 07/09, idea de Juan)*: **el titular es el cierre, no la fecha de envío.** "Abrimos el jueves 24" no le pide nada al cliente; **"tenés tiempo hasta el lunes 21 a las 14"** sí. La fecha de entrega va igual, pero abajo, como la promesa que respalda el apuro. Y no es solo para el lanzamiento: **el ciclo se repite todas las semanas**, así que el mensaje del cierre es el mensaje permanente de la marca.
+>
+> Textos:
+> - **Miércoles 16:** *"Ya podés hacer tu pedido en todo AMBA 🌾 Cerramos el lunes 21 a las 14 y entregamos el jueves 24."*
+> - **Lunes 21 a la mañana:** *"Hoy a las 14 cerramos los pedidos de esta semana. Lo que entre después va para el jueves siguiente."*
+> - **Barra de la tienda (permanente):** *"Pedí hasta el lunes 14:00 — entregamos el jueves."*
 
 ### Semana 1 (10-16 ago) — la máquina de anotados
 
@@ -36,7 +45,7 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 
   **Todo lo que se confirmó:** panificados a temperatura ambiente ✅ · tarifa **por pedido, no por bulto** ✅ · **un pedido de 3 bolsas cuenta como uno** ✅ · **colecta en Pilar incluida** en el precio ✅ · **barrios cerrados: entrega en la guardia** ✅ · pago **del total en efectivo, IVA 10,5%, una vez por mes** ✅ · el banco **no tiene tope de extracción** ✅ · mínimo de **120 envíos por mes**.
 
-  - [ ] ⚠️ **Lo único de plata que queda sin confirmar por escrito: cómo se cuenta el mínimo de 120 en un mes con un solo despacho.** Juan opera sobre el supuesto de que en septiembre paga solo lo despachado. **Si Flexit cobrara los 120 igual, la diferencia son ~$545.000 en el mes.** Un mensaje de WhatsApp antes del 24 lo cierra.
+  - [ ] 📅 **Octubre es el primer mes con el mínimo corriendo.** Septiembre no lo paga (un solo despacho, se cobra lo despachado). Octubre tiene 5 jueves: **120 envíos = $726.960 fijos, o sea 24 pedidos por jueves solo para no pagar envíos fantasma.** Es el número que hay que tener en la cabeza saliendo del lanzamiento.
   - [ ] **Preguntar si hay tope máximo de envíos por mes.** No urgente: importa cuando el volumen crezca, porque pasado el mínimo cada pedido extra es contribución casi pura.
   - [ ] ⏸️ **Consulta al contador — postergada por decisión de Juan (07/09).** Eran dos: si el 10,5% en efectivo conviene sobre la factura al 21% (ya decidido: se paga en efectivo al 10,5%), y hasta cuándo alcanza el monotributo. Ver el ítem de monotributo en Prioridad 1.
   - [ ] 📦 **Decidir el packaging del AMBA** *(no bloquea, pero conviene antes del 24/9)*. No es un tema de plata: el flete es plano por pedido. Es de **calidad y de marca** — una bolsa camiseta no protege el pan viajando apilado en una camioneta compartida, y no representa a Corteza en un pedido de $28.000 que va a CABA o San Isidro con influencers mirando. En Pilar, con entrega en mano, no hay problema. Se resuelve barato: una bolsa impresa propia, o una caja liviana con las dos bolsas adentro.
@@ -92,8 +101,8 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 
 - [ ] Si el costo por anotado cierra, meter $200.000 más en el conjunto ganador y apagar el que peor rinde
 - [ ] Enviar las cajas de canje
-- [ ] **Avisar a toda la lista: "abrimos el jueves 24"** (miércoles 16/9) y el recordatorio del lunes 21 a la mañana
-- [ ] Confirmar con proveedores la entrega del miércoles 23 y comprar packaging para 40 pedidos
+- [ ] **Avisar a toda la lista el miércoles 16** con el cierre de titular ("tenés tiempo hasta el lunes 21 a las 14") y el recordatorio del lunes 21 a la mañana. Textos arriba, en el calendario.
+- [ ] **Confirmar con los proveedores que pueden entregar el jueves 24 temprano** con el volumen del lanzamiento, y **comprar el packaging para 40 pedidos antes del lunes 21** — el jueves a la mañana no hay tiempo para nada más que armar.
 - [ ] Pedirle reseña a cada cliente del primer despacho
 
 **Decidido el 18/08:** el formulario de captura **no se reemplaza** por venta directa. La preventa con entrega el 17/9 se suma **como extra desde el 1/9**, cuando se sepa si se llega a los 100 anotados. Motivo: vender ya elimina la salida de correr el lanzamiento al 24/9, y "dejá tu contacto" convierte mucho más que "pagá hoy, recibí en 30 días".

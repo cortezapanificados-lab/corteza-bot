@@ -40,7 +40,7 @@ Lo que incluye Flexit: **segunda y tercera visita sin costo adicional**, same-da
 - **Barrios cerrados: la entrega es en la guardia.** Es la operatoria aceptada.
 - **El pago es en efectivo con IVA al 10,5%**, una vez por mes. El banco no tiene tope de extracción.
 
-⚠️ **Lo único que sigue sin confirmación escrita de Flexit: cómo se cuenta el mínimo de 120 en un mes con un solo despacho.** Juan trabaja con el supuesto de que en septiembre paga solo los envíos despachados (ver `numeros.md` sección 3 bis). Si Flexit cobrara los 120 igual, la diferencia son ~$545.000 en el mes.
+- **El mínimo de 120 se ajusta a los días de despacho del mes.** Confirmado por Juan el 07/09: en un mes con un solo día de envío, Flexit cobra **solo los pedidos despachados** (30 en septiembre), no los 120. El mínimo aplica sobre meses de operación normal.
 
 **Las tarifas son mensuales** y están alineadas a los envíos Flex de MercadoLibre: hay que pedir el tarifario nuevo todos los meses.
 
@@ -161,9 +161,21 @@ Los vinos son lo más comparable de todo el catálogo: **no tocarlos sin chequea
 
 - Zona de entrega: hoy únicamente Pilar; al lanzar, todo el AMBA vía **Flexit**. Pilar queda siempre con reparto propio.
 - Día de entrega: **jueves** (único día, para Pilar y para todo el AMBA).
-- **Cierre de pedidos: lunes 14:00** (ya actualizado en la tienda). El pedido a los proveedores sale el lunes a la tarde y la mercadería llega el miércoles.
 - Horario: de 9 a 17 hs aprox.
-- **Cierre de pedidos** (pan de masa madre, vigente desde el 24/07/2026): pedidos hasta el **sábado** se entregan el **martes**; pedidos hasta el **martes** se entregan el **viernes**. El pan llega el mismo día de entrega.
+
+### El ciclo de la semana *(confirmado por Juan el 07/09/2026)*
+
+| Día | Qué pasa |
+|---|---|
+| **Lunes 14:00** | **Cierra el pedido.** Es el corte de la semana. |
+| **Lunes a la tarde** | Se le manda el pedido a cada productor. |
+| Martes y miércoles | Producen los proveedores. |
+| **Jueves temprano** | **Llega toda la mercadería**, se arma pedido por pedido con su packaging y se entrega a la logística. |
+| **Jueves** | **Entrega**: Flexit al AMBA, reparto propio en Pilar. |
+
+> ⚠️ **El jueves a la mañana es el cuello de botella de la operación**: llega la mercadería, se arman todos los pedidos y sale la colecta, todo el mismo día. Con 30 pedidos es la primera vez que se hace a esa escala. **Tener el packaging comprado y preparado desde antes es lo que descomprime esa mañana.**
+
+*(Histórico: hasta el 24/07/2026 el esquema era pedidos hasta el sábado → entrega el martes, y hasta el martes → entrega el viernes. Se unificó todo en el jueves.)*
 - Sin pedido mínimo
 - Envío bonificado según zona (ver `envios-amba.md`): **CABA y Pilar sin cargo desde $18.000; Media sin cargo desde $24.000; Lejana bonificación de $3.000 desde $28.000; Muy lejana bonificación de $3.000 desde $32.000**
 

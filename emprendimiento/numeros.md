@@ -71,7 +71,9 @@ El detalle producto por producto está en `tabla-margenes.md` y en el Excel.
 
 *Agregado el 07/09/2026, con el lanzamiento movido al **jueves 24/9**.*
 
-Septiembre queda con **un único despacho de AMBA**. El objetivo que se fijó Juan es **30 pedidos ese día**, y la cuenta se hace sobre el supuesto de que **Flexit cobra solo los envíos despachados**, no los 120 del mínimo.
+Septiembre queda con **un único despacho de AMBA**. El objetivo son **30 pedidos ese día**, y **Flexit cobra solo los envíos despachados** — el mínimo de 120 se ajusta a los días de despacho del mes.
+
+> ⚠️ **Ojo con octubre**, que es el primer mes normal: tiene **5 jueves** y ahí el mínimo sí corre completo. Son 120 envíos = **$726.960 de flete fijo**, o sea **24 pedidos por jueves solo para no pagar envíos fantasma**. El equilibrio de octubre son **49 pedidos** (11,2 por jueves) — la tabla de la sección 3.
 
 **Con 30 pedidos a $28.000 de ticket:**
 
@@ -89,7 +91,7 @@ Septiembre queda con **un único despacho de AMBA**. El objetivo que se fijó Ju
 
 **Si además corrés el test de Meta de $120.000**, septiembre da **−$65.380**. Eso está bien y es lo esperable: la publicidad del mes de lanzamiento es inversión en la lista, no gasto del despacho. Lo que hay que mirar no es ese número, es **el costo por anotado**.
 
-> ⚠️ **El supuesto que sostiene todo esto no está por escrito.** Si Flexit cobrara los 120 envíos igual, septiembre serían $726.960 de flete contra $318.360 de contribución: **−$490.600**. La diferencia entre los dos escenarios es de **$545.220**. Vale un mensaje de WhatsApp antes del 24.
+> ✅ **El mínimo de 120 no corre en septiembre.** Juan lo confirmó el 07/09: al haber un solo día de envío, Flexit cobra solo los pedidos despachados. El mínimo mensual empieza a aplicar con la operación normal, desde octubre.
 
 ---
 

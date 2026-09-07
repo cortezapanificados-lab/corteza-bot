@@ -18,7 +18,7 @@
 > - ✅ **Un pedido de 3 bolsas cuenta como un solo envío** *(07/09)*. No hay tope de bultos.
 > - ✅ **La colecta en Pilar está incluida** en las tarifas de este documento *(07/09)*.
 > - ✅ **Barrios cerrados: se entrega en la guardia** *(07/09)*.
-> - ⚠️ **Lo único sin confirmación escrita: cómo se cuenta el mínimo de 120 en un mes con un solo despacho.** Con el lanzamiento movido al **24/9**, septiembre tiene un único despacho. Juan trabaja sobre el supuesto de que paga solo lo despachado; **si Flexit cobrara los 120 igual, son ~$545.000 de diferencia en el mes.** Conviene tenerlo por escrito antes del 24.
+> - ✅ **El mínimo de 120 se ajusta a los días de despacho del mes** *(07/09)*. En septiembre, con un solo día de envío, se pagan solo los pedidos despachados. **El mínimo empieza a correr en octubre**, el primer mes de operación normal.
 
 ---
 

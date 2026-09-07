@@ -10,11 +10,14 @@
 >
 > | Cuándo | Qué |
 > |---|---|
-> | **Miércoles 16/9** | Avisar a toda la lista: "abrimos el jueves 24" |
-> | **Lunes 21/9, 14:00** | Cierra el primer pedido |
-> | Lunes 21/9 a la mañana | Recordatorio a la lista |
-> | Miércoles 23/9 | Recepción de mercadería |
+> | **Miércoles 16/9** | Aviso a la lista: **"tenés tiempo hasta el lunes 21 a las 14"** |
+> | **Lunes 21/9 a la mañana** | Recordatorio: "hoy a las 14 cerramos" |
+> | **Lunes 21/9, 14:00** | Cierra el primer pedido; a la tarde sale el pedido a los productores |
+> | Martes 22 - miércoles 23 | Producen los proveedores (el packaging ya comprado) |
+> | **Jueves 24/9 temprano** | Llega la mercadería, se arman los pedidos y se entregan a Flexit |
 > | **Jueves 24/9** | **PRIMER DESPACHO** |
+>
+> **La comunicación lleva el cierre de titular, no la fecha de envío** (decidido el 07/09): "abrimos el jueves 24" no pide acción; "tenés tiempo hasta el lunes 21 a las 14" sí. Textos en `pendientes.md`.
 >
 > **El objetivo dejó de ser "150 anotados": ahora son 30 pedidos en el despacho del 24.** Septiembre tiene un solo día de envío, así que el mínimo mensual de 120 de Flexit ya no se persigue este mes — la cuenta completa está en `numeros.md` sección 3 bis.
 

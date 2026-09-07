@@ -2,6 +2,27 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 07/09/2026 (2) — El anuncio va con el cierre de titular, no con la fecha de envío
+
+**Idea de Juan, y es mejor que la que estaba en el plan.** El aviso del miércoles 16 iba a ser "abrimos el jueves 24". Él propuso anunciar en cambio que **hay tiempo de pedir hasta el lunes 21 a las 14**, porque el jueves 24 es la primera tanda de envíos.
+
+**Por qué es mejor:** "abrimos el jueves 24" es una noticia, no le pide nada al cliente — y una noticia sin fecha límite se lee y se pospone. **"Tenés tiempo hasta el lunes a las 14" es un vencimiento**, y un vencimiento mueve. La fecha de entrega sigue estando en el mensaje, pero abajo: es la promesa que respalda el apuro, no el titular.
+
+**Y no es solo para el lanzamiento.** El ciclo se repite todas las semanas, así que **el mensaje del cierre es el mensaje permanente de la marca** — el mismo que ya está en la barra de la tienda. El lanzamiento no inventa una comunicación nueva: estrena la de siempre.
+
+Textos que quedaron:
+- **Miércoles 16:** *"Ya podés hacer tu pedido en todo AMBA 🌾 Cerramos el lunes 21 a las 14 y entregamos el jueves 24."*
+- **Lunes 21 a la mañana:** *"Hoy a las 14 cerramos los pedidos de esta semana. Lo que entre después va para el jueves siguiente."*
+- **Barra de la tienda (permanente):** *"Pedí hasta el lunes 14:00 — entregamos el jueves."*
+
+**De paso se corrigió un dato que la memoria tenía mal.** Estaba anotado que la mercadería llegaba **el miércoles**. No es así: **llega el jueves temprano**, y ese mismo día se arman los pedidos con su packaging y se entregan a la logística. El ciclo real quedó cargado en `perfil.md`: lunes 14:00 cierra → lunes a la tarde sale el pedido a los productores → martes y miércoles producen → **jueves temprano llega todo, se arma y se despacha**.
+
+> ⚠️ **Eso deja a la vista el cuello de botella de la operación: el jueves a la mañana.** Llega la mercadería, se arman los 30 pedidos y sale la colecta, todo el mismo día y por primera vez a esa escala. **La forma de descomprimirlo es tener el packaging comprado y preparado desde antes** — no el miércoles, antes.
+
+**Y quedó confirmado el mínimo de Flexit:** en un mes con un solo día de envío se cobran **solo los pedidos despachados**, no los 120. Septiembre no paga mínimo. **El primer mes en que sí corre es octubre**, que tiene 5 jueves: son $726.960 de flete fijo, o sea **24 pedidos por jueves solo para no pagar envíos fantasma.** Es el número que hay que tener en la cabeza saliendo del lanzamiento.
+
+---
+
 ## 07/09/2026 — El lanzamiento pasa al 24/9 y Flexit queda cerrado en todos sus puntos
 
 Juan volvió después de dos semanas sin poder avanzar y tomó siete decisiones que destraban casi todo lo que estaba abierto.
