@@ -1,6 +1,6 @@
 # Cómo se comunican "agroecológico" y "masa madre" en la tienda
 
-*Definido el 07/09/2026. Dato que lo motivó: **todos los panificados llevan harina 100% agroecológica**, pero **la masa madre no es transversal** — es de los panes de campo, los de molde y las prepizzas.*
+*Definido el 07/09/2026. Dato que lo motivó: **todos los panificados llevan harina 100% agroecológica**, pero **la masa madre no es transversal** — es de los panes de campo, los de molde, la hogaza y las prepizzas. El pan árabe, los grisines, los budines, las pepas y las cookies no son de masa madre.*
 
 ---
 
@@ -42,8 +42,10 @@ Dos sellos, mismo diseño, esquina superior: **AGROECOLÓGICO** y **MASA MADRE**
 
 ### 3. Descripción de categoría
 
-- **Panes:** *"Todos de masa madre, todos con harina 100% agroecológica."*
+- **Panes:** *"Harina 100% agroecológica en todos. Los de campo, los de molde y la hogaza, además, de masa madre."* — ver la advertencia de abajo.
 - **Prepizzas y Grisines:** *"Harina 100% agroecológica. Las prepizzas, además, de masa madre."*
+
+⚠️ **Ojo con la categoría "Panes": el pan árabe está adentro y no es de masa madre.** Así que la descripción **no puede decir "todos de masa madre"** salvo que el árabe se mueva a otra categoría. Alternativa segura: *"Harina 100% agroecológica en todos. Los de campo, los de molde y la hogaza, además, de masa madre."*
 - **Repostería:** *"Harina 100% agroecológica."*
 
 ### 4. Un bloque en la página de inicio
@@ -74,8 +76,8 @@ Mucha gente no sabe qué es, y lo que no se entiende no se paga. Alcanza con una
 | Pan de campo integral | **Masa madre · Harina 100% agroecológica** |
 | Pan de campo de centeno | **Masa madre · Harina 100% agroecológica** |
 | Prepizzas x2 | **Masa madre · Harina 100% agroecológica** |
-| Hogaza | ⚠️ **A confirmar** — la memoria la tiene como masa madre |
-| Pan árabe integral x5 | ⚠️ **A confirmar** — la memoria lo tiene como masa madre |
+| Hogaza | **Masa madre · Harina 100% agroecológica** |
+| Pan árabe integral x5 | **Harina 100% agroecológica** |
 | Grisines integrales | **Harina 100% agroecológica** |
 | Budín | **Harina 100% agroecológica** |
 | Pepas integrales | **Harina 100% agroecológica** |

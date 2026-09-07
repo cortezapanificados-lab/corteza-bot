@@ -94,7 +94,7 @@ Cuando se lance, se abre **todo el AMBA de una vez**, no por zonas: como la log�
 | Pan de campo blanco | $7.500 | **$8.600** | masa madre; 500g |
 | Pan de campo integral | $7.500 | **$8.600** | masa madre; 500g |
 | Pan de campo de centeno | $7.500 | **$8.600** | masa madre; 500g |
-| Pan árabe integral x5 | $7.500 | **$8.600** | masa madre |
+| Pan árabe integral x5 | $7.500 | **$8.600** | **no** es de masa madre |
 | Prepizzas x2 | $7.000 | **$8.000** | masa madre; blancas. Variantes por cobertura: salsa de tomate / cebolla / 1 y 1. Si alguna vez se venden integrales, ese costo sube a $5.000 |
 | Budín | $7.000 | **$8.000** | por ahora solo blancos |
 | Cookies integrales con chips de chocolate y nuez | $6.000 | **$6.900** | veganas; 200g |
@@ -104,7 +104,7 @@ Cuando se lance, se abre **todo el AMBA de una vez**, no por zonas: como la log�
 **Los dos atributos, y no son lo mismo** *(precisado por Juan el 07/09/2026)*:
 
 - **Harina 100% agroecológica: TODOS los panificados elaborados, sin excepción.** Es el atributo transversal y el titular de la marca.
-- **Masa madre: los panes de campo, los de molde y las prepizzas.** Grisines, budines, pepas y cookies **no** son de masa madre. ⚠️ *A confirmar: la memoria tiene también a la **hogaza** y al **pan árabe** como masa madre, pero Juan nombró solo campo, molde y prepizzas.*
+- **Masa madre: los panes de campo, los de molde, la hogaza y las prepizzas.** **NO son de masa madre: el pan árabe, los grisines, los budines, las pepas y las cookies** *(confirmado por Juan el 07/09/2026)*.
 
 ⚠️ **Nunca afirmar "100% masa madre" a nivel tienda o marca**: si alguien ve que los grisines no lo son, se cae la credibilidad del resto, incluido el agroecológico —que sí es 100%—. Cómo se comunica cada uno, con el mapeo producto por producto: `textos/sellos-productos.md`.
 
