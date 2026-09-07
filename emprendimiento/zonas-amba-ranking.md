@@ -44,8 +44,11 @@ Lo que sí cambia por zona es **cuánta gente aprieta comprar cuando ve el costo
 
 De ahí salen las dos reglas:
 
-1. **En CABA el envío se regala desde $18.000**, y ahora **también en San Isidro–Beccar–Acassuso desde $24.000** — por debajo de tu ticket promedio. Con Flexit y el margen real del 37,9%, la zona #1 del ranking pasó a tener la segunda mejor oferta de la tienda. **Es una novedad importante: antes esto no se podía.**
-2. **En Lejana y Muy lejana el envío no se regala: se bonifican $3.000 y se empuja un pedido más grande.** Arriba del 30% de recargo, el cliente abandona el carrito.
+> 🔄 **Reemplazadas el 07/09/2026 por una sola regla: envío sin cargo en todo el AMBA desde $30.000.** Un solo umbral, sin bonificaciones parciales — cierra en las cuatro zonas y se comunica en una frase. Ver `envios-amba.md` sección 4.
+>
+> **Lo que eso le hace a este ranking: lo aplana, y para bien.** Con envío sin cargo desde $30.000 en todas las zonas, **el recargo del envío deja de ser un factor de rechazo arriba de ese monto**, que es donde querés que compre todo el mundo. Nordelta y San Isidro compiten ahora por perfil de cliente, no por costo de flete. **Abajo de $30.000 la tabla de recargos de arriba sigue valiendo**, y por eso CABA sigue siendo la zona más fácil de convertir en pedidos chicos.
+
+*(Reglas anteriores, reemplazadas: envío sin cargo desde $18.000 en CABA y $24.000 en San Isidro; bonificación de $3.000 en las zonas lejanas.)*
 
 ---
 
@@ -55,9 +58,9 @@ Ordenado por lo que conviene hacer primero, no por tamaño.
 
 | # | Zona | Zona Flexit | Envío (costo) | Por qué |
 |---:|---|---|---:|---|
-| **1** | **San Isidro · Martínez · Acassuso · Beccar** | Media | **$6.102** | Perfil de country al precio de la zona Media — **y ahora con envío sin cargo desde $24.000** |
-| **2** | **Palermo · Villa Crespo · Colegiales · Belgrano** | Cercana | **$4.356** | El envío más barato, sin cargo desde $18.000 |
-| **3** | **Nordelta** | Lejana | $7.848 | Tu fórmula probada, en su versión más grande. Con Flexit quedó $348 más barato |
+| **1** | **San Isidro · Martínez · Acassuso · Beccar** | Media | **$6.385** | Perfil de country al precio de la zona Media. **Es tu mejor zona, y no es CABA** |
+| **2** | **Palermo · Villa Crespo · Colegiales · Belgrano** | Cercana | **$4.560** | El envío más barato: la zona más fácil de convertir en pedidos chicos |
+| **3** | **Nordelta** | Lejana | $8.210 | Tu fórmula probada, en su versión más grande |
 | 4 | Vicente López · Olivos · La Lucila · Florida | Media | $6.102 | Igual que #1, más departamentos |
 | 5 | Núñez · Saavedra · Belgrano R · Villa Urquiza | CABA | $3.919 | Segunda tanda de CABA |
 | 6 | Villanueva · Tortugas · Pilar del Este | 2 y 3 | $8.196 | Countries, pero más caros y más lejos |

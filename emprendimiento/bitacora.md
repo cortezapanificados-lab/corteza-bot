@@ -2,6 +2,26 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 07/09/2026 (11) — Evaluado: abrir solo CABA para probar. Se descarta
+
+Juan preguntó si conviene abrir el lanzamiento **solo a CABA** en lugar de a todo el AMBA, como prueba. **El instinto es bueno —reducir el riesgo del primer día— pero está aplicado a la palanca equivocada.**
+
+**Cinco razones para no restringir:**
+
+1. **No ahorra nada.** Flexit cobra **por envío**, no por zona cubierta. Tener Tigre habilitado no cuesta un peso más que no tenerlo. *(Es el mismo argumento del 10/08 y sigue intacto.)*
+2. **Dejaría afuera la zona #1.** En `zonas-amba-ranking.md`, **San Isidro–Martínez–Acassuso–Beccar le gana a CABA**: perfil de country al precio de zona Media. La mejor zona de Corteza no es CABA, y el test de Meta tiene dos de sus tres conjuntos fuera de CABA.
+3. **El riesgo del primer jueves no es geográfico, es de armado.** El cuello de botella es la mañana del jueves: llega la mercadería, se arman los pedidos y sale la colecta. **Treinta pedidos son treinta pedidos**, vayan a Palermo o a Tigre — el reparto lo hace Flexit. Restringir zonas no aliviana una sola caja de esa mañana.
+4. **Achica el universo justo cuando hacen falta 30 pedidos**, y desde octubre 120 al mes para no pagar envíos fantasma.
+5. **Quema la lista.** Hay anotados de todo el AMBA, a los que se les pidió la zona precisamente para avisarles. Decirles "todavía no" después de meses de "anotate" es la peor forma de gastar ese activo.
+
+> **Pero hay una versión de la idea que sí sirve, y ya está en el plan: concentrar la publicidad, no la venta.** Meta necesita ~50 conversiones semanales por conjunto para salir de la fase de aprendizaje; con 3 zonas avanza lento y con 8 se tira la plata. Por eso el test va a **tres zonas** (San Isidro-Martínez / Palermo-Belgrano / Nordelta).
+>
+> **La tienda vende a todo el AMBA; la plata va a tres zonas.** Esa es la distinción que hace funcionar las dos cosas.
+
+**Y si en algún momento hace falta controlar el riesgo del primer despacho, la palanca es el número de pedidos, no la geografía** — cerrar la tienda al llegar a X. Hoy no aplica: el problema es llegar a 30, no pasarse.
+
+---
+
 ## 07/09/2026 (10) — Un solo umbral: envío sin cargo en todo el AMBA desde $30.000
 
 **Idea de Juan, y es mejor que la propuesta que tenía enfrente** (cuatro umbrales distintos: $28.000 / $30.000 / $32.000 / $35.000).

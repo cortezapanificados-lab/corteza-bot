@@ -12,6 +12,20 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 >
 > **El objetivo dejó de ser "150 anotados": ahora son 30 pedidos en el despacho del 24.** El mínimo mensual de 120 de Flexit no se persigue este mes; se trabaja sobre el supuesto de que se paga solo lo despachado. Con 30 pedidos el mes cierra en positivo (+$54.620 antes de publicidad) y el equilibrio son 18. Cuenta completa en `numeros.md` sección 3 bis.
 
+> ### 🌎 Evaluado y descartado el 07/09: abrir solo CABA para probar
+>
+> Juan planteó abrir el lanzamiento **solo a CABA** en vez de a todo el AMBA. **Se descartó, y por cinco razones concretas:**
+>
+> 1. **No ahorra nada.** Flexit cobra **por envío**, no por zona cubierta. Tener Tigre habilitado no cuesta un peso más que no tenerlo.
+> 2. **Dejaría afuera la zona #1 del ranking.** **San Isidro–Martínez–Acassuso–Beccar le gana a CABA** en `zonas-amba-ranking.md`: perfil de country al precio de zona Media. La mejor zona que tiene Corteza no es CABA.
+> 3. **El riesgo del primer jueves no es geográfico, es de armado.** El cuello de botella es la mañana: llega la mercadería, se arman los pedidos y sale la colecta. **Treinta pedidos son treinta pedidos** vayan a Palermo o a Tigre — el reparto lo hace Flexit. Restringir zonas no aliviana una sola caja.
+> 4. **Achica el universo justo cuando hacen falta 30 pedidos**, y desde octubre 120 al mes.
+> 5. **Quema la lista.** Hay gente anotada de todo el AMBA, a la que se le pidió la zona. Decirles "todavía no" después de meses de "anotate" es la peor forma de gastarla.
+>
+> **Lo que SÍ se concentra es la publicidad, no la venta:** el test de Meta va a 3 zonas (San Isidro-Martínez / Palermo-Belgrano / Nordelta) porque Meta necesita ~50 conversiones semanales por conjunto para salir de la fase de aprendizaje. **La tienda vende a todo el AMBA; la plata va a tres zonas.**
+>
+> *(Es la misma conclusión del 10/08, con dos argumentos nuevos: el mínimo mensual de Flexit y el ranking de zonas.)*
+
 ### El calendario que queda
 
 | Cuándo | Qué |
