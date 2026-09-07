@@ -2,6 +2,24 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 07/09/2026 (6) — El pan árabe es sin levado, y de ahí sale una regla de redacción
+
+Juan aclaró algo que parecía un detalle y ordena toda la comunicación de producto: **el pan árabe no lleva masa madre porque no lleva levado.** No usa otro fermento — no usa ninguno, no lo necesita.
+
+**O sea que "no es de masa madre" estaba mal escrito, no mal informado.** Describía por ausencia algo que tiene su propia identidad. Y hay gente que busca exactamente eso: pan sin levaduras.
+
+> **La regla que queda para toda la tienda: ningún producto se describe por lo que no tiene.** O tiene un atributo propio que se nombra en positivo —el pan árabe es **sin levado**—, o directamente no se menciona el tema. Para los grisines, budines, pepas y cookies alcanza con la línea de la harina agroecológica: **lo que no se nombra no se echa de menos; lo que se niega, sí.**
+
+Es la misma lógica que ya venía aplicándose sin nombrarla: por eso el sello de la placa se corrigió a "PANES 100% / MASA MADRE" en vez de aclarar qué productos quedaban afuera.
+
+**Consecuencia concreta:** se resuelve el problema de la categoría "Panes", que contiene al árabe y por eso no podía decir "todos de masa madre". No hay que moverlo ni disculparse — cada uno lleva su propia definición:
+
+> *"Harina 100% agroecológica en todos. Los de campo, los de molde y la hogaza, de masa madre; el árabe, sin levado."*
+
+Y en la ficha del pan árabe la línea pasa a ser **"Sin levado · Harina 100% agroecológica"**.
+
+---
+
 ## 07/09/2026 (5) — Los dos sellos: el agroecológico es el titular, la masa madre es del producto
 
 Juan precisó un dato que la memoria tenía suelto: **todos los panificados llevan harina 100% agroecológica**, pero **la masa madre no es transversal** — son los panes de campo, los de molde y las prepizzas. Grisines, budines, pepas y cookies no.

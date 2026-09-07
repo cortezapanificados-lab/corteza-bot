@@ -1,6 +1,14 @@
 # Cómo se comunican "agroecológico" y "masa madre" en la tienda
 
-*Definido el 07/09/2026. Dato que lo motivó: **todos los panificados llevan harina 100% agroecológica**, pero **la masa madre no es transversal** — es de los panes de campo, los de molde, la hogaza y las prepizzas. El pan árabe, los grisines, los budines, las pepas y las cookies no son de masa madre.*
+*Definido el 07/09/2026. Dato que lo motivó: **todos los panificados llevan harina 100% agroecológica**, pero **la masa madre no es transversal** — es de los panes de campo, los de molde, la hogaza y las prepizzas.*
+
+> ### La regla de redacción más importante de esta guía
+>
+> **Ningún producto se describe por lo que no tiene.** "No es de masa madre" convierte a la mitad del catálogo en una versión degradada de la otra mitad, y no es cierto: **son cosas distintas, no peores.**
+>
+> El caso claro es **el pan árabe: es sin levado.** No lleva levadura ni masa madre porque **no necesita levar** — no usa otro fermento, no usa ninguno. Eso es **un atributo propio, y además uno que mucha gente busca**. Se dice en positivo: *"Sin levado"*.
+>
+> Para los grisines, budines, pepas y cookies **no hace falta decir nada del fermento**: alcanza con la línea de la harina agroecológica. Lo que no se nombra no se echa de menos; lo que se niega, sí.
 
 ---
 
@@ -42,10 +50,10 @@ Dos sellos, mismo diseño, esquina superior: **AGROECOLÓGICO** y **MASA MADRE**
 
 ### 3. Descripción de categoría
 
-- **Panes:** *"Harina 100% agroecológica en todos. Los de campo, los de molde y la hogaza, además, de masa madre."* — ver la advertencia de abajo.
+- **Panes:** *"Harina 100% agroecológica en todos. Los de campo, los de molde y la hogaza, de masa madre; el árabe, sin levado."* — cada uno con su definición propia, ninguno definido por lo que le falta.
 - **Prepizzas y Grisines:** *"Harina 100% agroecológica. Las prepizzas, además, de masa madre."*
 
-⚠️ **Ojo con la categoría "Panes": el pan árabe está adentro y no es de masa madre.** Así que la descripción **no puede decir "todos de masa madre"** salvo que el árabe se mueva a otra categoría. Alternativa segura: *"Harina 100% agroecológica en todos. Los de campo, los de molde y la hogaza, además, de masa madre."*
+⚠️ **La categoría "Panes" no puede decir "todos de masa madre"**, porque el pan árabe está adentro y es sin levado. **Pero no hace falta moverlo ni disculparse**: la redacción de arriba le da a cada uno su propia definición.
 - **Repostería:** *"Harina 100% agroecológica."*
 
 ### 4. Un bloque en la página de inicio
@@ -77,7 +85,7 @@ Mucha gente no sabe qué es, y lo que no se entiende no se paga. Alcanza con una
 | Pan de campo de centeno | **Masa madre · Harina 100% agroecológica** |
 | Prepizzas x2 | **Masa madre · Harina 100% agroecológica** |
 | Hogaza | **Masa madre · Harina 100% agroecológica** |
-| Pan árabe integral x5 | **Harina 100% agroecológica** |
+| Pan árabe integral x5 | **Sin levado · Harina 100% agroecológica** |
 | Grisines integrales | **Harina 100% agroecológica** |
 | Budín | **Harina 100% agroecológica** |
 | Pepas integrales | **Harina 100% agroecológica** |
@@ -92,3 +100,4 @@ Mucha gente no sabe qué es, y lo que no se entiende no se paga. Alcanza con una
 - **Meterlo en el nombre del producto.** "Pan de molde integral de masa madre con harina agroecológica" es ilegible en una grilla del celular. El nombre corto, el atributo abajo.
 - **Escribirlo distinto en cada ficha.** "De masa madre", "masa madre natural", "fermentación con masa madre" — tres formas es ninguna. Una sola, idéntica en todas.
 - **Ponerle sello de masa madre a un producto que no lo es** para emparejar la grilla. Es exactamente lo que rompe la confianza.
+- **Describir un producto por lo que no tiene.** Nunca "no es de masa madre": o tiene un atributo propio que se nombra en positivo (el pan árabe es *sin levado*), o simplemente no se menciona el tema.
