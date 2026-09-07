@@ -101,7 +101,12 @@ Cuando se lance, se abre **todo el AMBA de una vez**, no por zonas: como la log�
 | Pepas integrales | $5.500 | **$6.300** | veganas; batata y membrillo; 200g |
 | Grisines integrales | $4.000 | **$4.600** | 200g |
 
-Todos con harinas 100% agroecológicas. Los panes (molde, campo, árabe, prepizzas) son de masa madre; grisines, budines, pepas y cookies no.
+**Los dos atributos, y no son lo mismo** *(precisado por Juan el 07/09/2026)*:
+
+- **Harina 100% agroecológica: TODOS los panificados elaborados, sin excepción.** Es el atributo transversal y el titular de la marca.
+- **Masa madre: los panes de campo, los de molde y las prepizzas.** Grisines, budines, pepas y cookies **no** son de masa madre. ⚠️ *A confirmar: la memoria tiene también a la **hogaza** y al **pan árabe** como masa madre, pero Juan nombró solo campo, molde y prepizzas.*
+
+⚠️ **Nunca afirmar "100% masa madre" a nivel tienda o marca**: si alguien ve que los grisines no lo son, se cae la credibilidad del resto, incluido el agroecológico —que sí es 100%—. Cómo se comunica cada uno, con el mapeo producto por producto: `textos/sellos-productos.md`.
 
 Algunos panes se ofrecen enteros o rebanados.
 

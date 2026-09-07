@@ -2,6 +2,28 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 07/09/2026 (5) — Los dos sellos: el agroecológico es el titular, la masa madre es del producto
+
+Juan precisó un dato que la memoria tenía suelto: **todos los panificados llevan harina 100% agroecológica**, pero **la masa madre no es transversal** — son los panes de campo, los de molde y las prepizzas. Grisines, budines, pepas y cookies no.
+
+**De ahí sale el orden de la comunicación, y confirma algo que ya estaba anotado como pendiente: el titular es el agroecológico, no la masa madre.** Tres razones:
+
+1. **Aplica a todo, sin excepción.** Es lo único que se puede afirmar sin asteriscos, y las afirmaciones sin asteriscos son las que construyen confianza.
+2. **En CABA la masa madre no diferencia**: hay panadería de masa madre en cada esquina de Palermo. "Harina 100% agroecológica" casi nadie lo dice.
+3. **Es lo que le da sentido a la curaduría.** No es una elección de sabor, es una decisión sobre cómo se cultiva el trigo. Eso no se copia.
+
+> ⚠️ **La regla que no se rompe: nunca "100% masa madre" a nivel tienda o marca.** Si figura como afirmación general y alguien ve que los grisines no lo son, **se cae la credibilidad de todo lo demás, incluido el agroecológico —que sí es 100%—.** Ya pasó una vez: el sello de la placa de "Sobre Corteza" decía "100% DE MASA MADRE" y hubo que corregirlo. **La consistencia exacta es lo que hace creíble el reclamo.**
+
+**Guía completa en `textos/sellos-productos.md`**, con el mapeo producto por producto: una línea fija arriba de cada descripción (siempre idéntica), un sello en la foto reutilizando el diseño de la placa de "Sobre Corteza", la descripción de cada categoría, y un bloque en el inicio donde **la palabra que trabaja es "sin excepción"**.
+
+**Dos detalles que salieron de escribirla:**
+- **Hay que explicar qué es agroecológico.** Mucha gente no sabe, y lo que no se entiende no se paga. Alcanza con *"trigo cultivado sin agroquímicos"*.
+- **Cuidado con el verbo:** nunca "en todo lo que horneamos". Corteza no hornea, elige. Es el mismo error que hay que corregir en la página "Ustedes".
+
+**Quedó una cosa a confirmar:** la memoria tiene también a la **hogaza** y al **pan árabe** como masa madre, pero Juan nombró solo campo, molde y prepizzas.
+
+---
+
 ## 07/09/2026 (4) — La página de inicio no muestra un solo producto
 
 Juan preguntó si conviene tener una sección "Inicio" o que la página principal sea directamente "Productos". **Se relevó la tienda y la pregunta resultó ser otra.**

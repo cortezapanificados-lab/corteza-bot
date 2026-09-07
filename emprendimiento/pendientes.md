@@ -163,7 +163,12 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 - [ ] **Armar la lista de difusión de WhatsApp** con los clientes que ya compraron. Los dos mensajes van **domingo** y **lunes temprano**. Textos en `textos/campana-agosto-2026.md`.
 - [ ] Al lanzar AMBA: actualizar la última línea de "Sobre Corteza" y la logística en la tienda
 - [x] ~~**Unificar el texto de medios de pago**~~ → **aparentemente resuelto**: al 19/08 el inicio dice "Tarjetas de débito, crédito o transferencia". **Confirmar una cosa: ¿se sigue aceptando efectivo en Pilar?** Si sí, falta nombrarlo.
-- [ ] **Reescribir la comunicación con "harinas 100% agroecológicas" de titular**, no la masa madre: en CABA la masa madre no diferencia.
+- [ ] 🔖 **Poner los dos sellos en toda la tienda: agroecológico y masa madre** *(guía completa con el mapeo producto por producto en `textos/sellos-productos.md`, escrita el 07/09)*. **El agroecológico es el titular** —aplica a todos los panificados sin excepción y en CABA es lo que diferencia, porque masa madre hay en cada esquina de Palermo—; **la masa madre es un dato del producto**, no de la marca.
+  - [ ] **Una línea fija arriba de cada descripción**, siempre idéntica: *"Masa madre · Harina 100% agroecológica"* o *"Harina 100% agroecológica"* según el producto.
+  - [ ] **Sello en la foto** (esquina), reutilizando el diseño de los sellos de la placa de "Sobre Corteza". Se ve en la grilla sin abrir la ficha.
+  - [ ] **Descripción de cada categoría** y **un bloque en el inicio**: *"Harina 100% agroecológica — en todos nuestros panificados, sin excepción. Trigo cultivado sin agroquímicos."*
+  - [ ] **Confirmar si la hogaza y el pan árabe son de masa madre.** La memoria dice que sí; Juan nombró solo campo, molde y prepizzas.
+  - ⚠️ **Nunca afirmar "100% masa madre" a nivel tienda.** Si alguien ve que los grisines no lo son, se cae la credibilidad de todo, incluido el agroecológico que sí es 100%.
 - [ ] 🔥 **Reescribir el título y la descripción del inicio.** Al 19/08 están en el texto que viene por defecto: *"Tienda Online de Corteza — Comprá productos de Corteza por internet. Tenemos promo lanzamiento, panes y más"*. **Eso es exactamente lo que ve alguien en Google y lo que aparece cuando se pega el link en WhatsApp.** No dice ni masa madre ni agroecológico. Se arregla en Panel → Mi Tiendanube → Configuración → SEO. Propuesta: *"Corteza — Pan de masa madre y harinas 100% agroecológicas"* / *"Elegimos a los mejores panaderos artesanales y te llevamos el pan a tu casa. Entregas los jueves en Pilar."* **Antes de largar el test de Meta**, que es cuando empieza a llegar tráfico pago.
 
 ---
