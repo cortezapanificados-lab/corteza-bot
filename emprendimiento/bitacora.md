@@ -2,6 +2,28 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 07/09/2026 (4) — La página de inicio no muestra un solo producto
+
+Juan preguntó si conviene tener una sección "Inicio" o que la página principal sea directamente "Productos". **Se relevó la tienda y la pregunta resultó ser otra.**
+
+**Cómo está hoy el Inicio:** barra de anuncio → carrusel rotativo de categorías → formulario de newsletter → tres bloques genéricos ("Enviamos tu compra", "Pagá como quieras", "Comprá con seguridad") → pie. **No hay un solo producto con precio.** Hay que hacer dos clics para ver un pan.
+
+*(La página de Productos, en cambio, está bien: 16 productos por página, con foto, precio, filtros por base/corte/sabor y variantes. El menú es Inicio · Productos · Sobre Corteza · Ustedes.)*
+
+**Por qué importa ahora y no antes:** el Inicio es donde va a caer **todo el tráfico pago de Meta**. Hasta hoy la tienda la visitaba gente de Pilar que ya sabía quién era Corteza; desde el lanzamiento la va a ver gente de CABA que nunca escuchó la marca, y lo primero que ve es un carrusel y un pedido de mail.
+
+**La respuesta a la pregunta es "ninguna de las dos".** Mandar la home directo al catálogo tampoco sirve: se pierde el único lugar donde se puede decir en cinco segundos qué es Corteza, y **nadie gasta $28.000 en pan de una marca desconocida mirando un listado pelado**. El Inicio tiene que ser las dos cosas: quién sos arriba, productos con precio inmediatamente abajo.
+
+**Lo que hay que hacer, por orden de retorno:**
+1. **Sumar "Productos destacados" al Inicio** (Diseño → secciones). 6 u 8 con precio. Es el cambio de una tarde y el de mayor impacto de toda la lista de pendientes.
+2. **Reemplazar los tres bloques genéricos por los tres diferenciales**: *"Nosotros no horneamos. Elegimos."*, *"Pedís el lunes, comés pan del jueves."* y las *4,9 estrellas* con link a Ustedes. Ese es el lugar más visible de la página y hoy dice lo mismo que cualquier tienda de Tiendanube.
+3. **Bajar el formulario de newsletter**, que hoy va antes que cualquier producto.
+4. **Revisar el carrusel**: rinden mal, la mayoría ve solo la primera imagen. Mejor un banner fijo con la promesa y un botón "Ver productos".
+
+**Se suma a lo que ya estaba anotado sobre el Inicio:** el título y la descripción de SEO siguen siendo los que trae Tiendanube por defecto. Las dos cosas se arreglan en la misma sentada, y las dos tienen que estar antes de largar el test de Meta.
+
+---
+
 ## 07/09/2026 (3) — Página "Envíos": escrita, con una advertencia
 
 Juan propuso armar una página **"Envíos"** que explique todo junto: el cierre de los lunes a las 14, la entrega de los jueves, los costos por zona. **Texto completo listo para pegar en `textos/pagina-envios.md`**, con título y descripción de SEO.
