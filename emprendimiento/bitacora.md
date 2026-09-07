@@ -2,6 +2,23 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 07/09/2026 (3) — Página "Envíos": escrita, con una advertencia
+
+Juan propuso armar una página **"Envíos"** que explique todo junto: el cierre de los lunes a las 14, la entrega de los jueves, los costos por zona. **Texto completo listo para pegar en `textos/pagina-envios.md`**, con título y descripción de SEO.
+
+**Sirve por tres motivos, y el tercero no es obvio:** es el link que se manda por WhatsApp cuando alguien pregunta; le da confianza a alguien de CABA que nunca escuchó la marca y está por gastar $28.000 en pan por internet; y **posiciona en Google** para búsquedas del tipo "pan de masa madre a domicilio CABA".
+
+> ⚠️ **Pero una página de envíos la lee poca gente, y casi siempre después de tener una duda.** Lo que decide una compra tiene que estar **donde el cliente está mirando**: el cierre del lunes en la barra de anuncio y en cada ficha de producto, y **"en barrios cerrados entregamos en la guardia" en el checkout, antes de que pague** — ese es el reclamo más probable del día 1. La página es la referencia, no el reemplazo.
+
+**Lo que salió de escribirla:**
+- **La línea de la página es "Pedís el lunes, comés pan del jueves".** Convierte la restricción operativa en la promesa: no es que solo se puede pedir hasta el lunes, es que el pan se hornea después de que lo pediste. **Sirve igual para Instagram y para el anuncio de Meta.**
+- **Conviene decir que la segunda y la tercera visita están incluidas** (es condición de Flexit). Es de las pocas cosas que tranquilizan a alguien que compra pan fresco por internet por primera vez.
+- **El "pedido de barrio" entra naturalmente** en la sección de countries, sin sonar a promoción.
+- **No se promete franja horaria**, porque todavía no está confirmado con Flexit si se puede elegir. La respuesta quedó en "durante el día". Cuando se confirme, es un diferencial real: la camioneta del jueves es exclusiva.
+- **Quedó una cosa a confirmar:** en Pilar, ¿el envío es gratis siempre o sin cargo desde $18.000? La memoria dice lo segundo, la decisión del 07/09 sonó a lo primero.
+
+---
+
 ## 07/09/2026 (2) — El anuncio va con el cierre de titular, no con la fecha de envío
 
 **Idea de Juan, y es mejor que la que estaba en el plan.** El aviso del miércoles 16 iba a ser "abrimos el jueves 24". Él propuso anunciar en cambio que **hay tiempo de pedir hasta el lunes 21 a las 14**, porque el jueves 24 es la primera tanda de envíos.
