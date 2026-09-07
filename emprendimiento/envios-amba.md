@@ -151,17 +151,27 @@ Calculados con el **margen efectivo real del 37,9%** (45,9% de margen bruto en p
 
 ### Lo que te propongo ofrecer
 
-> ⚠️ **Reemplazado el 07/09.** La tabla vigente es esta:
+> ## ✅ VIGENTE desde el 07/09/2026 — un solo umbral: $30.000
 >
-> | Zona | Envío | **Envío sin cargo** | Te deja en el umbral |
-> |---|---:|---|---:|
-> | **Cercana (CABA)** | $4.900 | **desde $28.000** | $6.052 |
-> | **Media** | $6.900 | **desde $30.000** | $4.985 |
-> | **Lejana** | $8.900 | **bonificación de $3.000 desde $32.000** | $9.405 |
-> | **Muy lejana** | $10.400 | **bonificación de $3.000 desde $35.000** | $10.567 |
-> | **Pilar** (reparto propio) | sin cargo | — | — |
+> ### Envío sin cargo en todo el AMBA desde $30.000.
 >
-> **El umbral de CABA quedó en $28.000 a propósito: la Promo Lanzamiento sale $28.900.** El producto estrella entra con envío sin cargo justo por arriba del umbral, que es exactamente donde tiene que estar.
+> **Sin bonificaciones parciales, sin umbral por zona.** Por debajo de $30.000 se cobra el envío de la zona.
+>
+> | Zona | Envío (bajo $30.000) | Te deja un pedido de $30.000 |
+> |---|---:|---:|
+> | **Cercana (CABA)** | $4.900 | **$6.810** |
+> | **Media** | $6.900 | **$4.985** |
+> | **Lejana** | $8.900 | **$3.160** |
+> | **Muy lejana** | $10.400 | **$1.790** |
+> | **Pilar** (reparto propio) | **sin cargo siempre** | — |
+>
+> **Por qué el umbral único gana**, además de cerrar en las cuatro zonas:
+>
+> 1. **Se comunica en una frase.** *"Envío sin cargo en todo AMBA desde $30.000"* es un titular de anuncio; cuatro umbrales distintos no se pueden poner en un anuncio ni en una barra de tienda.
+> 2. **Deja la Promo Lanzamiento ($28.900) a $1.100 del umbral** — la mejor posición posible. El producto más barato son los grisines a $4.600, así que el que quiere el envío sin cargo agrega y el carrito salta a $33.500. Un umbral que el producto estrella alcanza solo no empuja nada.
+> 3. **La barrita de "te faltan $X"** funciona con un solo número. Con umbral por zona es un lío de configurar y de entender.
+>
+> ⚠️ **El punto flojo: Muy lejana deja $1.790.** Es delgado, pero **con el mínimo de 120 envíos mensuales cualquier pedido positivo suma** — un envío sin usar son $6.340 tirados. Si esa zona empieza a traer volumen de verdad, se revisa.
 
 | Zona | Qué ofrecer | Cliente paga | Te queda en el umbral |
 |---|---|---:|---:|

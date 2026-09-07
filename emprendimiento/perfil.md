@@ -186,8 +186,10 @@ Los vinos son lo más comparable de todo el catálogo: **no tocarlos sin chequea
 
 *(Histórico: hasta el 24/07/2026 el esquema era pedidos hasta el sábado → entrega el martes, y hasta el martes → entrega el viernes. Se unificó todo en el jueves.)*
 - Sin pedido mínimo
-- **Envío sin cargo por zona** *(corregido el 07/09/2026 — ver `envios-amba.md` sección 4)*: **CABA desde $28.000 · Media desde $30.000 · Lejana bonificación de $3.000 desde $32.000 · Muy lejana bonificación de $3.000 desde $35.000 · Pilar sin cargo (reparto propio)**.
-  - ⚠️ **La regla: el umbral va entre 1,2 y 1,4 veces el ticket promedio, NO en el piso de rentabilidad.** Un umbral por debajo del ticket promedio no empuja a nadie a comprar más: regala el envío que ibas a regalar igual. Y con flete plano por pedido, cada envío es uno de los 120 del mínimo mensual — la pregunta no es si el pedido da positivo, sino si justifica gastar un envío.
+- 🎯 **ENVÍO SIN CARGO EN TODO EL AMBA DESDE $30.000** *(decidido por Juan el 07/09/2026)*. **Un solo umbral para las cuatro zonas**, sin bonificaciones parciales. En **Pilar el envío es sin cargo siempre** (reparto propio). Por debajo de $30.000 se cobra el envío de la zona ($4.900 / $6.900 / $8.900 / $10.400).
+  - **Cierra en las cuatro zonas:** un pedido de $30.000 deja $6.810 en CABA, $4.985 en Media, $3.160 en Lejana y $1.790 en Muy lejana.
+  - **Y deja la Promo Lanzamiento ($28.900) a $1.100 del umbral**, que es la mejor posición posible: el cliente agrega algo para llegar y el ticket sube.
+  - ⚠️ **La regla que lo sostiene: el umbral va entre 1,2 y 1,4 veces el ticket promedio ($23.677), NO en el piso de rentabilidad.** Un umbral por debajo del ticket promedio no empuja a nadie: regala el envío que ibas a regalar igual.
 
 ## Marca (INPI)
 

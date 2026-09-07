@@ -2,6 +2,28 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 07/09/2026 (10) — Un solo umbral: envío sin cargo en todo el AMBA desde $30.000
+
+**Idea de Juan, y es mejor que la propuesta que tenía enfrente** (cuatro umbrales distintos: $28.000 / $30.000 / $32.000 / $35.000).
+
+**Cierra en las cuatro zonas.** Un pedido de $30.000 con envío sin cargo deja **$6.810** en CABA, **$4.985** en Media, **$3.160** en Lejana y **$1.790** en Muy lejana.
+
+**Las tres razones por las que el umbral único gana:**
+
+1. **Se comunica en una frase.** *"Envío sin cargo en todo AMBA desde $30.000"* es un titular de anuncio. Cuatro umbrales distintos no entran ni en un anuncio ni en la barra de la tienda — y lo que no se puede decir en una línea, no se usa.
+2. **Deja la Promo Lanzamiento ($28.900) a $1.100 del umbral, que es la mejor posición posible.** El producto más barato son los grisines a $4.600, así que quien quiere el envío sin cargo agrega y **el carrito salta de $28.900 a $33.500**. Un umbral que el producto estrella alcanza solo no empuja nada — que era justamente el defecto del $28.000 que se había propuesto.
+3. **La barrita de "te faltan $X" funciona con un solo número.** Con umbral por zona es un lío de configurar y de entender.
+
+**Y se cae la bonificación parcial de $3.000**, que venía arrastrada del análisis del 10/08 sin haberse revisado. Tenía sentido cuando los umbrales eran bajos y el margen se creía del 24%; con el margen real del 37,9% y umbrales de $30.000, el envío sin cargo pleno cierra solo. Además el cliente de Nordelta veía **$7.301 de envío** —el 21% de su pedido— y no compraba igual.
+
+> ⚠️ **El punto flojo, anotado para no olvidarlo: Muy lejana deja $1.790.** Es delgado. Pero **con el mínimo de 120 envíos mensuales cualquier pedido positivo suma**: un envío sin usar son $6.340 tirados. Si esa zona empieza a traer volumen de verdad, se revisa.
+
+**De paso quedó explicitado de dónde salen los umbrales**, que era la pregunta de Juan: el **piso** es cuenta dura (costo ÷ 0,379, el punto donde ganás cero: $12.032 / $16.847 / $21.662 / $25.277); el **techo** es criterio, no cuenta —la convención de poner el umbral entre 1,2 y 1,4 veces el ticket promedio— y el número final es una elección dentro de esa banda.
+
+Actualizado en la página de Envíos, la vista previa, `perfil.md`, `envios-amba.md`, `pendientes.md` y el encargo para Claude in Chrome.
+
+---
+
 ## 07/09/2026 (9) — La página de Envíos, armada de verdad
 
 Se rehizo la página completa con toda la información acumulada y quedó una **vista previa navegable**, tal como la vería un cliente: https://claude.ai/code/artifact/c080de5c-d4be-4b33-bcea-132dd8862206

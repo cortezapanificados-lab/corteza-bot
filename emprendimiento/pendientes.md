@@ -86,17 +86,25 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 - [ ] **Suscripción**: Plan Casa quincenal $48.100 y Plan Semana $96.200. **No ofrecer plan semanal chico** — el flete (4,33 envíos/mes = $16.969) se lo come. Objetivo: 30% de los clientes de CABA suscriptos.
 - [ ] 🔧 **EN CURSO (07/09): configurar las zonas de envío en Tiendanube con las zonas y tarifas de FLEXIT.** Juan lo está cargando. **Pilar va con envío sin cargo, sin excepciones — reparto propio.**
   - 🔥 **CORREGIR LO QUE YA ESTÁ CARGADO.** Juan cargó los costos de Flexit tal cual ($4.560 / $6.385 / $8.210 / $9.580). **Pago Nube se lleva el 7% también sobre el envío**, así que cargar el costo exacto da pérdida en cada pedido (−$319 en CABA, ~$9.500 al mes con 30 pedidos). **Los precios correctos son costo ÷ 0,93, redondeados: $4.900 / $6.900 / $8.900 / $10.400.**
-  - 🔴 **CORREGIDOS los umbrales de envío sin cargo (07/09).** Estaban puestos en el **piso de rentabilidad** ($18.000 / $24.000), que no es lo mismo que el umbral. **Un umbral por debajo del ticket promedio ($23.677) no empuja a nadie**: regalás el envío que ibas a regalar igual. Y con flete plano, cada envío es uno de los 120 del mínimo: un pedido de $18.000 en CABA deja $2.262, uno de $28.000 deja $6.052. **La regla: entre 1,2 y 1,4 veces el ticket promedio.** Nuevos umbrales: **$28.000 / $30.000 / $32.000 / $35.000**.
+  - 🔴 **CORREGIDOS los umbrales (07/09) y unificados en $30.000.** Estaban puestos en el **piso de rentabilidad** ($18.000 / $24.000), que no es lo mismo que el umbral: **un umbral por debajo del ticket promedio ($23.677) no empuja a nadie.** La regla es entre 1,2 y 1,4 veces el ticket promedio, y Juan resolvió unificarlo en **$30.000 para todo el AMBA**, sin bonificaciones parciales.
+  - [ ] **Activar la barrita de "te faltan $X para el envío sin cargo".** Con umbral único es cuando más rinde, y es lo que convierte el pedido de $28.900 en uno de $33.500.
 
-  | Zona Flexit | Cobrar | Envío sin cargo |
-  |---|---:|---|
-  | **Cercana** (todo CABA) | **$4.900** | sin cargo desde **$28.000** |
-  | **Media** (San Isidro, Beccar, Martínez, Acassuso, Vicente López, San Fernando, Gral. San Martín, Tres de Febrero, Morón, Hurlingham, Ituzaingó, Avellaneda, Lanús, Lomas de Zamora, La Matanza norte) | **$6.900** | sin cargo desde **$30.000** |
-  | **Lejana** (Tigre/Nordelta, San Miguel, José C. Paz, Malvinas Arg., Moreno, Merlo, La Matanza sur, Quilmes, Berazategui, F. Varela, Alte. Brown, E. Echeverría, Ezeiza) | **$8.900** | bonificar **$3.000** desde **$32.000** |
-  | **Muy lejana** (Escobar, Del Viso, Derqui, Garín, Villa Rosa, Maschwitz, Gral. Rodríguez, Luján, Campana, Zárate, Marcos Paz, Cañuelas, San Vicente, Guernica, La Plata, Berisso, Ensenada) | **$10.400** | bonificar **$3.000** desde **$35.000** |
-  | **Pilar** (reparto propio, NO va por Flexit) | — | **sin cargo** |
+  ### 🎯 Envío sin cargo en todo el AMBA desde $30.000 *(decidido el 07/09)*
 
-  **El umbral de CABA quedó en $28.000 a propósito: la Promo Lanzamiento sale $28.900.** El producto estrella entra con envío sin cargo justo por encima del umbral, que es donde tiene que estar. Es lo que conviene decir en los anuncios.
+  **Un solo umbral para las cuatro zonas, sin bonificaciones parciales.** Por debajo de $30.000 se cobra el envío de la zona:
+
+  | Zona Flexit | Cobrar (bajo $30.000) |
+  |---|---:|
+  | **Cercana** (todo CABA) | **$4.900** |
+  | **Media** (San Isidro, Beccar, Martínez, Acassuso, Vicente López, San Fernando, Gral. San Martín, Tres de Febrero, Morón, Hurlingham, Ituzaingó, Avellaneda, Lanús, Lomas de Zamora, La Matanza norte) | **$6.900** |
+  | **Lejana** (Tigre/Nordelta, San Miguel, José C. Paz, Malvinas Arg., Moreno, Merlo, La Matanza sur, Quilmes, Berazategui, F. Varela, Alte. Brown, E. Echeverría, Ezeiza) | **$8.900** |
+  | **Muy lejana** (Escobar, Del Viso, Derqui, Garín, Villa Rosa, Maschwitz, Gral. Rodríguez, Luján, Campana, Zárate, Marcos Paz, Cañuelas, San Vicente, Guernica, La Plata, Berisso, Ensenada) | **$10.400** |
+  | **Pilar** (reparto propio, NO va por Flexit) | **sin cargo siempre** |
+
+  **Cierra en las cuatro:** un pedido de $30.000 deja $6.810 / $4.985 / $3.160 / $1.790. Y **deja la Promo ($28.900) a $1.100 del umbral**, que es donde tiene que estar: el cliente agrega algo y el ticket sube.
+
+  **Es el titular de todos los anuncios:** *"Envío sin cargo en todo AMBA desde $30.000"*.
+
   ✅ **Las tarifas son definitivas** (por pedido, con las 2 bolsas incluidas y la colecta adentro del precio). ⚠️ Queda un detalle de la memoria a unificar: la comisión de Pago Nube figura al 6% en `envios-amba.md` y al 7% en `perfil.md` y `numeros.md`.
 - [ ] Activar la barrita de "te faltan $X para el envío sin cargo"
 - [ ] 🔥 **Contactar 15 micro-influencers** de alimentación consciente de CABA. Mejor canal de retorno: la caja de canje cuesta $13.500 reales, y si trae 3 clientes el CAC es $4.500. ⚠️ **Con la fecha en el 24/9 tienen que publicar la semana del 21/9: hay que contactarlos esta semana y mandar las cajas de canje la que viene.** Es lo más atrasado de todo el plan.

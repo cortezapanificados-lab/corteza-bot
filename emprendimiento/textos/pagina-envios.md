@@ -9,7 +9,7 @@
 **Dónde va:** Panel → Mi Tiendanube → Páginas → Crear página. Nombre: **Envíos**. URL: `/envios`. Sumarla al menú principal, al lado de "Ustedes".
 
 **Título SEO:** `Envíos — Corteza | Pan de masa madre a domicilio en CABA y AMBA`
-**Descripción SEO:** `Entregamos todos los jueves en CABA, GBA y Pilar. Hacé tu pedido hasta el lunes a las 14. Costos de envío por zona y envío sin cargo desde $28.000.`
+**Descripción SEO:** `Entregamos todos los jueves en CABA, GBA y Pilar. Hacé tu pedido hasta el lunes a las 14. Envío sin cargo en todo el AMBA desde $30.000.`
 
 ---
 
@@ -49,15 +49,19 @@ Entregamos **todos los jueves** en CABA, zona norte, el resto del AMBA y Pilar.
 
 ### Costos de envío
 
-| Zona | Envío | Sin cargo |
-|---|---|---|
-| **CABA** (toda la ciudad) | $4.900 | **desde $28.000** |
-| **Zona Norte y GBA cercano**<br>San Isidro, Beccar, Martínez, Acassuso, Vicente López, San Fernando, San Martín, Tres de Febrero, Morón, Hurlingham, Ituzaingó, Avellaneda, Lanús, Lomas de Zamora | $6.900 | **desde $30.000** |
-| **GBA norte y sur**<br>Tigre, Nordelta, San Miguel, José C. Paz, Malvinas Argentinas, Moreno, Merlo, Quilmes, Berazategui, Florencio Varela, Alte. Brown, Esteban Echeverría, Ezeiza | $8.900 | **te bonificamos $3.000 desde $32.000** |
-| **Zona extendida**<br>Escobar, Del Viso, Garín, Maschwitz, Gral. Rodríguez, Luján, Campana, Zárate, Marcos Paz, Cañuelas, San Vicente, La Plata | $10.400 | **te bonificamos $3.000 desde $35.000** |
-| **Pilar** | **sin cargo** | — |
+### Envío sin cargo desde $30.000
 
-*El costo exacto se calcula solo en el carrito cuando ponés tu dirección.*
+En todo el AMBA, sea cual sea tu zona. Por debajo de ese monto, el envío cuesta:
+
+| Zona | Envío |
+|---|---|
+| **CABA** (toda la ciudad) | $4.900 |
+| **Zona Norte y GBA cercano**<br>San Isidro, Beccar, Martínez, Acassuso, Vicente López, San Fernando, San Martín, Tres de Febrero, Morón, Hurlingham, Ituzaingó, Avellaneda, Lanús, Lomas de Zamora | $6.900 |
+| **GBA norte y sur**<br>Tigre, Nordelta, San Miguel, José C. Paz, Malvinas Argentinas, Moreno, Merlo, Quilmes, Berazategui, Florencio Varela, Alte. Brown, Esteban Echeverría, Ezeiza | $8.900 |
+| **Zona extendida**<br>Escobar, Del Viso, Garín, Maschwitz, Gral. Rodríguez, Luján, Campana, Zárate, Marcos Paz, Cañuelas, San Vicente, La Plata | $10.400 |
+| **Pilar** | **sin cargo** |
+
+*El costo exacto se calcula solo en el carrito cuando ponés tu dirección, y te vamos mostrando cuánto te falta para el envío sin cargo.*
 
 ---
 
