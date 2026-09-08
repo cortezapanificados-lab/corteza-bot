@@ -169,7 +169,18 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 
 ## 🟠 Prioridad 2 — Márgenes y costos
 
-- [ ] **Negociar con Las Quinas y Contraviento.** Cinco productos al 24% de margen (mermeladas, dulce de leche, yerba, las dos pastas). Con el volumen del AMBA hay argumento. Alternativa: otro proveedor o discontinuarlos.
+- [x] ~~**Las Quinas: los cuatro productos de $6.600 de costo pasan a $9.500**~~ → ✅ **decidido el 08/09.** Dulce de leche, las dos mermeladas y la miel líquida. Salen de 23,3%–29,8% a **30,5%**. *(Falta cargarlo en Tiendanube.)*
+  - [ ] **Revisar la rotación de esos cuatro después del primer mes.** A $9.500 quedan +22% sobre el mercado del dulce y +20% sobre el de las mermeladas. **Si dejan de venderse, la salida es discontinuarlos, no bajar el precio de nuevo** — al costo actual no cierran.
+- [ ] 🔴 **Quedan tres productos en rojo, y los tres tienen aire de mercado para subir:**
+
+  | Producto | Hoy | Poner en | Margen |
+  |---|---:|---:|---:|
+  | Yerba Roapipó suave 500g | $6.100 | **$6.500** | 24,6% → **30,8%** |
+  | Pasta de aceitunas Contraviento 170g | $8.900 | **$9.700** | 23,6% → **29,9%** |
+  | Pasta de tomates secos Contraviento 180g | $9.800 | **$10.500** | 24,4% → **29,4%** |
+
+  ⚠️ **La pasta de tomates secos es el único producto del catálogo sin dato de mercado: relevarlo antes de tocarle el precio.**
+- [ ] **Pedirle a Contraviento un 8% de descuento en el costo** cuando se reponga stock. Con el volumen del AMBA hay argumento, y es la vía que no depende de que el cliente acepte el precio.
 - [ ] **Ofrecer descuento por transferencia (~5%)** para esquivar el 7% de Pago Nube. Es la carga más grande y la única evitable.
 - [ ] Empujar los productos de mejor margen: **pan de molde blanco (52,2%)** y **aceite Zuelo (36,4%)**
 - [ ] Buscar bolsas más baratas por cantidad: cada $300 de packaging es casi un punto de margen

@@ -2,6 +2,39 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 08/09/2026 — Los cuatro Las Quinas van a $9.500, y quedan tres rojos con aire
+
+Juan decidió **subirles el precio a los productos de Las Quinas**, después de ver que estaban en 23,3%–24,1% de margen.
+
+**Salió más simple de lo esperado: los cuatro tienen exactamente el mismo costo ($6.600), así que van todos al mismo precio.**
+
+| Producto | Antes | **Ahora** | Margen |
+|---|---:|---:|---:|
+| Dulce de leche | $8.600 | **$9.500** (+10,5%) | 23,3% → **30,5%** |
+| Mermelada frutos rojos 450g | $8.700 | **$9.500** (+9,2%) | 24,1% → **30,5%** |
+| Mermelada frutilla 450g | $8.700 | **$9.500** (+9,2%) | 24,1% → **30,5%** |
+| Miel líquida orgánica 500g | $9.400 | **$9.500** (+1,1%) | 29,8% → **30,5%** |
+
+*(La miel líquida no era roja pero estaba en amarillo, y como comparte costo entró en el mismo movimiento por $100.)*
+
+**La decisión se tomó con el dato en la mano:** a $9.500 quedan **+22% sobre el mercado del dulce de leche y +20% sobre el de las mermeladas**, bastante arriba del premium del 10% que fija la política de precios de terceros. Juan lo asumió. **La regla que queda anotada: si esos cuatro dejan de rotar, la salida es discontinuarlos, no volver atrás con el precio** — al costo actual de Las Quinas no cierran, y bajarlos otra vez sería repetir el ciclo.
+
+**Quedan tres productos en rojo, y los tres tienen aire de mercado**, así que se pueden subir sin salirse del rango:
+
+| Producto | Hoy | Poner en | Margen | Techo de mercado |
+|---|---:|---:|---:|---|
+| Yerba Roapipó suave 500g | $6.100 | **$6.500** | 24,6% → 30,8% | $6.899 |
+| Pasta de aceitunas Contraviento 170g | $8.900 | **$9.700** | 23,6% → 29,9% | $9.592 |
+| Pasta de tomates secos Contraviento 180g | $9.800 | **$10.500** | 24,4% → 29,4% | ⚠️ sin dato |
+
+**La pasta de tomates secos es el único producto del catálogo del que no hay relevamiento de mercado.** Hay que buscarlo antes de tocarle el precio.
+
+> 💡 **Y lo que hay que recordar de todo este hilo: subir estos precios NO arregla el problema del envío sin cargo.** Un carrito de $30.000 de puro almacén en zona Media pasa de −$2.285 a −$485: sigue en rojo. **Lo que hace que un pedido cierre es que tenga pan.** Los terceros son armadores de carrito; el aumento vale por sí mismo, no como solución a otra cosa.
+
+Falta cargar los precios nuevos en Tiendanube.
+
+---
+
 ## 07/09/2026 (11) — Evaluado: abrir solo CABA para probar. Se descarta
 
 Juan preguntó si conviene abrir el lanzamiento **solo a CABA** en lugar de a todo el AMBA, como prueba. **El instinto es bueno —reducir el riesgo del primer día— pero está aplicado a la palanca equivocada.**

@@ -130,11 +130,13 @@ Comprando suelto a los precios nuevos serían $30.400, así que la promo mantien
 
 | Producto | Precio anterior | **Nuevo** | Mercado (relevado 10/08/2026) |
 |---|---|---|---|
-| Mermelada de frutos rojos Las Quinas 450g | $9.400 | **$8.700** | ~$7.890 (estaba 19% arriba) |
-| Mermelada de frutilla Las Quinas 450g | $9.400 | **$8.700** | ~$7.890 |
-| Dulce de leche Las Quinas | $9.400 | **$8.600** | ~$7.800 (estaba 20% arriba) |
+| Mermelada de frutos rojos Las Quinas 450g | $8.700 | **$9.500** *(08/09)* | ~$7.890 |
+| Mermelada de frutilla Las Quinas 450g | $8.700 | **$9.500** *(08/09)* | ~$7.890 |
+| Dulce de leche Las Quinas | $8.600 | **$9.500** *(08/09)* | ~$7.800 |
 | Yerba orgánica Roapipó suave 500g | $6.600 | **$6.100** | $4.458–$6.899 (estaba en el techo) |
-| Miel líquida orgánica Las Quinas 500g | $9.400 | sin cambio | sin datos |
+| Miel líquida orgánica Las Quinas 500g | $9.400 | **$9.500** *(08/09)* | sin datos |
+
+> 💰 **Aumento del 08/09/2026 — los cuatro productos de Las Quinas que cuestan $6.600 van todos a $9.500.** Sacan el margen de **23,3%–29,8% a 30,5%** y salen de rojo. Decisión de Juan, tomada sabiendo que a ese precio quedan **+22% sobre el mercado del dulce de leche y +20% sobre el de las mermeladas** — un premium alto, sostenido por la curaduría y la entrega a domicilio. **Revisar la rotación de esos cuatro después del primer mes**: si dejan de venderse, la respuesta es discontinuarlos, no volver atrás con el precio.
 | Miel cremosa Las Quinas 500g | $8.200 | sin cambio | sin datos |
 | Hummus de garbanzos Pampa Gourmet 180g | $5.200 | sin cambio | sin datos |
 | Pickles orgánicos San Nicolás 250g | $6.200 | sin cambio | sin datos |

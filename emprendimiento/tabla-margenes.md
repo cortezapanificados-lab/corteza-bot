@@ -1,6 +1,13 @@
 # Precios, costos y márgenes de Corteza
 
-*Datos del export de Tiendanube del 10/08/2026, con los precios ya actualizados.*
+*Datos del export de Tiendanube del 10/08/2026. **Precios de Las Quinas actualizados el 08/09/2026.***
+
+> 💰 **08/09/2026 — los cuatro productos de Las Quinas que cuestan $6.600 pasaron a $9.500** (dulce de leche, las dos mermeladas y la miel líquida). Salen de rojo: de 23,3%–29,8% a **30,5%**.
+>
+> **Quedan tres rojos, todos con aire de mercado para subir** *(pendiente de aplicar)*:
+> - **Yerba Roapipó** $6.100 → **$6.500** (30,8%). El rango de mercado llega a $6.899.
+> - **Pasta de aceitunas Contraviento** $8.900 → **$9.700** (29,9%). El techo de mercado es $9.592.
+> - **Pasta de tomates secos Contraviento** $9.800 → **$10.500** (29,4%). ⚠️ **Relevar el mercado antes**: es el único sin dato.
 
 🟢 margen alto (≥44%) · 🟡 flojo (<30%) · 🔴 malo (<26%)
 
@@ -44,14 +51,14 @@
 | Ruca Malen Cap 2 Chardonnay 750ml | $16.500 | $11.500 | $5.000 | **30,3%** |
 | Pickles Orgánicos San Nicolás 250g | $6.200 | $4.325 | $1.875 | **30,2%** |
 | Hummus Pampa Gourmet 180g | $5.200 | $3.650 | $1.550 | **29,8%** 🟡 |
-| Miel Líquida Orgánica Las Quinas 500g | $9.400 | $6.600 | $2.800 | **29,8%** 🟡 |
+| Miel Líquida Orgánica Las Quinas 500g | $9.500 | $6.600 | $2.900 | **30,5%** |
 | Mostaza Dijón Arytza 360g | $7.600 | $5.350 | $2.250 | **29,6%** 🟡 |
 | Yerba Orgánica Roapipó Suave 500g | $6.100 | $4.600 | $1.500 | **24,6%** 🔴 |
 | Pasta de Tomates Secos Contraviento 180g | $9.800 | $7.410 | $2.390 | **24,4%** 🔴 |
-| Mermelada Frutos Rojos Las Quinas 450g | $8.700 | $6.600 | $2.100 | **24,1%** 🔴 |
-| Mermelada Frutilla Las Quinas 450g | $8.700 | $6.600 | $2.100 | **24,1%** 🔴 |
+| Mermelada Frutos Rojos Las Quinas 450g | $9.500 | $6.600 | $2.900 | **30,5%** |
+| Mermelada Frutilla Las Quinas 450g | $9.500 | $6.600 | $2.900 | **30,5%** |
 | Pasta de Aceitunas Verdes Contraviento 170g | $8.900 | $6.800 | $2.100 | **23,6%** 🔴 |
-| Dulce de Leche Las Quinas | $8.600 | $6.600 | $2.000 | **23,3%** 🔴 |
+| Dulce de Leche Las Quinas | $9.500 | $6.600 | $2.900 | **30,5%** |
 
 ### Resumen
 
@@ -64,4 +71,6 @@
 
 **Producto más rentable:** pan de molde blanco (52,2%)
 **Mejor de terceros:** aceite Zuelo (36,4%)
-**Peor:** dulce de leche Las Quinas (23,3%)
+**Peor (tras el aumento del 08/09):** pasta de aceitunas Contraviento (23,6%)
+
+> ⚠️ **Los márgenes ponderados del cuadro de arriba son anteriores al aumento del 08/09** y quedaron desactualizados por lo bajo: el de terceros sube del 29,1%. Rehacerlo con el próximo export de Tiendanube.
