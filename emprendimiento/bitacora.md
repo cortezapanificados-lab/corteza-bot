@@ -2,6 +2,24 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 08/09/2026 (2) — Verificado en la tienda: no queda ningún producto en rojo
+
+Juan cargó los siete aumentos y **se verificaron uno por uno en cortezapan.com.ar**: los cuatro de Las Quinas a $9.500, la yerba Roapipó a $6.500, la pasta de aceitunas a $9.700 y la de tomates secos a $10.500.
+
+**El piso del catálogo pasó de 23,3% a 29,2%.** Todo el almacén de terceros quedó en la banda 29–36%. Era el frente que estaba abierto desde el 10/08.
+
+*(Corrección de un número que se dio antes: la yerba a $6.500 deja **29,2%**, no 30,8%. No cambia la decisión —sale de rojo igual— y quedó bien cargado en `tabla-margenes.md`.)*
+
+**Dos cosas para mirar cuando se reponga stock:**
+1. **La rotación de los cuatro de Las Quinas.** A $9.500 quedan +22% sobre el mercado del dulce y +20% sobre el de las mermeladas. **Si dejan de venderse, se discontinúan; no se les baja el precio de nuevo.**
+2. **La pasta de tomates secos sigue sin relevamiento de mercado.** Es el único producto del catálogo sin ese dato y se le subió el precio a ciegas.
+
+**Dos datos nuevos que aparecieron al revisar la tienda:**
+- **Las aceitunas San Nicolás volvieron al catálogo** (negras $6.000, verdes gigantes $6.200). Se habían dado por discontinuadas el 10/08.
+- **El kéfir y las kombuchas ya están cargados** como categoría "Bebidas probióticas". Falta confirmar que tengan costo cargado para poder calcular su margen.
+
+---
+
 ## 08/09/2026 — Los cuatro Las Quinas van a $9.500, y quedan tres rojos con aire
 
 Juan decidió **subirles el precio a los productos de Las Quinas**, después de ver que estaban en 23,3%–24,1% de margen.

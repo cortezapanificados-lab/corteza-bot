@@ -2,12 +2,25 @@
 
 *Datos del export de Tiendanube del 10/08/2026. **Precios de Las Quinas actualizados el 08/09/2026.***
 
-> 💰 **08/09/2026 — los cuatro productos de Las Quinas que cuestan $6.600 pasaron a $9.500** (dulce de leche, las dos mermeladas y la miel líquida). Salen de rojo: de 23,3%–29,8% a **30,5%**.
+> ## ✅ 08/09/2026 — YA NO QUEDA NINGÚN PRODUCTO EN ROJO
 >
-> **Quedan tres rojos, todos con aire de mercado para subir** *(pendiente de aplicar)*:
-> - **Yerba Roapipó** $6.100 → **$6.500** (30,8%). El rango de mercado llega a $6.899.
-> - **Pasta de aceitunas Contraviento** $8.900 → **$9.700** (29,9%). El techo de mercado es $9.592.
-> - **Pasta de tomates secos Contraviento** $9.800 → **$10.500** (29,4%). ⚠️ **Relevar el mercado antes**: es el único sin dato.
+> **Verificado en la tienda el 08/09.** Se subieron los siete productos que estaban abajo del 26%:
+>
+> | Producto | Antes | Ahora | Margen |
+> |---|---:|---:|---:|
+> | Dulce de leche Las Quinas | $8.600 | **$9.500** | 23,3% → **30,5%** |
+> | Mermelada frutos rojos Las Quinas | $8.700 | **$9.500** | 24,1% → **30,5%** |
+> | Mermelada frutilla Las Quinas | $8.700 | **$9.500** | 24,1% → **30,5%** |
+> | Miel líquida Las Quinas | $9.400 | **$9.500** | 29,8% → **30,5%** |
+> | Yerba Roapipó suave | $6.100 | **$6.500** | 24,6% → **29,2%** |
+> | Pasta de aceitunas Contraviento | $8.900 | **$9.700** | 23,6% → **29,9%** |
+> | Pasta de tomates secos Contraviento | $9.800 | **$10.500** | 24,4% → **29,4%** |
+>
+> **El piso del catálogo pasó de 23,3% a 29,2%.** Todo el almacén de terceros quedó en la banda 29-36%.
+>
+> ⚠️ **Dos cosas para mirar cuando se reponga stock:**
+> 1. **La rotación de los cuatro de Las Quinas.** A $9.500 quedan +22% sobre el mercado del dulce y +20% sobre el de las mermeladas. **Si dejan de venderse, la salida es discontinuarlos, no bajar el precio otra vez.**
+> 2. **La pasta de tomates secos sigue sin relevamiento de mercado** — es el único producto del catálogo sin ese dato. A $10.500 es una apuesta.
 
 🟢 margen alto (≥44%) · 🟡 flojo (<30%) · 🔴 malo (<26%)
 
@@ -53,11 +66,11 @@
 | Hummus Pampa Gourmet 180g | $5.200 | $3.650 | $1.550 | **29,8%** 🟡 |
 | Miel Líquida Orgánica Las Quinas 500g | $9.500 | $6.600 | $2.900 | **30,5%** |
 | Mostaza Dijón Arytza 360g | $7.600 | $5.350 | $2.250 | **29,6%** 🟡 |
-| Yerba Orgánica Roapipó Suave 500g | $6.100 | $4.600 | $1.500 | **24,6%** 🔴 |
-| Pasta de Tomates Secos Contraviento 180g | $9.800 | $7.410 | $2.390 | **24,4%** 🔴 |
+| Yerba Orgánica Roapipó Suave 500g | $6.500 | $4.600 | $1.900 | **29,2%** |
+| Pasta de Tomates Secos Contraviento 180g | $10.500 | $7.410 | $3.090 | **29,4%** |
 | Mermelada Frutos Rojos Las Quinas 450g | $9.500 | $6.600 | $2.900 | **30,5%** |
 | Mermelada Frutilla Las Quinas 450g | $9.500 | $6.600 | $2.900 | **30,5%** |
-| Pasta de Aceitunas Verdes Contraviento 170g | $8.900 | $6.800 | $2.100 | **23,6%** 🔴 |
+| Pasta de Aceitunas Verdes Contraviento 170g | $9.700 | $6.800 | $2.900 | **29,9%** |
 | Dulce de Leche Las Quinas | $9.500 | $6.600 | $2.900 | **30,5%** |
 
 ### Resumen
@@ -71,6 +84,6 @@
 
 **Producto más rentable:** pan de molde blanco (52,2%)
 **Mejor de terceros:** aceite Zuelo (36,4%)
-**Peor (tras el aumento del 08/09):** pasta de aceitunas Contraviento (23,6%)
+**Peor tras el aumento del 08/09:** yerba Roapipó (29,2%) — **ningún producto queda abajo del 29%**
 
-> ⚠️ **Los márgenes ponderados del cuadro de arriba son anteriores al aumento del 08/09** y quedaron desactualizados por lo bajo: el de terceros sube del 29,1%. Rehacerlo con el próximo export de Tiendanube.
+> ⚠️ **Los márgenes ponderados del cuadro de arriba son anteriores al aumento del 08/09** y quedaron desactualizados por lo bajo. Rehacerlos con el próximo export de Tiendanube: el de terceros sube bastante del 29,1% y con él el del catálogo completo.

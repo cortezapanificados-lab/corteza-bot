@@ -122,7 +122,9 @@ Comprando suelto a los precios nuevos serían $30.400, así que la promo mantien
 
 ## Productos de terceros
 
-**Al 10/08/2026 están todos SIN STOCK en la tienda.** Las aceitunas negras y verdes San Nicolás ya no figuran en el catálogo.
+**Al 08/09/2026 siguen todos SIN STOCK en la tienda.**
+
+📌 **Dato del 08/09: las aceitunas San Nicolás volvieron al catálogo** — negras 250g a $6.000 y verdes gigantes 250g a $6.200. Se habían dado por discontinuadas el 10/08.
 
 **Criterio de precio:** acá no hay poder de precio, porque son marcas que el cliente puede comparar en dos segundos. El precio lo fija el mercado, no los costos de Corteza. **Nunca aplicarles los aumentos que se le apliquen a los panificados propios.** El objetivo es quedar en torno a **mercado +10%**, que es un premium defendible para una tienda curada con entrega a domicilio.
 
@@ -133,7 +135,7 @@ Comprando suelto a los precios nuevos serían $30.400, así que la promo mantien
 | Mermelada de frutos rojos Las Quinas 450g | $8.700 | **$9.500** *(08/09)* | ~$7.890 |
 | Mermelada de frutilla Las Quinas 450g | $8.700 | **$9.500** *(08/09)* | ~$7.890 |
 | Dulce de leche Las Quinas | $8.600 | **$9.500** *(08/09)* | ~$7.800 |
-| Yerba orgánica Roapipó suave 500g | $6.600 | **$6.100** | $4.458–$6.899 (estaba en el techo) |
+| Yerba orgánica Roapipó suave 500g | $6.100 | **$6.500** *(08/09)* | $4.458–$6.899 |
 | Miel líquida orgánica Las Quinas 500g | $9.400 | **$9.500** *(08/09)* | sin datos |
 
 > 💰 **Aumento del 08/09/2026 — los cuatro productos de Las Quinas que cuestan $6.600 van todos a $9.500.** Sacan el margen de **23,3%–29,8% a 30,5%** y salen de rojo. Decisión de Juan, tomada sabiendo que a ese precio quedan **+22% sobre el mercado del dulce de leche y +20% sobre el de las mermeladas** — un premium alto, sostenido por la curaduría y la entrega a domicilio. **Revisar la rotación de esos cuatro después del primer mes**: si dejan de venderse, la respuesta es discontinuarlos, no volver atrás con el precio.
@@ -146,8 +148,8 @@ Comprando suelto a los precios nuevos serían $30.400, así que la promo mantien
 
 | Producto | Precio anterior | **Nuevo** | Mercado |
 |---|---|---|---|
-| Pasta de tomates secos Contraviento 180g | $10.600 | **$9.800** | sin dato directo; se bajó en proporción |
-| Pasta de aceitunas verdes Contraviento 170g | $9.700 | **$8.900** | $6.069–$9.592 (estaba arriba del rango) |
+| Pasta de tomates secos Contraviento 180g | $9.800 | **$10.500** *(08/09)* | ⚠️ sigue sin dato de mercado |
+| Pasta de aceitunas verdes Contraviento 170g | $8.900 | **$9.700** *(08/09)* | $6.069–$9.592 |
 | Mostaza Dijón Arytza 360g | $7.600 | sin cambio | sin datos |
 
 ## Té (Intizen, cajas x15 saquitos)
