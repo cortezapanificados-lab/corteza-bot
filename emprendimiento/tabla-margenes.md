@@ -50,6 +50,8 @@
 
 ### Productos de terceros
 
+*Ordenados por margen. Precios verificados en la tienda el 08/09/2026.*
+
 | Producto | Precio | Costo | Ganancia | Margen |
 |---|---:|---:|---:|---:|
 | Aceite de Oliva Zuelo Orgánico 250ml | $11.000 | $7.000 | $4.000 | **36,4%** |
@@ -60,18 +62,18 @@
 | Intizen Dulce Manzanilla x15 | $5.200 | $3.605 | $1.595 | **30,7%** |
 | Intizen Verde Chai x15 | $5.200 | $3.605 | $1.595 | **30,7%** |
 | Intizen Chaman Chai x15 | $5.200 | $3.605 | $1.595 | **30,7%** |
+| Miel Líquida Orgánica Las Quinas 500g | $9.500 | $6.600 | $2.900 | **30,5%** |
+| Mermelada Frutos Rojos Las Quinas 450g | $9.500 | $6.600 | $2.900 | **30,5%** |
+| Mermelada Frutilla Las Quinas 450g | $9.500 | $6.600 | $2.900 | **30,5%** |
+| Dulce de Leche Las Quinas | $9.500 | $6.600 | $2.900 | **30,5%** |
 | Miel Cremosa Las Quinas 500g | $8.200 | $5.700 | $2.500 | **30,5%** |
 | Ruca Malen Cap 2 Chardonnay 750ml | $16.500 | $11.500 | $5.000 | **30,3%** |
 | Pickles Orgánicos San Nicolás 250g | $6.200 | $4.325 | $1.875 | **30,2%** |
+| Pasta de Aceitunas Verdes Contraviento 170g | $9.700 | $6.800 | $2.900 | **29,9%** 🟡 |
 | Hummus Pampa Gourmet 180g | $5.200 | $3.650 | $1.550 | **29,8%** 🟡 |
-| Miel Líquida Orgánica Las Quinas 500g | $9.500 | $6.600 | $2.900 | **30,5%** |
 | Mostaza Dijón Arytza 360g | $7.600 | $5.350 | $2.250 | **29,6%** 🟡 |
-| Yerba Orgánica Roapipó Suave 500g | $6.500 | $4.600 | $1.900 | **29,2%** |
-| Pasta de Tomates Secos Contraviento 180g | $10.500 | $7.410 | $3.090 | **29,4%** |
-| Mermelada Frutos Rojos Las Quinas 450g | $9.500 | $6.600 | $2.900 | **30,5%** |
-| Mermelada Frutilla Las Quinas 450g | $9.500 | $6.600 | $2.900 | **30,5%** |
-| Pasta de Aceitunas Verdes Contraviento 170g | $9.700 | $6.800 | $2.900 | **29,9%** |
-| Dulce de Leche Las Quinas | $9.500 | $6.600 | $2.900 | **30,5%** |
+| Pasta de Tomates Secos Contraviento 180g | $10.500 | $7.410 | $3.090 | **29,4%** 🟡 |
+| Yerba Orgánica Roapipó Suave 500g | $6.500 | $4.600 | $1.900 | **29,2%** 🟡 |
 
 ### Resumen
 
