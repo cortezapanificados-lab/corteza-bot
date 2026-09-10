@@ -2,6 +2,37 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 10/09/2026 — Envío sin cargo desde $40.000, con combos que lleguen a ese precio
+
+**Juan cerró el tema del envío, y lo cerró mejor de lo que estaba.** Venía proponiendo subir el umbral a $40.000 y la objeción era clara: a ese precio la Promo Lanzamiento ($28.900) queda a **$11.100** del umbral, y se apaga el mecanismo que hace subir el ticket solo. **Su respuesta le da la vuelta al problema: crear combos que lleguen a $40.000.**
+
+**Con eso el umbral alto pasa de ser un obstáculo a ser una estrategia**, porque lo que estaba mal no era el número sino que no hubiera con qué alcanzarlo.
+
+**Y económicamente el umbral alto es mejor por pedido.** Un pedido típico de $28.000 en zona Media **pagando el envío deja +$9.924**; el mismo cliente estirando a $30.000 con envío sin cargo deja **+$4.285**. El envío sin cargo cuesta ~$6.900: cuanto menos veces se regala, mejor.
+
+> ### El negocio queda en dos niveles, y los dos son rentables
+>
+> | | |
+> |---|---|
+> | **Pedido chico** (Promo $28.900, un par de panes) | **Paga el envío** → +$9.898 en zona Media |
+> | **Combo $40.000+** | **Envío sin cargo** → de +$6.840 a +$13.245 |
+>
+> **No hay que empujar a nadie de un camino al otro.** Lo único que había que evitar era el pedido de $30.000 con envío regalado, que es donde el negocio se adelgazaba.
+
+**Los cinco combos quedaron armados en `textos/combos-amba.md`:** Plan Semana $40.500 (46,9%), Mesa dulce $42.000 (43,1%), Picada $42.500 (40,5%), **Caja del mes $44.000 (48,2%)** y Plan Casa quincenal $51.000 (47,5%).
+
+**Tres reglas que salieron de armarlos:**
+
+1. **El envío sin cargo ES el descuento — no descontar dos veces.** El envío vale entre 12% y 25% de un pedido de $40.000. Si además se le baja el precio al combo, se regala dos veces la misma venta. Por eso los precios son casi la suma de los productos sueltos.
+2. **Ningún combo puede quedar abajo de $40.000.** Uno a $39.900 sería un autogol: el cliente lo compra creyendo que tiene envío sin cargo y se lo encuentra en el checkout.
+3. **Cuanto más panificado propio, mejor margen: 48,2% el combo de puro pan contra 40,5% el de picada.** Ocho puntos. **Los productos de terceros sirven para llegar al umbral, no para construir el combo.**
+
+💡 **Y el dato que hace posible todo esto: Flexit cobra por pedido, con hasta 3 bolsas incluidas.** Un combo de $51.000 viaja al mismo precio que uno de $40.500, así que **cada producto que se suma es margen casi puro**. Es la misma razón por la que la Caja del mes se vende con el argumento del freezer.
+
+⚠️ **La condición que no se puede saltear: el umbral de $40.000 no va solo, va con los combos.** Si el 24 la tienda abre con el umbral cargado y sin combos, es solo un mínimo que casi nadie alcanza. **Cargar los cinco combos es tarea previa al lanzamiento, no posterior.**
+
+---
+
 ## 08/09/2026 (2) — Verificado en la tienda: no queda ningún producto en rojo
 
 Juan cargó los siete aumentos y **se verificaron uno por uno en cortezapan.com.ar**: los cuatro de Las Quinas a $9.500, la yerba Roapipó a $6.500, la pasta de aceitunas a $9.700 y la de tomates secos a $10.500.

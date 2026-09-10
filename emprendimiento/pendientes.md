@@ -103,9 +103,9 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
   - 🔴 **CORREGIDOS los umbrales (07/09) y unificados en $30.000.** Estaban puestos en el **piso de rentabilidad** ($18.000 / $24.000), que no es lo mismo que el umbral: **un umbral por debajo del ticket promedio ($23.677) no empuja a nadie.** La regla es entre 1,2 y 1,4 veces el ticket promedio, y Juan resolvió unificarlo en **$30.000 para todo el AMBA**, sin bonificaciones parciales.
   - [ ] **Activar la barrita de "te faltan $X para el envío sin cargo".** Con umbral único es cuando más rinde, y es lo que convierte el pedido de $28.900 en uno de $33.500.
 
-  ### 🎯 Envío sin cargo en todo el AMBA desde $30.000 *(decidido el 07/09)*
+  ### 🎯 Envío sin cargo en todo el AMBA desde $40.000 *(decidido el 10/09, reemplaza al umbral de $30.000)*
 
-  **Un solo umbral para las cuatro zonas, sin bonificaciones parciales.** Por debajo de $30.000 se cobra el envío de la zona:
+  **Un solo umbral para las cuatro zonas, sin bonificaciones parciales.** Por debajo de $40.000 se cobra el envío de la zona:
 
   | Zona Flexit | Cobrar (bajo $30.000) |
   |---|---:|
@@ -115,9 +115,24 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
   | **Muy lejana** (Escobar, Del Viso, Derqui, Garín, Villa Rosa, Maschwitz, Gral. Rodríguez, Luján, Campana, Zárate, Marcos Paz, Cañuelas, San Vicente, Guernica, La Plata, Berisso, Ensenada) | **$10.400** |
   | **Pilar** (reparto propio, NO va por Flexit) | **sin cargo siempre** |
 
-  **Cierra en las cuatro:** un pedido de $30.000 deja $6.810 / $4.985 / $3.160 / $1.790. Y **deja la Promo ($28.900) a $1.100 del umbral**, que es donde tiene que estar: el cliente agrega algo y el ticket sube.
+  🔥 **EL UMBRAL DE $40.000 NO VA SOLO: VA CON LOS COMBOS.** Sin productos que lleguen a ese precio es un mínimo que nadie alcanza. **Los cinco combos están armados en `textos/combos-amba.md`** y tienen que estar cargados en la tienda **antes del 24/9**:
 
-  **Es el titular de todos los anuncios:** *"Envío sin cargo en todo AMBA desde $30.000"*.
+  | Combo | Precio | Margen | Deja en zona Media |
+  |---|---:|---:|---:|
+  | A — Plan Semana | $40.500 | 46,9% | +$8.780 |
+  | B — Mesa dulce | $42.000 | 43,1% | +$7.775 |
+  | C — Picada | $42.500 | 40,5% | +$6.840 |
+  | **D — Caja del mes** ⭐ | $44.000 | **48,2%** | **+$10.735** |
+  | E — Plan Casa quincenal | $51.000 | 47,5% | +$13.245 |
+
+  - [ ] **Cargar los cinco combos en Tiendanube.** Es lo que hace funcionar el umbral.
+  - ⚠️ **Ningún combo puede quedar abajo de $40.000.** Un combo a $39.900 es un autogol: el cliente lo compra creyendo que tiene envío sin cargo y se lo encuentra en el checkout.
+  - 💡 **No descontar el combo.** El envío sin cargo ya vale entre 12% y 25% del pedido: descontar además es regalar dos veces.
+  - 💡 **Cuanto más pan tiene el combo, mejor margen** (48,2% el de puro pan contra 40,5% el de picada). Los terceros sirven para llegar al umbral, no para construir el combo.
+
+  **El negocio queda en dos niveles y los dos son rentables:** el pedido chico paga el envío (la Promo de $28.900 deja +$9.898 en Media) y el combo recibe el envío sin cargo.
+
+  **Es el titular de todos los anuncios:** *"Envío sin cargo en todo AMBA desde $40.000"*.
 
   ✅ **Las tarifas son definitivas** (por pedido, con las 2 bolsas incluidas y la colecta adentro del precio). ⚠️ Queda un detalle de la memoria a unificar: la comisión de Pago Nube figura al 6% en `envios-amba.md` y al 7% en `perfil.md` y `numeros.md`.
 - [ ] Activar la barrita de "te faltan $X para el envío sin cargo"

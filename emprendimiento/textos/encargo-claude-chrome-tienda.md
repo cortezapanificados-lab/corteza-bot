@@ -73,7 +73,7 @@
 >
 > En SEO de esa página poné:
 > - Título: `Envíos — Corteza | Pan de masa madre a domicilio en CABA y AMBA`
-> - Descripción: `Entregamos todos los jueves en CABA, GBA y Pilar. Hacé tu pedido hasta el lunes a las 14. Envío sin cargo en todo el AMBA desde $30.000.`
+> - Descripción: `Entregamos todos los jueves en CABA, GBA y Pilar. Hacé tu pedido hasta el lunes a las 14. Envío sin cargo en todo el AMBA desde $40.000.`
 >
 > **[ACÁ PEGÁ EL TEXTO DE `pagina-envios.md`, desde "### Envíos" hasta el final de las preguntas rápidas. No incluyas las notas para Juan.]**
 >

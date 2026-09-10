@@ -9,7 +9,7 @@
 **Dónde va:** Panel → Mi Tiendanube → Páginas → Crear página. Nombre: **Envíos**. URL: `/envios`. Sumarla al menú principal, al lado de "Ustedes".
 
 **Título SEO:** `Envíos — Corteza | Pan de masa madre a domicilio en CABA y AMBA`
-**Descripción SEO:** `Entregamos todos los jueves en CABA, GBA y Pilar. Hacé tu pedido hasta el lunes a las 14. Envío sin cargo en todo el AMBA desde $30.000.`
+**Descripción SEO:** `Entregamos todos los jueves en CABA, GBA y Pilar. Hacé tu pedido hasta el lunes a las 14. Envío sin cargo en todo el AMBA desde $40.000.`
 
 ---
 
@@ -49,7 +49,7 @@ Entregamos **todos los jueves** en CABA, zona norte, el resto del AMBA y Pilar.
 
 ### Costos de envío
 
-### Envío sin cargo desde $30.000
+### Envío sin cargo desde $40.000
 
 En todo el AMBA, sea cual sea tu zona. Por debajo de ese monto, el envío cuesta:
 
