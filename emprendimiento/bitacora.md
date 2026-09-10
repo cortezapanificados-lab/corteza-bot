@@ -2,6 +2,32 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 10/09/2026 (2) — Suscripciones: el beneficio es el envío, no el 5%
+
+Juan quiere ofrecer suscripciones mensuales, en dos modalidades: una **caja fija** por un precio, y otra donde **el cliente elige qué recibe cada semana**, con 5% de descuento. Plan completo en `suscripciones.md`.
+
+> ### El hallazgo: 28 suscriptores semanales llenan el mínimo de 120 envíos de Flexit
+>
+> **La suscripción no es un producto más: es la respuesta directa al mínimo mensual.** Un suscriptor semanal genera 4,33 envíos garantizados por mes, así que **28 personas convierten el mínimo de un riesgo en una base**. Y de paso resuelve el problema de fondo del negocio, que nunca fue captar clientes sino que vuelvan.
+
+**La corrección principal a la idea original: el beneficio no debería ser el 5%, sino el envío sin cargo.**
+
+Sobre una entrega de $25.000, el 5% vale **$1.250**; el envío sin cargo vale **$4.900 en CABA y $10.400 en Muy lejana** — entre **cuatro y ocho veces más**. Y como el umbral general quedó en $40.000, dárselo al suscriptor **desde $30.000** es un beneficio concreto y fácil de decir: *"Suscribite y no pagás envío nunca más."*
+
+⚠️ **Y los dos juntos no van.** Con envío sin cargo más 5%, una entrega de $25.000 da **−$647 en Lejana y −$2.017 en Muy lejana**: se regala dos veces la misma venta.
+
+**Piso de $30.000 por entrega**, que es donde cierra en las cuatro zonas (+$6.110 / +$4.285 / +$2.460 / +$1.090). A $25.000 la zona Muy lejana ya da pérdida.
+
+**Dónde sí va el 5%: por pagar el mes por adelantado**, no por suscribirse. Ahí el descuento compra algo real —cuatro semanas de caja y cuatro envíos garantizados— en vez de premiar un comportamiento que el cliente iba a tener igual.
+
+**Y la recomendación práctica, con 14 días para el lanzamiento: arrancar con un "pack de 4 entregas" vendido como producto normal**, sin cobro recurrente. Cero fricción técnica, se cobra por adelantado y **prueba si la suscripción interesa antes de invertir en instalar y configurar una app**. Queda pendiente averiguar si Tiendanube puede cobrar automáticamente todos los meses — **no prometer suscripción automática hasta confirmarlo**.
+
+**Sobre la modalidad "armá tu semana": conviene limitarla a panificados propios.** Los productos de terceros están sin stock la mayor parte del tiempo, y en una suscripción cada faltante es un mail de disculpas todas las semanas.
+
+**El número a seguir después del lanzamiento: cuántos de los primeros 30 compradores se suscriben.** Si son diez, octubre arranca con 43 envíos garantizados de 120.
+
+---
+
 ## 10/09/2026 — Envío sin cargo desde $40.000, con combos que lleguen a ese precio
 
 **Juan cerró el tema del envío, y lo cerró mejor de lo que estaba.** Venía proponiendo subir el umbral a $40.000 y la objeción era clara: a ese precio la Promo Lanzamiento ($28.900) queda a **$11.100** del umbral, y se apaga el mecanismo que hace subir el ticket solo. **Su respuesta le da la vuelta al problema: crear combos que lleguen a $40.000.**
