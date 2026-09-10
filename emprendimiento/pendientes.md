@@ -97,16 +97,25 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
   - [ ] Empujar el **"pedido de barrio"** en countries: varios pedidos que caen juntos en la misma guardia se retiran mejor y bajan el flete.
   - **Consecuencia para el ranking de zonas:** refuerza a **San Isidro–Martínez–Acassuso–Beccar** (casas de calle, entrega en la puerta) por encima de **Nordelta** (todo cerrado, todo por garita). Nordelta ya perdía por $1.931 de flete; ahora suma la garita. **Pilar no cambia: ahí el reparto es propio.**
 - [ ] **Caja de presentación de ~$16.100** con envío sin cargo (la Promo de $28.900 es mucho para un primer pedido en CABA)
-- [ ] 🔁 **SUSCRIPCIONES — plan completo en `suscripciones.md`** *(rehecho el 10/09; reemplaza los "Plan Casa $48.100 / Plan Semana $96.200" que tenían números viejos)*.
-  - 🎯 **El número que ordena todo: 28 suscriptores semanales llenan el mínimo de 120 envíos de Flexit.**
-  - **El beneficio es el envío sin cargo desde $30.000, NO el 5%.** Vale entre 4 y 8 veces más para el cliente ($4.900–$10.400 contra $1.250) y es la frase que se dice sola: *"Suscribite y no pagás envío nunca más."* ⚠️ **Nunca los dos juntos**: con envío sin cargo + 5%, una entrega de $25.000 da −$647 en Lejana y −$2.017 en Muy lejana.
-  - **Piso: $30.000 por entrega.** Es donde cierra en las cuatro zonas. Abajo de eso, Muy lejana da pérdida.
-  - **El 5% va en otro lado: por pagar el mes por adelantado** (pack de 4 entregas). Ahí el descuento compra caja y envíos garantizados, en vez de premiar algo que el cliente iba a hacer igual.
-  - [ ] **Arrancar con el "pack de 4 entregas" como producto normal**, sin cobro recurrente. Cero fricción técnica, se cobra por adelantado y prueba si la suscripción interesa antes de instalar nada.
-  - [ ] **Averiguar si Tiendanube puede cobrar automáticamente todos los meses** o si hace falta una app. **No prometer suscripción automática hasta confirmarlo.**
-  - [ ] **Limitar la modalidad "armá tu semana" a panificados propios.** Los productos de terceros están sin stock la mayor parte del tiempo y cada faltante es un mail de disculpas.
-  - **Las cuatro reglas que hacen que la gente se suscriba:** que se pueda pausar, que se pueda cancelar sin explicaciones, que se avise cada semana antes del cierre, y que la primera caja lleve algo de regalo.
-  - 📊 **El número a seguir después del lanzamiento: cuántos de los primeros 30 compradores se suscriben.** Si son 10, octubre arranca con 43 envíos garantizados de 120.
+- [ ] 🔁 **SUSCRIPCIONES — plan completo en `suscripciones.md`** *(rehecho el 10/09 con el modelo correcto: pack mensual de entregas de $40.000)*.
+  - 🔑 **La regla que ordena todo: toda entrega vale $40.000; lo que el cliente elige es cada cuánto.** Así cada entrega supera el umbral sola y el envío sin cargo se aplica sin reglas especiales. **Para abaratar el plan se baja la frecuencia, nunca el monto por entrega.**
+
+  | Plan | Entregas/mes | Lista | Paga (−6%) | Deja en Media |
+  |---|---:|---:|---:|---:|
+  | **Plan Semana** | 4 | $160.000 | **$150.000** | +$23.400 |
+  | **Plan Quincenal** | 2 | $80.000 | **$75.000** | +$11.700 |
+
+  - 🔑 **EL DESCUENTO SE PAGA SOLO SI COBRÁS POR TRANSFERENCIA.** La comisión de Pago Nube sobre $150.000 son $10.500 y el descuento cuesta $9.300: **cobrado por transferencia el plan deja MÁS que vender lo mismo suelto con tarjeta** (+$33.900 contra +$32.700 en Media). **Se ofrece así: "6% de descuento pagando por transferencia".**
+  - **30 suscriptores con Plan Semana llenan los 120 envíos** de Flexit = $4.500.000 mensuales asegurados.
+  - ⚠️ **$150.000/mes es mucha plata para pan** (el ticket hoy es $23.677). **El Quincenal a $75.000 es el que va a vender**; el Semana es el que lo hace parecer razonable.
+  - ⚠️ **En Muy lejana el Plan Semana deja 7,1%.** No es zona para empujarlo con publicidad.
+  - ⚠️ **Cuando superes los 120 envíos mensuales, el argumento de "llenar el cupo" se cae** y el descuento pasa a ser costo puro. Revisar el 6% ahí.
+  - [ ] **Arrancar vendiendo el plan como producto normal, pagado una vez** — sin cobro recurrente. Cobrás el mes por adelantado y probás si interesa antes de instalar nada.
+  - [ ] **Averiguar si Tiendanube puede cobrar automáticamente todos los meses.** **No prometer suscripción automática hasta confirmarlo.**
+  - [ ] **Limitar "armá tu semana" a panificados propios.** Los terceros están sin stock casi siempre y cada faltante es un mail de disculpas.
+  - **Las cuatro reglas que hacen que la gente se suscriba:** que se pueda pausar (la entrega se corre, no se pierde), cancelar sin explicaciones, aviso semanal antes del cierre, y algo de regalo en la primera caja.
+  - 📊 **El número a seguir: cuántos de los primeros 30 compradores se suscriben.** Diez con Plan Semana = 40 envíos garantizados de 120 en octubre.
+
 - [ ] 🔧 **EN CURSO (07/09): configurar las zonas de envío en Tiendanube con las zonas y tarifas de FLEXIT.** Juan lo está cargando. **Pilar va con envío sin cargo, sin excepciones — reparto propio.**
   - 🔥 **CORREGIR LO QUE YA ESTÁ CARGADO.** Juan cargó los costos de Flexit tal cual ($4.560 / $6.385 / $8.210 / $9.580). **Pago Nube se lleva el 7% también sobre el envío**, así que cargar el costo exacto da pérdida en cada pedido (−$319 en CABA, ~$9.500 al mes con 30 pedidos). **Los precios correctos son costo ÷ 0,93, redondeados: $4.900 / $6.900 / $8.900 / $10.400.**
   - 🔴 **CORREGIDOS los umbrales (07/09) y unificados en $30.000.** Estaban puestos en el **piso de rentabilidad** ($18.000 / $24.000), que no es lo mismo que el umbral: **un umbral por debajo del ticket promedio ($23.677) no empuja a nadie.** La regla es entre 1,2 y 1,4 veces el ticket promedio, y Juan resolvió unificarlo en **$30.000 para todo el AMBA**, sin bonificaciones parciales.

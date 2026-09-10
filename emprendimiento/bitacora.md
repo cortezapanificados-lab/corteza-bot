@@ -2,6 +2,33 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 10/09/2026 (3) — Suscripciones, con el modelo correcto: pack mensual de entregas de $40.000
+
+**Juan corrigió un error de la entrada anterior y es una corrección de fondo.** Ahí se modelaron entregas de $25.000–$30.000, o sea **por debajo del umbral de envío sin cargo**, y de eso salía todo un problema sobre si darle o no el envío al suscriptor. **Su modelo no tiene ese problema: la suscripción es un pack mensual de $160.000 con 6% de descuento — cuatro entregas de $40.000. Cada entrega supera el umbral sola, así que el envío sin cargo ya le corresponde como a cualquier cliente. El beneficio de suscribirse es el descuento y nada más.**
+
+> ### La regla que quedó: toda entrega vale $40.000; lo que el cliente elige es cada cuánto la recibe.
+>
+> **Para abaratar el plan se baja la frecuencia, nunca el monto por entrega.** Así no hacen falta reglas especiales de envío para suscriptores.
+
+| Plan | Entregas/mes | Lista | Paga (−6%) | Deja en Media |
+|---|---:|---:|---:|---:|
+| Plan Semana | 4 | $160.000 | **$150.000** | +$23.400 |
+| Plan Quincenal | 2 | $80.000 | **$75.000** | +$11.700 |
+
+> ### 🔑 El hallazgo: el descuento se paga solo si se cobra por transferencia
+>
+> La comisión de Pago Nube sobre $150.000 son **$10.500**; el descuento del 6% cuesta **$9.300**. **Cobrado por transferencia, el plan deja MÁS que vender lo mismo suelto con tarjeta**: +$33.900 contra +$32.700 en zona Media.
+>
+> **Por eso se ofrece como *"6% de descuento pagando por transferencia"***. No es una condición incómoda —en un pago de $150.000 la transferencia es lo natural— y de paso ejecuta la palanca de margen que ya estaba anotada en `numeros.md`: esquivar el 7% de Pago Nube es la carga más grande del negocio y la única evitable.
+
+**Además, el descuento compra cuatro envíos garantizados.** Con el mínimo de 120, un envío sin usar cuesta $6.340: cuatro que de otro modo quedarían vacíos son $25.360 que no se tiran, contra $9.300 que cuesta el descuento. ⚠️ **Ese argumento se cae cuando se superen los 120 envíos mensuales** — ahí el descuento pasa a ser costo puro y hay que revisar el 6%.
+
+**Dos advertencias sobre el precio:** $150.000 al mes es mucha plata para pan cuando el ticket actual es $23.677, así que **el Plan Quincenal de $75.000 es el que va a vender** y el Semana es el que lo hace parecer razonable. Y en **Muy lejana el Plan Semana deja 7,1%**: no es zona para empujarlo con publicidad.
+
+**30 suscriptores con Plan Semana llenan los 120 envíos** y son $4.500.000 mensuales asegurados.
+
+---
+
 ## 10/09/2026 (2) — Suscripciones: el beneficio es el envío, no el 5%
 
 Juan quiere ofrecer suscripciones mensuales, en dos modalidades: una **caja fija** por un precio, y otra donde **el cliente elige qué recibe cada semana**, con 5% de descuento. Plan completo en `suscripciones.md`.

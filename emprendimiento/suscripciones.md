@@ -1,120 +1,116 @@
 # Suscripciones
 
-*Armado el 10/09/2026, a pedido de Juan. Reemplaza a los "Plan Casa $48.100 / Plan Semana $96.200" que estaban anotados con números viejos.*
+*Rehecho el 10/09/2026 con el modelo correcto: **la suscripción es un pack mensual de entregas de $40.000**, no entregas chicas.*
+
+> ⚠️ **El error que se corrigió, para no repetirlo:** la primera versión modelaba entregas de $25.000–$30.000, o sea **por debajo del umbral de envío sin cargo**. Eso inventaba un problema que este modelo no tiene. **Si cada entrega vale $40.000, el envío sin cargo ya le corresponde al suscriptor como a cualquier cliente. El beneficio de suscribirse es el descuento, y nada más.**
 
 ---
 
-## 1. Por qué la suscripción importa más de lo que parece
+## 1. La regla que ordena todo
 
-**Es la respuesta directa al mínimo de 120 envíos de Flexit.**
+> ### Toda entrega vale $40.000. Lo que el cliente elige es cada cuánto la recibe.
+
+Así **cada entrega supera el umbral sola** y el envío sin cargo se aplica sin reglas especiales, sin excepciones y sin explicaciones. **Para que el plan sea más barato se baja la frecuencia, nunca el monto por entrega.**
+
+| Plan | Entregas | Lista | **Paga (−6%)** |
+|---|---:|---:|---:|
+| **Plan Semana** | 4 por mes | $160.000 | **$150.000** |
+| **Plan Quincenal** | 2 por mes | $80.000 | **$75.000** |
+
+---
+
+## 2. Lo que deja el Plan Semana
+
+| Zona | Te queda por mes | Margen | Si compraran lo mismo suelto |
+|---|---:|---:|---:|
+| CABA | **+$30.700** | 20,5% | +$40.000 |
+| Zona Media | **+$23.400** | 15,6% | +$32.700 |
+| Lejana | **+$16.100** | 10,7% | +$25.400 |
+| Muy lejana | **+$10.620** | 7,1% | +$19.920 |
+
+**El descuento cuesta $9.300 por suscriptor por mes**, igual en todas las zonas.
+
+*(Plan Quincenal: la mitad exacta — +$15.350 / +$11.700 / +$8.050 / +$5.310.)*
+
+---
+
+## 3. 🔑 El descuento se paga solo si cobrás por transferencia
+
+**Este es el punto más importante del documento.**
+
+La comisión de Pago Nube sobre $150.000 son **$10.500**. El descuento del 6% cuesta **$9.300**. **Si el suscriptor paga por transferencia, la comisión que te ahorrás financia el descuento entero y sobra.**
+
+| Zona | Suelto, sin descuento, con tarjeta | **Plan $150.000 por transferencia** |
+|---|---:|---:|
+| CABA | +$40.000 | **+$41.200** |
+| Zona Media | +$32.700 | **+$33.900** |
+| Lejana | +$25.400 | **+$26.600** |
+| Muy lejana | +$19.920 | **+$21.120** |
+
+> **Cobrado por transferencia, el plan te deja MÁS que vender lo mismo suelto — y encima te garantiza los cuatro envíos.**
+
+**Por eso el plan se ofrece así: *"6% de descuento pagando por transferencia."*** No es una condición incómoda: en un pago de $150.000 la transferencia es lo natural, y de paso resuelve la palanca de margen que ya estaba anotada en `numeros.md` (esquivar el 7% de Pago Nube es la carga más grande y la única evitable).
+
+---
+
+## 4. Qué compra el descuento, además
+
+**Cuatro envíos garantizados por mes.** Con el mínimo de 120 envíos de Flexit, un envío que queda sin usar cuesta **$6.340**. Cuatro envíos que de otro modo quedarían vacíos son **$25.360** que no se tiran — contra $9.300 que cuesta el descuento.
+
+⚠️ **Y la contracara, para tenerla anotada: cuando superes los 120 envíos mensuales, ese argumento se cae.** Ahí el descuento pasa a ser costo puro y hay que revisar si el 6% sigue teniendo sentido.
+
+---
+
+## 5. Cuántos suscriptores hacen falta
 
 | | |
 |---|---:|
-| Suscriptores **semanales** para llenar los 120 envíos del mes | **28** |
-| Suscriptores **quincenales** para lo mismo | 55 |
+| **Plan Semana** para llenar los 120 envíos | **30 suscriptores** |
+| Plan Quincenal para lo mismo | 60 |
 
-**Veintiocho personas.** Ese es el número que convierte el mínimo de Flexit de un riesgo en una base garantizada — y de paso resuelve el problema de fondo del negocio, que según el diagnóstico nunca fue captar clientes sino que vuelvan.
-
-Un suscriptor semanal, además, **no se decide todas las semanas**: se decide una vez. Es la diferencia entre competir contra el súper cada jueves y no competir más.
+**Treinta personas con Plan Semana son $4.500.000 de facturación mensual asegurada** y el mínimo de Flexit cubierto sin vender nada más.
 
 ---
 
-## 2. La decisión central: el beneficio NO es el 5%, es el envío sin cargo
+## 6. Dos advertencias sobre el precio
 
-Sobre una entrega de $25.000:
+**$150.000 por mes es mucha plata para pan.** Es un plan para una casa que consume de verdad, no para el cliente promedio: hoy el ticket es $23.677. **Por eso el Plan Quincenal a $75.000 no es opcional — es el que va a vender.** El Semana es el plan aspiracional que hace que el Quincenal parezca razonable.
 
-| Beneficio | Lo que vale para el cliente |
-|---|---:|
-| 5% de descuento | $1.250 |
-| **Envío sin cargo en CABA** | **$4.900** (20% del pedido) |
-| **Envío sin cargo en Zona Media** | **$6.900** (28%) |
-| **Envío sin cargo en Lejana** | **$8.900** (36%) |
-| **Envío sin cargo en Muy lejana** | **$10.400** (42%) |
-
-**El envío sin cargo vale entre cuatro y ocho veces más que el 5%.** Y como el umbral general es $40.000, dárselo al suscriptor desde $30.000 es un beneficio **real y fácil de explicar**:
-
-> ### Suscribite y no pagás envío nunca más.
-
-⚠️ **No dar los dos juntos.** Con envío sin cargo *más* 5%, una entrega de $25.000 da **−$647 en Lejana y −$2.017 en Muy lejana**. Se regala dos veces la misma venta y el negocio se da vuelta.
+**Y en Muy lejana el Plan Semana deja 7,1%.** Es delgado. No es para no venderlo, pero **no es una zona para empujar el plan con publicidad**.
 
 ---
 
-## 3. El piso: $30.000 por entrega
+## 7. Las dos modalidades de contenido
 
-Es el monto donde la entrega paga su propio flete en las cuatro zonas.
+### A — La caja de Corteza *(la armás vos)*
+Vos decidís qué va cada semana. **La ventaja es tuya:** armás con lo que mejor margen tiene y con lo que el productor realmente consiguió. Nunca quedás vendiendo algo que no tenés.
 
-| Monto de la entrega | CABA | Media | Lejana | Muy lejana |
-|---|---:|---:|---:|---:|
-| $25.000 | +$4.165 | +$2.340 | +$515 | **−$855** ❌ |
-| **$30.000** | **+$6.110** | **+$4.285** | **+$2.460** | **+$1.090** ✅ |
-| $40.500 | +$10.195 | +$8.370 | +$6.545 | +$5.175 |
+### B — Armá tu semana *(elige el cliente)*
+El cliente define su lista fija. Convierte mejor con quien ya sabe lo que le gusta.
 
-**Abajo de $30.000 la suscripción da pérdida en zona Muy lejana.** Con $30.000 cierra en todas.
+⚠️ **Limitala a panificados propios.** Los productos de terceros están sin stock la mayor parte del tiempo, y en una suscripción cada faltante es un mail de disculpas *todas las semanas*.
 
 ---
 
-## 4. Las dos modalidades
+## 8. Cómo arrancar sin complicarse
 
-### A — La caja de Corteza *(fija, la armás vos)*
+⚠️ **No se sabe todavía si Tiendanube puede cobrar automáticamente todos los meses**, o si hace falta una app del panel. **Hay que averiguarlo, y no prometer suscripción automática hasta confirmarlo.**
 
-**$40.500 por entrega.** Es el Plan Semana de `combos-amba.md`: molde blanco + campo blanco + prepizzas + grisines + budín.
+**Mientras tanto: vender el plan como un producto normal, pagado una vez.** El cliente compra "Plan Semana — 4 entregas" a $150.000, y vos llevás en una planilla quién tiene entregas pendientes.
 
-**La ventaja es tuya:** vos decidís el contenido cada semana, así que armás con **lo que mejor margen tiene y lo que el productor realmente tiene**. Nunca te quedás vendiendo algo que no conseguiste.
-
-**Cómo se vende:** *"No pienses más en el pan. Todos los jueves, la caja de la semana en tu casa."*
-
-### B — Armá tu semana *(el cliente elige)*
-
-**Piso $30.000 por entrega.** El cliente arma su lista fija y la recibe todos los jueves.
-
-**La ventaja es del cliente**, y por eso convierte mejor con quien ya sabe lo que le gusta. **La contra es tuya:** si eligió algo que el productor no tiene esa semana, hay que avisar y reemplazar. **Por eso conviene limitarla a panificados propios**, que son los que siempre están.
-
-⚠️ **No dejes armar la suscripción con productos de terceros.** Están sin stock la mayor parte del tiempo y cada faltante es un mail de disculpas.
+Cero fricción técnica, **cobrás el mes por adelantado**, y probás si el plan interesa antes de instalar y configurar nada.
 
 ---
 
-## 5. Dónde SÍ va el 5%
+## 9. Las cuatro reglas que hacen que la gente se suscriba
 
-**No por suscribirse: por pagar el mes por adelantado.**
-
-> **Pack de 4 entregas, pagás una vez: 5% menos.**
-
-Ahí el descuento compra algo concreto — **cuatro semanas de caja por adelantado y cuatro envíos garantizados** — en vez de premiar un comportamiento que ya ibas a tener.
-
-| | |
-|---|---:|
-| Pack de 4 entregas de $40.500 | $162.000 |
-| Con 5% | **$153.900** |
-| Te cuesta | $8.100 |
-| Te da | 4 envíos asegurados + la plata por adelantado |
+1. **Se puede pausar.** Sin esto no se suscribe nadie: la gente se va de vacaciones. *"Pausá cuando quieras, avisando antes del lunes."* La entrega pausada se corre al final, no se pierde.
+2. **Se puede cancelar sin explicaciones.** Cuanto más fácil salir, más fácil entrar.
+3. **Se avisa cada semana antes del cierre**, con lo que va en la caja, y se puede cambiar algo.
+4. **La primera caja lleva algo de regalo.** Cuesta poco y es lo que el suscriptor cuenta.
 
 ---
 
-## 6. Cómo arrancar sin complicarse: el pack prepago
+## 10. El número a seguir
 
-⚠️ **Antes de prometer nada, hay que ver si Tiendanube puede cobrar automáticamente todos los meses.** Es probable que haga falta una app del panel, y averiguarlo lleva tiempo que hoy no hay.
-
-**La salida que no necesita nada: vender el pack de 4 entregas como un producto normal.**
-
-- Se carga como cualquier producto, con su precio y su foto.
-- El cliente lo paga una vez.
-- Vos anotás en una planilla quién tiene entregas pendientes y las vas descontando.
-
-**Ventajas de arrancar así:** cero fricción técnica, cobrás por adelantado, y **probás si la suscripción interesa antes de invertir en instalar y configurar nada.** Si funciona, después se automatiza.
-
----
-
-## 7. Las reglas que hacen que la gente se suscriba
-
-1. **Se puede pausar.** Sin esto no se suscribe nadie: la gente se va de vacaciones y no quiere pan esperando en la puerta. *"Pausá cuando quieras, avisando antes del lunes."*
-2. **Se puede cancelar cuando quiera**, sin explicaciones y sin penalidad. Cuanto más fácil salir, más fácil entrar.
-3. **Se avisa cada semana antes del cierre**, con lo que va en la caja. El suscriptor tiene que poder cambiar algo o saltear una semana.
-4. **La primera entrega llega con algo que no pidió.** Un producto chico de regalo en la primera caja de cada suscriptor nuevo. Cuesta poco y es lo que se cuenta.
-
----
-
-## 8. El objetivo
-
-**28 suscriptores semanales** llenan el mínimo de Flexit. Puesto en el plan del lanzamiento: si de los primeros 30 pedidos del 24/9 **diez se convierten en suscriptores**, octubre arranca con 43 envíos garantizados de 120 — más de un tercio del mínimo, sin vender nada nuevo.
-
-**Ese es el número a seguir después del lanzamiento: cuántos de los primeros compradores se suscriben.**
+**Cuántos de los primeros 30 compradores del 24/9 se suscriben.** Si son diez con Plan Semana, octubre arranca con **40 envíos garantizados de 120** y $1.500.000 de facturación asegurada, sin vender nada nuevo.
