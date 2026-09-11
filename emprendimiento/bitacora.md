@@ -2,6 +2,35 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 11/09/2026 (4) — Un dato de Juan da vuelta la propuesta de cobrar el envío en Pilar
+
+Juan planteó meter a Pilar en el umbral de $40.000, igual que el AMBA. **El primer análisis dijo que sí con holgura. Después Juan aportó el dato que lo desarma: en Pilar el cliente recurrente es Eugenio, y siempre gasta más de $40.000.**
+
+**Eugenio ya supera el umbral, así que el cambio no le toca al que importa.** Y de ahí sale una consecuencia aritmética: **si sus 6 pedidos son de $40.000 o más, los otros 38 del período promedian ~$21.000**, no los $23.677 del promedio general. **Pedirles $40.000 es pedirles que casi dupliquen el carrito: eso no es un empujón, es una pared.**
+
+| | Primer análisis | Con el dato de Eugenio |
+|---|---|---|
+| Mecanismo | Sube el ticket de $23.677 a $40.000 | Cobrar $3.000 a los pedidos chicos |
+| Ganancia por pedido | +$6.350 | +$2.790 |
+| Qué pasa con el recurrente | (se asumía que subía) | **No cambia nada** |
+| Tolerancia a perder clientes | 24% de la base | 36% de ese grupo, pero sobre una base más frágil |
+
+**Conclusión: el umbral de $40.000 no es el número correcto para Pilar.** No porque esté mal cobrar, sino porque está mal elegido: la regla de la casa dice 1,2–1,4× el ticket del grupo, y con ~$21.000 eso da **$25.000–$29.000**.
+
+> **Recomendación: no tocar Pilar por ahora** y revisarlo después del primer despacho del AMBA. Si igual se quiere cobrar, el umbral propio de Pilar son **$28.000**.
+
+### De paso apareció el dato que más vale de todo esto
+
+**En Pilar no hay un cliente recurrente: hay once.** Del export de ventas salen 11 clientes con 2 pedidos o más, que juntan **34 de los 44 pedidos** del período: Eugenio (6), Maria Paula Ingaramo (6), Patricia Toledo (5), Mariana De Arteche (3) y siete más con 2.
+
+**Y Eugenio no es un problema de umbral: es el candidato perfecto para la suscripción.** Compra 6 veces en dos meses y medio, siempre arriba de $40.000. El **Plan Quincenal** ($75.000/mes, dos entregas de $40.000) es literalmente lo que ya hace, sin ordenar. **Cobrándolo por transferencia el descuento del 6% se paga solo**: la comisión sobre $75.000 son $5.250 y el descuento cuesta $5.000.
+
+Quedó como tarea ofrecerles el plan a los tres más fieles —Eugenio, María Paula y Patricia— en la misma conversación en la que se les pide la reseña.
+
+**También quedó anotado que falta un dato:** el ticket de los otros diez recurrentes. Hoy solo se conoce el de Eugenio, y sin eso cualquier umbral para Pilar sigue siendo a ciegas.
+
+---
+
 ## 11/09/2026 (3) — Los dos extremos de un pedido de $40.000: uno deja $12.884 y el otro da pérdida
 
 Juan pidió ver los dos casos límite de un pedido de $40.000. **La conclusión es que el ticket no dice nada por sí solo.**

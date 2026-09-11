@@ -113,71 +113,60 @@ Redondeados para arriba, así queda un colchoncito.
 
 ## 3 bis. 🤔 Propuesta abierta: meter a Pilar en el umbral de $40.000
 
-*Planteado por Juan el 11/09/2026. **Todavía no está decidido.***
+*Planteada por Juan el 11/09/2026. **Revisada el mismo día y el análisis dio vuelta.** Todavía no está decidido.*
 
-**Hoy Pilar tiene envío sin cargo siempre**, sin umbral, porque va por reparto propio. La propuesta es aplicarle **la misma regla que al AMBA: sin cargo desde $40.000, y por debajo se cobra.**
+> ## 🔄 La corrección que cambia la conclusión
+>
+> El primer análisis decía que sí, con holgura, porque asumía que el umbral iba a empujar el ticket de Pilar de $23.677 a $40.000. **Juan aportó el dato que lo desarma: en Pilar el cliente recurrente es Eugenio, y siempre gasta más de $40.000.**
+>
+> **Eugenio ya supera el umbral. O sea que el cambio no le toca al único que importa, y la ganancia por "subir el ticket" es cero en su caso.**
+>
+> Y hay una consecuencia aritmética: **si los 6 pedidos de Eugenio son de $40.000 o más, los otros 38 del período promedian ~$21.000**, no $23.677. **Pedirles $40.000 es pedirles que casi dupliquen el carrito.** Eso no es un empujón, es una pared.
 
-### Los números dicen que sí, y con bastante margen
+### El dato completo de la base de Pilar
 
-**1. Pilar es la zona más rentable que tenés, y por lejos.**
+Del export de ventas (28/05 al 10/08, 44 pedidos): **hay 11 clientes con 2 pedidos o más**, no uno solo.
 
-| Zona | Deja un pedido de $40.000 |
+| Cliente | Pedidos |
 |---|---:|
-| **Pilar** (reparto propio) | **$15.060 · 37,6%** |
-| Cercana (CABA) | $10.500 · 26,2% |
-| Media | $8.675 · 21,7% |
-| Lejana | $6.850 · 17,1% |
-| Muy lejana | $5.480 · 13,7% |
+| Eugenio Pascual Andisco | 6 |
+| Maria Paula Ingaramo | 6 |
+| Patricia Toledo | 5 |
+| Mariana De Arteche | 3 |
+| Otros 7 clientes | 2 c/u |
+| **Total recurrentes** | **34 de 44** |
 
-**Y hoy es la única zona sin ningún incentivo para llegar a los $40.000.** El cliente de Pilar ya tiene el envío gratis con $8.000 de compra.
+**Eugenio es el más fiel, pero empatado con María Paula, y hay diez recurrentes más.** De los otros diez no sabemos el ticket: es un dato que hay que mirar antes de tocar nada.
 
-**2. Mover un pedido de Pilar de $23.677 a $40.000 vale $6.350.** Es el mejor rendimiento por pedido de todo el negocio — mejor que ganar un cliente nuevo en zona Lejana.
+### El trade real, con el dato corregido
 
-**3. La tolerancia al riesgo es amplia.** Sobre una base de 18 pedidos mensuales:
+Sobre 18 pedidos mensuales, supongamos 2 de Eugenio (que no cambian) y 16 del resto a ~$21.000:
 
-| Si suben a $40.000 | Ganancia extra por mes | Podés perder |
-|---:|---:|---|
-| 20% | $22.859 | 2,6 pedidos (15% de la base) |
-| **33%** | **$37.717** | **4,3 pedidos (24% de la base)** |
-| 50% | $57.147 | 6,6 pedidos (36% de la base) |
+| | |
+|---|---:|
+| Lo que deja hoy un pedido de $21.000 | $7.669 |
+| Si les cobrás $3.000 de envío, te entran | $44.640/mes |
+| **Pedidos que podés perder antes de quedar peor** | **5,8 — el 36% de ese grupo** |
 
-**Con que un tercio de los clientes de Pilar suba el carrito, podés perder un cuarto de la base y quedar igual.**
+**El margen sigue existiendo, pero la naturaleza del negocio cambió:** ya no es "subo el ticket y gano $6.350 por pedido", es "cobro $3.000 a los chicos y rezo que no se vayan". **Es un trade bastante peor**, sobre una base que ya viene cayendo (27 → 9 → 1 pedidos de junio a agosto).
 
-**4. Simplifica la regla en vez de complicarla.** "Pilar siempre sin cargo" **ya es una excepción**. Sacarla deja una sola frase para toda la comunicación: *"Envío sin cargo desde $40.000, en todos lados."*
+### 📌 Conclusión: el umbral de $40.000 no es el correcto para Pilar
 
-**5. Acorta la vuelta del jueves.** Pedidos más grandes y menos numerosos son menos paradas. Va en la dirección de que Juan deje de repartir.
+**No porque esté mal la idea de cobrar, sino porque el número está mal elegido.** La regla de la casa dice que el umbral va entre **1,2 y 1,4 veces el ticket del grupo**. Con el ticket real de los no-Eugenio en ~$21.000, eso da **$25.000 a $29.000**.
 
-### ⚠️ Pero hay tres cosas que hay que resolver antes
+> ### Las dos salidas, por orden
+>
+> **A — La simple: no tocar Pilar por ahora.** Eugenio ya paga lo que hay que pagar; los chicos no van a llegar a $40.000. El envío sin cargo en Pilar cuesta poco (el costo es la vuelta, no la parada) y la base ya está frágil. **Se revisa después del primer despacho del AMBA, con datos frescos.**
+>
+> **B — Si igual se quiere cobrar: umbral propio de Pilar en $28.000, no $40.000.** Ahí sí es un empujón alcanzable — el cliente agrega uno o dos productos y llega. Rompe la frase única de la comunicación, pero Pilar ya es un caso aparte (reparto propio) y se explica solo.
 
-**1. ¿Cuánto se le cobra? No puede ser la tarifa de Muy lejana.** Pilar figura en la zona más cara del tarifario de Flexit ($10.400 al cliente), **pero a Pilar no lo reparte Flexit**. Cobrar $10.400 por una entrega que hace Juan en su propia ciudad sería caro, deshonesto y espantaría a la base.
+### 💡 Y lo que sí hay que hacer con Eugenio, que vale mucho más
 
-> **La propuesta: $3.000.** Es el 12,7% de un pedido de $23.677 — se siente, que es el punto — y es visiblemente más barato que cualquier zona del AMBA, lo cual es honesto porque el reparto es local y propio.
+**Eugenio no es un problema de umbral: es el candidato perfecto para la suscripción.** Compra 6 veces en 2 meses y medio, siempre arriba de $40.000. El **Plan Quincenal** ($75.000 al mes, 2 entregas de $40.000, −6%) es exactamente su perfil.
 
-| Si cobrás | Es del pedido actual | Te entran netos |
-|---:|---:|---:|
-| $2.500 | 10,6% | $2.325 |
-| **$3.000** | **12,7%** | **$2.790** |
-| $4.000 | 16,9% | $3.720 |
+**Y si paga por transferencia, el descuento se paga solo:** la comisión de Pago Nube sobre $75.000 son $5.250 y el descuento cuesta $5.000.
 
-**2. El costo real de la vuelta sigue sin medirse**, y ya estaba anotado como urgente. Sin ese número el precio es una apuesta:
-
-| Costo de la vuelta | 18 entregas | 12 entregas | 8 entregas |
-|---:|---:|---:|---:|
-| $20.000 | $1.111 | $1.667 | $2.500 |
-| $40.000 | $2.222 | $3.333 | $5.000 |
-| $60.000 | $3.333 | $5.000 | $7.500 |
-
-> 💡 **Y ojo con un detalle económico:** en un country el costo es **la vuelta**, no la parada. Sumar una entrega más adentro de Pilar del Lago cuesta casi cero. **Así que el cargo de Pilar no es recupero de costo: es un empujón al carrito.** Está bien que lo sea, pero hay que saberlo — si el objetivo fuera recuperar el costo, el número correcto sería otro.
-
-**3. Es un aumento encubierto para la base que hoy paga las cuentas**, justo cuando el negocio viene cayendo (27 → 9 → 1 pedidos de junio a agosto) y el 55% sale de un solo country. **El framing decide si sale bien o mal.**
-
-> **Cómo presentarlo:** como parte del lanzamiento del AMBA, no como quitarle algo a Pilar.
-> *"Desde el 24 entregamos en todo el AMBA, y la regla es la misma para todos: envío sin cargo desde $40.000."*
-> Nunca como *"a partir de ahora en Pilar se cobra el envío"*.
-
-### El plan B, si Pilar no responde
-
-**No es volver al envío sin cargo siempre: es bajarle el umbral a Pilar.** La regla de la casa dice que el umbral va entre 1,2 y 1,4 veces el ticket promedio; con el ticket de Pilar en $23.677 eso da **$28.400–$33.100**. O sea que **$40.000 para Pilar es un umbral de 1,7×: exigente.** Se sostiene porque los combos arrancan en $40.500, pero si en dos o tres jueves el ticket de Pilar no se mueve, el ajuste correcto es un umbral propio de $30.000 para Pilar, no volver atrás.
+**Lo mismo vale para María Paula (6 pedidos) y Patricia Toledo (5).** Son los tres a los que hay que ofrecerles el plan primero — y de paso son los mismos a los que ya se les iba a pedir reseña.
 
 ---
 

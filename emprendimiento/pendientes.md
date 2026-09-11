@@ -195,8 +195,9 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 
 ## 🔴 Prioridad 1 — Confirmaciones que faltan
 
-- [ ] 🤔 **DECISIÓN ABIERTA: ¿Pilar entra en el umbral de $40.000?** *(planteada por Juan el 11/09)*. Hoy Pilar tiene envío sin cargo siempre. **El análisis dice que conviene** —Pilar es la zona más rentable ($15.060 en un pedido de $40.000) y la única sin incentivo para llegar ahí; mover un pedido de $23.677 a $40.000 vale $6.350—, **pero hay que decidir tres cosas antes**: cuánto se cobra (propuesta: **$3.000**, nunca la tarifa de Muy lejana), cómo se comunica (como regla única del lanzamiento AMBA, nunca como "ahora en Pilar se cobra"), y medir el costo real de la vuelta. Análisis completo en `envios-amba.md` sección 3 bis.
-  - ⚠️ **Si se decide que sí, hay que tocar:** `perfil.md`, la página de Envíos de la tienda, las zonas de envío en Tiendanube, el dossier de Alva y los dos PDF.
+- [ ] 🤔 **DECISIÓN ABIERTA: ¿Pilar entra en el umbral de $40.000?** *(planteada por Juan el 11/09, **revisada el mismo día**)*. **La respuesta se dio vuelta con un dato de Juan: en Pilar el recurrente es Eugenio y siempre gasta más de $40.000.** O sea que el umbral no le toca al que importa, y si sus 6 pedidos son de $40.000+, los otros 38 del período promedian ~$21.000 — pedirles $40.000 es pedirles que dupliquen el carrito. **Recomendación: no tocar Pilar por ahora**; si igual se quiere cobrar, el umbral propio de Pilar son **$28.000**, no $40.000. Análisis completo en `envios-amba.md` sección 3 bis.
+  - [ ] **Mirar el ticket de los otros 10 clientes recurrentes de Pilar** antes de decidir. Hoy solo se sabe el de Eugenio.
+  - ⚠️ **Si al final se decide cambiar algo, hay que tocar:** `perfil.md`, la página de Envíos de la tienda, las zonas de envío en Tiendanube, el dossier de Alva y los dos PDF.
 
 - [ ] ⚖️ **Marca CORTEZA — oposición en el INPI. Fecha clave: 22/10/2026.** Detalle completo en `marca-inpi.md`.
   Hasta esa fecha es **etapa de negociación**: no hay nada que contestar formalmente ante el INPI. Ya se le mandó la propuesta por WhatsApp al oponente el 24/07 (limitar nuestra clase 35 excluyendo ropa, calzado, bolsos y carteras). Si al vencer el plazo la oposición sigue en pie, el INPI le exige al oponente una tasa de mantenimiento: si no la paga, la oposición cae sola.
@@ -256,6 +257,8 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 ---
 
 ## 🟢 Prioridad 4 — Marketing continuo
+
+- [ ] ⭐ **Ofrecerle la suscripción a los tres clientes más fieles, antes que a nadie.** *(11/09)*. **Eugenio Pascual Andisco (6 pedidos, siempre arriba de $40.000), Maria Paula Ingaramo (6) y Patricia Toledo (5).** Eugenio es el caso de manual del **Plan Quincenal** ($75.000/mes, 2 entregas de $40.000): ya compra eso, solo falta ordenarlo. **Cobrándolo por transferencia el descuento del 6% se paga solo** — la comisión de Pago Nube sobre $75.000 son $5.250 y el descuento cuesta $5.000. Son además los mismos a los que ya se les iba a pedir reseña, así que va en la misma conversación.
 
 - [ ] **Sacar fotos reales de producto** (pan cortado con la miga a la vista, rebanadas tostadas, mesa servida). Sigue pendiente para las **fichas de producto**, que es donde se decide la compra. *(El 19/08 se cambiaron las fotos de la página de inicio, que es otra cosa.)*
 - [ ] Posteo de curaduría: **"Nosotros no horneamos. Elegimos."** con la panadería de alguno de los proveedores. Nadie lo puede copiar.
