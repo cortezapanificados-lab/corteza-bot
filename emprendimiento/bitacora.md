@@ -2,6 +2,35 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 11/09/2026 (3) — Los dos extremos de un pedido de $40.000: uno deja $12.884 y el otro da pérdida
+
+Juan pidió ver los dos casos límite de un pedido de $40.000. **La conclusión es que el ticket no dice nada por sí solo.**
+
+| Caso | Qué lleva | Adónde va | Resultado |
+|---|---|---|---:|
+| 🔴 Peor | 2 pastas de tomates secos + 3 yerbas ($40.500) | Muy lejana | **−$1.035** |
+| 🟢 Mejor | 3 panes de molde blanco + pepas ($40.800) | CABA | **+$12.884** |
+
+**$13.919 de diferencia con la misma venta y el mismo trabajo.** Con 11 pedidos como el bueno se cubren los $137.000 de fijos del mes; con pedidos como el malo no se cubren nunca.
+
+> ### 🧭 La regla que sale de ahí: el margen bruto mínimo por zona
+>
+> | Zona | Margen bruto mínimo |
+> |---|---:|
+> | Pilar (reparto propio) | 8,3% |
+> | Cercana (CABA) | 19,7% |
+> | Media | 24,2% |
+> | Lejana | 28,8% |
+> | **Muy lejana** | **32,2%** |
+>
+> **Los panificados propios (43,5%–52,2%) pasan en todas las zonas con holgura.** El almacén de terceros (29,2%–36,4%) no: en **Muy lejana solo pasan dos de los veinte** — el aceite Zuelo y las aceitunas negras. **Los otros dieciocho dan pérdida si el pedido es solo de almacén.** En Lejana pasan todos, pero al filo: $40.000 de pura yerba dejan $170.
+
+**No es un riesgo teórico:** un cliente de Escobar o La Plata que arma $40.000 de mermeladas, dips y yerba es un pedido normal, y hace perder plata. **No hace falta bloquearlo ni complicar la tienda** — hace falta mirarlo después del primer despacho. Si aparece el patrón, las salidas son subir el umbral para esas dos zonas o pedir un mínimo de panificados en el carrito. **Mientras el pan sea el grueso del pedido el problema no existe**, y el pan es lo que la gente viene a comprar.
+
+Quedó en `numeros.md` como sección 3 ter.
+
+---
+
 ## 11/09/2026 (2) — El ticket pasa a modelarse en $40.000, y eso cambia de quién es el flete
 
 Juan definió que **el pedido promedio se modela en $40.000, que es el umbral del envío sin cargo.** Parece un ajuste de supuesto y es el cambio más grande del modelo hasta ahora, porque **resuelve la inconsistencia que había quedado abierta esta misma mañana**: si el pedido promedio llega al umbral, **el flete lo paga Corteza en casi todos los pedidos.** Ya no hay dos supuestos conviviendo — el envío es un costo del negocio.

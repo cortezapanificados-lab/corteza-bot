@@ -10,7 +10,7 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 >
 > Las dos semanas previas quedaron sin avanzar (ni influencers ni test de Meta) y salir el 17 era abrir a medias. **Septiembre queda con un solo día de envío.**
 >
-> **El objetivo dejó de ser "150 anotados": ahora son 30 pedidos en el despacho del 24.** El mínimo mensual de 120 de Flexit no se persigue este mes; se trabaja sobre el supuesto de que se paga solo lo despachado. Con 30 pedidos el mes cierra en positivo (+$54.620 antes de publicidad) y el equilibrio son 18. Cuenta completa en `numeros.md` sección 3 bis.
+> **El objetivo dejó de ser "150 anotados": ahora son 30 pedidos en el despacho del 24.** El mínimo mensual de 120 de Flexit no se persigue este mes; se trabaja sobre el supuesto de que se paga solo lo despachado. **Con 30 pedidos a $40.000 el mes cierra en +$124.600 antes de publicidad y el equilibrio son 16 pedidos** *(rehecho el 11/09/2026 con los costos corregidos y el ticket de $40.000)*. Cuenta completa en `numeros.md` sección 3 bis.
 
 > ### 🌎 Evaluado y descartado el 07/09: abrir solo CABA para probar
 >
@@ -180,6 +180,16 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 ~~**Decidido el 18/08:** en Pilar no se avisa nada sobre costos de envío por ahora.~~ → **Resuelto el 07/09: en Pilar el envío sigue sin cargo y con reparto propio de Juan.** No hay nada que avisar ni que cambiar para el lanzamiento.
 
 ~~**El número de cada domingo:** 33 anotados por semana → 66 el 24/8 · 100 el 31/8 · 133 el 7/9 · 150 el 14/9.~~ → **reemplazado el 07/09.** Con un solo despacho en septiembre, el número a seguir ya no es la lista sino **los 30 pedidos del jueves 24/9**.
+
+---
+
+## 👁️ Después del primer despacho: medir dos cosas
+
+*Agregado el 11/09/2026.*
+
+1. **El ticket promedio real.** Todo el modelo actual asume $40.000, que es el umbral del envío sin cargo. El último ticket relevado fue $23.677. **Si el real no llega a $40.000, hay que rehacer las cuentas de `numeros.md`.**
+
+2. **Si aparecen pedidos de almacén puro en las zonas lejanas.** Un pedido de $40.000 en Muy lejana con solo mermeladas, dips o yerba **da pérdida**: esas zonas necesitan 32,2% de margen bruto y casi todo el almacén de terceros está abajo. Los panificados pasan con holgura, así que mientras el pan sea el grueso del carrito no hay problema. **Si el patrón aparece**, las salidas son subir el umbral para Lejana y Muy lejana, o pedir un mínimo de panificados en el carrito. Detalle en `numeros.md` sección 3 ter.
 
 ---
 

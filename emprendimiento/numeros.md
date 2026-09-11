@@ -127,6 +127,80 @@ Septiembre queda con **un único despacho de AMBA** y **sin mínimo**: Flexit co
 
 ---
 
+## 3 ter. Los dos extremos: el mejor y el peor pedido de $40.000
+
+*Calculado el 11/09/2026, a pedido de Juan.*
+
+**El ticket no dice nada por sí solo.** Dos pedidos de $40.000 pueden dejar $12.884 o **hacerte perder plata**, según qué lleven y adónde vayan.
+
+### 🔴 El peor caso: zona Muy lejana con los productos de menor margen
+
+| | |
+|---|---:|
+| 2 × Pasta de tomates secos Contraviento | $21.000 |
+| 3 × Yerba orgánica Roapipó suave | $19.500 |
+| **Total del pedido** | **$40.500** |
+
+| | Monto | |
+|---|---:|---:|
+| Costo de la mercadería | −$28.620 | |
+| **Margen bruto** | **$11.880** | 29,3% |
+| Comisión Pago Nube (7%) | −$2.835 | |
+| Packaging | −$500 | |
+| Flete Muy lejana | −$9.580 | |
+| **Resultado** | **−$1.035** | **−2,6%** |
+
+**Ese pedido da pérdida.** Para empatar tendría que ser de **$45.200** con esa misma mezcla de productos.
+
+### 🟢 El mejor caso: CABA con los panificados de mayor margen
+
+| | |
+|---|---:|
+| 3 × Pan de molde blanco | $34.500 |
+| 1 × Pepas integrales | $6.300 |
+| **Total del pedido** | **$40.800** |
+
+| | Monto | |
+|---|---:|---:|
+| Costo de la mercadería | −$20.000 | |
+| **Margen bruto** | **$20.800** | 51,0% |
+| Comisión Pago Nube (7%) | −$2.856 | |
+| Packaging | −$500 | |
+| Flete Cercana (CABA) | −$4.560 | |
+| **Resultado** | **+$12.884** | **+31,6%** |
+
+**Con 11 pedidos así al mes ya cubrís los $137.000 de costos fijos.** Con pedidos como el caso A no los cubrís nunca.
+
+> **Entre los dos extremos hay $13.919 de diferencia, con la misma venta y el mismo trabajo.**
+
+---
+
+### 🧭 La regla que sale de acá: el margen bruto mínimo por zona
+
+En un pedido de $40.000 con envío sin cargo, el margen bruto tiene que alcanzar para cubrir la comisión, el packaging y el flete de la zona:
+
+| Zona | Flete | Hay que cubrir | **Margen bruto mínimo** |
+|---|---:|---:|---:|
+| **Pilar** (reparto propio) | — | $3.300 | **8,3%** |
+| Cercana (CABA) | $4.560 | $7.860 | **19,7%** |
+| Media | $6.385 | $9.685 | **24,2%** |
+| Lejana | $8.210 | $11.510 | **28,8%** |
+| **Muy lejana** | $9.580 | $12.880 | **32,2%** |
+
+**Para comparar:** los panificados propios van de 43,5% a 52,2% — **pasan en todas las zonas con holgura.** El almacén de terceros va de 29,2% a 36,4%:
+
+- En **CABA y Media** pasan todos, cómodos.
+- En **Lejana** pasan todos, pero al filo: un pedido de $40.000 de pura yerba deja **$170**.
+- En **Muy lejana** **solo pasan dos de los veinte**: el aceite Zuelo (36,4%) y las aceitunas negras (32,9%). **Los otros dieciocho dan pérdida si el pedido es solo de almacén.**
+
+> ### ⚠️ Lo que hay que vigilar
+>
+> **El riesgo no es teórico**: un cliente de Escobar o La Plata que arma $40.000 de mermeladas, dips y yerba es un pedido perfectamente normal, y te hace perder plata.
+>
+> **No hace falta bloquearlo ni complicar la tienda.** Lo que hace falta es **mirarlo después del primer despacho**: si aparecen pedidos de almacén puro en zonas lejanas, las salidas son subir el umbral para esas dos zonas, o pedir un mínimo de panificados en el carrito. **Mientras el pan sea el grueso del pedido, el problema no existe** — y el pan es lo que la gente viene a comprar.
+
+---
+
 ## 4. Cuánto ganás según el volumen
 
 Ticket $40.000, envío sin cargo, Meta a $150.000/mes. Hasta 120 pedidos el flete es el mínimo obligatorio; de ahí en más, el costo real de cada envío.
