@@ -1,6 +1,6 @@
 # Perfil de Corteza
 
-*Última actualización: 28/08/2026 (Flexit pasa a ser la logística del AMBA; condición fiscal)*
+*Última actualización: 11/09/2026 (se corrigen dos costos: packaging $500 por pedido y flete de proveedores $75.000/mes)*
 
 **Quien lleva Corteza: Juan (varón — hablarle en masculino).**
 
@@ -55,24 +55,26 @@ Lo que incluye Flexit: **segunda y tercera visita sin costo adicional**, same-da
   - Catálogo completo: **36,9%**
   - *(El "30%" que se venía usando era una estimación y quedó desactualizado. El margen real es bastante mejor.)*
 - **Comisión Pago Nube: 7%** de la venta.
-- **Packaging: 1%** de la venta.
+- **Packaging: $500 por pedido** *(corregido por Juan el 11/09/2026; antes estaba cargado como 1% de la venta)*. Es un **monto fijo por pedido**, no un porcentaje: no depende de cuánto lleve la caja.
 - **Envío**: según zona (arriba), a cargo del comprador. El precio que se le cobra lleva recargo para cubrir la comisión de Pago Nube (se divide por 0,93): **$4.700 Cercana, $6.600 Media, $8.500 Lejana, $9.900 Muy lejana**.
 
-> **El modelo, en una línea: ganancia por pedido = venta × (margen bruto − 8%).**
+> **El modelo, en una línea: ganancia por pedido = venta × (margen bruto − 7%) − $500.**
+>
+> En un ticket de $28.000 de panificados eso son **$10.392 (37,1%)**.
 
 **Fijos mensuales:**
 - Claude: $35.000
 - Tiendanube: $27.000
-- Envío del proveedor al almacén: $20.000
+- **Envío de los proveedores al depósito: $75.000** *(corregido por Juan el 11/09/2026; venía cargado en $20.000)*
 - Publicidad en Meta: a definir (ver `campana-meta.md`)
 
-**Total fijos: $82.000/mes** antes de publicidad.
+**Total fijos: $137.000/mes** antes de publicidad. **El flete de proveedores es el fijo más grande: más que Claude y Tiendanube juntos.**
 
-**Techo de margen neto: 37,9%** (45,9% de margen bruto en propios menos el 8% de cargas). **Ya supera el objetivo del 30%.**
+**Techo de margen neto: 38,9%** (45,9% de margen bruto en propios menos el 7% de comisión), y **37,1% efectivo** en un ticket de $28.000 una vez descontado el packaging. **Sigue por encima del objetivo del 30%.**
 
-**Punto de equilibrio:** 8 pedidos/mes sin publicidad, 22 con Meta a $150.000 (5 por jueves).
+**Punto de equilibrio:** 14 pedidos/mes sin publicidad, 28 con Meta a $150.000 (6,5 por jueves), asumiendo que el envío lo paga el cliente. Con el mínimo de 120 envíos de Flexit corriendo, el equilibrio de un mes normal sube a **87 pedidos**. Detalle en `numeros.md`.
 
-**Se llega al 30% de margen neto con 24 pedidos por jueves.** Y el mínimo de 30 que exige Smart Post ya deja 31,5%: cuando se pueda despachar con ellos, el objetivo está cumplido por definición. Análisis completo en `numeros.md`.
+**Con los costos corregidos, el 30% de margen neto llega recién cerca de los 35 pedidos por jueves** (antes se decía 24, con los fijos en $82.000). Los $55.000 extra de flete de proveedores corren la meta, pero no la mueven de lugar: son fijos, así que se diluyen con volumen. Análisis completo en `numeros.md`.
 
 El lanzamiento está esperando una **mudanza personal** de quien lleva el emprendimiento (no se muda el negocio; es un tema de espacio para stockear). Es un asunto privado: **no se usa como material de comunicación.**
 

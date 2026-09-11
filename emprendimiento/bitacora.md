@@ -2,6 +2,43 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 11/09/2026 — Dos costos mal cargados, y uno de ellos da vuelta el resultado de septiembre
+
+Juan pidió **un resumen de costos y precios para compartirle a un socio nuevo** y, de paso, pasó los dos costos reales que faltaban. **Ninguno de los dos estaba bien en la memoria.**
+
+| | Estaba anotado | **Es** |
+|---|---|---|
+| Packaging | 1% de la venta (~$280 en un ticket de $28.000) | **$500 fijos por pedido** |
+| Flete de los proveedores al depósito | $20.000/mes | **$75.000/mes** |
+
+**El packaging casi no mueve la aguja** ($220 por pedido), pero cambia cómo se lee: **al ser fijo, pesa 1,8% en un pedido de $28.000 y 5% en uno de $10.000.** Los pedidos chicos son proporcionalmente más caros de empacar — otro argumento a favor de los combos y del umbral de $40.000.
+
+**El flete de proveedores sí mueve la aguja, y fuerte.** Son **$55.000 más por mes**, y con eso pasa a ser **el costo fijo más grande del negocio: más que Claude y Tiendanube juntos.** Los fijos van de $82.000 a **$137.000**.
+
+> ### ⚠️ La consecuencia: septiembre pasa de +$46.160 a −$15.440
+>
+> Con los 30 pedidos que son el objetivo del lanzamiento, **el mes da una pérdida chica.** El equilibrio de septiembre pasa de 21 a **34 pedidos**.
+>
+> **No es un problema del producto.** Los márgenes de la mercadería están igual de bien que ayer (45,9% en propios). Lo que pasa es que **un mes con un solo día de despacho tiene que bancar los fijos completos con 30 pedidos, y no le alcanza por poco: cuatro pedidos.** Y la cuenta es conservadora — no computa los envíos que se le cobran a los pedidos bajo el umbral de $40.000 ni los de Pilar, que no pagan flete. Con eso probablemente cierre en cero.
+
+**También se corrió la meta del 30% de margen neto: de 24 a ~35 pedidos por jueves.** A 30 por jueves el negocio rinde 29,2%, así que queda cerca, pero el mínimo de 120 de Flexit **dejó de ser la garantía de que el negocio cierra y pasó a ser el piso desde el cual empieza a rendir.**
+
+### Un error de cálculo viejo que salió a la luz
+
+Rehaciendo el punto de equilibrio apareció que **la tabla del 28/08 (49, 52 y 58 pedidos por mes) estaba mal, y no por los costos corregidos.** Aplicando la fórmula que la propia memoria enunciaba, y aun con los fijos viejos de $82.000, daba 76 pedidos. Con los costos de hoy son **87**. Queda corregido en `numeros.md`.
+
+### Y una inconsistencia de supuestos que hay que resolver
+
+La memoria viene usando **dos supuestos distintos de envío sin darse cuenta**: la tabla de volumen asume que **lo paga el cliente**, y el escenario de septiembre asume que **lo paga Corteza**. Las dos cosas son ciertas a medias: el envío lo paga el cliente salvo arriba de $40.000 y en Pilar. **Con el umbral en $40.000 y los combos armados justamente para llegar ahí, falta saber qué porcentaje de los pedidos lo va a superar.** Es el dato que cierra el modelo y quedó anotado en `numeros.md` sección 6.
+
+### Lo que se entregó
+
+Una **página para compartirle al socio** con el catálogo completo (34 productos: costo, precio de publicación, ganancia y margen de cada uno), la estructura de costos, el prorrateo del flete de proveedores según volumen y los dos escenarios de septiembre y octubre. Está publicada como Artifact.
+
+**Archivos tocados:** `numeros.md` (secciones 1 a 6 rehechas), `perfil.md` (estructura de costos), `bitacora.md`.
+
+---
+
 ## 10/09/2026 (3) — Suscripciones, con el modelo correcto: pack mensual de entregas de $40.000
 
 **Juan corrigió un error de la entrada anterior y es una corrección de fondo.** Ahí se modelaron entregas de $25.000–$30.000, o sea **por debajo del umbral de envío sin cargo**, y de eso salía todo un problema sobre si darle o no el envío al suscriptor. **Su modelo no tiene ese problema: la suscripción es un pack mensual de $160.000 con 6% de descuento — cuatro entregas de $40.000. Cada entrega supera el umbral sola, así que el envío sin cargo ya le corresponde como a cualquier cliente. El beneficio de suscribirse es el descuento y nada más.**
