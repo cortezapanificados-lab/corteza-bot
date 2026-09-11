@@ -151,7 +151,15 @@ Calculados con el **margen efectivo real del 37,9%** (45,9% de margen bruto en p
 
 ### Lo que te propongo ofrecer
 
-> ## ✅ VIGENTE desde el 07/09/2026 — un solo umbral: $30.000
+> ## ⛔ SUPERADO — este umbral de $30.000 ya no rige
+>
+> **El umbral vigente es $40.000**, decidido por Juan el 10/09/2026 junto con los combos que lo sostienen (ver `perfil.md` y `textos/combos-amba.md`). **Todo lo que sigue en este bloque quedó como referencia histórica**: el razonamiento sigue siendo válido, los números están calculados sobre $30.000.
+>
+> ⚠️ **Y hay algo más importante que cambió el 11/09:** con el ticket promedio modelado en $40.000, **el envío bonificado pasa a ser un costo de Corteza en casi todos los pedidos** — $6.340 promedio, 15,9% del pedido. Eso pone un **techo de 21,8% al margen neto** del negocio. La cuenta completa y los dos regímenes del mínimo de Flexit, en `numeros.md` sección 3.
+>
+> ---
+>
+> ## Referencia histórica: el umbral de $30.000 (07/09/2026)
 >
 > ### Envío sin cargo en todo el AMBA desde $30.000.
 >

@@ -1,27 +1,27 @@
 # Los números de Corteza
 
-*Modelo definido el 10/08/2026. **Rehecho por completo el 11/09/2026** con los dos costos corregidos por Juan: packaging $500 por pedido y flete de proveedores $75.000 por mes.*
+*Modelo definido el 10/08/2026. **Rehecho por completo el 11/09/2026**, dos veces: primero con los costos corregidos (packaging $500 por pedido, flete de proveedores $75.000 por mes) y después con el **ticket promedio de $40.000**, el umbral del envío sin cargo.*
 
 ---
 
 ## 1. El modelo, en una línea
 
-> **Ganancia por pedido = venta × (margen bruto − 7%) − $500**
+> **Ganancia por pedido = venta × (margen bruto − 7%) − $500 de packaging − el flete**
 
-> 🔄 **Corregido el 11/09/2026.** Juan pasó los dos costos reales y ninguno estaba bien cargado:
-> **el packaging son $500 fijos por pedido** (venía como 1% de la venta) y **el flete de los proveedores al depósito son $75.000 por mes** (venía como $20.000). Todas las cuentas de abajo están rehechas con eso.
+> 🔄 **Rehecho el 11/09/2026 con el ticket de $40.000.** Juan definió que **el pedido promedio se modela en $40.000, que es el umbral del envío sin cargo**. Eso cambia el modelo de raíz: **si el pedido promedio llega al umbral, el flete lo paga Corteza en casi todos los pedidos.** Ya no hay dos supuestos dando vueltas — el envío es un costo de Corteza y está adentro de la cuenta.
 
-Las cargas por pedido:
+Las cargas de un pedido de $40.000:
 
-| Concepto | Cómo se cobra | En un ticket de $28.000 |
-|---|---|---:|
-| Comisión Pago Nube | 7% de todo lo cobrado, envío incluido | $1.960 |
-| Packaging | **monto fijo por pedido**, no porcentaje | $500 |
-| **Total** | | **$2.460 (8,8%)** |
+| Concepto | Cómo se cobra | Monto | Sobre el pedido |
+|---|---|---:|---:|
+| Flete al cliente (Flexit) | por pedido, según zona; bonificado desde $40.000 | $6.340 | **15,9%** |
+| Comisión Pago Nube | 7% de todo lo cobrado | $2.800 | 7,0% |
+| Packaging | monto fijo por pedido | $500 | 1,25% |
+| **Total** | | **$9.640** | **24,1%** |
 
-> ⚠️ **El packaging es fijo, y eso cambia cómo se lee.** En un pedido de $28.000 pesa 1,8%; en uno de $10.000 pesa 5%. **Los pedidos chicos son proporcionalmente más caros de empacar** — un argumento más a favor de los combos y del umbral de $40.000.
+*(El flete de $6.340 es el promedio ponderado de las cuatro zonas con la mezcla esperada: 40% CABA, 30% Media, 20% Lejana, 10% Muy lejana.)*
 
-Y aparte, los costos fijos del mes:
+Y los costos fijos del mes:
 
 | Concepto | Por mes |
 |---|---:|
@@ -30,140 +30,146 @@ Y aparte, los costos fijos del mes:
 | Tiendanube | $27.000 |
 | **Total** | **$137.000** |
 
-*(Más la publicidad en Meta cuando arranque.)*
+---
 
-> 💡 **El flete de proveedores es ahora el costo fijo más grande del negocio: más que Claude y Tiendanube juntos.** Son $55.000 mensuales más de lo que estaba anotado. La buena noticia es que **es fijo**: no crece con las ventas, así que se diluye con volumen. Repartido entre 30 pedidos son $2.500 por pedido; entre 120, $625.
+## 2. Qué deja un pedido de $40.000
+
+| | Monto | % del pedido |
+|---|---:|---:|
+| Venta | $40.000 | 100% |
+| Costo de la mercadería | −$21.640 | 54,1% |
+| **Margen bruto** | **$18.360** | **45,9%** |
+| Comisión Pago Nube | −$2.800 | 7,0% |
+| Packaging | −$500 | 1,25% |
+| **Antes del flete** | **$15.060** | **37,6%** |
+| Flete promedio | −$6.340 | 15,9% |
+| **Queda** | **$8.720** | **21,8%** |
+
+### Lo que deja según la zona
+
+| Zona | Flete | Queda | Margen | Mezcla |
+|---|---:|---:|---:|---:|
+| **Pilar** (reparto propio) | — | **$15.060** | **37,6%** | aparte |
+| Cercana (CABA) | $4.560 | $10.500 | 26,2% | 40% |
+| Media | $6.385 | $8.675 | 21,7% | 30% |
+| Lejana | $8.210 | $6.850 | 17,1% | 20% |
+| Muy lejana | $9.580 | $5.480 | 13,7% | 10% |
+
+> 💡 **Un pedido de CABA deja casi el doble que uno de Escobar** ($10.500 contra $5.480) por la misma venta y el mismo trabajo. **Dónde se hace la publicidad es una decisión de margen, no de marketing.** Refuerza lo que ya decía `zonas-amba-ranking.md`.
+
+El detalle producto por producto está en `tabla-margenes.md`.
 
 ---
 
-## 2. Tu margen bruto real
+## 3. Los dos regímenes: la clave de todo el modelo
 
-Calculado con los costos exportados de Tiendanube:
+**Flexit cobra un mínimo de 120 envíos por mes.** Los que no se usan, se pagan igual. Eso parte el negocio en dos situaciones con matemáticas completamente distintas:
 
-| | Margen bruto | Menos comisión 7% | Menos $500 de packaging | **Te queda** |
-|---|---|---|---|---|
-| **Panificados propios** | 45,9% | 38,9% | −1,8% | **37,1%** |
-| Catálogo completo | 36,7% | 29,7% | −1,8% | 27,9% |
-| Solo terceros | 29,1% | 22,1% | −1,8% | 20,3% |
+| Situación | Qué cuesta el flete del pedido siguiente | Deja un pedido de $40.000 |
+|---|---|---:|
+| **Abajo de 120 pedidos/mes** | **nada** — ese envío ya está pagado por el mínimo | **$15.060 · 37,6%** |
+| **Arriba de 120 pedidos/mes** | $6.340, el costo real | **$8.720 · 21,8%** |
 
-*(La columna del packaging asume el ticket de $28.000. En pedidos más chicos pesa más.)*
+### ✅ Por qué el umbral de $40.000 es la decisión correcta hoy
 
-**Como los panificados son el grueso de lo que vendés, la referencia es 37,1%.** En un pedido de $28.000 eso son **$10.392** que quedan para cubrir los fijos y ganar. *(Antes de la corrección del 11/09 esta cifra era $10.612: la diferencia por pedido es chica, lo que pega fuerte son los $55.000 mensuales del flete.)*
+Mientras el mes no llegue a 120 pedidos —o sea, todo el horizonte visible— **los envíos ya están pagados igual**. En ese régimen:
 
-El detalle producto por producto está en `tabla-margenes.md` y en el Excel.
+| | Deja |
+|---|---:|
+| Pedido de $40.000 con envío bonificado | **$15.060** |
+| Pedido de $28.000 con el cliente pagando el envío | $10.392 |
+| **Diferencia** | **+$4.668** |
 
----
+**El umbral se paga solo.** Empujar el carrito de $28.000 a $40.000 vale $4.668 por pedido mientras el flete sea un costo hundido.
 
-## 3. Punto de equilibrio
+### ⚠️ Y cuándo hay que volver a mirarlo
 
-> ⚠️ **Antes de leer los números: hay dos supuestos distintos de envío dando vueltas en esta memoria y conviene elegir uno.**
+Pasados los 120 pedidos mensuales la cuenta **se da vuelta**: cada envío bonificado pasa a costar $6.340 de verdad.
+
+| | Deja |
+|---|---:|
+| Pedido de $40.000 con envío bonificado | $8.720 |
+| Pedido de $28.000 con el cliente pagando el envío | $10.392 |
+| **Diferencia** | **−$1.672** |
+
+> 🔴 **Con envío sin cargo en todos los pedidos, el margen neto del negocio tiene un techo de 21,8%** — por debajo del objetivo del 30%. **Para llegar al 30% por esta vía el ticket promedio tendría que ser de $77.000.**
 >
-> La tabla A de abajo asume que **el envío lo paga el cliente** (que es la regla general). La tabla B y el escenario de septiembre asumen que **lo paga Corteza**, que es lo que pasa arriba de $40.000 y en Pilar. **Con el umbral de envío sin cargo en $40.000 y los combos armados justamente para llegar ahí, la verdad va a estar en el medio.** Falta definir qué porcentaje de los pedidos va a superar el umbral: es el dato que cierra el modelo.
-
-### A. Si el envío lo paga el cliente
-
-Equilibrio = fijos ÷ $10.392 de contribución.
-
-| Presupuesto de Meta | Costos fijos | **Equilibrio** | Por jueves |
-|---|---:|---:|---:|
-| $0 | $137.000 | **14/mes** | **3,2** |
-| $60.000 | $197.000 | **19/mes** | **4,4** |
-| $150.000 | $287.000 | **28/mes** | **6,5** |
-
-*(Antes de la corrección del 11/09 eran 8, 13 y 22.)*
-
-### B. Con el mínimo de 120 envíos de Flexit corriendo
-
-Flexit exige **120 envíos por mes** en un mes de operación normal. Los que no uses, los pagás igual: son **$760.800 de flete fijo** con el tarifario del 07/09. La cuenta ya no es "fijos ÷ contribución": cada pedido real, además de aportar margen, **cancela un envío fantasma**.
-
-> **Equilibrio = (fijos + 120 × $6.340) ÷ $10.392**
-
-| Presupuesto de Meta | A cubrir | **Equilibrio** | Por jueves (mes de 5) |
-|---|---:|---:|---:|
-| $0 | $897.800 | **87/mes** | **17,4** |
-| $60.000 | $957.800 | **93/mes** | **18,5** |
-| $150.000 | $1.047.800 | **101/mes** | **20,2** |
-
-> ⚠️ **Estos números no coinciden con los que estaban anotados el 28/08 (49, 52 y 58 por mes) y la diferencia no es solo por los costos corregidos.** Rehaciendo la cuenta con la fórmula que la propia memoria enunciaba, y aun con los fijos viejos de $82.000, daba 76 pedidos, no 49. **La tabla de agosto tenía un error de cálculo.** La de acá arriba es la buena.
-
-**El objetivo real no es el equilibrio, son los 120.** Recién ahí el flete te sale lo que dice el tarifario ($6.340 por envío en vez del doble con 60 pedidos). Detalle completo en `envios-amba.md`, sección 5.
+> No es un problema de hoy y no invalida el umbral: hoy el umbral es claramente lo mejor. **Pero es la conversación que hay que tener al llegar al mínimo de Flexit**, y las salidas son tres: subir el umbral, dejar de bonificar el envío en las zonas lejanas, o subir precios.
 
 ---
 
 ## 3 bis. Septiembre: el mes de un solo despacho
 
-*Agregado el 07/09/2026, rehecho el 11/09/2026 con los costos corregidos. Lanzamiento el **jueves 24/9**.*
+*Rehecho el 11/09/2026 con el ticket de $40.000. Lanzamiento el **jueves 24/9**.*
 
-Septiembre queda con **un único despacho de AMBA**. El objetivo son **30 pedidos ese día**, y **Flexit cobra solo los envíos despachados** — el mínimo de 120 se ajusta a los días de despacho del mes.
+Septiembre queda con **un único despacho de AMBA** y **sin mínimo**: Flexit cobra solo los envíos despachados.
 
-**Con 30 pedidos a $28.000 de ticket:**
+**Con 30 pedidos a $40.000:**
 
 | | |
 |---|---:|
-| Facturación | $840.000 |
-| Costo de la mercadería | −$454.440 |
-| **Margen bruto (45,9%)** | **$385.560** |
-| Comisión Pago Nube (7%) | −$58.800 |
+| Facturación | $1.200.000 |
+| Costo de la mercadería | −$649.200 |
+| **Margen bruto (45,9%)** | **$550.800** |
+| Comisión Pago Nube (7%) | −$84.000 |
 | Packaging (30 × $500) | −$15.000 |
 | Flete Flexit (30 × $6.340) | −$190.200 |
 | Costos fijos del mes | −$137.000 |
-| **Resultado antes de publicidad** | **−$15.440** |
+| **Resultado antes de publicidad** | **+$124.600** |
 
-> ⚠️ **Septiembre pasa de +$46.160 a −$15.440.** No cambió nada del producto: los márgenes de la mercadería están igual de bien. Lo que cambió son los $55.000 extra de flete de proveedores. **Un mes con un solo día de despacho tiene que bancar los fijos completos con 30 pedidos, y no le alcanza por poco.**
+**El equilibrio de septiembre son 16 pedidos.** El objetivo de 30 lo casi duplica.
 
-**El equilibrio de septiembre son 34 pedidos** (antes 21). Son 4 pedidos más que el objetivo: **la pérdida se da vuelta con muy poco.**
+> 💡 **Comparado con el modelo de $28.000, septiembre pasa de −$15.440 a +$124.600.** Los $12.000 más de ticket compensan de sobra el flete que ahora paga Corteza — porque en un mes sin mínimo cada pedido paga un solo flete, pero trae $4.668 más de contribución.
 
-*(La cuenta es conservadora: no computa lo que se le cobra de envío a los pedidos que quedan bajo el umbral de $40.000. Tampoco incluye los pedidos de Pilar, que van por reparto propio y no pagan flete. Con esos dos ajustes el mes probablemente cierre en cero o levemente positivo.)*
+**Con el test de Meta de $120.000**, septiembre da **+$4.600**. Prácticamente en cero, con la lista construida: es un buen resultado para un mes de lanzamiento.
 
-> ⚠️ **Ojo con octubre**, que es el primer mes normal: tiene **5 jueves** y ahí el mínimo de 120 corre completo — **$760.800 de flete fijo**, o sea **24 pedidos por jueves solo para no pagar envíos fantasma**. El equilibrio de octubre son **87 pedidos** (17,4 por jueves).
-
-**Si además corrés el test de Meta de $120.000**, septiembre da **−$135.440**. Eso está bien y es lo esperable: la publicidad del mes de lanzamiento es inversión en la lista, no gasto del despacho. Lo que hay que mirar no es ese número, es **el costo por anotado**.
-
-> ✅ **El mínimo de 120 no corre en septiembre.** Juan lo confirmó el 07/09: al haber un solo día de envío, Flexit cobra solo los pedidos despachados. El mínimo empieza a aplicar con la operación normal, desde octubre.
+> ⚠️ **Octubre es el primer mes normal**: 5 jueves y el mínimo de 120 corriendo, o sea **$760.800 de flete fijo**. Hay que cubrir $897.800 con una contribución de $15.060 por pedido → **el equilibrio de octubre son 60 pedidos (12 por jueves)**. Y para **usar** los 120 envíos que se pagan igual hacen falta **24 por jueves**.
 
 ---
 
 ## 4. Cuánto ganás según el volumen
 
-Ticket promedio $28.000, Meta a $150.000/mes, **asumiendo que el envío lo paga el cliente** (supuesto A de la sección 3):
+Ticket $40.000, envío sin cargo, Meta a $150.000/mes. Hasta 120 pedidos el flete es el mínimo obligatorio; de ahí en más, el costo real de cada envío.
 
 | Pedidos por jueves | Al mes | Facturación | Neto | Margen neto |
 |---|---|---|---|---|
-| 10 | 43 | $1.204.000 | $159.856 | 13,3% |
-| 20 | 87 | $2.436.000 | $617.104 | 25,3% |
-| 24 | 104 | $2.912.000 | $793.768 | 27,3% |
-| **30** | 130 | $3.640.000 | **$1.063.960** | **29,2%** |
-| **35** | 152 | $4.256.000 | **$1.292.584** | **30,4%** ✅ |
-| 40 | 173 | $4.844.000 | $1.510.816 | 31,2% |
-| 50 | 216 | $6.048.000 | $1.957.672 | 32,4% |
-| 65 | 281 | $7.868.000 | $2.633.152 | 33,5% |
-| 80 | 346 | $9.688.000 | $3.308.632 | 34,2% |
+| 10 | 43 | $1.720.000 | −$400.220 | −23,3% |
+| 15 | 65 | $2.600.000 | −$68.900 | −2,6% |
+| **20** | 87 | $3.480.000 | **$262.420** | **7,5%** |
+| **24** *(usa los 120 de Flexit)* | 104 | $4.160.000 | **$518.440** | **12,5%** |
+| 30 | 130 | $5.200.000 | $846.600 | 16,3% |
+| 40 | 173 | $6.920.000 | $1.221.560 | 17,7% |
+| 50 | 216 | $8.640.000 | $1.596.520 | 18,5% |
+| 65 | 281 | $11.240.000 | $2.163.320 | 19,2% |
+| 80 | 346 | $13.840.000 | $2.730.120 | 19,7% |
 
-### Las dos conclusiones
+### Las tres conclusiones
 
-**1. El 30% de margen neto llega cerca de los 35 pedidos por jueves**, no de los 24 que decía la tabla vieja. Los $55.000 extra de flete de proveedores corrieron la meta unos 11 pedidos por jueves.
+**1. Con 20 pedidos por jueves el mes ya es rentable.** Es un objetivo mucho más cercano que los 35 que pedía el modelo de $28.000.
 
-**2. El mínimo de Flexit (120 por mes, ~28 por jueves) ya no alcanza por sí solo para el 30%**, aunque queda cerca: a 30 por jueves el negocio rinde 29,2%. **El mínimo dejó de ser la garantía de que el negocio cierra y pasó a ser el piso desde el cual empieza a rendir.**
+**2. El salto grande está entre 15 y 24 por jueves**, porque ahí se llenan los 120 envíos que se pagan igual. Cada pedido que entra en esa franja es contribución casi pura.
 
-**Techo de margen neto: 38,9%** (45,9% de margen bruto menos el 7% de comisión). Es el máximo al que tendés con mucho volumen, cuando el packaging y los fijos se vuelven insignificantes.
+**3. Pasados los 120, el margen se aplana en torno al 20%** y ya no mejora con volumen. La plata sigue creciendo fuerte (de $518.440 a $2.730.120), pero el porcentaje toca su techo.
+
+**Techo de margen neto: 21,8%** con envío sin cargo en todos los pedidos. *(Sin bonificar el envío el techo sería 38,9%. Esos 17 puntos son literalmente el precio del envío sin cargo.)*
 
 ---
 
 ## 5. Qué mover ahora
 
-El precio ya no es la palanca: con 45,9% de margen bruto en los propios, estás bien. Lo que queda:
+El precio ya no es la palanca: con 45,9% de margen bruto en los propios, estás bien. Lo que queda, ordenado por lo que mueve:
 
-1. **Llegar a 35 pedidos por jueves.** Es el nuevo objetivo para el 30% neto. A 30 por jueves ya estás en 29,2%, así que no está lejos.
-2. **Negociar el flete de los proveedores.** Pasó a ser el fijo más grande del negocio ($75.000/mes). Cada $10.000 que bajes valen lo mismo que un pedido más por mes, todos los meses.
-3. **Descuento por transferencia (~5%)** para esquivar el 7% de Pago Nube. Es la carga más grande y la única que se puede evitar.
-4. **Comprar el packaging por cantidad.** A $500 fijos por pedido, con 120 pedidos son $60.000 mensuales — casi lo mismo que el flete de proveedores.
-5. **Empujar los productos de mejor margen**: pan de molde blanco (52,2%) y aceite Zuelo (36,4%).
-6. **Subir el ticket.** Con flete plano por pedido, cada peso adicional en la misma caja es casi ganancia pura. Y como el packaging también es fijo por pedido, un ticket más alto lo diluye dos veces.
-
----
+1. **Llegar a 24 pedidos por jueves.** No es el equilibrio (son 12), es el punto donde **usás los 120 envíos que pagás igual**. Cada pedido hasta ahí es contribución casi pura.
+2. **Empujar CABA en la publicidad.** Un pedido de CABA deja $10.500 y uno de Muy lejana $5.480. Con el mismo presupuesto de Meta, la zona decide el margen.
+3. **Que los combos realmente lleguen a $40.000.** Todo el modelo cuelga de eso: si el ticket real queda en $30.000, el envío bonificado se come casi todo el margen del pedido.
+4. **Negociar el flete de los proveedores.** Pasó a ser el fijo más grande ($75.000/mes). Cada $10.000 que bajes valen lo mismo que un pedido más por mes, todos los meses.
+5. **Descuento por transferencia (~5%)** para esquivar el 7% de Pago Nube. Sobre $40.000 la comisión son $2.800: es la carga más grande después del flete y la única que se puede evitar.
+6. **Comprar el packaging por cantidad.** A $500 fijos por pedido, con 120 pedidos son $60.000 mensuales.
+7. **Empujar los productos de mejor margen**: pan de molde blanco (52,2%) y aceite Zuelo (36,4%).
 
 ## 6. Lo que falta
 
-1. **¿Cuántos pedidos por jueves estás haciendo hoy?** Para saber a qué distancia estás de los 35.
-2. **¿Qué porcentaje de los pedidos va a superar los $40.000?** Es lo que define si el envío lo paga el cliente o Corteza, y es la diferencia entre las dos tablas de equilibrio de la sección 3. Sin ese dato el modelo tiene dos respuestas.
-3. **¿Los $75.000 de flete de proveedores son con un viaje por semana?** Si el volumen obliga a dos viajes semanales, el número se va arriba de $150.000 y hay que rehacer todo de nuevo.
+1. **¿Cuántos pedidos por jueves estás haciendo hoy?** Para saber a qué distancia estás de los 24.
+2. **¿El ticket real va a llegar a $40.000?** Es el supuesto del que cuelga todo el modelo, y hoy el ticket relevado es $23.677. **Después del primer despacho del 24/9 hay que medirlo y rehacer estas cuentas con el número real.**
+3. **¿Los $75.000 de flete de proveedores son con un viaje por semana?** Si el volumen obliga a dos viajes semanales, el número se va arriba de $150.000.
+4. **¿Qué porcentaje de los pedidos queda debajo del umbral?** Cada uno de esos paga su propio envío y mejora el resultado. El modelo asume cero, que es lo más conservador.

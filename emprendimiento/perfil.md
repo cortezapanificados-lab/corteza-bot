@@ -1,6 +1,6 @@
 # Perfil de Corteza
 
-*Última actualización: 11/09/2026 (se corrigen dos costos: packaging $500 por pedido y flete de proveedores $75.000/mes)*
+*Última actualización: 11/09/2026 (costos corregidos y **ticket promedio del modelo fijado en $40.000**, el umbral del envío sin cargo)*
 
 **Quien lleva Corteza: Juan (varón — hablarle en masculino).**
 
@@ -58,9 +58,11 @@ Lo que incluye Flexit: **segunda y tercera visita sin costo adicional**, same-da
 - **Packaging: $500 por pedido** *(corregido por Juan el 11/09/2026; antes estaba cargado como 1% de la venta)*. Es un **monto fijo por pedido**, no un porcentaje: no depende de cuánto lleve la caja.
 - **Envío**: según zona (arriba), a cargo del comprador. El precio que se le cobra lleva recargo para cubrir la comisión de Pago Nube (se divide por 0,93): **$4.700 Cercana, $6.600 Media, $8.500 Lejana, $9.900 Muy lejana**.
 
-> **El modelo, en una línea: ganancia por pedido = venta × (margen bruto − 7%) − $500.**
+> **El modelo, en una línea: ganancia por pedido = venta × (margen bruto − 7%) − $500 − el flete.**
 >
-> En un ticket de $28.000 de panificados eso son **$10.392 (37,1%)**.
+> **El pedido promedio se modela en $40.000**, que es el umbral del envío sin cargo *(definido por Juan el 11/09/2026)*. Como el pedido promedio llega al umbral, **el flete lo paga Corteza en casi todos los pedidos**: es un costo del negocio, no del comprador.
+>
+> En un pedido de $40.000 de panificados queda **$15.060 (37,6%) antes del flete** y **$8.720 (21,8%) después**.
 
 **Fijos mensuales:**
 - Claude: $35.000
@@ -70,11 +72,13 @@ Lo que incluye Flexit: **segunda y tercera visita sin costo adicional**, same-da
 
 **Total fijos: $137.000/mes** antes de publicidad. **El flete de proveedores es el fijo más grande: más que Claude y Tiendanube juntos.**
 
-**Techo de margen neto: 38,9%** (45,9% de margen bruto en propios menos el 7% de comisión), y **37,1% efectivo** en un ticket de $28.000 una vez descontado el packaging. **Sigue por encima del objetivo del 30%.**
+**Techo de margen neto: 21,8%** con envío sin cargo en todos los pedidos. Sin bonificar el envío sería 38,9%: **esos 17 puntos son literalmente el precio del envío sin cargo.**
 
-**Punto de equilibrio:** 14 pedidos/mes sin publicidad, 28 con Meta a $150.000 (6,5 por jueves), asumiendo que el envío lo paga el cliente. Con el mínimo de 120 envíos de Flexit corriendo, el equilibrio de un mes normal sube a **87 pedidos**. Detalle en `numeros.md`.
+> ⚠️ **Con el umbral de $40.000, el objetivo del 30% de margen neto no es alcanzable por volumen.** Para llegar al 30% el ticket promedio tendría que ser de **$77.000**. Igual el umbral es la decisión correcta hoy: mientras el mes no llegue a los 120 envíos de Flexit, esos envíos se pagan igual y un pedido de $40.000 bonificado deja $4.668 **más** que uno de $28.000 con el cliente pagando. La cuenta recién se da vuelta pasados los 120 pedidos mensuales. Los dos regímenes, en `numeros.md` sección 3.
 
-**Con los costos corregidos, el 30% de margen neto llega recién cerca de los 35 pedidos por jueves** (antes se decía 24, con los fijos en $82.000). Los $55.000 extra de flete de proveedores corren la meta, pero no la mueven de lugar: son fijos, así que se diluyen con volumen. Análisis completo en `numeros.md`.
+**Punto de equilibrio:** **16 pedidos en septiembre** (mes sin mínimo) y **60 pedidos en un mes normal** con el mínimo de 120 de Flexit corriendo (12 por jueves). Para *usar* los 120 envíos que se pagan igual hacen falta **24 por jueves**. Detalle en `numeros.md`.
+
+**El objetivo operativo son 24 pedidos por jueves**: no es el equilibrio (son 12), es el punto donde se usan los 120 envíos que Flexit cobra igual. Cada pedido hasta ahí es contribución casi pura. Análisis completo en `numeros.md`.
 
 El lanzamiento está esperando una **mudanza personal** de quien lleva el emprendimiento (no se muda el negocio; es un tema de espacio para stockear). Es un asunto privado: **no se usa como material de comunicación.**
 

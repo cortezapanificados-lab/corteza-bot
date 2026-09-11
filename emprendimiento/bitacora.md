@@ -2,6 +2,53 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 11/09/2026 (2) — El ticket pasa a modelarse en $40.000, y eso cambia de quién es el flete
+
+Juan definió que **el pedido promedio se modela en $40.000, que es el umbral del envío sin cargo.** Parece un ajuste de supuesto y es el cambio más grande del modelo hasta ahora, porque **resuelve la inconsistencia que había quedado abierta esta misma mañana**: si el pedido promedio llega al umbral, **el flete lo paga Corteza en casi todos los pedidos.** Ya no hay dos supuestos conviviendo — el envío es un costo del negocio.
+
+| | Monto | % del pedido |
+|---|---:|---:|
+| Venta | $40.000 | 100% |
+| Margen bruto (45,9%) | $18.360 | 45,9% |
+| Comisión Pago Nube | −$2.800 | 7,0% |
+| Packaging | −$500 | 1,25% |
+| **Antes del flete** | **$15.060** | **37,6%** |
+| Flete promedio | −$6.340 | 15,9% |
+| **Queda** | **$8.720** | **21,8%** |
+
+> ### 🔑 El hallazgo: el negocio tiene dos regímenes, y el umbral es correcto en uno solo
+>
+> Flexit cobra un **mínimo de 120 envíos por mes**. Los que no se usan se pagan igual, así que **abajo de 120 pedidos el flete del pedido siguiente cuesta cero** — ya está pagado.
+>
+> | | Deja un pedido de $40.000 | Deja uno de $28.000 con envío a cargo del cliente |
+> |---|---:|---:|
+> | **Abajo de 120/mes** | **$15.060** | $10.392 → **+$4.668** ✅ |
+> | **Arriba de 120/mes** | $8.720 | $10.392 → **−$1.672** ⚠️ |
+>
+> **Hoy, y en todo el horizonte visible, estamos en el primer régimen: el umbral de $40.000 se paga solo.** Empujar el carrito de $28.000 a $40.000 vale $4.668 por pedido.
+>
+> **Pero pasados los 120 la cuenta se da vuelta.** Con envío sin cargo en todos los pedidos, **el margen neto del negocio tiene un techo de 21,8%** — abajo del objetivo del 30%. Para llegar al 30% por esta vía el ticket promedio tendría que ser de **$77.000**. No es un problema de hoy; es la conversación que hay que tener al llegar al mínimo de Flexit, y las salidas son tres: subir el umbral, dejar de bonificar el envío en las zonas lejanas, o subir precios.
+
+### Septiembre se da vuelta: de −$15.440 a +$124.600
+
+Con 30 pedidos a $40.000 y sin mínimo corriendo, el mes cierra en **+$124.600** y el equilibrio baja de 34 a **16 pedidos**. Los $12.000 más de ticket compensan de sobra el flete que ahora paga Corteza. Con el test de Meta de $120.000 encima, el mes queda en **+$4.600**: prácticamente en cero y con la lista construida.
+
+**Octubre**, el primer mes normal, tiene el mínimo corriendo: hay que cubrir $897.800 y el **equilibrio son 60 pedidos (12 por jueves)**. Y para *usar* los 120 envíos que se pagan igual hacen falta **24 por jueves** — ese pasa a ser el objetivo operativo, no el equilibrio.
+
+### Dos cosas más que quedaron a la vista
+
+**1. La zona decide el margen.** Un pedido de CABA deja $10.500 y uno de Muy lejana $5.480, por la misma venta y el mismo trabajo. **Dónde se hace la publicidad no es una decisión de marketing, es una decisión de margen.**
+
+**2. `envios-amba.md` todavía daba por vigente el umbral de $30.000**, que Juan reemplazó por $40.000 el 10/09. Quedó marcado como referencia histórica.
+
+### Lo que se entregó
+
+La página para el socio y el **PDF descargable de 8 páginas** (`Corteza-costos-y-precios.pdf`), los dos rehechos con el modelo de $40.000: catálogo completo, estructura de costos, el envío mirado por zona y por régimen, y los escenarios de septiembre y octubre.
+
+**Archivos tocados:** `numeros.md` (secciones 1 a 6 rehechas), `perfil.md`, `envios-amba.md`, `bitacora.md`.
+
+---
+
 ## 11/09/2026 — Dos costos mal cargados, y uno de ellos da vuelta el resultado de septiembre
 
 Juan pidió **un resumen de costos y precios para compartirle a un socio nuevo** y, de paso, pasó los dos costos reales que faltaban. **Ninguno de los dos estaba bien en la memoria.**
