@@ -111,6 +111,76 @@ Redondeados para arriba, así queda un colchoncito.
 
 ---
 
+## 3 bis. 🤔 Propuesta abierta: meter a Pilar en el umbral de $40.000
+
+*Planteado por Juan el 11/09/2026. **Todavía no está decidido.***
+
+**Hoy Pilar tiene envío sin cargo siempre**, sin umbral, porque va por reparto propio. La propuesta es aplicarle **la misma regla que al AMBA: sin cargo desde $40.000, y por debajo se cobra.**
+
+### Los números dicen que sí, y con bastante margen
+
+**1. Pilar es la zona más rentable que tenés, y por lejos.**
+
+| Zona | Deja un pedido de $40.000 |
+|---|---:|
+| **Pilar** (reparto propio) | **$15.060 · 37,6%** |
+| Cercana (CABA) | $10.500 · 26,2% |
+| Media | $8.675 · 21,7% |
+| Lejana | $6.850 · 17,1% |
+| Muy lejana | $5.480 · 13,7% |
+
+**Y hoy es la única zona sin ningún incentivo para llegar a los $40.000.** El cliente de Pilar ya tiene el envío gratis con $8.000 de compra.
+
+**2. Mover un pedido de Pilar de $23.677 a $40.000 vale $6.350.** Es el mejor rendimiento por pedido de todo el negocio — mejor que ganar un cliente nuevo en zona Lejana.
+
+**3. La tolerancia al riesgo es amplia.** Sobre una base de 18 pedidos mensuales:
+
+| Si suben a $40.000 | Ganancia extra por mes | Podés perder |
+|---:|---:|---|
+| 20% | $22.859 | 2,6 pedidos (15% de la base) |
+| **33%** | **$37.717** | **4,3 pedidos (24% de la base)** |
+| 50% | $57.147 | 6,6 pedidos (36% de la base) |
+
+**Con que un tercio de los clientes de Pilar suba el carrito, podés perder un cuarto de la base y quedar igual.**
+
+**4. Simplifica la regla en vez de complicarla.** "Pilar siempre sin cargo" **ya es una excepción**. Sacarla deja una sola frase para toda la comunicación: *"Envío sin cargo desde $40.000, en todos lados."*
+
+**5. Acorta la vuelta del jueves.** Pedidos más grandes y menos numerosos son menos paradas. Va en la dirección de que Juan deje de repartir.
+
+### ⚠️ Pero hay tres cosas que hay que resolver antes
+
+**1. ¿Cuánto se le cobra? No puede ser la tarifa de Muy lejana.** Pilar figura en la zona más cara del tarifario de Flexit ($10.400 al cliente), **pero a Pilar no lo reparte Flexit**. Cobrar $10.400 por una entrega que hace Juan en su propia ciudad sería caro, deshonesto y espantaría a la base.
+
+> **La propuesta: $3.000.** Es el 12,7% de un pedido de $23.677 — se siente, que es el punto — y es visiblemente más barato que cualquier zona del AMBA, lo cual es honesto porque el reparto es local y propio.
+
+| Si cobrás | Es del pedido actual | Te entran netos |
+|---:|---:|---:|
+| $2.500 | 10,6% | $2.325 |
+| **$3.000** | **12,7%** | **$2.790** |
+| $4.000 | 16,9% | $3.720 |
+
+**2. El costo real de la vuelta sigue sin medirse**, y ya estaba anotado como urgente. Sin ese número el precio es una apuesta:
+
+| Costo de la vuelta | 18 entregas | 12 entregas | 8 entregas |
+|---:|---:|---:|---:|
+| $20.000 | $1.111 | $1.667 | $2.500 |
+| $40.000 | $2.222 | $3.333 | $5.000 |
+| $60.000 | $3.333 | $5.000 | $7.500 |
+
+> 💡 **Y ojo con un detalle económico:** en un country el costo es **la vuelta**, no la parada. Sumar una entrega más adentro de Pilar del Lago cuesta casi cero. **Así que el cargo de Pilar no es recupero de costo: es un empujón al carrito.** Está bien que lo sea, pero hay que saberlo — si el objetivo fuera recuperar el costo, el número correcto sería otro.
+
+**3. Es un aumento encubierto para la base que hoy paga las cuentas**, justo cuando el negocio viene cayendo (27 → 9 → 1 pedidos de junio a agosto) y el 55% sale de un solo country. **El framing decide si sale bien o mal.**
+
+> **Cómo presentarlo:** como parte del lanzamiento del AMBA, no como quitarle algo a Pilar.
+> *"Desde el 24 entregamos en todo el AMBA, y la regla es la misma para todos: envío sin cargo desde $40.000."*
+> Nunca como *"a partir de ahora en Pilar se cobra el envío"*.
+
+### El plan B, si Pilar no responde
+
+**No es volver al envío sin cargo siempre: es bajarle el umbral a Pilar.** La regla de la casa dice que el umbral va entre 1,2 y 1,4 veces el ticket promedio; con el ticket de Pilar en $23.677 eso da **$28.400–$33.100**. O sea que **$40.000 para Pilar es un umbral de 1,7×: exigente.** Se sostiene porque los combos arrancan en $40.500, pero si en dos o tres jueves el ticket de Pilar no se mueve, el ajuste correcto es un umbral propio de $30.000 para Pilar, no volver atrás.
+
+---
+
 ## 4. Los umbrales de envío sin cargo
 
 Calculados con el **margen efectivo real del 37,9%** (45,9% de margen bruto en panificados menos el 8% de comisión y packaging).

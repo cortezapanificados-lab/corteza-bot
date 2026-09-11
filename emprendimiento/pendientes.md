@@ -195,6 +195,9 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 
 ## 🔴 Prioridad 1 — Confirmaciones que faltan
 
+- [ ] 🤔 **DECISIÓN ABIERTA: ¿Pilar entra en el umbral de $40.000?** *(planteada por Juan el 11/09)*. Hoy Pilar tiene envío sin cargo siempre. **El análisis dice que conviene** —Pilar es la zona más rentable ($15.060 en un pedido de $40.000) y la única sin incentivo para llegar ahí; mover un pedido de $23.677 a $40.000 vale $6.350—, **pero hay que decidir tres cosas antes**: cuánto se cobra (propuesta: **$3.000**, nunca la tarifa de Muy lejana), cómo se comunica (como regla única del lanzamiento AMBA, nunca como "ahora en Pilar se cobra"), y medir el costo real de la vuelta. Análisis completo en `envios-amba.md` sección 3 bis.
+  - ⚠️ **Si se decide que sí, hay que tocar:** `perfil.md`, la página de Envíos de la tienda, las zonas de envío en Tiendanube, el dossier de Alva y los dos PDF.
+
 - [ ] ⚖️ **Marca CORTEZA — oposición en el INPI. Fecha clave: 22/10/2026.** Detalle completo en `marca-inpi.md`.
   Hasta esa fecha es **etapa de negociación**: no hay nada que contestar formalmente ante el INPI. Ya se le mandó la propuesta por WhatsApp al oponente el 24/07 (limitar nuestra clase 35 excluyendo ropa, calzado, bolsos y carteras). Si al vencer el plazo la oposición sigue en pie, el INPI le exige al oponente una tasa de mantenimiento: si no la paga, la oposición cae sola.
   - [ ] **Fines de septiembre**, si no hubo acuerdo: contactar a un abogado marcario o agente de PI (es **obligatorio** para la etapa de contestación). Los argumentos ya están escritos en `marca-inpi.md`.
