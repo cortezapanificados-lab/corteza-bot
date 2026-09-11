@@ -4,6 +4,8 @@
 
 **Quien lleva Corteza: Juan (varón — hablarle en masculino).**
 
+**Socio: Alva** *(incorporado en septiembre de 2026)*. Amigo de Juan. Juan se refiere a Alva en masculino ("mi socio amigo"). Se está poniendo en tema con el negocio: el dossier completo que se le preparó está en `dossier-alva.md`.
+
 Corteza es una marca de panificados artesanales de Pilar, Buenos Aires, Argentina. **Modelo de negocio: curaduría/reventa** — los panificados los elaboran distintos proveedores artesanales (masa madre, harinas 100% agroecológicas) y Corteza los selecciona y los vende bajo su marca. La tienda también vende productos orgánicos y artesanales de otras marcas (almacén, vinoteca, dips y té).
 
 **El negocio es 100% online.** No hay local a la calle. La dirección de Pilar es administrativa; si hace falta stockear algo, se stockea en la casa particular.

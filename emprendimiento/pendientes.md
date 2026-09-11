@@ -204,13 +204,18 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
   - [ ] **Postergado, no cerrado: cotizar un cadete o moto local** para la vuelta de los jueves (18 entregas juntas en la misma ciudad). Se retoma cuando el volumen del AMBA haga que la vuelta no entre más en el día.
   - [ ] **Postergado: estimar el costo real del reparto propio** (nafta, horas, desgaste). Sin ese número no se puede comparar contra el cadete.
 
-- [ ] **¿Los $20.000 del envío del proveedor son por mes o por viaje?** Está cargado como mensual; si fuera por viaje, los fijos pasan de $82.000 a $148.600.
+- [x] ~~**¿Los $20.000 del envío del proveedor son por mes o por viaje?**~~ → ✅ **Resuelto el 11/09: son $75.000 por mes.** No eran $20.000. Los fijos pasaron de $82.000 a **$137.000** y el flete de proveedores es ahora el costo fijo más grande del negocio.
+  - [ ] **Confirmar que los $75.000 son con un viaje por semana.** Si el volumen obliga a dos, el número se va arriba de $150.000 y hay que rehacer las cuentas.
 - [ ] Confirmar que los proveedores pueden entregar los miércoles con el volumen necesario
 - [ ] ⏸️ **Monotributo: postergado por decisión de Juan (07/09).** Se resuelve cuando haya que resolverlo, no antes. Queda anotado el porqué, para el día que aparezca: con 30 pedidos por jueves la facturación proyectada supera los $43M anuales y saca del régimen; **si pasás a responsable inscripto el IVA se vuelve crédito fiscal y el descuento del 10,5% en efectivo deja de valer.** Revisarlo cuando el volumen se sostenga arriba de ~20 pedidos por jueves.
 
 ---
 
 ## 🟠 Prioridad 2 — Márgenes y costos
+
+- [ ] 🔥 **Confirmar la comisión real de cobro: el modelo puede estar sobreestimándola en 4 puntos.** *(Detectado el 11/09 al armar el dossier de Alva.)* `numeros.md` usa **7%** de Pago Nube en todas las cuentas, pero `diagnostico-ventas.md` midió sobre ventas reales un costo de cobro mezclado de **2,97%** — porque el 18% de las ventas es en efectivo (0%) y el 55% por transferencia (1,81%). **En un pedido de $40.000 la diferencia son $1.612**: llevaría lo que queda de $8.720 a $10.332, casi dos puntos de margen neto.
+  - Es probable que en el AMBA la mezcla se corra hacia la tarjeta (no hay efectivo contra entrega con Flexit), así que **el 7% es la hipótesis conservadora y por ahora se mantiene**.
+  - **Lo que hay que hacer: mirar una liquidación real de Pago Nube** y, después del primer despacho del AMBA, el % real de cada medio de pago. Recién ahí se ajusta el modelo.
 
 - [x] ~~**Las Quinas: los cuatro productos de $6.600 de costo pasan a $9.500**~~ → ✅ **decidido el 08/09.** Dulce de leche, las dos mermeladas y la miel líquida. Salen de 23,3%–29,8% a **30,5%**. *(Falta cargarlo en Tiendanube.)*
   - [ ] **Revisar la rotación de esos cuatro después del primer mes.** A $9.500 quedan +22% sobre el mercado del dulce y +20% sobre el de las mermeladas. **Si dejan de venderse, la salida es discontinuarlos, no bajar el precio de nuevo** — al costo actual no cierran.
@@ -282,7 +287,7 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 
 - **Mínimo de 30 envíos**: es por despacho, no por mes → un solo día de AMBA por semana (`lanzamiento-amba.md`)
 - **Día de despacho**: jueves, único día para Pilar y AMBA. Cierre lunes 14:00, ya cargado en la tienda.
-- **Lista de precios**: aplicada y verificada el 10/08. No hacen falta más aumentos — techo de margen neto 37,9%; la palanca es volumen (24 pedidos por jueves para el 30% neto).
+- **Lista de precios**: aplicada y verificada el 10/08, con los siete aumentos del 08/09. No hacen falta más aumentos. *(El techo de margen neto ya no es 37,9%: con envío sin cargo en todos los pedidos es **21,8%**. La palanca sigue siendo volumen: **24 pedidos por jueves** para usar los 120 envíos de Flexit. Ver `numeros.md`.)*
 - **Viajes al proveedor**: consolidados al pasar a entregar solo los jueves, de $260.000 a $86.600 mensuales.
 - **Volumen actual**: 4,2 pedidos/semana, ticket $23.677 (`diagnostico-ventas.md`).
 - **Fecha de lanzamiento**: **jueves 24/9** (movida desde el 17 el 07/09). Septiembre queda con un solo despacho y el objetivo son 30 pedidos ese día.
