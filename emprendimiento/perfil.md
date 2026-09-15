@@ -1,6 +1,6 @@
 # Perfil de Corteza
 
-*Última actualización: 15/09/2026 (**el lanzamiento pasa a octubre** y se incorpora Alva como socio)*
+*Última actualización: 15/09/2026 (lanzamiento en octubre, Alva como socio, **regla de envío nueva y cinco packs definidos**)*
 
 **Quien lleva Corteza: Juan (varón — hablarle en masculino).**
 
@@ -208,10 +208,32 @@ Los vinos son lo más comparable de todo el catálogo: **no tocarlos sin chequea
 
 *(Histórico: hasta el 24/07/2026 el esquema era pedidos hasta el sábado → entrega el martes, y hasta el martes → entrega el viernes. Se unificó todo en el jueves.)*
 - Sin pedido mínimo
-- 🎯 **ENVÍO SIN CARGO EN TODO EL AMBA DESDE $40.000** *(decidido por Juan el 10/09/2026, en reemplazo del umbral de $30.000)*. **Un solo umbral para las cuatro zonas**, sin bonificaciones parciales. En **Pilar el envío es sin cargo siempre** (reparto propio). Por debajo de $40.000 se cobra el envío de la zona ($4.900 / $6.900 / $8.900 / $10.400).
-  - ⚠️ **El umbral de $40.000 NO va solo: va con los combos.** Sin productos que lleguen a ese precio, es solo un mínimo alto que nadie alcanza. **Los cinco combos están armados en `textos/combos-amba.md` y tienen que estar cargados antes del 24/9.**
-  - **El negocio queda en dos niveles, y los dos son rentables:** el **pedido chico paga el envío** (la Promo de $28.900 en zona Media deja +$9.898) y el **combo de $40.000+ recibe el envío sin cargo** (deja de +$6.840 a +$13.245). El caso que había que evitar era el pedido de $30.000 con envío regalado, que es donde el negocio se adelgaza.
-  - ⚠️ **La regla que lo sostiene: el umbral va entre 1,2 y 1,4 veces el ticket promedio ($23.677), NO en el piso de rentabilidad.** Un umbral por debajo del ticket promedio no empuja a nadie: regala el envío que ibas a regalar igual.
+> ## 🚚 REGLA DE ENVÍO VIGENTE *(definida por Juan el 15/09/2026)*
+>
+> | Zona | Desde $40.000 de mercadería |
+> |---|---|
+> | **Cercana (CABA)** y **Media (Cordón 1)** | **Envío sin cargo** |
+> | **Lejana** y **Muy lejana** | **$5.000 de envío** |
+> | **Pilar** (reparto propio) | **Sin cargo siempre** |
+>
+> Por debajo de $40.000 se cobra el envío de la zona ($4.900 / $6.900 / $8.900 / $10.400).
+>
+> ### 💡 Por qué esta regla es mejor que el envío sin cargo en todas las zonas
+>
+> **Las zonas lejanas dejan de ser las peores y pasan a ser las mejores.** Con $5.000 cobrados entran $4.650 netos de comisión, así que el cliente cubre buena parte del flete:
+>
+> | Zona | Costo del flete | Pone Corteza | **Queda de un pedido de $40.000** |
+> |---|---:|---:|---:|
+> | Cercana (CABA) | $4.560 | $4.560 | $10.500 |
+> | Media | $6.385 | $6.385 | $8.675 |
+> | **Lejana** | $8.210 | $3.560 | **$11.500** |
+> | **Muy lejana** | $9.580 | $4.930 | **$10.130** |
+>
+> **Un pedido de Lejana deja más que uno de CABA.** Antes, con envío sin cargo en las cuatro zonas, dejaba $6.850 contra $10.500.
+>
+> ⭐ **Y resuelve el problema de fondo sin cerrar zonas:** el foco comercial va a CABA y el primer cordón por el costo del envío, pero **la tienda sigue abierta a todo el AMBA**. No se achica el universo justo cuando hacen falta 120 pedidos al mes, no se quema la lista de anotados de otras zonas, y **Nordelta —la zona #3 del ranking y la réplica a escala de la fórmula de Pilar del Lago— sigue adentro**.
+
+- **Los cinco packs** que sostienen el umbral están en `textos/combos-amba.md`: Familiar $74.600, Semanal $43.600, Kids $43.000, Para picar $51.500 y Antojito $42.800. ⚠️ **Sin packs cargados el umbral es solo un mínimo alto que nadie alcanza.**
 
 ## Marca (INPI)
 

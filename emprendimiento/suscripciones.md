@@ -1,5 +1,34 @@
 # Suscripciones
 
+> ## 🔄 MODELO VIGENTE — definido por Juan el 15/09/2026
+>
+> ### El cliente elige qué le llega **todas las semanas**, con un mínimo de **$40.000 semanales**.
+>
+> Es más simple que los planes anteriores y encaja solo con la regla de envío: **cada entrega supera el umbral por definición**, así que el envío sin cargo (o el de $5.000 en las zonas lejanas) se aplica como a cualquier cliente, sin reglas especiales.
+>
+> | | |
+> |---|---:|
+> | Mínimo por entrega | **$40.000** |
+> | Entregas al mes | 4 |
+> | **Facturación mensual por suscriptor** | **$160.000** |
+> | Lo que deja al mes en CABA, sin descuento | **$42.000** |
+>
+> **Treinta suscriptores llenarían los 120 envíos del mínimo de Flexit** y son $4.800.000 de facturación mensual asegurada, sin vender nada más.
+>
+> ### ❓ El descuento está a definir — y la respuesta es la misma que para los packs
+>
+> **Que el descuento sea por pagar con transferencia, no por suscribirse.** La comisión de Pago Nube sobre $160.000 son **$11.200**; un 5% de descuento cuesta **$8.000**. **Cobrado por transferencia el descuento se paga solo y sobran $3.200.**
+>
+> ⚠️ **Limitar la elección a panificados propios.** Los productos de terceros están sin stock la mayor parte del tiempo, y en una suscripción semanal cada faltante es un mail de disculpas *todas las semanas*.
+>
+> ⚠️ **Y sigue sin confirmarse si Tiendanube puede cobrar automáticamente todos los meses.** Hasta saberlo, se vende como producto normal pagado por adelantado y se lleva en una planilla quién tiene entregas pendientes. No prometer cobro automático.
+
+---
+
+# (histórico) El modelo anterior: pack mensual de entregas de $40.000
+
+*Rehecho el 10/09/2026, reemplazado el 15/09. Se conserva porque el razonamiento de fondo —toda entrega vale $40.000; lo que el cliente elige es cada cuánto la recibe— sigue siendo el que ordena todo, y porque las cuentas por zona siguen valiendo.*
+
 *Rehecho el 10/09/2026 con el modelo correcto: **la suscripción es un pack mensual de entregas de $40.000**, no entregas chicas.*
 
 > ⚠️ **El error que se corrigió, para no repetirlo:** la primera versión modelaba entregas de $25.000–$30.000, o sea **por debajo del umbral de envío sin cargo**. Eso inventaba un problema que este modelo no tiene. **Si cada entrega vale $40.000, el envío sin cargo ya le corresponde al suscriptor como a cualquier cliente. El beneficio de suscribirse es el descuento, y nada más.**

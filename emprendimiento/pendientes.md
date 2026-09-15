@@ -12,6 +12,13 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 
 ### 🔴 Lo primero, antes de fijar cualquier fecha
 
+- [ ] 🔴 **Corregir dos precios antes de cargar los packs.** *(Detectado el 15/09.)* Al chequear los cinco packs contra el catálogo aparecieron dos cruces de precios, y **cada uno deja un pack abajo del umbral de $40.000**:
+  - **Grisines cargados a $6.300** (en Semanal y en Picar); el catálogo dice **$4.600**. Sin esa diferencia, **el Pack semanal queda en $39.000**. → Se le suma un segundo grisines: **$43.600**.
+  - **Pan de campo blanco cargado a $11.500** (en Antojito); el catálogo dice **$8.600**. Sin esa diferencia, **el Pack antojito queda en $39.900**. → Pasa a pan de molde blanco: **$42.800**, que es el precio que Juan declaró.
+  - ⚠️ **Es el autogol que la regla advertía**: el cliente compra creyendo que tiene envío sin cargo y se encuentra el cargo en el checkout.
+- [ ] 🔴 **Conseguir el costo del quesovich.** Es un producto nuevo que no está en `tabla-margenes.md` y va en el Pack para picar, que es el de menor margen (38,2%). El margen está calculado con un costo **estimado** de $8.638 (margen promedio de terceros): con el real puede moverse bastante.
+- [ ] **Definir si hay descuento por comprar packs o por suscribirse.** *(Recomendación: no descontar ninguno de los dos, y hacer el descuento por **transferencia**, que se paga solo — sobre un pack de $74.600 la comisión son $5.222 y un 5% cuesta $3.730.)*
+
 - [ ] **Preguntarle a Flexit cómo cobra el mínimo de 120 envíos en un mes de lanzamiento parcial.** En septiembre confirmó que con **un solo día de despacho** cobraba solo lo despachado. Octubre con tres o cuatro despachos es otra cosa. **Es una llamada y define todo el mes:**
 
   | Cómo cobre | Equilibrio de octubre *(lanzando el 8)* |

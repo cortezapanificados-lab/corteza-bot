@@ -1,106 +1,118 @@
-# Combos para el envío sin cargo desde $40.000
+# Los cinco packs
 
-*Armados el 10/09/2026. Son la contraparte del umbral de $40.000: **sin ellos, el umbral es solo un mínimo alto.***
-
----
-
-## La regla que ordena todos los combos
-
-> ### El envío sin cargo ES el descuento. No descuentes dos veces.
-
-El envío vale entre **$4.900 y $10.400** según la zona — o sea **entre el 12% y el 25%** de un pedido de $40.000. **Es un descuento enorme y ya está.** Si además le bajás el precio al combo, estás regalando dos veces la misma venta.
-
-Por eso los precios de abajo son casi la suma de los productos sueltos: el redondeo se lleva unos cientos y nada más.
-
-⚠️ **Y la regla que no se puede romper: el combo tiene que costar MÁS de $40.000.** Un combo a $39.900 es un autogol — el cliente lo compra creyendo que tiene envío sin cargo y se encuentra el cargo en el checkout.
+*Definidos por Juan el 15/09/2026. **Reemplazan por completo a los cinco combos del 10/09** (Plan Semana, Mesa dulce, Picada, Caja del mes, Plan Casa).*
 
 ---
 
-## Los cinco combos
+## 🔴 Dos precios que no coinciden con el catálogo — hay que resolverlos antes de cargar
 
-### A — Plan Semana · $40.500
-Pan de molde blanco + pan de campo blanco + prepizzas x2 + grisines + budín
+Al chequear los packs contra los precios verificados en la tienda el 08/09 aparecieron dos diferencias, **y las dos dejan un pack abajo del umbral de $40.000**:
 
-Suelto $40.700 · costo $21.500 · **margen 46,9%**
+| Producto | Precio usado en el pack | Precio del catálogo | Diferencia |
+|---|---:|---:|---:|
+| **Grisines** *(en Semanal y en Picar)* | $6.300 | **$4.600** | +$1.700 |
+| **Pan de campo blanco** *(en Antojito)* | $11.500 | **$8.600** | +$2.900 |
 
-*El combo base, el que más se va a vender. Cubre la semana entera de una casa.*
+*($6.300 es el precio de las pepas y $11.500 el del pan de molde: parecen dos cruces de precios.)*
 
-### B — Mesa dulce · $42.000
-Pan de molde blanco + budín + pepas + cookies + mermelada
+**Con los precios reales:**
 
-Suelto $42.200 · costo $23.900 · **margen 43,1%**
+| Pack | Declarado | Real | |
+|---|---:|---:|---|
+| Familiar | $74.600 | $74.600 | ✅ |
+| **Semanal** | $40.700 | **$39.000** | 🔴 **abajo del umbral** |
+| Kids | $43.000 | $43.000 | ✅ |
+| Para picar | $53.200 | $51.500 | ✅ (sigue bien) |
+| **Antojito** | $42.800 | **$39.900** | 🔴 **abajo del umbral, por $100** |
 
-*Desayunos y meriendas. El único con almacén adentro, y por eso el margen baja tres puntos.*
+> ⚠️ **Es exactamente el autogol que la regla de la casa advertía:** un pack a $39.900 lo compra alguien creyendo que tiene envío sin cargo, y se encuentra el cargo en el checkout. **El pack tiene que costar MÁS de $40.000, sin excepción.**
 
-### C — Picada · $42.500
-Pan de campo blanco + pan árabe + grisines + pasta de aceitunas + aceite Zuelo
-
-Suelto $42.500 · costo $25.300 · **margen 40,5%**
-
-*El de menor margen de los cinco, porque dos de los cinco productos son de terceros. Va igual: es el que engancha a otro tipo de cliente.*
-
-### D — Caja del mes · $44.000 ⭐
-**2** panes de molde blanco + pan de campo integral + prepizzas x2 + grisines
-
-Suelto $44.200 · costo $22.800 · **margen 48,2%**
-
-*El de mejor margen del catálogo entero. Se vende con el argumento del freezer: **"comprás para el mes y freezás"**. El pan de molde se congela perfecto.*
-
-### E — Plan Casa quincenal · $51.000
-Molde blanco + molde integral + campo blanco + prepizzas x2 + grisines + cookies
-
-Suelto $51.100 · costo $26.800 · **margen 47,5%**
-
-*Para la casa con familia. Es el ticket más alto y uno de los mejores márgenes.*
+**Las correcciones aplicadas abajo:**
+- **Semanal:** se suma un segundo paquete de grisines → **$43.600**
+- **Antojito:** el pan de campo blanco pasa a **pan de molde blanco** ($11.500) → **$42.800**, que es justo el precio que Juan había declarado. *(La otra salida sería sumarle grisines: $44.500.)*
 
 ---
 
-## Lo que deja cada uno, con envío sin cargo
+## Los packs, con los precios corregidos
 
-| Combo | Precio | CABA | Media | Lejana | Muy lejana |
-|---|---:|---:|---:|---:|---:|
-| A — Plan Semana | $40.500 | +$10.605 | +$8.780 | +$6.955 | +$5.585 |
-| B — Mesa dulce | $42.000 | +$9.600 | +$7.775 | +$5.950 | +$4.580 |
-| C — Picada | $42.500 | +$8.665 | +$6.840 | +$5.015 | +$3.645 |
-| **D — Caja del mes** | $44.000 | **+$12.560** | **+$10.735** | **+$8.910** | **+$7.540** |
-| E — Plan Casa | $51.000 | +$15.070 | +$13.245 | +$11.420 | +$10.050 |
+| Pack | Precio | Costo | Margen bruto |
+|---|---:|---:|---:|
+| **Familiar** | **$74.600** | $40.100 | **46,2%** |
+| **Semanal** | **$43.600** | $23.800 | **45,4%** |
+| **Kids** | **$43.000** | $23.900 | **44,4%** |
+| **Para picar** | **$51.500** | $31.838 | **38,2%** ⚠️ |
+| **Antojito** | **$42.800** | $24.200 | **43,5%** ⚠️ |
 
-**Todos cierran bien en las cuatro zonas**, incluso Muy lejana.
+*(⚠️ = lleva productos de terceros, que al 08/09 figuran sin stock en la tienda.)*
+
+### 🥖 Pack familiar — $74.600
+Pan de molde blanco · pan de molde integral · 2 prepizzas (4 unidades) · 2 mix pepas · 2 cookies integrales · 2 grisines
+
+**Es el mejor del lineup, y por lejos.** Casi el doble del umbral, 100% panificados propios y flete plano: **deja $24.218 en CABA**. Se vende con el argumento del freezer.
+
+### 📅 Pack semanal — $43.600
+Prepizzas x2 · pan de molde integral · budín de limón · cookies integrales · **2** grisines
+
+100% propio. Deja **$11.688** en CABA.
+
+### 🧒 Pack kids — $43.000
+Mix pepas integrales · 3 cookies integrales · budín con chips de chocolate · prepizzas de tomate x2
+
+100% propio. Deja **$11.030** en CABA.
+
+### 🫒 Pack para picar — $51.500
+2 hogazas · aceitunas verdes · **quesovich** · grisines · hummus de garbanzo
+
+⚠️ **El de menor margen (38,2%)**, porque tres de los cinco productos son de terceros. Deja **$10.997** en CABA.
+
+### 🍯 Pack antojito — $42.800
+Pan de molde blanco · dulce de leche · budín con chips de chocolate · 2 cookies integrales
+
+Deja **$10.544** en CABA.
 
 ---
 
-## El hallazgo, y es el que manda
+## Lo que deja cada pack, zona por zona
 
-**Cuanto más panificado propio tiene el combo, mejor margen:**
+*Con la regla de envío nueva: **Cercana y Media sin cargo; Lejana y Muy lejana pagan $5.000**.*
 
-| | Margen |
+| Pack | CABA | Media | Lejana | Muy lejana |
+|---|---:|---:|---:|---:|
+| Familiar | **+$24.218** | +$22.393 | +$25.218 | +$23.848 |
+| Semanal | +$11.688 | +$9.863 | +$12.688 | +$11.318 |
+| Kids | +$11.030 | +$9.205 | +$12.030 | +$10.660 |
+| Para picar | +$10.997 | +$9.172 | +$11.997 | +$10.627 |
+| Antojito | +$10.544 | +$8.719 | +$11.544 | +$10.174 |
+
+> 💡 **Fijate la columna de Lejana: deja MÁS que CABA en todos los packs.** Con $5.000 cobrados de envío el cliente cubre buena parte del flete, mientras que en CABA lo pagás entero. **La zona más lejana dejó de ser la peor.**
+
+---
+
+## ❓ Lo que falta definir
+
+### 1. El costo del quesovich
+**Es un producto nuevo que no está en el catálogo** (`tabla-margenes.md`). El margen del Pack para picar está calculado con un costo **estimado** de $8.638, que sale de aplicarle el margen promedio de terceros (30,9%). **Con el costo real el número puede moverse bastante**, y es el pack de menor margen de los cinco.
+
+### 2. ¿Hay descuento por comprar un pack?
+
+> **La recomendación es que no, y que el descuento vaya por otro lado: por pagar con transferencia.**
+
+**Por qué no descontar el pack:** el envío sin cargo ya vale entre $4.560 y $6.385 en las zonas donde se da. **Es el descuento, y descontar además es regalar dos veces la misma venta.** Los packs se venden casi a la suma de los sueltos por eso mismo.
+
+**Por qué sí descontar la transferencia:** se paga solo.
+
+| | Pack familiar ($74.600) |
 |---|---:|
-| Caja del mes (100% panificados) | **48,2%** |
-| Plan Semana (100% panificados) | 46,9% |
-| Mesa dulce (1 de 5 de almacén) | 43,1% |
-| Picada (2 de 5 de almacén) | 40,5% |
+| Comisión de Pago Nube (7%) | $5.222 |
+| Un descuento del 5% cuesta | $3.730 |
+| **Cobrado por transferencia, ganás** | **+$1.492** |
 
-**Ocho puntos de diferencia entre el combo de puro pan y el de picada.** Los productos de terceros suben el ticket pero bajan el margen: sirven para llegar al umbral, no para construir el combo.
-
-💡 **Y no hay costo logístico extra por agrandar el combo.** Flexit cobra **por pedido**, con hasta 3 bolsas incluidas. Un combo de $51.000 viaja al mismo precio que uno de $40.500: **cada producto que sumás es margen casi puro.**
+**Es la única carga evitable que tiene el negocio**, y un descuento por transferencia la convierte en argumento de venta en vez de en costo.
 
 ---
 
-## Cómo se comunican
+## La regla que no se rompe
 
-- **En la ficha de cada combo, arriba de todo:** *"Con envío sin cargo a todo el AMBA."* Ese es el titular, no el precio.
-- **En la Caja del mes, el argumento es el freezer:** *"Comprás para el mes. El pan de molde se congela perfecto y sale como recién hecho."* Es lo que justifica el ticket alto.
-- **La barrita de "te faltan $X"** es la que convierte al que no eligió combo. Con umbral único de $40.000 funciona con un solo número.
+> **El pack tiene que costar MÁS de $40.000.** Siempre. Es lo que hace que el envío sin cargo funcione como promesa y no como sorpresa en el checkout.
 
----
-
-## Los dos niveles del negocio
-
-Con esta estructura hay dos caminos y **los dos son rentables**:
-
-| | Camino |
-|---|---|
-| **Pedido chico** (Promo $28.900, un par de panes) | **Paga el envío.** En zona Media te deja **+$9.898** |
-| **Combo $40.000+** | **Envío sin cargo.** Te deja de **+$6.840 a +$13.245** |
-
-**No hay que empujar a nadie de un camino al otro.** El que quiere poco paga el flete y está bien; el que quiere mucho recibe el envío y está mejor. **Lo único que hay que evitar es el pedido de $30.000 con envío sin cargo**, que es donde el negocio se adelgaza.
+Y la otra, confirmada una vez más por estos cinco: **cuanto más pan propio tiene el pack, mejor margen.** Los tres 100% propios rinden 44-46%; los dos con almacén, 38-43%. **Los terceros suben el ticket y dan variedad, no margen.**

@@ -2,6 +2,66 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 15/09/2026 (3) — Los cinco packs definitivos, la regla de envío nueva, y dos precios que había que atajar
+
+Juan cerró tres cosas: **empezar por CABA y el primer cordón**, **cinco packs nuevos** y **una regla de envío distinta para las zonas lejanas**. Las tres se sostienen con los números, y una de ellas es mejor de lo que parece.
+
+### 🚚 La regla de envío: las zonas lejanas dejan de ser las peores
+
+> **Cercana y Media: envío sin cargo desde $40.000. Lejana y Muy lejana: $5.000 con la misma compra.**
+
+| Zona | Costo del flete | Pone Corteza | **Queda de un pedido de $40.000** |
+|---|---:|---:|---:|
+| Cercana (CABA) | $4.560 | $4.560 | $10.500 |
+| Media | $6.385 | $6.385 | $8.675 |
+| **Lejana** | $8.210 | $3.560 | **$11.500** |
+| **Muy lejana** | $9.580 | $4.930 | **$10.130** |
+
+**Un pedido de Lejana ahora deja más que uno de CABA.** Antes dejaba $6.850 contra $10.500.
+
+⭐ **Y resuelve el problema sin cerrar zonas.** Juan había planteado abrir solo CABA y el primer cordón por el costo de los envíos —razonamiento correcto, y que **no lo era en septiembre**, cuando se descartó con el argumento de que Flexit cobra por envío y no por zona cubierta: eso valía mientras el cliente pagara el flete—. Pero cobrando $5.000 en las zonas lejanas se queda con lo mejor de los dos lados: **el foco comercial va a CABA y Cordón 1, y la tienda sigue abierta a todo el AMBA.** No se achica el universo justo cuando hacen falta 120 pedidos al mes, no se quema la lista de anotados de otras zonas, y **Nordelta sigue adentro**.
+
+### 🔴 Dos precios cruzados que dejaban dos packs abajo del umbral
+
+Al chequear los packs contra el catálogo verificado el 08/09:
+
+| Producto | Usado | Catálogo |
+|---|---:|---:|
+| Grisines *(Semanal y Picar)* | $6.300 | **$4.600** |
+| Pan de campo blanco *(Antojito)* | $11.500 | **$8.600** |
+
+*($6.300 es el precio de las pepas y $11.500 el del pan de molde: dos cruces.)*
+
+**Con los precios reales, el Pack semanal quedaba en $39.000 y el Antojito en $39.900** — los dos abajo del umbral. **Es exactamente el autogol que la regla advertía:** el cliente compra creyendo que tiene envío sin cargo y se encuentra el cargo en el checkout.
+
+**Corregidos:** al Semanal se le suma un segundo grisines (**$43.600**) y el Antojito pasa a pan de molde blanco (**$42.800**, justo el precio que Juan había declarado).
+
+### Los cinco packs, con márgenes
+
+| Pack | Precio | Margen bruto | Deja en CABA |
+|---|---:|---:|---:|
+| **Familiar** | $74.600 | **46,2%** | **+$24.218** |
+| Semanal | $43.600 | 45,4% | +$11.688 |
+| Kids | $43.000 | 44,4% | +$11.030 |
+| Para picar | $51.500 | 38,2% ⚠️ | +$10.997 |
+| Antojito | $42.800 | 43,5% ⚠️ | +$10.544 |
+
+**El Familiar es el mejor del lineup y por lejos:** casi el doble del umbral, 100% panificados propios y flete plano. Se confirma otra vez el patrón — los tres packs 100% propios rinden 44-46%, los dos con almacén 38-43%.
+
+### 🔁 Suscripciones, modelo nuevo
+
+**El cliente elige qué le llega todas las semanas, con un mínimo de $40.000 semanales.** Más simple que los planes anteriores, y encaja solo con la regla de envío: cada entrega supera el umbral por definición. Son **$160.000 mensuales por suscriptor**, y **treinta suscriptores llenarían los 120 envíos del mínimo de Flexit**.
+
+### ❓ Lo que quedó abierto
+
+**1. El costo del quesovich.** Es un producto nuevo que no está en `tabla-margenes.md` y va en el Pack para picar, el de menor margen. Está calculado con un costo estimado de $8.638.
+
+**2. Si hay descuento por pack o por suscripción.** **La recomendación es que no, y que el descuento vaya por transferencia**, que es la única carga evitable del negocio y se paga sola: sobre un pack de $74.600 la comisión de Pago Nube son $5.222 y un 5% cuesta $3.730. **El envío sin cargo ya es el descuento; descontar además es regalar dos veces la misma venta.**
+
+**Archivos tocados:** `textos/combos-amba.md` (reescrito), `perfil.md`, `suscripciones.md`, `pendientes.md`.
+
+---
+
 ## 15/09/2026 (2) — El lanzamiento pasa a octubre, y el riesgo se corre de despacho
 
 **Juan movió el primer despacho a octubre.** Dos motivos: las tareas de captación —el test de Meta y los 15 micro-influencers— habían quedado atrasadas y ninguna llegaba al 24/9, y **Alva se incorporó como socio**, así que Juan lo está poniendo en tema y se pusieron a trabajar juntos. **Entrar con dos personas que saben lo que hacen vale más que llegar a una fecha a medias.**
