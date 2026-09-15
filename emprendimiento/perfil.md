@@ -54,7 +54,7 @@ Lo que incluye Flexit: **segunda y tercera visita sin costo adicional**, same-da
 
 **Por pedido:**
 - **Margen bruto real (calculado con los costos exportados de Tiendanube el 10/08/2026):**
-  - Panificados propios: **45,9%** ponderado
+  - Panificados propios: **45,6%** ponderado *(bajó de 45,9% el 15/09: el proveedor le subió el costo a la hogaza)*
   - Productos de terceros: **29,0%** ponderado
   - Catálogo completo: **36,9%**
   - *(El "30%" que se venía usando era una estimación y quedó desactualizado. El margen real es bastante mejor.)*
@@ -110,7 +110,7 @@ Cuando se lance, se abre **todo el AMBA de una vez**, no por zonas: como la log�
 | Pan de molde blanco | $10.000 | **$11.500** | masa madre; 850g |
 | Pan de molde integral | $10.000 | **$11.500** | masa madre; 850g |
 | Pan de molde de centeno | $10.000 | **$11.500** | masa madre; 850g |
-| Hogaza | $10.000 | **$11.500** | masa madre; dos variantes |
+| Hogaza | $10.000 | **$11.500** | masa madre; dos variantes. ⬆️ **Costo del proveedor a $6.700 desde el 15/09** — margen 41,7%, el más bajo de los propios |
 | Pan de campo blanco | $7.500 | **$8.600** | masa madre; 500g |
 | Pan de campo integral | $7.500 | **$8.600** | masa madre; 500g |
 | Pan de campo de centeno | $7.500 | **$8.600** | masa madre; 500g |

@@ -1,6 +1,12 @@
 # Precios, costos y márgenes de Corteza
 
-*Datos del export de Tiendanube del 10/08/2026. **Precios de Las Quinas actualizados el 08/09/2026.***
+*Datos del export de Tiendanube del 10/08/2026. **Precios de Las Quinas actualizados el 08/09/2026. Costo de la hogaza actualizado el 15/09/2026.***
+
+> ## ⚠️ 15/09/2026 — esta tabla se está quedando vieja
+>
+> **El export es del 10/08 y desde entonces aparecieron productos que no están acá:** el **quesovich** (va en el Pack para picar, y su costo sigue sin conocerse — se estima en $8.638), las variantes de **budín de limón** y **budín con chips de chocolate**, y la **prepizza de tomate**. También hay kéfir y kombucha con textos escritos y sin costo.
+>
+> **Conviene pedir un export nuevo de Tiendanube antes del lanzamiento** y rehacer la tabla completa, incluidos los márgenes ponderados por venta.
 
 > ## ✅ 08/09/2026 — YA NO QUEDA NINGÚN PRODUCTO EN ROJO
 >
@@ -35,7 +41,7 @@
 | Grisines integrales | $4.600 | $2.500 | $2.100 | **45,7%** 🟢 |
 | Cookies integrales c/ chips y nuez | $6.900 | $3.800 | $3.100 | **44,9%** 🟢 |
 | Pepas integrales | $6.300 | $3.500 | $2.800 | **44,4%** 🟢 |
-| Hogaza | $11.500 | $6.400 | $5.100 | **44,3%** 🟢 |
+| Hogaza | $11.500 | **$6.700** | $4.800 | **41,7%** ⬇️ |
 | Pan de campo integral | $8.600 | $4.800 | $3.800 | **44,2%** 🟢 |
 | Pan de campo de centeno | $8.600 | $4.800 | $3.800 | **44,2%** 🟢 |
 | Prepizzas x2 | $8.000 | $4.500 | $3.500 | **43,8%** |
@@ -79,12 +85,13 @@
 
 | Grupo | Margen bruto ponderado |
 |---|---:|
-| **Panificados propios** | **45,9%** |
+| **Panificados propios** | **45,6%** |
 | Promo Lanzamiento | 44,6% |
 | Productos de terceros | 29,1% |
 | Catálogo completo | 36,7% |
 
 **Producto más rentable:** pan de molde blanco (52,2%)
+**Panificado propio de menor margen: la hogaza (41,7%)** — el proveedor le subió el costo a $6.700 el 15/09. Pasó a ser el más flojo de los propios, abajo del molde de centeno (43,5%).
 **Mejor de terceros:** aceite Zuelo (36,4%)
 **Peor tras el aumento del 08/09:** yerba Roapipó (29,2%) — **ningún producto queda abajo del 29%**
 

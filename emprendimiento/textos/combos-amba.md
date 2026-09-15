@@ -40,7 +40,7 @@ Al chequear los packs contra los precios verificados en la tienda el 08/09 apare
 | **Familiar** | **$74.600** | $40.100 | **46,2%** |
 | **Semanal** | **$43.600** | $23.800 | **45,4%** |
 | **Kids** | **$43.000** | $23.900 | **44,4%** |
-| **Para picar** | **$51.500** | $31.838 | **38,2%** ⚠️ |
+| **Para picar** | **$51.500** | $32.438 | **37,0%** ⚠️ |
 | **Antojito** | **$42.800** | $24.200 | **43,5%** ⚠️ |
 
 *(⚠️ = lleva productos de terceros, que al 08/09 figuran sin stock en la tienda.)*
@@ -61,9 +61,11 @@ Mix pepas integrales · 3 cookies integrales · budín con chips de chocolate ·
 100% propio. Deja **$11.030** en CABA.
 
 ### 🫒 Pack para picar — $51.500
-2 hogazas · aceitunas verdes · **quesovich** · grisines · hummus de garbanzo
+2 hogazas · aceitunas verdes · **quesovich** (400g) · grisines · hummus de garbanzo
 
-⚠️ **El de menor margen (38,2%)**, porque tres de los cinco productos son de terceros. Deja **$10.997** en CABA.
+⚠️ **El de menor margen (37,0%)**, y el menos confiable de los cinco, por dos razones: tres de los cinco productos son de terceros, y **el costo del quesovich es una estimación**. Deja **$10.397** en CABA.
+
+⬇️ *Bajó del 38,2% al 37,0% el 15/09: el proveedor le subió el costo a la hogaza de $6.400 a $6.700, y el pack lleva dos.*
 
 ### 🍯 Pack antojito — $42.800
 Pan de molde blanco · dulce de leche · budín con chips de chocolate · 2 cookies integrales
@@ -81,7 +83,7 @@ Deja **$10.544** en CABA.
 | Familiar | **+$24.218** | +$22.393 | +$25.218 | +$23.848 |
 | Semanal | +$11.688 | +$9.863 | +$12.688 | +$11.318 |
 | Kids | +$11.030 | +$9.205 | +$12.030 | +$10.660 |
-| Para picar | +$10.997 | +$9.172 | +$11.997 | +$10.627 |
+| Para picar | +$10.397 | +$8.572 | +$11.397 | +$10.027 |
 | Antojito | +$10.544 | +$8.719 | +$11.544 | +$10.174 |
 
 > 💡 **Fijate la columna de Lejana: deja MÁS que CABA en todos los packs.** Con $5.000 cobrados de envío el cliente cubre buena parte del flete, mientras que en CABA lo pagás entero. **La zona más lejana dejó de ser la peor.**
@@ -91,7 +93,7 @@ Deja **$10.544** en CABA.
 ## ❓ Lo que falta definir
 
 ### 1. El costo del quesovich
-**Es un producto nuevo que no está en el catálogo** (`tabla-margenes.md`). El margen del Pack para picar está calculado con un costo **estimado** de $8.638, que sale de aplicarle el margen promedio de terceros (30,9%). **Con el costo real el número puede moverse bastante**, y es el pack de menor margen de los cinco.
+**Es un producto nuevo que no está en el catálogo** (`tabla-margenes.md`). Se sabe que la presentación es de **400g** *(confirmado por Juan el 15/09)*, pero no el costo. El margen del Pack para picar está calculado con un costo **estimado** de $8.638, que sale de aplicarle el margen promedio de terceros (30,9%). **Con el costo real el número puede moverse bastante**, y es el pack de menor margen de los cinco.
 
 ### 2. ¿Hay descuento por comprar un pack?
 

@@ -2,6 +2,33 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 15/09/2026 (4) — Sube el costo de la hogaza, y el catálogo empieza a quedar viejo
+
+**El proveedor le subió el costo a la hogaza: de $6.400 a $6.700.**
+
+| | Precio | Costo | Ganancia | Margen |
+|---|---:|---:|---:|---:|
+| Antes | $11.500 | $6.400 | $5.100 | 44,3% |
+| **Ahora** | $11.500 | **$6.700** | $4.800 | **41,7%** |
+
+**La hogaza pasa a ser el panificado propio de menor margen**, abajo del molde de centeno (43,5%). El ponderado de los propios baja de 45,9% a **45,6%** — poco, pero el que se lleva el golpe de verdad es el **Pack para picar**, que lleva dos hogazas: baja de 38,2% a **37,0%** y deja $10.397 en CABA en vez de $10.997.
+
+> **No amerita subir el precio de la hogaza por ahora.** A 41,7% sigue muy arriba del mínimo que necesita cualquier zona (32,2% es el más exigente, Muy lejana). Pero **si el proveedor vuelve a subir, ahí sí hay que mirarlo**: es el único panificado que se acercó al piso.
+
+**También quedó anotado que el quesovich es de 400g** *(dato de Juan)*. Sigue sin conocerse su costo, que es lo que hace del Pack para picar el menos confiable de los cinco.
+
+### 📋 Y el catálogo se está quedando viejo
+
+`tabla-margenes.md` sale del export de Tiendanube del **10/08**, y desde entonces aparecieron productos que no están ahí: el **quesovich**, el **budín de limón**, el **budín con chips de chocolate** y la **prepizza de tomate** — todos usados en los packs nuevos. Más el kéfir y la kombucha, con textos escritos y sin costo.
+
+**Quedó como tarea pedir un export nuevo y rehacer la tabla completa** antes del lanzamiento. Sirve además para sacar por fin los márgenes ponderados **por venta** en vez de por catálogo, que es una corrección pendiente desde el 08/09.
+
+### ⏰ Recordatorio programado
+
+A pedido de Juan, queda un recordatorio para **mañana 16/09 a las 9 de la mañana** con las dos correcciones de precio de los packs y el detalle de cómo quedan los cinco.
+
+---
+
 ## 15/09/2026 (3) — Los cinco packs definitivos, la regla de envío nueva, y dos precios que había que atajar
 
 Juan cerró tres cosas: **empezar por CABA y el primer cordón**, **cinco packs nuevos** y **una regla de envío distinta para las zonas lejanas**. Las tres se sostienen con los números, y una de ellas es mejor de lo que parece.
