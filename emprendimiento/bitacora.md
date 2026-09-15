@@ -2,6 +2,39 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 15/09/2026 — Repaso del tintero a 9 días del lanzamiento: 49 cosas abiertas y un dato que falta
+
+Juan pidió todo lo que quedó pendiente de las últimas tres semanas. Se repasó la bitácora y los pendientes desde el 25/08 y salieron **49 líneas abiertas**, ordenadas por urgencia contra el despacho del jueves 24.
+
+> ### ⚠️ Lo más importante no es una tarea: es un número que no tenemos
+>
+> **No hay registro de cuántos anotados tiene la lista de espera.** El plan de lanzamiento fijó una regla explícita —*no lanzar con menos de 100 anotados*— porque de una lista compra entre el 15% y el 25% en el primer aviso, y el objetivo del 24 son 30 pedidos.
+>
+> **Hay que mirarlo antes que cualquier otra cosa de la lista.** Si la lista está corta, la conversación no es qué tarea hacer primero: es si el despacho sale con 30 pedidos o con ocho.
+
+### Lo que está atrasado y afecta al lanzamiento
+
+| Qué | Cuánto |
+|---|---|
+| **Test de Meta de $120.000** | Debía arrancar el 31/8: **15 días tarde** |
+| **Los 15 micro-influencers** | Debían contactarse la semana del 7/9 para publicar la del 21. **Ya no llegan al cierre del lunes** |
+| **SEO del inicio** | Sigue con el texto por defecto de Tiendanube |
+| **La página de inicio no muestra un solo producto** | Relevado el 07/09, sin tocar |
+
+**Los influencers y Meta eran los dos motores de captación del lanzamiento, y ninguno se encendió.** Lo que queda como motor real es la lista de espera — de ahí que el número de anotados sea la pregunta.
+
+### El resto, agrupado
+
+- **12 cosas antes del cierre del lunes 21** — el aviso a la lista del miércoles 16, los cinco combos cargados (sin ellos el umbral de $40.000 no funciona), las zonas de Flexit, la barrita de "te faltan $X", la página de Envíos, el aviso de entrega en guardia, el packaging para 40 pedidos y la confirmación con los proveedores.
+- **5 para el día del despacho y después** — avisar a los countries, pedir reseñas y medir el ticket real, el costo por anotado y si aparecen pedidos de almacén puro en zonas lejanas.
+- **5 decisiones trabadas** — el umbral de Pilar, la comisión real de cobro (7% vs 2,97%), si los $75.000 del flete son un viaje semanal, el costo del reparto propio y el monotributo.
+- **4 fechas fijas** — el INPI del 22/10, el abogado marcario a fines de septiembre, octubre con el mínimo corriendo y el tarifario mensual de Flexit.
+- **18 mejoras que no bloquean** — suscripciones para Eugenio, María Paula y Patricia; el perfil de Google; las fotos de producto; la lista de difusión; el % de recompra; y el resto.
+
+Se entregó como **checklist publicado**, con lo tachado guardado en la propia página.
+
+---
+
 ## 11/09/2026 (4) — Un dato de Juan da vuelta la propuesta de cobrar el envío en Pilar
 
 Juan planteó meter a Pilar en el umbral de $40.000, igual que el AMBA. **El primer análisis dijo que sí con holgura. Después Juan aportó el dato que lo desarma: en Pilar el cliente recurrente es Eugenio, y siempre gasta más de $40.000.**
