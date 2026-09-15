@@ -1,10 +1,12 @@
 # Perfil de Corteza
 
-*Última actualización: 11/09/2026 (costos corregidos y **ticket promedio del modelo fijado en $40.000**, el umbral del envío sin cargo)*
+*Última actualización: 15/09/2026 (**el lanzamiento pasa a octubre** y se incorpora Alva como socio)*
 
 **Quien lleva Corteza: Juan (varón — hablarle en masculino).**
 
-**Socio: Alva** *(incorporado en septiembre de 2026)*. Amigo de Juan. Juan se refiere a Alva en masculino ("mi socio amigo"). Se está poniendo en tema con el negocio: el dossier completo que se le preparó está en `dossier-alva.md`.
+**Socio: Alva** *(incorporado en septiembre de 2026)*. Amigo de Juan. Juan se refiere a Alva en masculino ("mi socio amigo"). El dossier completo que se le preparó está en `dossier-alva.md`.
+
+> **Al 15/09 los dos están trabajando juntos**: Juan le está enseñando la operación y se pusieron a laburar en equipo. **Es parte del motivo por el que el lanzamiento se movió a octubre** — entrar con dos personas que saben lo que hacen vale más que llegar a una fecha a medias.
 
 Corteza es una marca de panificados artesanales de Pilar, Buenos Aires, Argentina. **Modelo de negocio: curaduría/reventa** — los panificados los elaboran distintos proveedores artesanales (masa madre, harinas 100% agroecológicas) y Corteza los selecciona y los vende bajo su marca. La tienda también vende productos orgánicos y artesanales de otras marcas (almacén, vinoteca, dips y té).
 
@@ -82,7 +84,15 @@ Lo que incluye Flexit: **segunda y tercera visita sin costo adicional**, same-da
 
 **El objetivo operativo son 24 pedidos por jueves**: no es el equilibrio (son 12), es el punto donde se usan los 120 envíos que Flexit cobra igual. Cada pedido hasta ahí es contribución casi pura. Análisis completo en `numeros.md`.
 
-El lanzamiento está esperando una **mudanza personal** de quien lleva el emprendimiento (no se muda el negocio; es un tema de espacio para stockear). Es un asunto privado: **no se usa como material de comunicación.**
+> ## 📅 EL LANZAMIENTO PASA A OCTUBRE *(decidido el 15/09/2026)*
+>
+> Se movió desde el jueves 24/9. **Dos motivos:** las tareas de captación del lanzamiento —el test de Meta y los 15 micro-influencers— habían quedado atrasadas y ninguna llegaba, y **Alva se acaba de incorporar**, así que se usa el tiempo para ponerlo en tema y hacer bien lo que estaba a medias.
+>
+> **Fecha recomendada: jueves 15/10**, sujeta a una respuesta de Flexit (abajo). Las cuentas de los cinco jueves posibles están en `numeros.md` sección 3 bis.
+>
+> ⚠️ **Antes de fijar la fecha hay que preguntarle a Flexit cómo cobra el mínimo de 120 en un mes de lanzamiento parcial.** En septiembre confirmó que con un solo día de despacho cobraba solo lo despachado, pero octubre con tres o cuatro despachos es otra cosa. **Entre "solo lo despachado" y "prorrateado" hay 34 pedidos de diferencia en el equilibrio del mes.**
+
+El lanzamiento estuvo esperando además una **mudanza personal** de quien lleva el emprendimiento (no se muda el negocio; es un tema de espacio para stockear). Es un asunto privado: **no se usa como material de comunicación.**
 
 Cuando se lance, se abre **todo el AMBA de una vez**, no por zonas: como la logística es tercerizada y cada pedido se cobra por separado, no hay ninguna ventaja en abrir de a poco.
 

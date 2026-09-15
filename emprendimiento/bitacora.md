@@ -2,6 +2,54 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 15/09/2026 (2) — El lanzamiento pasa a octubre, y el riesgo se corre de despacho
+
+**Juan movió el primer despacho a octubre.** Dos motivos: las tareas de captación —el test de Meta y los 15 micro-influencers— habían quedado atrasadas y ninguna llegaba al 24/9, y **Alva se incorporó como socio**, así que Juan lo está poniendo en tema y se pusieron a trabajar juntos. **Entrar con dos personas que saben lo que hacen vale más que llegar a una fecha a medias.**
+
+> ## 🔴 La pregunta más cara que abre esta decisión
+>
+> **¿Cómo cobra Flexit el mínimo de 120 envíos en un mes de lanzamiento parcial?**
+>
+> En septiembre Juan confirmó que con **un solo día de despacho** Flexit cobraba solo lo despachado. **Octubre con tres o cuatro despachos es otra cosa**, y la diferencia es enorme *(lanzando el 8/10)*:
+>
+> | Cómo cobre | Flete fijo | Equilibrio |
+> |---|---:|---:|
+> | Solo lo despachado | variable | **16 pedidos** |
+> | Prorrateado por días de despacho | $608.640 | **50 pedidos** |
+> | Los 120 completos | $760.800 | **60 pedidos** |
+>
+> **Son 34 pedidos de diferencia. Es una llamada, y no se puede fijar fecha sin esa respuesta.**
+
+### Los cinco jueves, y el dato que ordena la decisión
+
+| Lanzás el | Despachos | Flete fijo | Equilibrio | Por despacho |
+|---|---:|---:|---:|---:|
+| 1/10 | 5 | $760.800 | 60 | 11,9 |
+| 8/10 | 4 | $608.640 | 50 | 12,4 |
+| **15/10** ⭐ | **3** | **$456.480** | **39** | **13,1** |
+| 22/10 | 2 | $304.320 | 29 | 14,7 |
+| 29/10 | 1 | $152.160 | 19 | 19,2 |
+
+💡 **El equilibrio por despacho es casi plano —entre 12 y 15 pedidos— elijas el jueves que elijas**, porque el mínimo se prorratea junto con los despachos. **Lo que cambia es la exposición total**: $760.800 comprometidos lanzando el 1, contra $152.160 lanzando el 29.
+
+**Recomendación: jueves 15/10.** Cuatro semanas de preparación, tres despachos para construir ritmo en vez de jugarse todo a un día, y la mitad de flete comprometido. **Si Flexit contesta que cobra los 120 igual, la fecha correcta pasa a ser el 29/10** — que es reproducir el plan de septiembre un mes más tarde.
+
+### ⚠️ El cambio de fondo: el riesgo ya no está en el día uno
+
+El plan de septiembre era **un despacho único de 30 pedidos**, y la lista de espera lo llenaba sola: de una lista compra el 15-25% en el primer aviso. **Con tres o cuatro despachos, la lista llena el primero y los siguientes necesitan demanda nueva.**
+
+Es exactamente lo que ya advertía `campana-meta.md` —*"la publicidad importa más en las semanas 2, 3 y 4 que en la 1"*—, solo que **pasó de ser una advertencia teórica a ser el riesgo principal**. Por eso el test de Meta y los influencers dejaron de ser tareas atrasadas y pasaron a ser lo primero de la lista: ya no son para llegar al día uno, son para sostener el dos, el tres y el cuatro.
+
+### Lo que se gana y lo que se pierde
+
+**Se gana:** Meta recupera su ventana de aprendizaje completa (necesita ~50 conversiones semanales por conjunto; con 9 días no llegaba), los influencers llegan a publicar antes del cierre, la tienda se puede arreglar de verdad —el inicio sin productos, el SEO, los sellos— y hay un segundo par de manos para las doce tareas que estaban trabadas por falta de tiempo.
+
+**Se pierde:** septiembre iba a cerrar en **+$124.600** con 30 pedidos y sin mínimo corriendo. Ese mes barato no se repite: cualquier mes normal ya entra con el mínimo encima. **Es el precio de llegar con la tienda y la publicidad listas en vez de a medias, y parece bien pagado.**
+
+**Archivos tocados:** `numeros.md` (sección 3 bis rehecha para octubre), `perfil.md`, `plan-lanzamiento.md` (lo de septiembre queda como histórico), `pendientes.md` (bloque de lanzamiento nuevo) y el checklist publicado.
+
+---
+
 ## 15/09/2026 — Repaso del tintero a 9 días del lanzamiento: 49 cosas abiertas y un dato que falta
 
 Juan pidió todo lo que quedó pendiente de las últimas tres semanas. Se repasó la bitácora y los pendientes desde el 25/08 y salieron **49 líneas abiertas**, ordenadas por urgencia contra el despacho del jueves 24.

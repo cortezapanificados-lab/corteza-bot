@@ -1,4 +1,20 @@
-# Plan de lanzamiento — jueves 24 de septiembre de 2026
+# Plan de lanzamiento — OCTUBRE 2026
+
+> ## 📅 ACTUALIZADO el 15/09/2026 — el lanzamiento pasa a octubre
+>
+> **La fecha del 24/9 quedó atrás.** Las dos tareas de captación del lanzamiento —el test de Meta y los 15 micro-influencers— habían quedado atrasadas y ninguna llegaba a tiempo; además **Alva se incorporó como socio** y Juan está poniéndolo en tema.
+>
+> **Fecha recomendada: jueves 15/10.** Tres despachos, equilibrio de 39 pedidos (13 por jueves), $456.480 de flete comprometido. Las cuentas de los cinco jueves de octubre están en `numeros.md` sección 3 bis.
+>
+> 🔴 **Antes de fijar la fecha: preguntarle a Flexit cómo cobra el mínimo de 120 en un mes parcial.** Es la diferencia entre necesitar 16 pedidos y necesitar 50.
+>
+> ⚠️ **Y el cambio de fondo: el riesgo se corrió del primer despacho a los siguientes.** Con un despacho único, la lista de espera lo llenaba sola. Con tres o cuatro, la lista llena el primero y los demás necesitan demanda nueva — que es justo lo que la publicidad tiene que traer.
+>
+> **Todo lo que sigue en este documento está escrito para septiembre y quedó como referencia histórica.**
+
+---
+
+# (histórico) Plan de lanzamiento — jueves 24 de septiembre de 2026
 
 *Armado el 10/08/2026. Este documento reemplaza a `plan-agosto.md` como plan operativo.*
 

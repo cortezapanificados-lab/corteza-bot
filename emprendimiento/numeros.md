@@ -98,32 +98,66 @@ Pasados los 120 pedidos mensuales la cuenta **se da vuelta**: cada envío bonifi
 
 ---
 
-## 3 bis. Septiembre: el mes de un solo despacho
+## 3 bis. Octubre: el mes del lanzamiento
 
-*Rehecho el 11/09/2026 con el ticket de $40.000. Lanzamiento el **jueves 24/9**.*
+*El lanzamiento pasó a octubre el 15/09/2026. **Esta sección reemplaza al escenario de septiembre**, que ya no corre.*
 
-Septiembre queda con **un único despacho de AMBA** y **sin mínimo**: Flexit cobra solo los envíos despachados.
+> ## 🔴 La pregunta más cara que hay abierta hoy
+>
+> **¿Cómo cobra Flexit el mínimo de 120 envíos en un mes en el que se arranca a mitad de camino?**
+>
+> En septiembre Juan confirmó que, con **un solo día de despacho**, Flexit cobraba solo lo despachado. **Octubre no es ese caso**: si se lanza el 8 o el 15 hay tres o cuatro despachos, o sea un mes casi normal. Hay tres respuestas posibles y la diferencia entre ellas es enorme:
+>
+> *(Lanzando el 8/10, con 4 despachos)*
+>
+> | Cómo cobre Flexit | Flete fijo del mes | **Equilibrio** | Por despacho |
+> |---|---:|---:|---:|
+> | Solo lo despachado *(como septiembre)* | variable | **16 pedidos** | 3,9 |
+> | Prorrateado por días de despacho (96 envíos) | $608.640 | **50 pedidos** | 12,4 |
+> | Los 120 completos | $760.800 | **60 pedidos** | 14,9 |
+>
+> **Entre la primera y la segunda hay 34 pedidos de diferencia.** No se puede fijar fecha de lanzamiento sin esa respuesta: es una llamada.
 
-**Con 30 pedidos a $40.000:**
+### El equilibrio según en qué jueves se lance
 
-| | |
-|---|---:|
-| Facturación | $1.200.000 |
-| Costo de la mercadería | −$649.200 |
-| **Margen bruto (45,9%)** | **$550.800** |
-| Comisión Pago Nube (7%) | −$84.000 |
-| Packaging (30 × $500) | −$15.000 |
-| Flete Flexit (30 × $6.340) | −$190.200 |
-| Costos fijos del mes | −$137.000 |
-| **Resultado antes de publicidad** | **+$124.600** |
+Octubre tiene **cinco jueves: 1, 8, 15, 22 y 29.** Asumiendo el caso del medio (mínimo prorrateado por días de despacho):
 
-**El equilibrio de septiembre son 16 pedidos.** El objetivo de 30 lo casi duplica.
+| Lanzás el | Despachos | Mínimo prorrateado | Flete fijo | Equilibrio | **Por despacho** |
+|---|---:|---:|---:|---:|---:|
+| 1/10 | 5 | 120 | $760.800 | 60 | **11,9** |
+| 8/10 | 4 | 96 | $608.640 | 50 | **12,4** |
+| **15/10** | **3** | **72** | **$456.480** | **39** | **13,1** |
+| 22/10 | 2 | 48 | $304.320 | 29 | **14,7** |
+| 29/10 | 1 | 24 | $152.160 | 19 | **19,2** |
 
-> 💡 **Comparado con el modelo de $28.000, septiembre pasa de −$15.440 a +$124.600.** Los $12.000 más de ticket compensan de sobra el flete que ahora paga Corteza — porque en un mes sin mínimo cada pedido paga un solo flete, pero trae $4.668 más de contribución.
+> 💡 **El dato que más ordena: el equilibrio por despacho es casi plano, entre 12 y 15 pedidos, elijas el jueves que elijas.** El mínimo se prorratea junto con los despachos, así que lanzar antes o después casi no cambia cuántos pedidos hace falta por jueves. **Lo que sí cambia es la exposición total**: $760.800 de flete comprometido si se lanza el 1, contra $152.160 si se lanza el 29.
 
-**Con el test de Meta de $120.000**, septiembre da **+$4.600**. Prácticamente en cero, con la lista construida: es un buen resultado para un mes de lanzamiento.
+### Lo que cambia de fondo respecto del plan de septiembre
 
-> ⚠️ **Octubre es el primer mes normal**: 5 jueves y el mínimo de 120 corriendo, o sea **$760.800 de flete fijo**. Hay que cubrir $897.800 con una contribución de $15.060 por pedido → **el equilibrio de octubre son 60 pedidos (12 por jueves)**. Y para **usar** los 120 envíos que se pagan igual hacen falta **24 por jueves**.
+**En septiembre el riesgo estaba en un solo día. En octubre está en el segundo, el tercero y el cuarto.**
+
+El plan de septiembre era un despacho único de 30 pedidos, y la lista de espera lo resolvía sola: de una lista compra el 15-25% en el primer aviso, y eso alcanzaba. **Con tres o cuatro despachos, la lista llena el primero y los siguientes necesitan demanda nueva.**
+
+Es exactamente lo que ya advertía `campana-meta.md`: *"la publicidad de esta fase importa más en las semanas 2, 3 y 4 que en la 1; la primera semana la resuelve la lista, el riesgo real es caerse en los despachos siguientes."* **Ese riesgo pasó de ser teórico a ser el principal.**
+
+### Lo que se gana con la postergación
+
+1. **El test de Meta ahora sí tiene su ventana.** Necesita ~50 conversiones semanales por conjunto para salir de la fase de aprendizaje; con 9 días no llegaba, con cuatro semanas sí.
+2. **Los influencers llegan a publicar antes del cierre.** Es el canal más barato (CAC de $4.500 a $13.500 por canje) y se había caído del calendario.
+3. **La tienda se puede arreglar de verdad** — el inicio sin productos, el SEO, los sellos, las fotos.
+4. **Hay un segundo par de manos.** Con Alva incorporado, las doce tareas que estaban trabadas por falta de tiempo dejan de estarlo.
+
+### Lo que se pierde
+
+**Septiembre iba a cerrar en +$124.600 con 30 pedidos y sin mínimo corriendo.** Ese mes "barato" —un despacho, cero envíos fantasma— no se repite: cualquier mes normal ya entra con el mínimo encima. Es el costo real de la postergación, y es el precio de llegar con la tienda y la publicidad listas en vez de a medias.
+
+### La recomendación
+
+> **Jueves 15 de octubre**, si Flexit confirma que el mínimo se prorratea.
+>
+> Cuatro semanas de preparación —suficiente para que Meta aprenda y los influencers publiquen—, **tres despachos para construir ritmo** en vez de jugarse todo a un día, y **$456.480 de flete comprometido en vez de $760.800**. El equilibrio son 39 pedidos, 13 por jueves.
+>
+> **Si Flexit responde que cobra los 120 completos igual, la fecha correcta pasa a ser el 29/10**: un solo despacho, mínimo de 24, equilibrio de 19 pedidos. Es reproducir el plan de septiembre un mes más tarde.
 
 ---
 
