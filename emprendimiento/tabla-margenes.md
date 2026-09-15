@@ -56,7 +56,9 @@
 
 ### Productos de terceros
 
-*Ordenados por margen. Precios verificados en la tienda el 08/09/2026.*
+*Ordenados por margen. Precios verificados en la tienda el 08/09/2026. El queso se sumó el 15/09.*
+
+> ❄️ **El queso es el primer producto refrigerado del catálogo.** Todo lo demás viaja a temperatura ambiente, que es la condición acordada con Flexit. Ver la advertencia en `pendientes.md`.
 
 | Producto | Precio | Costo | Ganancia | Margen |
 |---|---:|---:|---:|---:|
@@ -64,6 +66,7 @@
 | Aceitunas negras San Nicolás 250g | $6.000 | $4.025 | $1.975 | **32,9%** |
 | Aceitunas verdes gigantes San Nicolás 250g | $6.200 | $4.250 | $1.950 | **31,5%** |
 | La Linda Malbec Orgánico 750ml | $18.500 | $12.700 | $5.800 | **31,4%** |
+| **Queso El Capricho 400g** ❄️ | **$12.500** | **$8.600** | **$3.900** | **31,2%** |
 | Animal Extra Brut Orgánico 375ml | $8.000 | $5.500 | $2.500 | **31,2%** |
 | Intizen Dulce Manzanilla x15 | $5.200 | $3.605 | $1.595 | **30,7%** |
 | Intizen Verde Chai x15 | $5.200 | $3.605 | $1.595 | **30,7%** |

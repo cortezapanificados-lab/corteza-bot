@@ -16,7 +16,13 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
   - **Grisines cargados a $6.300** (en Semanal y en Picar); el catálogo dice **$4.600**. Sin esa diferencia, **el Pack semanal queda en $39.000**. → Se le suma un segundo grisines: **$43.600**.
   - **Pan de campo blanco cargado a $11.500** (en Antojito); el catálogo dice **$8.600**. Sin esa diferencia, **el Pack antojito queda en $39.900**. → Pasa a pan de molde blanco: **$42.800**, que es el precio que Juan declaró.
   - ⚠️ **Es el autogol que la regla advertía**: el cliente compra creyendo que tiene envío sin cargo y se encuentra el cargo en el checkout.
-- [ ] 🔴 **Conseguir el costo del quesovich.** Producto nuevo, no está en `tabla-margenes.md`. Se sabe que es de **400g** (15/09); falta el costo. Va en el Pack para picar, el de menor margen (37,0%), calculado con un costo **estimado** de $8.638.
+- [x] ~~🔴 **Conseguir el costo del quesovich.**~~ → ✅ **Resuelto el 15/09: es el Queso El Capricho 400g.** Se compra de a 20 unidades por $172.000 ($8.600 c/u) y se vende a $12.500 — margen **31,2%**. Ya cargado en `tabla-margenes.md` y en `perfil.md`.
+- [ ] ❄️ 🔴 **Confirmar cómo viaja el queso: es el primer producto refrigerado del catálogo.** *(15/09.)* La condición que Flexit tiene por escrito es que **Corteza manda panificados a temperatura ambiente, sin cadena de frío** (`perfil.md`). Un queso en una camioneta compartida, un jueves de calor, es otra cosa. **Hay que resolverlo antes de vender el Pack para picar**, y son tres preguntas:
+  - **Al proveedor:** ¿El Capricho aguanta a temperatura ambiente, y cuántas horas? Si es un queso de maduración lo aguanta; si es fresco, no.
+  - **A Flexit:** ¿hay opción de frío, y qué cuesta? Si la hay y es cara, la alternativa es no vender el queso a las zonas lejanas.
+  - **De almacenamiento:** las 20 unidades se guardan en la casa. ¿Entran en la heladera?
+- [ ] **Relevar el mercado del Queso El Capricho.** Se le fijó precio sin ese dato, igual que pasó con la pasta de tomates secos. La regla de la casa es quedar en torno a mercado +10%.
+- [ ] **Mirar la rotación de las 20 unidades de queso.** Son **$172.000 inmovilizados**. Si el Pack para picar vende 5 por despacho, duran 4 semanas; si vende 3, casi 7. Es el primer producto que se compra por lote cerrado: conviene saber a qué ritmo sale antes de repetir la compra.
 - [ ] 📋 **Pedir un export nuevo de Tiendanube y rehacer `tabla-margenes.md`.** El actual es del 10/08 y ya no tiene el quesovich, el budín de limón, el budín con chips ni la prepizza de tomate. Sirve además para sacar los márgenes ponderados **por venta** en vez de por catálogo.
 - [ ] **Definir si hay descuento por comprar packs o por suscribirse.** *(Recomendación: no descontar ninguno de los dos, y hacer el descuento por **transferencia**, que se paga solo — sobre un pack de $74.600 la comisión son $5.222 y un 5% cuesta $3.730.)*
 

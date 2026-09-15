@@ -162,6 +162,12 @@ Comprando suelto a los precios nuevos serían $30.400, así que la promo mantien
 | Pickles orgánicos San Nicolás 250g | $6.200 | sin cambio | sin datos |
 | Aceite de oliva Zuelo orgánico 250ml | $11.000 | sin cambio | $10.279–$12.155 ✅ en mercado |
 
+### Quesos
+
+| Producto | Precio | Costo | Margen | Notas |
+|---|---|---|---|---|
+| **Queso El Capricho 400g** | **$12.500** | $8.600 | 31,2% | Se compra de a 20 unidades por $172.000. ❄️ **Primer producto refrigerado del catálogo** — todo lo demás viaja a temperatura ambiente |
+
 ### Dips y condimentos
 
 | Producto | Precio anterior | **Nuevo** | Mercado |

@@ -2,6 +2,36 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 15/09/2026 (5) — El quesovich es el Queso El Capricho, y con él entra el primer producto refrigerado
+
+Juan pasó el dato que faltaba: **el quesovich es Queso El Capricho de 400g**. Se compra de a **20 unidades por $172.000** ($8.600 cada uno) y se vende a **$12.500**.
+
+| | |
+|---|---:|
+| Costo unitario | $8.600 |
+| Precio | $12.500 |
+| Ganancia | $3.900 |
+| **Margen** | **31,2%** |
+
+**Queda en la banda media del almacén** (que va de 29,2% a 36,4%), al lado de La Linda Malbec (31,4%) y Animal Extra Brut (31,2%). *(La estimación que se venía usando era $8.638: quedó a $38 del real, así que las cuentas del Pack para picar no se mueven — 37,1% en vez de 37,0%, y deja $10.435 en CABA.)*
+
+> ## ❄️ Lo que abre este producto: es el primero que necesita frío
+>
+> **La condición que Flexit tiene por escrito es que Corteza manda panificados a temperatura ambiente, sin cadena de frío.** Un queso viajando en una camioneta compartida, un jueves de calor, es otra cosa — y va adentro de un pack de $51.500.
+>
+> **Hay que resolverlo antes de vender el Pack para picar.** Son tres preguntas, anotadas en `pendientes.md`:
+> 1. **Al proveedor:** ¿cuántas horas aguanta a temperatura ambiente? Si es de maduración, aguanta; si es fresco, no.
+> 2. **A Flexit:** ¿hay opción de frío y qué cuesta? Si no la hay o es cara, la salida es no vender el queso a las zonas lejanas.
+> 3. **De almacenamiento:** las 20 unidades se guardan en la casa. ¿Entran en la heladera?
+
+### Y dos cosas más que trae la compra por lote
+
+**Son $172.000 inmovilizados**, y es el primer producto que se compra por lote cerrado en vez de por pedido. Si el Pack para picar vende 5 por despacho, las 20 unidades duran 4 semanas; si vende 3, casi 7. **Conviene medir la rotación antes de repetir la compra.**
+
+**Y se le fijó precio sin relevamiento de mercado**, igual que había pasado con la pasta de tomates secos. La regla de la casa es quedar en torno a mercado +10%: quedó anotado chequearlo.
+
+---
+
 ## 15/09/2026 (4) — Sube el costo de la hogaza, y el catálogo empieza a quedar viejo
 
 **El proveedor le subió el costo a la hogaza: de $6.400 a $6.700.**
