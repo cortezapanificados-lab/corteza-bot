@@ -12,7 +12,8 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 
 ### 🔴 Lo primero, antes de fijar cualquier fecha
 
-- [ ] 🔴 **Corregir dos precios antes de cargar los packs.** *(Detectado el 15/09.)* Al chequear los cinco packs contra el catálogo aparecieron dos cruces de precios, y **cada uno deja un pack abajo del umbral de $40.000**:
+- [x] ~~🔴 **Corregir dos precios antes de cargar los packs.**~~ → ✅ **Hecho el 17/09.** Juan los rehizo sumando un mix pepas al Semanal ($45.300) y otro al Antojito ($46.200). **Los cinco cierran contra el catálogo y superan los $40.000.**
+- [ ] ~~(referencia de lo que estaba mal)~~ **Corregir dos precios antes de cargar los packs.** *(Detectado el 15/09.)* Al chequear los cinco packs contra el catálogo aparecieron dos cruces de precios, y **cada uno deja un pack abajo del umbral de $40.000**:
   - **Grisines cargados a $6.300** (en Semanal y en Picar); el catálogo dice **$4.600**. Sin esa diferencia, **el Pack semanal queda en $39.000**. → Se le suma un segundo grisines: **$43.600**.
   - **Pan de campo blanco cargado a $11.500** (en Antojito); el catálogo dice **$8.600**. Sin esa diferencia, **el Pack antojito queda en $39.900**. → Pasa a pan de molde blanco: **$42.800**, que es el precio que Juan declaró.
   - ⚠️ **Es el autogol que la regla advertía**: el cliente compra creyendo que tiene envío sin cargo y se encuentra el cargo en el checkout.
@@ -24,7 +25,8 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 - [ ] **Relevar el mercado del Queso El Capricho.** Se le fijó precio sin ese dato, igual que pasó con la pasta de tomates secos. La regla de la casa es quedar en torno a mercado +10%.
 - [ ] **Mirar la rotación de las 20 unidades de queso.** Son **$172.000 inmovilizados**. Si el Pack para picar vende 5 por despacho, duran 4 semanas; si vende 3, casi 7. Es el primer producto que se compra por lote cerrado: conviene saber a qué ritmo sale antes de repetir la compra.
 - [ ] 📋 **Pedir un export nuevo de Tiendanube y rehacer `tabla-margenes.md`.** El actual es del 10/08 y ya no tiene el quesovich, el budín de limón, el budín con chips ni la prepizza de tomate. Sirve además para sacar los márgenes ponderados **por venta** en vez de por catálogo.
-- [ ] **Definir si hay descuento por comprar packs o por suscribirse.** *(Recomendación: no descontar ninguno de los dos, y hacer el descuento por **transferencia**, que se paga solo — sobre un pack de $74.600 la comisión son $5.222 y un 5% cuesta $3.730.)*
+- [x] ~~**Definir si hay descuento por comprar packs o por suscribirse.**~~ → ✅ **Decidido el 17/09: sin descuento en los packs, 5% en la suscripción.** El envío sin cargo ya vale entre 6% y 15% del pack; en la suscripción, en cambio, el 5% compra envíos garantizados del mínimo de Flexit (cuatro valen $25.360 contra un descuento de $8.600-$14.920). Detalle en `textos/combos-amba.md`.
+  - ⚠️ **Y quedó corregido un error del 15/09:** se había dicho que un descuento por transferencia "se paga solo". **Con el mix real de pagos no es cierto** — el 73% ya paga por transferencia o efectivo, así que darles 5% no ahorra ninguna comisión. Efecto neto **−3,7%**. Puede volver a tener sentido en CABA, donde no hay efectivo contra entrega y la mezcla se corre a tarjeta: depende de la incógnita de la comisión real, que sigue abierta más abajo.
 
 - [ ] **Preguntarle a Flexit cómo cobra el mínimo de 120 envíos en un mes de lanzamiento parcial.** En septiembre confirmó que con **un solo día de despacho** cobraba solo lo despachado. Octubre con tres o cuatro despachos es otra cosa. **Es una llamada y define todo el mes:**
 

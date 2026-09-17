@@ -2,6 +2,46 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 17/09/2026 — Packs cerrados, y la decisión del descuento: en los packs no, en la suscripción sí
+
+Juan rehízo los cinco packs con los precios corregidos. **Los cinco cierran contra el catálogo y superan los $40.000**: sumó un mix pepas al Semanal ($45.300) y otro al Antojito ($46.200).
+
+| Pack | Precio | Margen bruto | Deja en CABA |
+|---|---:|---:|---:|
+| **Familiar** | $74.600 | **46,2%** | **+$24.218** |
+| Semanal | $45.300 | 45,3% | +$12.269 |
+| Kids | $43.000 | 44,4% | +$11.030 |
+| Antojito | $46.200 | 42,2% | +$11.206 |
+| Para picar | $51.500 | 37,1% | +$10.435 |
+
+### La pregunta: ¿5% de descuento en packs y suscripciones, o subir precios para financiarlo?
+
+> ## Decidido: **sin descuento en los packs, 5% en la suscripción.**
+
+**Por qué no en los packs:**
+
+1. **Ya tienen un descuento grande que no se ve: el envío sin cargo.** Vale entre **6,1% y 10,6%** del pack en CABA, y entre 8,6% y 14,8% en zona Media. **Sumarle 5% deja el descuento efectivo entre 15% y 20%** sobre un producto que recién se lanza.
+2. **Cuesta plata real:** $78.000 al mes con 30 pedidos, **$312.000 con 120**.
+3. **Y sobre todo: no compra nada.** Un descuento sirve para cambiar una conducta. En el pack el cliente **ya está haciendo lo que se quiere**: comprando $43.000 o más de una sola vez. Pagarle por algo que ya hace es regalar margen.
+
+**Por qué sí en la suscripción:** ahí el 5% **sí compra algo concreto** — envíos garantizados del mínimo de Flexit. Un envío sin usar cuesta $6.340; cuatro valen **$25.360** contra un descuento de $8.600 a $14.920. Y compra dos cosas más que no entran en la cuenta: previsibilidad para comprarle al proveedor, y recompra. ⚠️ **Pasados los 120 pedidos mensuales ese argumento se cae**, igual que el del umbral.
+
+> 💡 **Y hay una razón de diseño, no solo de plata: el 5% es lo que distingue a la suscripción de la compra suelta.** Si se lo das a las dos, suscribirse deja de tener sentido para el cliente.
+
+**Por qué no subir precios para financiarlo:** haría falta **+5,26% en todo**, y es circular — **los packs se venden a la suma de los sueltos**, así que subir los sueltos sube el pack y el 5% lo devuelve al precio de hoy. Nadie gana nada, y **el que compra un pan suelto paga 5,26% más sin recibir descuento**. Es la misma conclusión a la que ya había llegado `numeros.md` por otro camino: *"el precio ya no es la palanca; la palanca es volumen."*
+
+### 🔄 Y una corrección a lo que se dijo el 15/09
+
+**Se había recomendado un descuento por transferencia diciendo que "se paga solo". Con el mix real de pagos, no es cierto.**
+
+`diagnostico-ventas.md` midió **55% transferencia, 18% efectivo, 27% tarjeta**: el **73% ya paga por un medio sin comisión o casi**. Darle 5% a esa gente **no ahorra ninguna comisión, porque nunca se pagó**. Y al 27% de tarjeta que se pase, el 5% que se le da contra el 4,88% que se ahorra queda en cero. **Efecto neto: −3,7% de la facturación.**
+
+⚠️ **Salvedad que importa:** ese mix es de Pilar, con reparto propio y clientes conocidos. **En CABA con Flexit no hay efectivo contra entrega**, así que la mezcla se va a correr hacia la tarjeta y el descuento por transferencia puede volver a tener sentido. Depende de la incógnita de la comisión real (7% vs 2,97%), que sigue abierta.
+
+**Archivos tocados:** `textos/combos-amba.md` (reescrito con los precios finales y la decisión), `suscripciones.md`, `pendientes.md`.
+
+---
+
 ## 15/09/2026 (5) — El quesovich es el Queso El Capricho, y con él entra el primer producto refrigerado
 
 Juan pasó el dato que faltaba: **el quesovich es Queso El Capricho de 400g**. Se compra de a **20 unidades por $172.000** ($8.600 cada uno) y se vende a **$12.500**.

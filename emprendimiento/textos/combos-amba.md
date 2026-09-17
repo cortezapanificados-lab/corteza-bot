@@ -1,123 +1,133 @@
 # Los cinco packs
 
-*Definidos por Juan el 15/09/2026. **Reemplazan por completo a los cinco combos del 10/09** (Plan Semana, Mesa dulce, Picada, Caja del mes, Plan Casa).*
+*Definidos por Juan el 15/09/2026, **con los precios corregidos el 17/09**. Reemplazan a los cinco combos del 10/09.*
 
----
-
-## 🔴 Dos precios que no coinciden con el catálogo — hay que resolverlos antes de cargar
-
-Al chequear los packs contra los precios verificados en la tienda el 08/09 aparecieron dos diferencias, **y las dos dejan un pack abajo del umbral de $40.000**:
-
-| Producto | Precio usado en el pack | Precio del catálogo | Diferencia |
-|---|---:|---:|---:|
-| **Grisines** *(en Semanal y en Picar)* | $6.300 | **$4.600** | +$1.700 |
-| **Pan de campo blanco** *(en Antojito)* | $11.500 | **$8.600** | +$2.900 |
-
-*($6.300 es el precio de las pepas y $11.500 el del pan de molde: parecen dos cruces de precios.)*
-
-**Con los precios reales:**
-
-| Pack | Declarado | Real | |
-|---|---:|---:|---|
-| Familiar | $74.600 | $74.600 | ✅ |
-| **Semanal** | $40.700 | **$39.000** | 🔴 **abajo del umbral** |
-| Kids | $43.000 | $43.000 | ✅ |
-| Para picar | $53.200 | $51.500 | ✅ (sigue bien) |
-| **Antojito** | $42.800 | **$39.900** | 🔴 **abajo del umbral, por $100** |
-
-> ⚠️ **Es exactamente el autogol que la regla de la casa advertía:** un pack a $39.900 lo compra alguien creyendo que tiene envío sin cargo, y se encuentra el cargo en el checkout. **El pack tiene que costar MÁS de $40.000, sin excepción.**
-
-**Las correcciones aplicadas abajo:**
-- **Semanal:** se suma un segundo paquete de grisines → **$43.600**
-- **Antojito:** el pan de campo blanco pasa a **pan de molde blanco** ($11.500) → **$42.800**, que es justo el precio que Juan había declarado. *(La otra salida sería sumarle grisines: $44.500.)*
-
----
-
-## Los packs, con los precios corregidos
+✅ **Los cinco superan los $40.000 y las sumas cierran contra el catálogo.** *(Los dos cruces de precio del borrador —grisines a $6.300 y pan de campo a $11.500— quedaron resueltos: Juan sumó un mix pepas al Semanal y otro al Antojito.)*
 
 | Pack | Precio | Costo | Margen bruto |
 |---|---:|---:|---:|
-| **Familiar** | **$74.600** | $40.100 | **46,2%** |
-| **Semanal** | **$43.600** | $23.800 | **45,4%** |
-| **Kids** | **$43.000** | $23.900 | **44,4%** |
-| **Para picar** | **$51.500** | $32.400 | **37,1%** ⚠️ |
-| **Antojito** | **$42.800** | $24.200 | **43,5%** ⚠️ |
+| **Familiar** | **$74.600** | $40.100 | **46.2%** |
+| **Semanal** | **$45.300** | $24.800 | **45.3%** |
+| **Kids** | **$43.000** | $23.900 | **44.4%** |
+| **Para picar** | **$51.500** | $32.400 | **37.1%** |
+| **Antojito** | **$46.200** | $26.700 | **42.2%** |
 
-*(⚠️ = lleva productos de terceros, que al 08/09 figuran sin stock en la tienda.)*
+## Lo que deja cada uno, zona por zona
 
-### 🥖 Pack familiar — $74.600
-Pan de molde blanco · pan de molde integral · 2 prepizzas (4 unidades) · 2 mix pepas · 2 cookies integrales · 2 grisines
-
-**Es el mejor del lineup, y por lejos.** Casi el doble del umbral, 100% panificados propios y flete plano: **deja $24.218 en CABA**. Se vende con el argumento del freezer.
-
-### 📅 Pack semanal — $43.600
-Prepizzas x2 · pan de molde integral · budín de limón · cookies integrales · **2** grisines
-
-100% propio. Deja **$11.688** en CABA.
-
-### 🧒 Pack kids — $43.000
-Mix pepas integrales · 3 cookies integrales · budín con chips de chocolate · prepizzas de tomate x2
-
-100% propio. Deja **$11.030** en CABA.
-
-### 🫒 Pack para picar — $51.500
-2 hogazas · aceitunas verdes · **Queso El Capricho 400g** · grisines · hummus de garbanzo
-
-⚠️ **El de menor margen (37,1%)**, porque tres de los cinco productos son de terceros. Deja **$10.435** en CABA. *(El costo del queso ya no es una estimación: es $8.600 real.)*
-
-⬇️ *Bajó del 38,2% al 37,0% el 15/09: el proveedor le subió el costo a la hogaza de $6.400 a $6.700, y el pack lleva dos.*
-
-### 🍯 Pack antojito — $42.800
-Pan de molde blanco · dulce de leche · budín con chips de chocolate · 2 cookies integrales
-
-Deja **$10.544** en CABA.
-
----
-
-## Lo que deja cada pack, zona por zona
-
-*Con la regla de envío nueva: **Cercana y Media sin cargo; Lejana y Muy lejana pagan $5.000**.*
+*Regla de envío: **Cercana y Media sin cargo; Lejana y Muy lejana pagan $5.000**.*
 
 | Pack | CABA | Media | Lejana | Muy lejana |
 |---|---:|---:|---:|---:|
-| Familiar | **+$24.218** | +$22.393 | +$25.218 | +$23.848 |
-| Semanal | +$11.688 | +$9.863 | +$12.688 | +$11.318 |
+| Familiar | +$24.218 | +$22.393 | +$25.218 | +$23.848 |
+| Semanal | +$12.269 | +$10.444 | +$13.269 | +$11.899 |
 | Kids | +$11.030 | +$9.205 | +$12.030 | +$10.660 |
 | Para picar | +$10.435 | +$8.610 | +$11.435 | +$10.065 |
-| Antojito | +$10.544 | +$8.719 | +$11.544 | +$10.174 |
+| Antojito | +$11.206 | +$9.381 | +$12.206 | +$10.836 |
 
-> 💡 **Fijate la columna de Lejana: deja MÁS que CABA en todos los packs.** Con $5.000 cobrados de envío el cliente cubre buena parte del flete, mientras que en CABA lo pagás entero. **La zona más lejana dejó de ser la peor.**
-
----
-
-## ❓ Lo que falta definir
-
-### ~~1. El costo del quesovich~~ → ✅ resuelto el 15/09
-Es el **Queso El Capricho 400g**: se compra de a **20 unidades por $172.000** ($8.600 cada uno) y se vende a **$12.500** — margen **31,2%**, en línea con el resto del almacén. Ya está cargado en `tabla-margenes.md`.
-
-### 1 bis. ❄️ Es el primer producto refrigerado del catálogo
-Todo lo demás viaja a temperatura ambiente, y esa es la condición que Flexit tiene por escrito. **Hay que confirmar cómo viaja el queso** antes de vender el pack. Ver `pendientes.md`.
-
-### 2. ¿Hay descuento por comprar un pack?
-
-> **La recomendación es que no, y que el descuento vaya por otro lado: por pagar con transferencia.**
-
-**Por qué no descontar el pack:** el envío sin cargo ya vale entre $4.560 y $6.385 en las zonas donde se da. **Es el descuento, y descontar además es regalar dos veces la misma venta.** Los packs se venden casi a la suma de los sueltos por eso mismo.
-
-**Por qué sí descontar la transferencia:** se paga solo.
-
-| | Pack familiar ($74.600) |
-|---|---:|
-| Comisión de Pago Nube (7%) | $5.222 |
-| Un descuento del 5% cuesta | $3.730 |
-| **Cobrado por transferencia, ganás** | **+$1.492** |
-
-**Es la única carga evitable que tiene el negocio**, y un descuento por transferencia la convierte en argumento de venta en vez de en costo.
+> 💡 **La columna de Lejana deja más que la de CABA en todos los packs.** Con $5.000 cobrados el cliente cubre buena parte del flete; en CABA lo pagás entero.
 
 ---
 
-## La regla que no se rompe
+### Pack familiar — $74.600
+Pan de molde blanco · pan de molde integral · 2 prepizzas (4 unidades) · 2 mix pepas · 2 cookies integrales · 2 grisines
 
-> **El pack tiene que costar MÁS de $40.000.** Siempre. Es lo que hace que el envío sin cargo funcione como promesa y no como sorpresa en el checkout.
+Margen bruto **46.2%** · deja **+$24.218** en CABA. +$22.393 en Media
 
-Y la otra, confirmada una vez más por estos cinco: **cuanto más pan propio tiene el pack, mejor margen.** Los tres 100% propios rinden 44-46%; los dos con almacén, 38-43%. **Los terceros suben el ticket y dan variedad, no margen.**
+**El mejor del lineup. y por lejos.** Casi el doble del umbral. 100% panificados propios y flete plano. Es el que hay que empujar.
+
+### Pack semanal — $45.300
+Prepizzas x2 · pan de molde integral · budín de limón · mix pepas · cookies integrales · grisines
+
+Margen bruto **45.3%** · deja **+$12.269** en CABA. +$10.444 en Media
+
+100% propio.
+
+### Pack kids — $43.000
+Mix pepas integrales · 3 cookies integrales · budín con chips de chocolate · prepizzas de tomate x2
+
+Margen bruto **44.4%** · deja **+$11.030** en CABA. +$9.205 en Media
+
+100% propio.
+
+### Pack para picar — $51.500
+2 hogazas · aceitunas verdes · Queso El Capricho 400g · grisines · hummus de garbanzo
+
+Margen bruto **37.1%** · deja **+$10.435** en CABA. +$8.610 en Media
+
+⚠️ **El de menor margen**. porque tres de los cinco productos son de terceros. ❄️ Y lleva el único producto refrigerado del catálogo: ver la advertencia de cadena de frío.
+
+### Pack antojito — $46.200
+Pan de campo blanco · dulce de leche · budín con chips de chocolate · 2 cookies integrales · mix pepas
+
+Margen bruto **42.2%** · deja **+$11.206** en CABA. +$9.381 en Media
+
+⚠️ Lleva dulce de leche. que es de terceros.
+
+---
+
+## 💰 La decisión del descuento
+
+> ## Recomendación: **sin descuento en los packs. Sí 5% en la suscripción.**
+
+### Por qué NO en los packs
+
+**1. Ya tienen un descuento grande, aunque no se vea: el envío sin cargo.**
+
+| Pack | El envío vale, sobre el pack | En zona Media |
+|---|---:|---:|
+| Familiar | 6,1% | 8,6% |
+| Semanal | 10,1% | 14,1% |
+| Kids | **10,6%** | **14,8%** |
+| Para picar | 8,9% | 12,4% |
+| Antojito | 9,9% | 13,8% |
+
+**Sumarle 5% deja el descuento efectivo entre 15% y 20%** sobre un producto que recién se lanza.
+
+**2. Cuesta plata de verdad.** Entre $2.150 y $3.730 por pack: **$78.000 al mes con 30 pedidos, $312.000 con 120.**
+
+**3. Y lo más importante: no comprás nada con ese descuento.** Un descuento sirve para **cambiar una conducta**. En el pack el cliente ya está haciendo exactamente lo que querés: comprando $43.000 o más de una sola vez. **Pagarle por algo que ya hace es regalar margen.**
+
+### Por qué SÍ en la suscripción
+
+**Ahí el descuento sí compra algo concreto: envíos garantizados del mínimo de Flexit.**
+
+| Pack | Al mes (×4) | El 5% cuesta | Asegura |
+|---|---:|---:|---|
+| Familiar | $298.400 | $14.920 | 4 envíos |
+| Semanal | $181.200 | $9.060 | 4 envíos |
+| Kids | $172.000 | $8.600 | 4 envíos |
+| Para picar | $206.000 | $10.300 | 4 envíos |
+| Antojito | $184.800 | $9.240 | 4 envíos |
+
+**Un envío del mínimo que queda sin usar cuesta $6.340. Cuatro valen $25.360**, contra un descuento que cuesta entre $8.600 y $14.920. **Mientras el mes no llegue a 120 pedidos, el descuento se paga solo con creces.**
+
+⚠️ **Pasados los 120 ese argumento se cae**, igual que pasa con el umbral de envío sin cargo. Hay que revisarlo ahí.
+
+### Por qué NO subir los precios para financiar el descuento
+
+Haría falta **+5,26% en todos los productos de los packs**. Y es circular: **los packs se venden a la suma de los sueltos**, así que subir los sueltos sube el pack y el 5% lo devuelve al precio de hoy. Nadie gana nada, y **el que compra un pan suelto paga 5,26% más sin recibir ningún descuento.**
+
+La memoria ya había llegado a esta conclusión por otro camino: *"el precio ya no es la palanca: con 45,9% de margen bruto en los propios, estás bien. La palanca es volumen."*
+
+---
+
+### 🔄 Corrección a lo que se había dicho el 15/09
+
+**Se había dicho que un descuento por transferencia "se paga solo". Con el mix de pagos real, no es cierto.**
+
+`diagnostico-ventas.md` midió: **55% transferencia, 18% efectivo, 27% tarjeta.** O sea que **el 73% ya paga por un medio sin comisión o casi**:
+
+- Al 73% que ya pagaba por transferencia le das 5% y **no te ahorrás nada**, porque nunca pagaste comisión por ellos.
+- Al 27% de tarjeta que se pase, le das 5% y te ahorrás 4,88%: **queda en cero**.
+
+**Efecto neto: −3,7% de la facturación. Es costo, no ahorro.**
+
+⚠️ **Con una salvedad que importa:** ese mix es de **Pilar**, con reparto propio y clientes conocidos. **En CABA con Flexit no hay efectivo contra entrega**, así que la mezcla se va a correr hacia la tarjeta y el descuento por transferencia puede volver a tener sentido. **Cuánto, no se sabe: es la incógnita de la comisión real que ya estaba anotada en `pendientes.md`.**
+
+---
+
+## Las dos reglas que no se rompen
+
+> **1. El pack tiene que costar MÁS de $40.000.** Es lo que hace que el envío sin cargo sea una promesa y no una sorpresa en el checkout.
+>
+> **2. Cuanto más pan propio, mejor margen.** Se confirma otra vez: Familiar 46,2% y Semanal 45,3% (100% propios) contra Para picar 37,1% (tres de cinco de terceros). **Los terceros suben el ticket y dan variedad, no margen.**

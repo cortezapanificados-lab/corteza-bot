@@ -1,27 +1,36 @@
 # Suscripciones
 
-> ## 🔄 MODELO VIGENTE — definido por Juan el 15/09/2026
+> ## 🔄 MODELO VIGENTE — definido el 15/09/2026, precisado el 17/09
 >
-> ### El cliente elige qué le llega **todas las semanas**, con un mínimo de **$40.000 semanales**.
+> ### Se suscriben a **cualquiera de los cinco packs** y les llega **una vez por semana**, con **5% de descuento**.
 >
-> Es más simple que los planes anteriores y encaja solo con la regla de envío: **cada entrega supera el umbral por definición**, así que el envío sin cargo (o el de $5.000 en las zonas lejanas) se aplica como a cualquier cliente, sin reglas especiales.
+> Más simple que los planes anteriores y encaja solo con la regla de envío: **cada pack supera los $40.000**, así que el envío sin cargo (o el de $5.000 en las zonas lejanas) se aplica como a cualquier cliente, sin reglas especiales.
 >
-> | | |
-> |---|---:|
-> | Mínimo por entrega | **$40.000** |
-> | Entregas al mes | 4 |
-> | **Facturación mensual por suscriptor** | **$160.000** |
-> | Lo que deja al mes en CABA, sin descuento | **$42.000** |
+> | Pack | Semanal | **Al mes (×4)** | El 5% cuesta |
+> |---|---:|---:|---:|
+> | Familiar | $74.600 | **$298.400** | $14.920 |
+> | Para picar | $51.500 | **$206.000** | $10.300 |
+> | Antojito | $46.200 | **$184.800** | $9.240 |
+> | Semanal | $45.300 | **$181.200** | $9.060 |
+> | Kids | $43.000 | **$172.000** | $8.600 |
 >
-> **Treinta suscriptores llenarían los 120 envíos del mínimo de Flexit** y son $4.800.000 de facturación mensual asegurada, sin vender nada más.
+> ### ✅ Acá el 5% sí se justifica, y la razón es concreta
 >
-> ### ❓ El descuento está a definir — y la respuesta es la misma que para los packs
+> **Compra envíos garantizados del mínimo de Flexit.** Un envío del mínimo que queda sin usar cuesta **$6.340**; cuatro valen **$25.360**, contra un descuento que cuesta entre $8.600 y $14.920. **Mientras el mes no llegue a 120 pedidos, el descuento se paga solo con creces.**
 >
-> **Que el descuento sea por pagar con transferencia, no por suscribirse.** La comisión de Pago Nube sobre $160.000 son **$11.200**; un 5% de descuento cuesta **$8.000**. **Cobrado por transferencia el descuento se paga solo y sobran $3.200.**
+> Y compra dos cosas más que no aparecen en la cuenta: **previsibilidad para comprarle al proveedor** y **recompra**, que hoy está en 40% cuando para pan debería estar arriba del 60%.
 >
-> ⚠️ **Limitar la elección a panificados propios.** Los productos de terceros están sin stock la mayor parte del tiempo, y en una suscripción semanal cada faltante es un mail de disculpas *todas las semanas*.
+> ⚠️ **Pasados los 120 pedidos mensuales el argumento se cae** y hay que revisar si el 5% sigue teniendo sentido. Es la misma bisagra que la del umbral de envío sin cargo.
 >
-> ⚠️ **Y sigue sin confirmarse si Tiendanube puede cobrar automáticamente todos los meses.** Hasta saberlo, se vende como producto normal pagado por adelantado y se lleva en una planilla quién tiene entregas pendientes. No prometer cobro automático.
+> ### ⚠️ Tres cosas para no tropezar
+>
+> 1. **En los packs NO hay descuento** *(decidido el 17/09)*. El envío sin cargo ya vale entre 6% y 15% del pack: ese es el descuento. **El 5% es lo que distingue a la suscripción de la compra suelta** — si se lo das a los dos, la suscripción deja de tener sentido para el cliente.
+> 2. **El Pack para picar lleva queso**, el único producto refrigerado del catálogo. **En una suscripción semanal ese riesgo se repite todas las semanas.** Hasta resolver la cadena de frío, no ofrecerlo como suscripción.
+> 3. **Sigue sin confirmarse si Tiendanube puede cobrar automáticamente.** Hasta saberlo se vende como producto normal pagado por adelantado, con una planilla de quién tiene entregas pendientes. **No prometer cobro automático.**
+>
+> ### El número a seguir
+>
+> **Cuántos de los primeros compradores se suscriben.** **Treinta suscriptores llenan los 120 envíos del mínimo de Flexit** y son entre $5,1 y $8,9 millones de facturación mensual asegurada, según el pack.
 
 ---
 
