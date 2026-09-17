@@ -12,6 +12,8 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 
 ### 🔴 Lo primero, antes de fijar cualquier fecha
 
+- [ ] 🧅 **Dar vuelta el orden de las fotos de Prepizzas x2 en el panel.** *(17/09.)* La **foto principal muestra cebolla morada y el producto lleva cebolla blanca.** La segunda foto de la ficha ya la muestra bien: alcanza con ponerla primera. **Si no, el cliente ve un producto y recibe otro** — y es el tipo de diferencia que genera un reclamo el primer jueves.
+
 - [ ] 🔴 **23 de los 39 productos están agotados, y Tiendanube los oculta del listado.** *(Detectado el 17/09 al buscar las fotos de los packs.)* La tienda muestra **16 productos** a quien navega; los otros 23 existen y tienen ficha, pero no aparecen. **Si se lanza así, el cliente de CABA ve una tienda de 16 productos, no de 39.** Se cruza con el problema del inicio, que no muestra ninguno.
   - [ ] 🔴 **Reponer la HOGAZA.** Es un **panificado propio** —los demás panes figuran disponibles y ella no— y **el Pack para picar lleva dos**. Sin ella ese pack no se puede vender, y es el único salado del lineup.
   - [ ] Reponer aceitunas verdes, hummus y dulce de leche, que son los otros tres que usan los packs.

@@ -116,7 +116,7 @@ def armar(nombre, precio, contenido, archivos, salida):
 MOLDE_B   = "pan_de_molde_blanco"
 MOLDE_I   = "pan_de_molde_integral"
 CAMPO_B   = "pan_de_campo_blanco"
-PREPIZZA  = "prepizzas_x2"
+PREPIZZA  = "prepizzas_cebolla_blanca"   # 2a foto de la ficha: cebolla BLANCA
 PEPAS     = "pepas_integrales"
 COOKIES   = "cookies_integrales_con_chips_de_chocolat"
 GRISINES  = "grisines_integrales"
