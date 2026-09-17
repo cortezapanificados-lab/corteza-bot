@@ -12,6 +12,10 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 
 ### 🔴 Lo primero, antes de fijar cualquier fecha
 
+- [ ] 🔴 **23 de los 39 productos están agotados, y Tiendanube los oculta del listado.** *(Detectado el 17/09 al buscar las fotos de los packs.)* La tienda muestra **16 productos** a quien navega; los otros 23 existen y tienen ficha, pero no aparecen. **Si se lanza así, el cliente de CABA ve una tienda de 16 productos, no de 39.** Se cruza con el problema del inicio, que no muestra ninguno.
+  - [ ] 🔴 **Reponer la HOGAZA.** Es un **panificado propio** —los demás panes figuran disponibles y ella no— y **el Pack para picar lleva dos**. Sin ella ese pack no se puede vender, y es el único salado del lineup.
+  - [ ] Reponer aceitunas verdes, hummus y dulce de leche, que son los otros tres que usan los packs.
+
 - [x] ~~🔴 **Corregir dos precios antes de cargar los packs.**~~ → ✅ **Hecho el 17/09.** Juan los rehizo sumando un mix pepas al Semanal ($45.300) y otro al Antojito ($46.200). **Los cinco cierran contra el catálogo y superan los $40.000.**
 - [ ] ~~(referencia de lo que estaba mal)~~ **Corregir dos precios antes de cargar los packs.** *(Detectado el 15/09.)* Al chequear los cinco packs contra el catálogo aparecieron dos cruces de precios, y **cada uno deja un pack abajo del umbral de $40.000**:
   - **Grisines cargados a $6.300** (en Semanal y en Picar); el catálogo dice **$4.600**. Sin esa diferencia, **el Pack semanal queda en $39.000**. → Se le suma un segundo grisines: **$43.600**.

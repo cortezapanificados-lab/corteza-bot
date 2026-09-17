@@ -122,6 +122,10 @@ COOKIES   = "cookies_integrales_con_chips_de_chocolat"
 GRISINES  = "grisines_integrales"
 BUDIN     = "budin"
 QUESO     = "queso_gouda_artesanal_el_capricho_400_g"
+HOGAZA    = "hogaza"
+ACEITUNAS = "aceitunas_verdes"
+HUMMUS    = "hummus"
+DDL       = "dulce_de_leche"
 
 packs = [
  ("Pack familiar", "$74.600",
@@ -134,11 +138,11 @@ packs = [
   "3 cookies integrales · budín con chips · prepizzas de tomate · mix pepas",
   [COOKIES, PREPIZZA, BUDIN, PEPAS], "pack-kids.jpg"),
  ("Pack antojito", "$46.200",
-  "Pan de campo blanco · budín con chips · 2 cookies · mix pepas",
-  [CAMPO_B, BUDIN, COOKIES, PEPAS], "pack-antojito.jpg"),
+  "Pan de campo blanco · dulce de leche · budín con chips · 2 cookies · mix pepas",
+  [CAMPO_B, DDL, BUDIN, COOKIES, PEPAS], "pack-antojito.jpg"),
  ("Pack para picar", "$51.500",
   "2 hogazas · queso gouda El Capricho · aceitunas verdes · grisines · hummus",
-  [QUESO, GRISINES], "pack-para-picar-PARCIAL.jpg"),
+  [HOGAZA, QUESO, ACEITUNAS, GRISINES, HUMMUS], "pack-para-picar.jpg"),
 ]
 print("Generando:")
 for n, p, c, a, s in packs:

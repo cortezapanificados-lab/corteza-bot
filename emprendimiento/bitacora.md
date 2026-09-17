@@ -2,6 +2,38 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 17/09/2026 (7) — Las fotos de los packs, y 23 productos escondidos
+
+Se armaron los **cinco collages de los packs** con las fotos que ya están en la tienda: cuadrados de 1200×1200, con Playfair para el nombre y Jost para el precio. Quedaron en `textos/packs/`, junto con el script que los rehace.
+
+### El hallazgo: la tienda muestra 16 productos de 39
+
+Buscando las fotos apareció que **el listado de `/productos/` muestra solo 16**, mientras que el sitemap tiene **39**. **Tiendanube oculta del listado los productos agotados.** Los 23 restantes existen, tienen ficha y tienen foto, pero nadie los encuentra navegando.
+
+*(Primero se concluyó que la hogaza directamente no existía en la tienda. Juan corrigió: están publicados pero agotados. Con el sitemap aparecieron todos y se pudieron completar los cinco collages.)*
+
+| Producto agotado | Dónde pega |
+|---|---|
+| **Hogaza** | 🔴 **el Pack para picar lleva DOS** |
+| Aceitunas verdes · Hummus | Pack para picar |
+| Dulce de leche | Pack antojito |
+
+> 🔴 **La hogaza es lo que más preocupa, porque es un panificado propio.** Los demás panes figuran disponibles y ella no. **Sin reponerla el Pack para picar no se puede vender**, y es el único salado de los cinco.
+>
+> ⚠️ **Y hay un efecto de vidriera más amplio:** si se lanza el 24 con 23 de 39 productos agotados, **el cliente de CABA que entra por primera vez ve una tienda de 16 productos.** Se suma al problema del inicio, que no muestra ninguno.
+
+### 🧀 Y dos datos del queso que resuelven cosas abiertas
+
+**Es un Gouda** — *"Queso Gouda Artesanal El Capricho · 400 g"*. **El gouda es semiduro de maduración, así que aguanta mucho mejor a temperatura ambiente que un queso fresco.** No reemplaza preguntarle al proveedor cuántas horas aguanta, pero **baja bastante la preocupación por la cadena de frío** que se venía arrastrando desde el 15/09.
+
+**Y el slug de la URL todavía dice 450 g** aunque el título ya diga 400. Ahí estaba lo que Juan había mencionado.
+
+### Dos productos que la memoria no tenía
+
+Del sitemap salieron el **Laur Aceite de Oliva Extra Virgen 500ml** —que no está en `tabla-margenes.md`, donde solo figura el Zuelo de 250ml— y que **el kéfir y las kombuchas ya están publicados**, aunque seguían anotados como pendientes de cargar. **Refuerza que hace falta un export nuevo.**
+
+---
+
 ## 17/09/2026 (6) — El 1% de Tiendanube ya está adentro del 7%: el modelo no le faltaba nada
 
 Juan confirmó que **el 1% de comisión de plataforma del plan Esencial está incluido dentro del 7%** que usa el modelo.
