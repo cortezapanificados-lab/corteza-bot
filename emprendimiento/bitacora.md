@@ -2,6 +2,18 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 17/09/2026 (6) — El 1% de Tiendanube ya está adentro del 7%: el modelo no le faltaba nada
+
+Juan confirmó que **el 1% de comisión de plataforma del plan Esencial está incluido dentro del 7%** que usa el modelo.
+
+> **El 7% no es "la comisión de Pago Nube": es el costo total de cobrar.** Adentro están la comisión de Pago Nube y el 1% de Tiendanube. **No hay ningún cargo de cobro por fuera.**
+
+**Al modelo no le faltaba nada**, y la advertencia de la entrada anterior queda saldada. Se corrigió el nombre del concepto en `numeros.md` y `perfil.md`, donde figuraba como "comisión Pago Nube" y daba a entender que era solo eso.
+
+**Lo que sigue abierto es otra cosa, y es la de siempre:** el modelo usa 7% y lo medido sobre ventas reales fue **2,97%**. Esos cuatro puntos siguen siendo margen que puede estar apareciendo. Se resuelve mirando una liquidación real, y ahora se sabe exactamente qué hay que buscar en ella: **el costo de cobrar todo junto, Pago Nube más plataforma.**
+
+---
+
 ## 17/09/2026 (5) — Confirmado el plan Esencial: no se pasa a Impulso, y aparece un costo que el modelo no tenía
 
 Juan confirmó que tiene el **plan Esencial** de Tiendanube. Con eso se cierra la decisión de la suscripción —**se arranca a mano**— y aparece un costo que no estaba anotado.

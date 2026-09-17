@@ -58,7 +58,7 @@ Lo que incluye Flexit: **segunda y tercera visita sin costo adicional**, same-da
   - Productos de terceros: **29,0%** ponderado
   - Catálogo completo: **36,9%**
   - *(El "30%" que se venía usando era una estimación y quedó desactualizado. El margen real es bastante mejor.)*
-- **Comisión Pago Nube: 7%** de la venta.
+- **Costo de cobrar: 7%** de la venta. **Es todo incluido** *(precisado el 17/09/2026)*: la comisión de Pago Nube **más el 1% de comisión de plataforma del plan Esencial**. No hay cargos de cobro por fuera de ese 7%.
 - **Packaging: $500 por pedido** *(corregido por Juan el 11/09/2026; antes estaba cargado como 1% de la venta)*. Es un **monto fijo por pedido**, no un porcentaje: no depende de cuánto lleve la caja.
 - **Envío**: según zona (arriba), a cargo del comprador. El precio que se le cobra lleva recargo para cubrir la comisión de Pago Nube (se divide por 0,93): **$4.700 Cercana, $6.600 Media, $8.500 Lejana, $9.900 Muy lejana**.
 
@@ -70,7 +70,7 @@ Lo que incluye Flexit: **segunda y tercera visita sin costo adicional**, same-da
 
 **Fijos mensuales:**
 - Claude: $35.000
-- Tiendanube: $27.000 — **plan Esencial** *(confirmado por Juan el 17/09/2026)*. Incluye una **comisión de plataforma del 1% sobre cada venta**, además del abono
+- Tiendanube: $27.000 — **plan Esencial** *(confirmado por Juan el 17/09/2026)*. El **1% de comisión de plataforma** que cobra además del abono **ya está contado dentro del 7% de costo de cobrar**, no se suma aparte
 - **Envío de los proveedores al depósito: $75.000** *(corregido por Juan el 11/09/2026; venía cargado en $20.000)*
 - Publicidad en Meta: a definir (ver `campana-meta.md`)
 

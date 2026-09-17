@@ -8,6 +8,8 @@
 
 > **Ganancia por pedido = venta × (margen bruto − 7%) − $500 de packaging − el flete**
 
+> 📌 **Qué incluye ese 7%** *(precisado por Juan el 17/09/2026)*: es el **costo total de cobrar**, no solo Pago Nube. Adentro están la comisión de Pago Nube **y el 1% de comisión de plataforma del plan Esencial de Tiendanube**. No hay ningún cargo de cobro por fuera de ese 7%.
+
 > 🔄 **Rehecho el 11/09/2026 con el ticket de $40.000.** Juan definió que **el pedido promedio se modela en $40.000, que es el umbral del envío sin cargo**. Eso cambia el modelo de raíz: **si el pedido promedio llega al umbral, el flete lo paga Corteza en casi todos los pedidos.** Ya no hay dos supuestos dando vueltas — el envío es un costo de Corteza y está adentro de la cuenta.
 
 Las cargas de un pedido de $40.000:
@@ -15,7 +17,7 @@ Las cargas de un pedido de $40.000:
 | Concepto | Cómo se cobra | Monto | Sobre el pedido |
 |---|---|---:|---:|
 | Flete al cliente (Flexit) | por pedido, según zona; bonificado desde $40.000 | $6.340 | **15,9%** |
-| Comisión Pago Nube | 7% de todo lo cobrado | $2.800 | 7,0% |
+| **Costo de cobrar** | 7% de todo lo cobrado | $2.800 | 7,0% |
 | Packaging | monto fijo por pedido | $500 | 1,25% |
 | **Total** | | **$9.640** | **24,1%** |
 
