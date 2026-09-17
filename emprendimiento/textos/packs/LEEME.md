@@ -14,7 +14,7 @@
 
 `generar-collages.py` los rehace. Descarga las fotos de la tienda y las compone; si cambian las fotos de producto, se corre de nuevo.
 
-> 🧅 **La prepizza sale de la SEGUNDA foto de su ficha, no de la primera** *(cambiado el 17/09)*. La primera muestra **cebolla morada** y el producto lleva **cebolla blanca**; la segunda ya la muestra bien. El recorte se guarda como `fotos/prepizzas_cebolla_blanca.webp`.
+> 🧅 **La prepizza sale de la SEGUNDA foto de su ficha, no de la primera** *(cambiado el 17/09)*. La primera muestra **cebolla morada** y el producto lleva **cebolla blanca**. Juan subió a la tienda una foto cenital nueva con las dos prepizzas —la de cebolla blanca adelante, la de tomate atrás— y esa es la que usan los cinco collages. El recorte se guarda como `fotos/prepizzas_cebolla_blanca.webp`.
 >
 > ⚠️ **La foto de la ficha sigue estando mal.** En la tienda, la imagen principal de Prepizzas x2 es la de cebolla morada: **conviene cambiar el orden de las fotos en el panel** para que la de cebolla blanca quede primera. Si no, el cliente ve un producto y recibe otro.
 
