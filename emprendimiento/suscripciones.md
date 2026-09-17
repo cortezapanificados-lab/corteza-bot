@@ -91,9 +91,59 @@ Ahí sí conviene sumar un segundo plan, y el candidato natural es el **Familiar
 
 ---
 
-## 6. Lo que falta resolver
+## 6. ✅ RESUELTO: sí, Tiendanube cobra automático — pero conviene no usarlo todavía
 
-⚠️ **Sigue sin confirmarse si Tiendanube puede cobrar automáticamente todos los meses.** Hasta saberlo, **se vende como producto normal pagado por adelantado** y se lleva en una planilla quién tiene entregas pendientes. Cero fricción técnica, se cobra el mes adelantado, y se prueba si el plan interesa antes de instalar nada. **No prometer cobro automático.**
+*Averiguado el 17/09/2026 en la documentación oficial de Tiendanube.*
+
+**La función existe, es nativa y es gratis.** Genera los pedidos sola según la frecuencia, cobra sola y manda mail de confirmación al cliente. La frecuencia mínima es de 5 días, así que **semanal funciona**.
+
+### Las dos condiciones que la vuelven cara
+
+| | |
+|---|---|
+| **Pide plan Impulso como mínimo** | Corteza paga **$27.000**, que coincide con el plan **Esencial** ($26.999). Impulso son **$78.999**. → **+$52.000 por mes** *(confirmar el plan en el panel)* |
+| **Solo tarjeta de crédito vía Pago Nube** | **No admite transferencia.** Y la tarjeta es el medio caro: 4,88% contra 1,81% |
+
+### La cuenta que decide
+
+**Cobrar a mano por transferencia ahorra $5.285 por suscriptor por mes** contra la tarjeta que obliga la suscripción nativa:
+
+| Suscriptores | Ahorro por cobrar por transferencia | Costo del upgrade | Conviene |
+|---:|---:|---:|---|
+| 5 | $26.423 | $52.000 | nativo |
+| **10** | **$52.847** | $52.000 | **manual** |
+| 20 | $105.694 | $52.000 | manual |
+| 30 | $158.541 | $52.000 | manual |
+
+> **Con diez suscriptores, cobrar a mano por transferencia ya ahorra más de lo que cuesta el plan entero.** Y sigue ganando a medida que crece.
+
+### Y lo manual además es mejor producto
+
+Las tres limitaciones de la suscripción nativa chocan de frente con las reglas del punto 4:
+
+| Regla que hace que la gente se suscriba | La suscripción nativa |
+|---|---|
+| **Se puede pausar** | ❌ **Máximo 2 saltos consecutivos.** Tres semanas de vacaciones la rompen |
+| **Se puede cancelar sin explicaciones** | ❌ **El cliente no puede cancelar ni editar solo.** Todo lo hace el administrador |
+| Se puede cambiar algo de la caja | ❌ No hay sustitución automática: si falta stock, **saltea el ciclo** |
+
+**Cobrando a mano las tres se cumplen sin esfuerzo:** se pausa lo que el cliente quiera, se cancela por WhatsApp, y la caja se arma con lo que el productor haya conseguido.
+
+### 📌 La decisión
+
+> **Arrancar a mano: el Pack Semanal se vende como producto normal, con las 4 entregas del mes pagadas por adelantado por transferencia.**
+>
+> **Una sola transferencia por suscriptor por mes** ($172.140 con el 5% aplicado), no cuatro. Eso es lo que hace manejable lo manual: con 30 suscriptores son 30 cobros mensuales, no 120 semanales.
+>
+> **Revisar el upgrade a Impulso cuando la administración duela** — en la práctica, pasados los 15 o 20 suscriptores. **El límite no es la plata, es la paciencia.**
+
+### Otras limitaciones, para cuando se migre
+
+- Solo **un producto de suscripción por carrito** (se pueden sumar productos sueltos).
+- **No se puede elegir el día de facturación** ni crear reglas de envío propias.
+- **Si se borra un producto, se cancelan todas sus suscripciones** automáticamente.
+- **Las suscripciones canceladas no se reactivan.**
+- No se pueden editar los planes con libertad si hay suscriptores activos.
 
 **El número a seguir:** cuántos de los primeros compradores se suscriben.
 

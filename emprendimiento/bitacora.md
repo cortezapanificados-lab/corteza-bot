@@ -2,6 +2,43 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 17/09/2026 (4) — Tiendanube sí cobra automático, pero conviene no usarlo todavía
+
+Se averiguó en la documentación oficial. **La suscripción nativa existe, es gratis y la frecuencia mínima es de 5 días, así que semanal funciona.** Pero tiene dos condiciones que la vuelven cara:
+
+| | |
+|---|---|
+| **Pide plan Impulso** | Corteza paga $27.000, que coincide con **Esencial** ($26.999). Impulso son **$78.999**: **+$52.000/mes** |
+| **Solo tarjeta vía Pago Nube** | **No admite transferencia**, que es el medio barato (1,81% contra 4,88%) |
+
+### La cuenta que decide
+
+**Cobrar a mano por transferencia ahorra $5.285 por suscriptor por mes.**
+
+| Suscriptores | Ahorro | Costo del upgrade | Conviene |
+|---:|---:|---:|---|
+| 5 | $26.423 | $52.000 | nativo |
+| **10** | **$52.847** | $52.000 | **manual** |
+| 30 | $158.541 | $52.000 | manual |
+
+**Con diez suscriptores, cobrar a mano ya ahorra más de lo que cuesta el plan entero** — y la ventaja crece con el volumen.
+
+### Y lo manual además es mejor producto
+
+Las tres limitaciones de la suscripción nativa chocan justo con las reglas que hacen que la gente se suscriba: **no se puede pausar más de 2 ciclos seguidos** (tres semanas de vacaciones la rompen), **el cliente no puede cancelar ni editar solo** (todo pasa por el administrador), y **si falta stock saltea el ciclo sin sustituir nada**. Cobrando a mano las tres se cumplen sin esfuerzo.
+
+### La decisión
+
+**Arrancar a mano, con las 4 entregas del mes pagadas por adelantado por transferencia** — $172.140 con el 5% aplicado. **Una transferencia por suscriptor por mes, no cuatro**: eso es lo que vuelve manejable lo manual. Con 30 suscriptores son 30 cobros mensuales, no 120 semanales.
+
+**Se revisa el upgrade cuando la administración duela**, en la práctica pasados los 15 o 20 suscriptores. **El límite no es la plata, es la paciencia.**
+
+### Y una pregunta nueva que apareció de paso
+
+**Tiendanube cobra una comisión de plataforma además del plan: 1% en Esencial, 0,7% en Impulso.** No está explícita en el modelo de `numeros.md`, que solo tiene el 7% de Pago Nube. **Puede estar adentro del 2,97% que midió `diagnostico-ventas.md` sobre ventas reales, o ser un costo que falta.** Quedó anotado; se cruza con la incógnita de la comisión real que ya estaba abierta.
+
+---
+
 ## 17/09/2026 (3) — Diseño de la suscripción: un solo pack, con parte fija y parte que rota
 
 Juan preguntó si conviene suscribir a un pack solo o dejar elegir entre los cinco. **La respuesta salió de multiplicar cada pack por cuatro y mirar qué recibe el cliente al mes.**
