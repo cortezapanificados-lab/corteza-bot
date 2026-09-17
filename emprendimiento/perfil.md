@@ -70,7 +70,7 @@ Lo que incluye Flexit: **segunda y tercera visita sin costo adicional**, same-da
 
 **Fijos mensuales:**
 - Claude: $35.000
-- Tiendanube: $27.000
+- Tiendanube: $27.000 — **plan Esencial** *(confirmado por Juan el 17/09/2026)*. Incluye una **comisión de plataforma del 1% sobre cada venta**, además del abono
 - **Envío de los proveedores al depósito: $75.000** *(corregido por Juan el 11/09/2026; venía cargado en $20.000)*
 - Publicidad en Meta: a definir (ver `campana-meta.md`)
 

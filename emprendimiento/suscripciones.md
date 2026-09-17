@@ -101,7 +101,7 @@ Ahí sí conviene sumar un segundo plan, y el candidato natural es el **Familiar
 
 | | |
 |---|---|
-| **Pide plan Impulso como mínimo** | Corteza paga **$27.000**, que coincide con el plan **Esencial** ($26.999). Impulso son **$78.999**. → **+$52.000 por mes** *(confirmar el plan en el panel)* |
+| **Pide plan Impulso como mínimo** | ✅ **Confirmado el 17/09: Corteza tiene el plan Esencial** ($26.999). Impulso son **$78.999**. → **+$52.000 por mes** |
 | **Solo tarjeta de crédito vía Pago Nube** | **No admite transferencia.** Y la tarjeta es el medio caro: 4,88% contra 1,81% |
 
 ### La cuenta que decide
@@ -136,6 +136,10 @@ Las tres limitaciones de la suscripción nativa chocan de frente con las reglas 
 > **Una sola transferencia por suscriptor por mes** ($172.140 con el 5% aplicado), no cuatro. Eso es lo que hace manejable lo manual: con 30 suscriptores son 30 cobros mensuales, no 120 semanales.
 >
 > **Revisar el upgrade a Impulso cuando la administración duela** — en la práctica, pasados los 15 o 20 suscriptores. **El límite no es la plata, es la paciencia.**
+
+### Y tampoco conviene pasar a Impulso por la comisión de plataforma
+
+El Esencial cobra **1% sobre cada venta**; el Impulso, 0,7%. **Ese 0,3% de ahorro empata con los $52.000 del upgrade recién con $17,3 millones de facturación mensual** — muy por encima de los $5,4 millones que da el mínimo de 120 pedidos. **Con el volumen proyectado, el upgrade no se justifica por ningún lado.**
 
 ### Otras limitaciones, para cuando se migre
 

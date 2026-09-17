@@ -2,6 +2,35 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 17/09/2026 (5) — Confirmado el plan Esencial: no se pasa a Impulso, y aparece un costo que el modelo no tenía
+
+Juan confirmó que tiene el **plan Esencial** de Tiendanube. Con eso se cierra la decisión de la suscripción —**se arranca a mano**— y aparece un costo que no estaba anotado.
+
+### El upgrade a Impulso no se justifica por ningún lado
+
+| Motivo posible | Veredicto |
+|---|---|
+| Para usar la suscripción nativa | ❌ Cobrar a mano por transferencia ahorra más desde los 10 suscriptores |
+| Para bajar la comisión de plataforma de 1% a 0,7% | ❌ El 0,3% empata con los $52.000 del upgrade recién con **$17,3 millones** de facturación mensual, contra los $5,4 millones que da el mínimo de 120 pedidos |
+
+### 💡 El costo que el modelo no tenía: 1% de plataforma sobre cada venta
+
+**El plan Esencial cobra 1% de cada venta, además del abono de $27.000.** `numeros.md` no lo tiene: solo tiene el 7% de Pago Nube.
+
+| Pedidos/mes | Facturación | **El 1%** |
+|---:|---:|---:|
+| 30 | $1.359.000 | $13.590 |
+| 60 | $2.718.000 | $27.180 |
+| **120** | $5.436.000 | **$54.360** |
+
+**A 120 pedidos ese 1% son $54.360 mensuales: más que el abono del plan.**
+
+> ✅ **Pero no rompe nada, y el motivo es el colchón que ya tenía el modelo.** El modelo usa **7%** de comisión; lo medido sobre ventas reales fue **2,97%**. Aun sumándole el 1% de plataforma da **3,97%**, que sigue **tres puntos abajo** del 7%. **El conservadurismo del modelo ya lo estaba absorbiendo sin saberlo.**
+
+**Queda para verificar en una liquidación** si ese 1% está adentro del 2,97% medido o es aparte. Se resuelve con la misma liquidación que la incógnita de la comisión de cobro, que ya estaba abierta.
+
+---
+
 ## 17/09/2026 (4) — Tiendanube sí cobra automático, pero conviene no usarlo todavía
 
 Se averiguó en la documentación oficial. **La suscripción nativa existe, es gratis y la frecuencia mínima es de 5 días, así que semanal funciona.** Pero tiene dos condiciones que la vuelven cara:
