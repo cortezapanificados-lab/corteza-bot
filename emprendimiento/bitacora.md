@@ -2,6 +2,43 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 17/09/2026 (2) — Se saca el efectivo, y queda claro que el pack de picar NO se saca
+
+**Corteza deja de aceptar efectivo.** Quedan transferencia, débito y crédito.
+
+| Si el 18% del efectivo se va a… | Mix | Costo de cobro |
+|---|---|---:|
+| Transferencia | 73% / 27% | **2,64%** |
+| Mitad y mitad | 64% / 36% | 2,92% |
+| Tarjeta | 55% / 45% | **3,19%** |
+
+**En los tres casos sigue muy abajo del 7% del modelo**, así que el 7% sigue siendo la hipótesis conservadora. **Pero el riesgo se dio vuelta:** sacar el efectivo puede empujar gente a la tarjeta, que es el medio caro. **Ahora un descuento por transferencia sí tendría a quién convencer** — hace dos días no, porque el 73% ya pagaba sin comisión. Quedó como cosa a vigilar, no a hacer todavía.
+
+💵 **Detalle operativo:** a Flexit se le paga en efectivo una vez por mes, y eso es lo que compra el IVA al 10,5% en vez del 21%. Con el efectivo de clientes cortado, esa plata sale del banco. Se resuelve (el banco no tiene tope), pero hay que tenerlo presente todos los meses.
+
+### Y una aclaración importante: nunca se recomendó sacar el pack de picar
+
+Juan preguntó si la recomendación era dejar cuatro packs y no vender queso. **No.** Lo que se marcó fue una advertencia de cadena de frío, que es otra cosa.
+
+| Versión del Pack para picar | Precio | Margen | Deja en CABA |
+|---|---:|---:|---:|
+| **Como está (con queso)** | $51.500 | 37,1% | **+$10.435** |
+| Sin queso, sin reemplazo | $39.000 | 39,0% | 🔴 abajo del umbral |
+| Queso → aceite Zuelo | $50.000 | 38,4% | +$10.640 |
+| **Queso → pan árabe + grisines** | $52.200 | **41,0%** | **+$12.686** |
+
+**Tres razones para mantenerlo:**
+
+1. **$10.435 no es poca plata.** Es el más flojo de los cinco, pero el piso que necesita en CABA es 16,8% de margen bruto y está en 37,1%: más del doble.
+2. **El queso ya está comprado.** Son $172.000 y 20 unidades. **Sacarlo del pack no hace desaparecer el queso** — solo lo deja sin canal de venta.
+3. **Es el pack que trae otro tipo de cliente.** Los otros cuatro son pan y dulce; este es el único salado de picada.
+
+> 💡 **El dato curioso: la versión SIN queso es mejor pack** (41,0% contra 37,1%, y deja $12.686). El pan rinde más que el queso. **Pero entonces el queso hay que vender suelto**, y todavía no se sabe si alguien lo compra así.
+>
+> **Por eso la decisión es dejarlo adentro mientras se resuelve el frío:** es la forma más rápida de rotar las 20 unidades y de averiguar si el cliente de picada existe. **Los $2.251 de margen que cuesta contra la versión de pan son el precio de esa información** — y si el queso no aguanta el viaje, el plan B ya está armado y es mejor.
+
+---
+
 ## 17/09/2026 — Packs cerrados, y la decisión del descuento: en los packs no, en la suscripción sí
 
 Juan rehízo los cinco packs con los precios corregidos. **Los cinco cierran contra el catálogo y superan los $40.000**: sumó un mix pepas al Semanal ($45.300) y otro al Antojito ($46.200).

@@ -102,6 +102,7 @@ Con un despacho único la lista de espera lo llenaba sola. **Con tres o cuatro, 
 
 ## 🟠 Prioridad 2 — Márgenes y costos
 
+- [ ] 💳 **Vigilar a dónde se va el 18% que pagaba en efectivo.** *(17/09: se sacó el efectivo como medio de pago.)* Si se pasa a transferencia, el costo de cobro baja a 2,64%; si se pasa a tarjeta, sube a 3,19%. **Si se va a la tarjeta, ahí sí conviene un descuento por transferencia** — ahora tendría a quién convencer, cosa que antes no pasaba porque el 73% ya pagaba sin comisión.
 - [ ] 🔥 **Confirmar la comisión real de cobro: el modelo puede estar sobreestimándola en 4 puntos.** *(Detectado el 11/09 al armar el dossier de Alva.)* `numeros.md` usa **7%** de Pago Nube en todas las cuentas, pero `diagnostico-ventas.md` midió sobre ventas reales un costo de cobro mezclado de **2,97%** — porque el 18% de las ventas es en efectivo (0%) y el 55% por transferencia (1,81%). **En un pedido de $40.000 la diferencia son $1.612**: llevaría lo que queda de $8.720 a $10.332, casi dos puntos de margen neto.
   - Es probable que en el AMBA la mezcla se corra hacia la tarjeta (no hay efectivo contra entrega con Flexit), así que **el 7% es la hipótesis conservadora y por ahora se mantiene**.
   - **Lo que hay que hacer: mirar una liquidación real de Pago Nube** y, después del primer despacho del AMBA, el % real de cada medio de pago. Recién ahí se ajusta el modelo.

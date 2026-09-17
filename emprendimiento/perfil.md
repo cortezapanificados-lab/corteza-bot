@@ -248,4 +248,16 @@ Los vinos son lo más comparable de todo el catálogo: **no tocarlos sin chequea
 
 ## Medios de pago
 
-Transferencia bancaria, efectivo, tarjeta de crédito y débito. (El pie de la tienda dice "tarjetas de crédito o efectivo".)
+**Desde el 17/09/2026: transferencia bancaria, tarjeta de crédito y débito. YA NO SE ACEPTA EFECTIVO.**
+
+> ⚠️ **Lo que cambia con eso.** El mix histórico era 55% transferencia · 18% efectivo · 27% tarjeta, con un costo de cobro mezclado de **2,97%**. Sin efectivo, ese 18% se reparte:
+>
+> | Si el efectivo se va a… | Mix | Costo de cobro |
+> |---|---|---:|
+> | Transferencia | 73% / 27% | **2,64%** |
+> | Mitad y mitad | 64% / 36% | 2,92% |
+> | Tarjeta | 55% / 45% | **3,19%** |
+>
+> **En los tres casos sigue muy abajo del 7% que usa el modelo**, así que el 7% sigue siendo la hipótesis conservadora. **Pero el riesgo cambió de lado:** sacar el efectivo puede empujar gente a la tarjeta, que es el medio caro. **Ahora un descuento por transferencia sí tendría a quién convencer** — antes no, porque el 73% ya pagaba sin comisión.
+>
+> 💵 **Y un detalle operativo que no hay que perder de vista:** a Flexit se le paga **en efectivo, una vez por mes** (~$727.000 en el piso de 120 envíos), y **eso es lo que compra el IVA al 10,5% en vez del 21%**. Con el efectivo de los clientes cortado, esa plata sale del banco. El banco no tiene tope de extracción, así que se resuelve, pero hay que tenerlo en la cabeza todos los meses.
