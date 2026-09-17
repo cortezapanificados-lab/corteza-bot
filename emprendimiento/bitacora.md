@@ -2,6 +2,45 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 17/09/2026 (3) — Diseño de la suscripción: un solo pack, con parte fija y parte que rota
+
+Juan preguntó si conviene suscribir a un pack solo o dejar elegir entre los cinco. **La respuesta salió de multiplicar cada pack por cuatro y mirar qué recibe el cliente al mes.**
+
+| Pack | Al mes | ¿Aguanta semanal? |
+|---|---|---|
+| **Semanal** | 4 de cada cosa | ✅ sí |
+| Familiar | **8 pepas + 8 cookies** | ⚠️ 16 paquetes de galletitas |
+| Kids | **12 cookies** | ❌ |
+| Antojito | **4 dulces de leche** | ❌ |
+| Para picar | **4 quesos, 4 hummus, 4 aceitunas** | ❌ y el riesgo de frío se repite semanalmente |
+
+> **La fatiga es lo que mata las suscripciones de comida, y se ve apenas multiplicás por cuatro.** El único pack cuyo contenido es genuinamente de consumo semanal es el **Semanal** — el nombre ya lo decía.
+
+### La decisión: arrancar con uno solo, el Semanal
+
+Además de la fatiga: **se comunica en una frase**, **$181.200 al mes es un ticket creíble** (el Familiar como suscripción son $298.400, mucha plata para pan), **carga menos el jueves a la mañana** —que es el cuello de botella— y sobre todo **con un solo plan se aprende**: si lanzás cinco y funciona uno, no sabés si fue el pack, el precio o el cliente.
+
+### La vuelta de tuerca: parte fija + parte que rota
+
+**El pan es siempre el mismo; lo dulce cambia cada semana.** Fijo: molde integral, prepizzas, grisines. Rota: cookies / pepas / budín.
+
+**Rotar no cuesta margen** —cookies 44,9%, pepas 44,4%, budín 43,8%, todos en la misma banda— y resuelve dos cosas juntas: **mata la fatiga** y **da aire cuando un proveedor no llegó con algo**, que era una ventaja ya anotada. Se comunica como beneficio: *"todas las semanas el pan de la casa, y algo dulce distinto."*
+
+### Los números
+
+| | |
+|---|---:|
+| Al mes | $181.200 |
+| Deja por suscriptor en CABA | **$40.650** |
+| El 5% cuesta | $8.426/mes |
+| Asegura | 4 envíos = **$25.360** |
+
+**El descuento se paga tres veces.** Y **30 suscriptores cubren el mínimo entero de 120 envíos** de Flexit, con $1.291.050 de facturación mensual asegurada.
+
+**La elección se abre después**, con unos diez suscriptores y el mecanismo probado — y el segundo plan sería el Familiar. **Dejar elegir entre los cinco no se recomienda nunca:** tres no funcionan como entrega semanal.
+
+---
+
 ## 17/09/2026 (2) — Se saca el efectivo, y queda claro que el pack de picar NO se saca
 
 **Corteza deja de aceptar efectivo.** Quedan transferencia, débito y crédito.

@@ -1,36 +1,101 @@
 # Suscripciones
 
-> ## 🔄 MODELO VIGENTE — definido el 15/09/2026, precisado el 17/09
->
-> ### Se suscriben a **cualquiera de los cinco packs** y les llega **una vez por semana**, con **5% de descuento**.
->
-> Más simple que los planes anteriores y encaja solo con la regla de envío: **cada pack supera los $40.000**, así que el envío sin cargo (o el de $5.000 en las zonas lejanas) se aplica como a cualquier cliente, sin reglas especiales.
->
-> | Pack | Semanal | **Al mes (×4)** | El 5% cuesta |
-> |---|---:|---:|---:|
-> | Familiar | $74.600 | **$298.400** | $14.920 |
-> | Para picar | $51.500 | **$206.000** | $10.300 |
-> | Antojito | $46.200 | **$184.800** | $9.240 |
-> | Semanal | $45.300 | **$181.200** | $9.060 |
-> | Kids | $43.000 | **$172.000** | $8.600 |
->
-> ### ✅ Acá el 5% sí se justifica, y la razón es concreta
->
-> **Compra envíos garantizados del mínimo de Flexit.** Un envío del mínimo que queda sin usar cuesta **$6.340**; cuatro valen **$25.360**, contra un descuento que cuesta entre $8.600 y $14.920. **Mientras el mes no llegue a 120 pedidos, el descuento se paga solo con creces.**
->
-> Y compra dos cosas más que no aparecen en la cuenta: **previsibilidad para comprarle al proveedor** y **recompra**, que hoy está en 40% cuando para pan debería estar arriba del 60%.
->
-> ⚠️ **Pasados los 120 pedidos mensuales el argumento se cae** y hay que revisar si el 5% sigue teniendo sentido. Es la misma bisagra que la del umbral de envío sin cargo.
->
-> ### ⚠️ Tres cosas para no tropezar
->
-> 1. **En los packs NO hay descuento** *(decidido el 17/09)*. El envío sin cargo ya vale entre 6% y 15% del pack: ese es el descuento. **El 5% es lo que distingue a la suscripción de la compra suelta** — si se lo das a los dos, la suscripción deja de tener sentido para el cliente.
-> 2. **El Pack para picar lleva queso**, el único producto refrigerado del catálogo. **En una suscripción semanal ese riesgo se repite todas las semanas.** Hasta resolver la cadena de frío, no ofrecerlo como suscripción.
-> 3. **Sigue sin confirmarse si Tiendanube puede cobrar automáticamente.** Hasta saberlo se vende como producto normal pagado por adelantado, con una planilla de quién tiene entregas pendientes. **No prometer cobro automático.**
->
-> ### El número a seguir
->
-> **Cuántos de los primeros compradores se suscriben.** **Treinta suscriptores llenan los 120 envíos del mínimo de Flexit** y son entre $5,1 y $8,9 millones de facturación mensual asegurada, según el pack.
+*Diseño definido el 17/09/2026.*
+
+> ## 🎯 La recomendación: **arrancar con UN solo pack suscribible — el Pack Semanal** — con parte fija y parte que rota.
+
+---
+
+## 1. Por qué uno solo, y por qué ése
+
+**Los cinco packs no son igual de suscribibles. La mayoría no lo es.** Esto es lo que recibiría el cliente **al mes** si se suscribe a cada uno:
+
+| Pack | Lo que llega al mes | ¿Aguanta semanal? |
+|---|---|---|
+| **Semanal** | 4 prepizzas · 4 molde integral · 4 grisines · 4 budines · 4 pepas · 4 cookies | ✅ **Sí** |
+| Familiar | 4+4 panes de molde · 8 prepizzas · 8 grisines · **8 pepas · 8 cookies** | ⚠️ 16 paquetes de galletitas al mes |
+| Kids | 4 prepizzas · **12 cookies** · 4 budines · 4 pepas | ❌ 12 cookies al mes |
+| Antojito | 4 panes de campo · **4 dulces de leche** · 4 budines · 8 cookies · 4 pepas | ❌ ¿un dulce de leche por semana? |
+| Para picar | 8 hogazas · **4 quesos · 4 hummus · 4 aceitunas** | ❌ y encima el riesgo de frío se repite todas las semanas |
+
+> **La fatiga es lo que mata las suscripciones de comida**, y se nota apenas se multiplica por cuatro. **El único pack cuyo contenido es genuinamente de consumo semanal es el Semanal** — el nombre ya lo decía.
+
+**Las otras cuatro razones para arrancar con uno:**
+
+1. **Se comunica en una frase.** *"Suscribite al Pack Semanal y te llega todos los jueves con 5% de descuento."* Cinco planes con elección es parálisis de decisión, justo en el momento en que el cliente no te conoce.
+2. **$181.200 al mes es un ticket creíble** para una casa. El Familiar como suscripción son **$298.400 mensuales**: es mucha plata para pan, y ya estaba anotado que el plan caro sirve de ancla, no de producto.
+3. **Menos carga el jueves a la mañana**, que es el cuello de botella de toda la operación.
+4. **Con un solo plan se aprende.** Si lanzás cinco y funciona uno, no vas a saber si fue por el pack, por el precio o por el cliente.
+
+---
+
+## 2. La vuelta de tuerca que resuelve la fatiga: parte fija + parte que rota
+
+> ### El pan es siempre el mismo. Lo dulce cambia cada semana.
+
+| | Qué va |
+|---|---|
+| **Fijo, todas las semanas** | Pan de molde integral · prepizzas x2 · grisines |
+| **Rota** | Una cosa dulce: cookies / mix pepas / budín |
+
+**Rotar no cuesta margen:** cookies 44,9%, pepas 44,4%, budín 43,8% — están los tres en la misma banda.
+
+Y resuelve dos cosas de un saque:
+
+1. **Mata la fatiga.** El cliente no recibe lo mismo cuatro veces al mes.
+2. **Te da aire cuando un proveedor no llegó con algo.** Es la ventaja que ya estaba anotada: *"armás con lo que mejor margen tiene y con lo que el productor realmente consiguió. Nunca quedás vendiendo algo que no tenés."*
+
+**Y se comunica como beneficio, no como limitación:** *"Todas las semanas el pan de la casa, y algo dulce distinto."*
+
+---
+
+## 3. Los números
+
+| | |
+|---|---:|
+| Precio semanal | $45.300 |
+| **Al mes (4 entregas)** | **$181.200** |
+| Con 5% de descuento | $172.140 |
+| Margen bruto del pack | 45,3% |
+| **Deja por mes, por suscriptor, en CABA** | **$40.650** |
+| El 5% cuesta, por suscriptor por mes | $8.426 |
+
+**El descuento se paga tres veces.** Asegura 4 envíos del mínimo de Flexit, que valen **$25.360** si quedan sin usar, contra los $8.426 que cuesta.
+
+| Suscriptores | Envíos/mes | Del mínimo de 120 | Facturación asegurada |
+|---:|---:|---:|---:|
+| 10 | 40 | 33% | $430.350 |
+| 20 | 80 | 67% | $860.700 |
+| **30** | **120** | **100%** | **$1.291.050** |
+
+**Treinta suscriptores cubren el mínimo entero de Flexit sin vender nada más.**
+
+---
+
+## 4. Las cuatro reglas que hacen que la gente se suscriba
+
+1. **Se puede pausar.** Sin esto no se suscribe nadie: la gente se va de vacaciones. *"Pausá cuando quieras, avisando antes del lunes."* La entrega pausada se corre al final, no se pierde.
+2. **Se puede cancelar sin explicaciones.** Cuanto más fácil salir, más fácil entrar.
+3. **Se avisa cada semana antes del cierre** con lo que va en la caja, y se puede cambiar algo.
+4. **La primera entrega lleva algo de regalo.** Cuesta poco y es lo que el suscriptor cuenta.
+
+---
+
+## 5. Cuándo abrir la elección
+
+**No al lanzamiento. Cuando haya unos diez suscriptores y el mecanismo esté probado.**
+
+Ahí sí conviene sumar un segundo plan, y el candidato natural es el **Familiar** para las casas que consumen de verdad. **Dejar elegir entre los cinco no se recomienda nunca**: tres de ellos no funcionan como entrega semanal.
+
+⚠️ **El Pack para picar no se ofrece como suscripción** mientras no esté resuelta la cadena de frío. En una entrega semanal, ese riesgo se repite todas las semanas.
+
+---
+
+## 6. Lo que falta resolver
+
+⚠️ **Sigue sin confirmarse si Tiendanube puede cobrar automáticamente todos los meses.** Hasta saberlo, **se vende como producto normal pagado por adelantado** y se lleva en una planilla quién tiene entregas pendientes. Cero fricción técnica, se cobra el mes adelantado, y se prueba si el plan interesa antes de instalar nada. **No prometer cobro automático.**
+
+**El número a seguir:** cuántos de los primeros compradores se suscriben.
 
 ---
 
