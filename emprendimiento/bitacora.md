@@ -2,6 +2,53 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 18/09/2026 — Revisión del plan de pauta de Meta ($350.000/mes)
+
+Juan trajo un **plan de campaña escrito para los primeros meses**: $350.000/mes, 80% en una campaña de **Tráfico** para clientes nuevos de CABA y Zona Norte ($9.300/día) y 20% en **retargeting** con objetivo Ventas ($2.300/día), más píxel, producción de fotos y videos, y optimización semanal.
+
+**La estructura está bien.** Acierta en lo importante: el píxel primero, segmentar por zona en vez de "Buenos Aires" a secas, tres formatos distintos, no tocar nada la primera semana y mover el presupuesto al anuncio que rinda. Es lo mismo que venía diciendo `campana-meta.md` desde agosto.
+
+**Lo que hay que cambiar antes de gastar el primer peso:**
+
+| | Problema | Corregido |
+|---|---|---|
+| 🔴 **Objetivo** | El 80% del presupuesto va en **Tráfico**: Meta trae clics baratos, no compradores | **Ventas**, optimizando por *Agregar al carrito* / *Iniciar pago* hasta tener volumen de compras |
+| 🔴 **Retargeting** | Arranca el día 1 sobre públicos que hoy casi no existen (la tienda viene de 1 a 9 pedidos/mes) | **Semana 3**, con la frecuencia vigilada (menos de 3-4 por persona) |
+| 🟠 **Presupuesto** | $350.000/mes contra $137.000 de fijos: la pauta pasaría a ser el costo fijo más grande | **$150.000–$200.000** escalando 30%/semana mientras el CAC aguante |
+| 🟠 **Fotos con IA** | El plan las habilita para el producto | **El pan, real.** IA solo para fondos y placas |
+| 🟡 **Leyenda web** | "Envíos a CABA y Zona Norte" achica la tienda a la segmentación de la pauta | **"Entregas los jueves en todo el AMBA. Pedidos hasta el lunes 14:00."** |
+
+### El número que ordena la discusión del presupuesto
+
+Lanzando el 15/10 (tres despachos, $456.480 de flete comprometido + $137.000 de fijos), y con cada pedido dejando $15.060 porque abajo de 120 el flete ya está pagado:
+
+| Pauta mensual | Equilibrio del mes | **Por jueves** |
+|---:|---:|---:|
+| $0 | 39 pedidos | **13** |
+| $150.000 | 49 pedidos | **17** |
+| $200.000 | 53 pedidos | **18** |
+| **$350.000** | **63 pedidos** | **21** |
+
+> **Con $350.000 el equilibrio pasa de 13 a 21 pedidos por jueves**, y el objetivo operativo del negocio son 24. Es salir a buscar capacidad plena desde el primer mes, viniendo de 4,2 pedidos por semana.
+
+### Lo que el plan no tenía
+
+1. 🔴 **La tienda todavía no está lista para tráfico pago**: 23 de 39 productos agotados y escondidos del listado, el inicio sin productos, la foto de la prepizza con la cebolla equivocada. Mandar $9.300 por día a esa tienda es el error más caro de la lista.
+2. 🔴 **No hay campaña de lista de espera**, y todo el plan de lanzamiento se apoya en tener 100-150 anotados para llenar el primer despacho.
+3. 🔴 **No programa los anuncios de viernes a lunes 14:00**, que es gratis y es la palanca más grande que hay (los pedidos cierran el lunes a las 14).
+4. 🟠 Excluir a los clientes actuales del público frío y a los que ya compraron del retargeting.
+5. 🟠 Los 15 micro-influencers, que tienen un CAC de $4.500 a $13.500 — la mitad o un tercio de lo que va a costar un cliente por Meta.
+6. 🟡 El "Público Similar" que menciona el plan necesita ~100 compradores de semilla: llega recién en un par de meses. El píxel hay que instalarlo igual y ya.
+7. 🟡 UTM en los links y preguntarle a cada cliente nuevo cómo nos conoció.
+
+### Y el recordatorio de fondo
+
+Un primer pedido deja entre $8.720 y $15.060. **Un cliente que sale $15.000 y compra una sola vez es plata perdida**, y hoy la recompra es del 40%. La lista de WhatsApp y la suscripción no son lo que viene después de la pauta: son lo que hace que la pauta no dé pérdida.
+
+**La revisión completa quedó en `campana-meta.md` sección 9.** El presupuesto final lo decide Juan.
+
+---
+
 ## 17/09/2026 (7) — Las fotos de los packs, y 23 productos escondidos
 
 Se armaron los **cinco collages de los packs** con las fotos que ya están en la tienda: cuadrados de 1200×1200, con Playfair para el nombre y Jost para el precio. Quedaron en `textos/packs/`, junto con el script que los rehace.

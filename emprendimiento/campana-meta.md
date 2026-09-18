@@ -2,6 +2,8 @@
 
 *Armada el 10/08/2026. Cuánto invertir, dónde apuntar, qué medir y cuándo escalar.*
 
+> 📌 **18/09/2026 — Juan trajo un plan de pauta de $350.000/mes para los primeros meses. La revisión completa está en la sección 9, al final.** Tres cambios antes de gastar: el objetivo va en **Ventas**, no en Tráfico; el retargeting arranca en la **semana 3**, no el día 1; y el presupuesto arranca en **$150.000–$200.000** y escala, porque $350.000 suben el equilibrio de 13 a 21 pedidos por jueves.
+
 ---
 
 ## 1. La regla que define todo: cuánto podés pagar por un cliente
@@ -206,3 +208,103 @@ Mismo presupuesto, más pedidos. Es puro acomodar el reloj.
 **Lo primero, hoy:** dejar andando la captura gratuita de la lista (cartel, posteo fijo, respuesta automática) e **instalar el píxel de Meta**. El píxel no cuesta nada y necesita tiempo para juntar datos — cuanto antes esté, mejor le va a andar la publicidad cuando la prendas.
 
 **Y el dato que falta para planificar todo esto: la fecha estimada de lanzamiento.** De ahí se cuentan 6-8 semanas para atrás y sale cuándo prender la publicidad.
+
+---
+
+# 9. Revisión del plan de pauta de $350.000 *(18/09/2026)*
+
+*Juan trajo un plan de campaña escrito para los primeros meses: **$350.000/mes**, repartidos 80% en una campaña de **Tráfico** para clientes nuevos de CABA y Zona Norte, y 20% en **retargeting** con objetivo Ventas. Esta sección es la revisión.*
+
+**Veredicto: la estructura está bien, el esqueleto sirve. Hay tres cosas que hay que cambiar antes de gastar el primer peso, y una cuarta que es una decisión de plata.**
+
+## 9.1 🔴 El error más caro: el objetivo "Tráfico"
+
+El 80% del presupuesto ($280.000/mes) está puesto en una campaña con objetivo **Tráfico**. Tráfico le pide a Meta que traiga **clics baratos**, y Meta lo cumple: trae a la gente que hace clic, no a la que compra. Son públicos distintos y el costo por clic barato es una trampa.
+
+> **Las dos campañas tienen que ir con objetivo VENTAS.** El píxel está justamente para eso.
+
+El problema real es otro y hay que decirlo: para que Meta aprenda a buscar compradores necesita **~50 conversiones semanales por conjunto**, y Corteza no las va a tener el primer mes. **La salida no es Tráfico: es optimizar por un evento intermedio** dentro de la campaña de Ventas —*Agregar al carrito* o *Iniciar pago*—, que pasa muchas más veces que la compra y sigue siendo gente con intención de comprar. Cuando las compras crezcan, se pasa a optimizar por compra.
+
+## 9.2 🔴 El retargeting no puede arrancar el día 1
+
+El plan pone $2.300 por día de retargeting desde el arranque, sobre "quienes interactuaron con Instagram en 60 días" y "quienes visitaron la web en 30 días".
+
+**Hoy esos públicos casi no existen.** La tienda viene de 1 a 9 pedidos por mes y el tráfico es mínimo. Poner $70.000 mensuales sobre unos pocos cientos de personas no consigue más ventas: consigue que las mismas personas vean el mismo aviso diez veces.
+
+> **Corregido: el retargeting se prende en la semana 3**, cuando la campaña de clientes nuevos ya llenó el público. Y se le mira la **frecuencia**: arriba de 3-4 impresiones por persona por semana, se baja el presupuesto.
+
+## 9.3 🟠 El presupuesto arranca en el techo
+
+$350.000/mes de pauta contra **$137.000 de fijos** que tiene hoy el negocio. **La publicidad pasaría a ser el costo fijo más grande, más que todo el resto junto.**
+
+Qué le hace eso al equilibrio del mes de lanzamiento *(jueves 15/10, tres despachos, flete comprometido $456.480 — `numeros.md` sección 3 bis)*. Abajo de 120 pedidos el flete de cada pedido ya está pagado, así que cada pedido de $40.000 deja **$15.060**:
+
+| Pauta mensual | Hay que cubrir | Equilibrio del mes | **Por jueves** |
+|---:|---:|---:|---:|
+| $0 | $593.480 | 39 pedidos | **13** |
+| $150.000 | $743.480 | 49 pedidos | **17** |
+| $200.000 | $793.480 | 53 pedidos | **18** |
+| **$350.000** | **$943.480** | **63 pedidos** | **21** |
+
+> **Con $350.000 el equilibrio pasa de 13 a 21 pedidos por jueves.** El objetivo operativo del negocio —el punto donde se usan los 120 envíos que Flexit cobra igual— son 24. O sea: **arrancar con $350.000 es salir a buscar el equilibrio casi a capacidad plena desde el primer mes**, viniendo de 4,2 pedidos por semana.
+
+La otra forma de mirarlo, con la regla de la sección 6 (*la pauta no puede pasar el 15% de lo facturado*): $350.000 se justifican con **$2.333.000 de facturación mensual**, que son 58 pedidos de $40.000. Es el número al que se quiere llegar, no el de donde se arranca.
+
+> **Recomendación: arrancar en $150.000–$200.000 y escalar 30% por semana mientras el costo por cliente se mantenga abajo de $15.000.** Los $350.000 no se descartan: se llega a ellos en 4 a 6 semanas si los números dan. Si no dan, no se gastaron.
+
+## 9.4 🟠 Las fotos con IA: no para el producto
+
+El plan dice que las fotos y videos pueden ser con IA "mirándolos bien". **Para el pan, no.**
+
+1. **El cliente recibe lo que vio.** Ya pasó con la foto de las prepizzas: la principal muestra cebolla morada y el producto lleva cebolla blanca, y eso solo es un reclamo esperando. Una miga generada que no es la miga que llega es el mismo problema, multiplicado por la plata de la pauta.
+2. **La marca es la curaduría.** "Lo que llega a tu casa pasó primero por nuestra mesa" no convive con un pan que nunca existió.
+3. **Meta obliga a etiquetar el contenido generado con IA**, y un aviso de comida etiquetado como IA rinde peor.
+
+> **IA sí para lo que no es el producto**: fondos, placas, variantes de texto, recortes. **El pan, real.** Las fotos de la tienda y los cinco collages de `textos/packs/` ya son material suficiente para arrancar.
+
+## 9.5 🟡 La leyenda de la web está mal
+
+El plan pide poner en la tienda *"Envíos a CABA y Zona Norte"*. **Corteza entrega en todo el AMBA** (cuatro zonas de Flexit) **más Pilar con reparto propio.** Achicar la web para que coincida con la segmentación de la pauta es regalar al que llega por boca a boca desde Caballito, Morón o Lomas.
+
+- **En la pauta**: CABA y Zona Norte, correcto.
+- **En la web**: todo el AMBA. Y lo que de verdad falta ahí no es la zona, es **el día y el cierre**: *"Entregas los jueves en todo el AMBA. Pedidos hasta el lunes 14:00."* Eso convierte más que cualquier lista de barrios.
+
+Detalle adicional: dentro de "Zona Norte" no todo pesa igual. **Vicente López, San Isidro y Martínez son zona Media** (dejan $8.675 por pedido); **Tigre y Nordelta son zona Lejana** ($6.850). Si hay que elegir, primero los de zona Media.
+
+## 9.6 Lo que el plan no tiene y debería
+
+1. 🔴 **La tienda no está lista para recibir tráfico pago.** 23 de 39 productos figuran agotados y Tiendanube los esconde del listado: el que llega ve una tienda de 16 productos, y la página de inicio no muestra ninguno. **Gastar $9.300 por día mandando gente a esa tienda es el error más caro de la lista.** Primero reponer (empezando por la hogaza) y arreglar el inicio.
+2. 🔴 **No hay campaña de lista de espera.** Todo el plan de lanzamiento se apoya en tener 100-150 anotados para llenar el primer despacho, y hoy ni siquiera se sabe cuántos hay. Es la captación más barata que existe y quedó afuera del plan.
+3. 🔴 **Programar los anuncios de viernes a lunes 14:00** (sección 5). Los pedidos cierran el lunes a las 14: el que ve el aviso un martes espera nueve días. Mismo presupuesto, más pedidos.
+4. 🟠 **Excluir a los clientes actuales** del público de clientes nuevos, y **excluir a los que ya compraron** del retargeting. Si no, se paga por gente que ya está adentro.
+5. 🟠 **Los 15 micro-influencers van en paralelo.** El CAC por canje es de $4.500 a $13.500 — la mitad o un tercio de lo que va a costar un cliente por Meta. Es el canal más barato y está en `pendientes.md` esperando.
+6. 🟡 **El "Público Similar" del plan todavía no se puede armar.** Meta necesita ~100 compradores de semilla. El píxel hay que instalarlo igual y ya —es lo primero y el plan acierta en eso—, pero los parecidos llegan recién en un par de meses.
+7. 🟡 **Etiquetar los links con UTM** para poder ver en Tiendanube qué pedidos vinieron de cada campaña, y **preguntarle a cada cliente nuevo cómo nos conoció**. Meta se atribuye ventas que no trajo.
+
+## 9.7 La medición, con números en vez de "margen limpio"
+
+El paso 5 del plan dice "controlar que el gasto en publicidad nos deje un margen limpio". Eso no se puede chequear un lunes a la mañana. Los números son estos:
+
+| Qué | Número |
+|---|---|
+| **Costo por cliente nuevo objetivo** | menos de **$15.000** |
+| **Costo por cliente al que se apaga y se rehace** | más de **$20.000** |
+| **Pauta sobre lo facturado** | menos del **15%** |
+| **Frecuencia del retargeting** | menos de 3-4 por persona por semana |
+
+> ⚠️ **Y el dato que ordena todo: un primer pedido deja entre $8.720 y $15.060.** Un cliente que sale $15.000 y compra una sola vez **es plata perdida**. La pauta recién cierra con la segunda compra, y hoy la recompra es del 40% (`diagnostico-ventas.md`). **La lista de WhatsApp y la suscripción no son "lo que viene después" de la pauta: son lo que hace que la pauta no dé pérdida.**
+
+## 9.8 El plan corregido, en una tabla
+
+| | Plan traído | **Corregido** |
+|---|---|---|
+| Presupuesto | $350.000/mes desde el mes 1 | **$150.000–$200.000**, escalando 30%/semana hasta $350.000 si el CAC aguanta |
+| Campaña clientes nuevos | Objetivo **Tráfico** | **Objetivo Ventas**, optimizando por *Agregar al carrito* / *Iniciar pago* |
+| Retargeting | 20% desde el día 1 | **Desde la semana 3**, con la frecuencia vigilada |
+| Antes de la pauta | Píxel + leyenda de zonas | **Píxel + reponer los 23 agotados + arreglar el inicio + campaña de lista de espera** |
+| Fotos | IA revisada | **Producto real**; IA solo para fondos y placas |
+| Leyenda web | "CABA y Zona Norte" | **"Entregas los jueves en todo el AMBA. Pedidos hasta el lunes 14:00."** |
+| Horarios | sin definir | **70% viernes a domingo, 20% lunes hasta las 14:00** |
+| Medición | "margen limpio" | **CAC < $15.000 · apagar > $20.000 · pauta < 15% de lo facturado** |
+
+**Lo que el plan traído hace bien y hay que mantener:** el píxel primero, la segmentación por zona en vez de "Buenos Aires" a secas, los tres formatos (video corto, carrusel, foto de logística), no tocar nada la primera semana, y mover el presupuesto al anuncio que rinda. Eso es exactamente lo que dice este documento desde agosto.

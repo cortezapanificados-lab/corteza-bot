@@ -62,6 +62,20 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 
 Con un despacho único la lista de espera lo llenaba sola. **Con tres o cuatro, la lista llena el primero y los siguientes necesitan demanda nueva.** Es lo que ya advertía `campana-meta.md`: la publicidad importa más en las semanas 2, 3 y 4 que en la 1. **Ese riesgo pasó de teórico a principal.**
 
+### 📣 De la revisión del plan de pauta *(18/09)* — antes de prender la publicidad
+
+*Revisión completa en `campana-meta.md` sección 9.*
+
+- [ ] 🔴 **Decidir el presupuesto de pauta.** El plan traído dice $350.000/mes; la recomendación es **arrancar en $150.000–$200.000 y escalar 30% por semana** mientras el costo por cliente se mantenga abajo de $15.000. **Con $350.000 el equilibrio del mes de lanzamiento pasa de 13 a 21 pedidos por jueves.**
+- [ ] 🔴 **Las dos campañas van con objetivo VENTAS, no Tráfico.** La de clientes nuevos, optimizada por *Agregar al carrito* o *Iniciar pago* hasta que haya volumen de compras.
+- [ ] 🔴 **El retargeting se prende en la semana 3**, no el día 1: hoy los públicos de Instagram y web casi no existen.
+- [ ] 🔴 **Instalar el píxel de Meta en Tiendanube ya** (Configuración > Integraciones). No cuesta nada y necesita tiempo para juntar datos.
+- [ ] 🔴 **Programar los anuncios: 70% viernes a domingo, 20% lunes hasta las 14:00.** Los pedidos cierran el lunes a las 14.
+- [ ] 🟠 **Las fotos del producto, reales.** IA solo para fondos y placas. Ya hay material en la tienda y en `textos/packs/`.
+- [ ] 🟠 **Corregir la leyenda de envíos de la web**: no es "CABA y Zona Norte" sino **"Entregas los jueves en todo el AMBA. Pedidos hasta el lunes 14:00."**
+- [ ] 🟠 **Excluir a los clientes actuales** del público de clientes nuevos y a los que ya compraron del retargeting.
+- [ ] 🟡 **Etiquetar los links con UTM** para ver en Tiendanube qué pedidos trajo cada campaña, y preguntarle a cada cliente nuevo cómo nos conoció.
+
 ### Lo que hay que aprovechar de las semanas que se ganaron
 
 - [ ] 🔥 **Largar el test de Meta ya.** Ahora sí tiene ventana de aprendizaje completa (necesita ~50 conversiones semanales por conjunto). $120.000 en tres conjuntos: San Isidro-Martínez / Palermo-Villa Crespo / Nordelta.
