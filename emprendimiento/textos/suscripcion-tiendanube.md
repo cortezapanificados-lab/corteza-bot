@@ -116,46 +116,153 @@ Si un suscriptor pausa una semana, ese mes son **$15.000**, no $20.000. Con la r
 
 ---
 
-## Encargo para Claude in Chrome
+## Encargo para Claude in Chrome — listo para copiar y pegar
 
-*Mismo formato que `encargo-claude-chrome-tienda.md`: hacer el login a mano primero (Tiendanube manda un código por mail que el agente no puede resolver), dejar la pestaña abierta y recién ahí pegarle esto.*
+*Formato de la casa (ver `encargo-claude-chrome-tienda.md`).*
 
-> Estás en el panel de administración de Tiendanube de la tienda Corteza (cortezapan.com.ar). Necesito que crees **un producto nuevo** con dos variantes.
+> **Antes de arrancar, el login se hace a mano** en `tiendanube.com` (cuenta `juan_guerrini@hotmail.com`). Tiendanube manda un código de verificación por mail que el agente no puede resolver solo. Dejar la pestaña del panel abierta y recién ahí pegarle el encargo.
 >
-> **1. Primero creá la categoría "Suscripciones"** en Productos → Categorías, si no existe.
->
-> **2. Creá el producto** en Productos → Agregar producto:
-> - **Nombre exacto:** `Suscripción Pack Semanal — 4 entregas`
-> - **Categoría:** Suscripciones
-> - **Descripción:** pegá el texto que te paso al final, respetando las negritas y los saltos de línea.
-> - **Visibilidad: NO VISIBLE.** No lo publiques. Lo va a publicar Juan después de probarlo.
->
-> **3. Agregale variantes.** Propiedad: `Zona de entrega`. Dos valores, con estos precios exactos:
->
-> | Valor de la variante | Precio | Precio promocional |
-> |---|---|---|
-> | `CABA, Zona Norte y GBA cercano` | 181200 | 172140 |
-> | `GBA norte y sur, y Zona extendida` | 201200 | 192140 |
->
-> **Stock: 10 unidades en cada variante.**
->
-> **4. Creá la regla de envío gratis.** Andá a la sección de Envíos, buscá "Envío gratis" o "Promociones de envío", y creá una regla que aplique **únicamente al producto "Suscripción Pack Semanal — 4 entregas"**, en **todas las zonas**, **sin monto mínimo de compra**.
->
-> ⚠️ **Si el panel no te deja limitar la regla a un producto específico, NO crees ninguna regla**: anotalo y avisá. Una regla por monto mínimo rompería todo el resto de la tienda.
->
-> **Reglas que no podés romper:**
-> - **No toques ningún otro producto**, ni precios, ni stock, ni fotos, ni las zonas de envío ya cargadas.
-> - **No publiques el producto.** Tiene que quedar no visible.
-> - **No inventes texto.** Pegá exactamente lo que está acá.
-> - Si algo no se puede hacer como está pedido, **no improvises: anotalo y seguí**.
->
-> **Al terminar, contame qué creaste, qué no pudiste y por qué**, y pasame el link de edición del producto.
->
-> ---
->
-> **Descripción a pegar:**
->
-> *(acá va el texto de la sección "El texto de la descripción, listo para pegar")*
+> **Son dos tandas separadas. Pasarle una, esperar a que termine, mirar el resultado, y recién ahí la segunda.** La tanda 2 toca la configuración de envíos de toda la tienda: por eso va aparte.
+
+### TANDA 1 — Crear el producto
+
+```
+Estás en el panel de administración de Tiendanube de la tienda Corteza
+(cortezapan.com.ar). Necesito que crees UN producto nuevo con dos variantes.
+No toques nada más de la tienda.
+
+PASO 1 — La categoría
+Andá a Productos → Categorías. Si no existe una categoría llamada
+"Suscripciones", creala. Si ya existe, no la modifiques.
+
+PASO 2 — El producto
+Andá a Productos → Agregar producto y cargá:
+
+- Nombre exacto: Suscripción Pack Semanal — 4 entregas
+- Categoría: Suscripciones
+- Visibilidad: NO VISIBLE / oculto. NO lo publiques. Lo va a revisar Juan
+  antes de publicarlo.
+- Descripción: pegá el texto que está al final de este mensaje, entre las
+  líneas de guiones. Respetá las negritas y los saltos de línea tal como
+  están. Donde el texto tiene **asteriscos dobles**, eso va en negrita y los
+  asteriscos NO se escriben.
+
+PASO 3 — Las variantes
+En ese mismo producto, activá las variantes (buscá "Agregar variantes" o
+"Este producto tiene variantes").
+
+Nombre de la propiedad: Zona de entrega
+
+Dos valores, con estos datos exactos:
+
+Valor 1: CABA, Zona Norte y GBA cercano
+  Precio: 181200
+  Precio promocional (o precio de oferta): 172140
+  Stock: 10
+
+Valor 2: GBA norte y sur, y Zona extendida
+  Precio: 201200
+  Precio promocional (o precio de oferta): 192140
+  Stock: 10
+
+IMPORTANTE: cargá LOS DOS precios en cada variante, el normal y el
+promocional. El precio tachado es parte del diseño, no es un error.
+
+REGLAS QUE NO PODÉS ROMPER
+- No toques ningún otro producto: ni precios, ni stock, ni costos, ni fotos,
+  ni descripciones.
+- No toques la configuración de envíos, ni las zonas, ni los medios de pago.
+  Eso va en un encargo aparte.
+- No publiques el producto. Tiene que quedar oculto.
+- No inventes ni reescribas texto. Pegá exactamente lo que está acá.
+- Si algo no se puede hacer como está pedido, NO improvises: anotalo y seguí
+  con lo que sí se pueda.
+- No le pongas foto. La carga Juan.
+
+AL TERMINAR
+Contame qué creaste, qué no pudiste hacer y por qué, y pasame el link de
+edición del producto.
+
+--------------------------------------------------
+DESCRIPCIÓN A PEGAR:
+
+**Todas las semanas el pan de la casa, y algo dulce distinto.**
+
+Recibí tu Pack Semanal todos los jueves, sin tener que acordarte de pedir.
+
+**Qué llega cada semana**
+Pan de molde integral de masa madre · Prepizzas x2 · Grisines integrales · Y algo dulce que va rotando: cookies integrales, mix de pepas o budín.
+
+Todo con harina 100% agroecológica, de panaderos artesanales que elegimos uno por uno.
+
+**Cómo funciona**
+Son 4 entregas, con un solo pago por adelantado y **5% de descuento**.
+Todos los lunes te escribimos con lo que va en la caja de esa semana, y podés cambiar algo.
+
+**Pausá cuando quieras.** Te vas de vacaciones, avisás antes del lunes y la entrega se corre al final. No se pierde.
+
+**Cancelá cuando quieras**, sin explicaciones.
+
+**Tu primera caja lleva algo de regalo.**
+
+**Elegí tu zona**
+Si estás en CABA, Zona Norte o GBA cercano, los envíos van sin cargo.
+Si estás en GBA norte y sur o Zona extendida, la suscripción incluye los 4 envíos de la zona.
+
+Se abona por transferencia. Escribinos y lo coordinamos.
+--------------------------------------------------
+```
+
+### TANDA 2 — La regla de envío
+
+*Pasársela recién cuando la tanda 1 haya terminado bien.*
+
+```
+Seguimos en el panel de Tiendanube de Corteza. Ahora una sola tarea, y es
+delicada porque toca la configuración de envíos de toda la tienda.
+
+LO QUE NECESITO
+Que el producto "Suscripción Pack Semanal — 4 entregas" NO pague envío en
+ninguna zona, sin importar el monto del carrito.
+
+CÓMO
+Andá a la sección de Envíos del panel y buscá una opción llamada "Envío
+gratis", "Promociones de envío" o similar. Creá una regla con estas
+condiciones:
+
+- Se aplica ÚNICAMENTE al producto "Suscripción Pack Semanal — 4 entregas"
+- En TODAS las zonas de envío
+- SIN monto mínimo de compra
+
+FRENO IMPORTANTE
+Si el panel NO te deja limitar la regla a un producto específico —por
+ejemplo, si solo te ofrece "envío gratis a partir de $X"— entonces NO CREES
+NINGUNA REGLA. Una regla por monto mínimo rompería el esquema de envíos de
+toda la tienda.
+
+En ese caso: no toques nada, sacá una captura de pantalla de las opciones
+que sí te ofrece, y contame exactamente qué opciones hay disponibles.
+
+REGLAS QUE NO PODÉS ROMPER
+- No modifiques ni borres ninguna regla de envío que ya exista.
+- No toques las zonas de envío ni sus precios.
+- No toques ningún producto.
+- Si dudás, no hagas nada y preguntá.
+
+AL TERMINAR
+Contame si pudiste crear la regla o no, y qué opciones te ofrecía el panel.
+```
+
+### Lo que queda para hacer a mano después
+
+El agente deja el producto **oculto** a propósito. Antes de publicarlo:
+
+1. **Subirle la foto** — el collage del Pack Semanal de `textos/packs/`.
+2. **Pedido de prueba a una dirección de Escobar**, segunda variante → tiene que dar **$192.140 clavados**, sin ninguna línea de envío arriba.
+3. **Otro a una dirección de CABA**, primera variante → **$172.140**.
+4. Si los dos dan bien, hacerlo visible.
+
+> 🔴 **Si la tanda 2 vuelve con que no se puede limitar por producto, no publicar nada.** Ahí el armado cambia y hay que rehacerlo.
 
 ---
 
