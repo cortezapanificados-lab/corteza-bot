@@ -2,6 +2,37 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 18/09/2026 (4) — Cómo se carga la suscripción en Tiendanube
+
+Juan preguntó cómo cargarla. Quedó escrita la guía completa en **`textos/suscripcion-tiendanube.md`**: paso a paso del panel, el texto de la ficha listo para pegar, y el encargo para Claude in Chrome con el formato de la casa.
+
+### 🔄 Corrección a lo que se había dicho a la mañana
+
+Se habían propuesto **dos productos separados**. **Va uno solo con dos variantes de zona** — una ficha, una foto, un texto, y el cliente elige en un desplegable:
+
+| Variante — *Zona de entrega* | Precio | **Promocional** |
+|---|---:|---:|
+| **CABA, Zona Norte y GBA cercano** | $181.200 | **$172.140** |
+| **GBA norte y sur, y Zona extendida** | $201.200 | **$192.140** |
+
+*(Los nombres son los que ya usa la página de Envíos, para que el cliente los reconozca. Se cargan los dos precios: el tachado es lo que hace visible el 5%.)*
+
+### Los tres puntos que no son obvios
+
+1. 🔴 **El paso que sostiene todo: una regla de envío gratis limitada a ese producto**, en todas las zonas, sin monto mínimo. **Hay que confirmar que el plan Esencial deja limitarla por producto**; si solo permite "desde $X", el armado no sirve.
+2. 💳 **No se puede obligar a pagar por transferencia.** Tiendanube maneja los medios de pago para toda la tienda. Con tarjeta, $172.140 cuestan $8.400 de comisión en vez de $3.115. **No es grave —el modelo usa el 7%, que es peor que los dos—** pero es otra razón para tomar los primeros por WhatsApp.
+3. 📦 **El stock es el tope de trabajo: 10 unidades, no ilimitado.** Diez suscriptores son 40 envíos por mes, y es hasta donde llega lo manual.
+
+**Y la prueba antes de publicar:** pedido a una dirección de **Escobar** con la segunda variante → tiene que dar **$192.140 clavados**, sin línea de envío. Otro a CABA → $172.140.
+
+### 🔴 Hallazgo: la página de Envíos está desactualizada
+
+`textos/pagina-envios.md` dice **"Envío sin cargo desde $40.000. En todo el AMBA, sea cual sea tu zona."** **Ya no es cierto** desde que la regla es diferenciada.
+
+> **Es exactamente el autogol que estaba anotado**: el cliente lee envío sin cargo y se encuentra el cargo en el checkout. **Hay que reescribirla con los tres escalones antes del lanzamiento.** Anotado en `pendientes.md`.
+
+---
+
 ## 18/09/2026 (3) — Va la suscripción del Pack Semanal, y el envío en las zonas lejanas
 
 **Dos decisiones de Juan:**

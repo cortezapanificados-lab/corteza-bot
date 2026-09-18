@@ -90,10 +90,18 @@ La suscripción se cobra **un mes por adelantado en una sola transferencia**, as
 
 **La salida: el envío va adentro del precio y Tiendanube no calcula nada.** Dos productos distintos, los dos con envío sin cargo en la ficha:
 
-| Producto | Precio mensual | Qué incluye |
-|---|---:|---|
-| **Suscripción Pack Semanal — CABA y Zona Media** | **$172.140** | 4 entregas, envíos sin cargo |
-| **Suscripción Pack Semanal — Zona Lejana y Muy lejana** | **$192.140** | 4 entregas + **los 4 envíos de $5.000** |
+**Un solo producto con dos variantes de zona** *(corregido el 18/09: primero se habían propuesto dos productos separados; con variantes es una sola ficha, una sola foto y un solo texto)*:
+
+| Variante — *Zona de entrega* | Precio | **Promocional** | Qué incluye |
+|---|---:|---:|---|
+| **CABA, Zona Norte y GBA cercano** | $181.200 | **$172.140** | 4 entregas, envíos sin cargo |
+| **GBA norte y sur, y Zona extendida** | $201.200 | **$192.140** | 4 entregas + **los 4 envíos de $5.000** |
+
+> 🔧 **El paso a paso completo del panel, el texto de la ficha y el encargo para Claude in Chrome están en `textos/suscripcion-tiendanube.md`.**
+>
+> ⚠️ **El paso que sostiene todo:** una regla de **envío gratis limitada a ese producto**, en todas las zonas, sin monto mínimo. **Hay que confirmar que el plan Esencial deja limitarla por producto**; si solo permite "desde $X", este camino no sirve.
+>
+> 💳 **Y no se puede obligar a pagar por transferencia:** Tiendanube maneja los medios de pago para toda la tienda. Con tarjeta, $172.140 cuestan $8.400 de comisión en vez de $3.115. **No es grave —el modelo usa el 7%, que es peor que los dos—** pero es otra razón para tomar los primeros por WhatsApp.
 
 - ⚠️ **Confirmar la dirección antes de aceptar la transferencia.** Nada impide que alguien de Escobar elija la versión de CABA y se ahorre $20.000.
 - 💡 **Para los primeros diez, ni ponerlo en la tienda:** tomarlos por WhatsApp con el monto cotizado. Es más simple que configurar dos productos para algo que todavía se está probando.

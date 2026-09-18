@@ -62,9 +62,16 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 
 Con un despacho único la lista de espera lo llenaba sola. **Con tres o cuatro, la lista llena el primero y los siguientes necesitan demanda nueva.** Es lo que ya advertía `campana-meta.md`: la publicidad importa más en las semanas 2, 3 y 4 que en la 1. **Ese riesgo pasó de teórico a principal.**
 
+### 🔴 La página de Envíos de la tienda está desactualizada *(18/09)*
+
+- [ ] 🔴 **Reescribir `textos/pagina-envios.md` con los tres escalones.** Hoy dice *"Envío sin cargo desde $40.000. En todo el AMBA, sea cual sea tu zona."* y **ya no es cierto**: en GBA norte/sur y Zona extendida se cobran $5.000 hasta los $55.000. **Es el autogol que estaba anotado** — el cliente lee envío sin cargo y se encuentra el cargo en el checkout. Si la página ya está publicada, corregirla antes del lanzamiento.
+
 ### 🔁 La suscripción del Pack Semanal *(decidida el 18/09)*
 
-- [ ] 🔴 **Cargar la suscripción como DOS productos, con el envío adentro del precio y envío sin cargo en la ficha:** $172.140 para CABA y Zona Media, **$192.140 para Lejana y Muy lejana** (incluye los 4 envíos de $5.000). **Si se deja que Tiendanube calcule el envío, el carrito de $172.140 dispara el umbral de $55.000 y no cobra nada.** Detalle en `suscripciones.md` sección 3 bis.
+- [ ] 🔴 **Cargar la suscripción como UN producto con dos variantes de zona**, con el envío adentro del precio: **$172.140** (CABA, Zona Norte y GBA cercano) y **$192.140** (GBA norte y sur, y Zona extendida). **Si se deja que Tiendanube calcule el envío, el carrito de $172.140 dispara el umbral de $55.000 y no cobra nada.** Paso a paso en `textos/suscripcion-tiendanube.md`.
+- [ ] 🔴 **Confirmar que el plan Esencial deja crear una regla de envío gratis limitada a un producto específico.** Si solo permite "desde $X", el armado de la suscripción no sirve y hay que resolverlo de otra forma.
+- [ ] 🔴 **Pedido de prueba a una dirección de Escobar antes de publicar:** el total tiene que dar **$192.140 clavados**, sin línea de envío. Y otro a CABA: **$172.140**.
+- [ ] 📋 **Armar la planilla de entregas pendientes** (quién tiene cuántas, quién pausó). Con diez suscriptores son diez cobros y cuarenta entregas por mes.
 - [ ] ⚠️ **Confirmar la dirección antes de aceptar cada transferencia.** Nada impide que alguien de Escobar elija la versión de CABA.
 - [ ] 💡 **Para los primeros diez suscriptores, tomarlos por WhatsApp** con el monto cotizado, sin cargar nada en la tienda.
 - [ ] 🤔 **Decidir si se ofrece el "pack + pan de molde" ($56.800) a las zonas lejanas** como alternativa a pagar el envío. **Para Corteza es neutro** ($40/mes de diferencia); se decide por conversión contra fatiga. Recomendación: ofrecerlo como opción, no como default.
