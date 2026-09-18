@@ -14,6 +14,20 @@ Corteza es una marca de panificados artesanales de Pilar, Buenos Aires, Argentin
 
 **Condición fiscal: Corteza es monotributista** (Juan Martín Guerrini). El IVA que paga por sus costos **no se recupera**: es costo puro, no crédito fiscal. ⚠️ **Al volumen proyectado del AMBA (~$3,6 millones mensuales con 30 pedidos por jueves) puede quedar fuera del monotributo. Hay que consultarlo con el contador antes del lanzamiento**, porque si pasa a responsable inscripto cambian el IVA del flete y toda la estructura de costos.
 
+> ## 📦 LA REGLA DE ENVÍO VIGENTE *(corregida por Juan el 18/09/2026)*
+>
+> **No es un umbral único de $40.000 para todo el AMBA, como decía este archivo.** Es **diferenciada por zona**:
+>
+> | Zona | Menos de $40.000 | **Desde $40.000** |
+> |---|---:|---:|
+> | **Cercana (CABA)** y **Media** | tarifa de la zona | **sin cargo** |
+> | **Lejana** y **Muy lejana** | tarifa de la zona | **$5.000** |
+> | **Pilar** (reparto propio) | sin cargo | sin cargo |
+>
+> **Es mejor que el umbral único**: los $5.000 de las dos zonas caras bajan el flete promedio de $6.340 a **$4.945** y suben el techo de margen neto de 21,8% a **25,3%**.
+>
+> 🤔 **Abierto: agregar un segundo escalón** —envío sin cargo también en Lejana y Muy lejana **desde $55.000**— que se paga solo a partir de $52.000. Análisis en `envios-amba.md` sección 3 quater.
+
 **Logística del AMBA: FLEXIT** (decidido el 28/08/2026, reemplaza a Smart Post, que dejó de responder). Logística tercerizada, same-day, con cuatro zonas. El costo de envío depende de la zona del comprador y **lo paga el comprador**, salvo que supere un mínimo de compra (ver `envios-amba.md`).
 
 **Tarifas Flexit** (**actualizadas por Flexit el 07/09/2026**, con IVA al 10,5% — la condición acordada pagando en efectivo). **Subieron 4,6% parejo en las cuatro zonas.** El tarifario es mensual: hay que pedirlo todos los meses.
@@ -66,7 +80,9 @@ Lo que incluye Flexit: **segunda y tercera visita sin costo adicional**, same-da
 >
 > **El pedido promedio se modela en $40.000**, que es el umbral del envío sin cargo *(definido por Juan el 11/09/2026)*. Como el pedido promedio llega al umbral, **el flete lo paga Corteza en casi todos los pedidos**: es un costo del negocio, no del comprador.
 >
-> En un pedido de $40.000 de panificados queda **$15.060 (37,6%) antes del flete** y **$8.720 (21,8%) después**.
+> En un pedido de $40.000 de panificados queda **$15.060 (37,6%) antes del flete**. Después del flete depende de la zona: **$10.500 en CABA**, **$8.675 en Media**, y **$11.500 / $10.130 en Lejana y Muy lejana**, donde el cliente pone $5.000. **Ponderado por la mezcla esperada: $10.115, el 25,3%.**
+>
+> *(El $8.720 que figuraba acá asumía envío sin cargo en las cuatro zonas. Con la regla real es $10.115 — ver `numeros.md` sección 2.)*
 
 **Fijos mensuales:**
 - Claude: $35.000
@@ -76,9 +92,9 @@ Lo que incluye Flexit: **segunda y tercera visita sin costo adicional**, same-da
 
 **Total fijos: $137.000/mes** antes de publicidad. **El flete de proveedores es el fijo más grande: más que Claude y Tiendanube juntos.**
 
-**Techo de margen neto: 21,8%** con envío sin cargo en todos los pedidos. Sin bonificar el envío sería 38,9%: **esos 17 puntos son literalmente el precio del envío sin cargo.**
+**Techo de margen neto: 25,3%** con la regla real *(era 21,8% cuando se asumía envío sin cargo en las cuatro zonas)*. Sin bonificar ningún envío sería 38,9%: **esos 13,6 puntos son literalmente el precio del envío sin cargo.**
 
-> ⚠️ **Con el umbral de $40.000, el objetivo del 30% de margen neto no es alcanzable por volumen.** Para llegar al 30% el ticket promedio tendría que ser de **$77.000**. Igual el umbral es la decisión correcta hoy: mientras el mes no llegue a los 120 envíos de Flexit, esos envíos se pagan igual y un pedido de $40.000 bonificado deja $4.668 **más** que uno de $28.000 con el cliente pagando. La cuenta recién se da vuelta pasados los 120 pedidos mensuales. Los dos regímenes, en `numeros.md` sección 3.
+> ⚠️ **Con el umbral de $40.000, el objetivo del 30% de margen neto sigue sin ser alcanzable por volumen**, aunque la regla diferenciada acorta la distancia: el techo es 25,3%, no 21,8%. Igual el umbral es la decisión correcta hoy: mientras el mes no llegue a los 120 envíos de Flexit, esos envíos se pagan igual y un pedido de $40.000 bonificado deja $4.668 **más** que uno de $28.000 con el cliente pagando. La cuenta recién se da vuelta pasados los 120 pedidos mensuales. Los dos regímenes, en `numeros.md` sección 3.
 
 **Punto de equilibrio:** **16 pedidos en septiembre** (mes sin mínimo) y **60 pedidos en un mes normal** con el mínimo de 120 de Flexit corriendo (12 por jueves). Para *usar* los 120 envíos que se pagan igual hacen falta **24 por jueves**. Detalle en `numeros.md`.
 

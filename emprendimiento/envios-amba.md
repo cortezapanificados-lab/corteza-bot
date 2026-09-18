@@ -170,6 +170,78 @@ Sobre 18 pedidos mensuales, supongamos 2 de Eugenio (que no cambian) y 16 del re
 
 ---
 
+## 3 ter. ✅ LA REGLA VIGENTE — corregida el 18/09/2026
+
+> 🔴 **Este archivo, `perfil.md` y `numeros.md` decían que el umbral era $40.000 para todo el AMBA. No es así.** Juan aclaró el 18/09 cuál es la regla que realmente quedó armada, y es **diferenciada por zona**:
+
+| Zona | Menos de $40.000 | **Desde $40.000** |
+|---|---:|---:|
+| **Cercana (CABA)** | $4.900 | **sin cargo** |
+| **Media** | $6.900 | **sin cargo** |
+| **Lejana** | $8.900 | **$5.000** |
+| **Muy lejana** | $10.400 | **$5.000** |
+| **Pilar** (reparto propio) | sin cargo | sin cargo |
+
+**Es mejor que el umbral único que tenía cargado el modelo**, y corrige tres puntos y medio de margen neto — ver 3 quater.
+
+---
+
+## 3 quater. 🤔 Propuesta abierta: envío sin cargo en Lejana y Muy lejana desde $60.000
+
+*Planteada por Juan el 18/09/2026.* **Recomendación: sí, pero el umbral va en $55.000, no en $60.000.**
+
+### Lo que se resigna no es el flete: son los $5.000
+
+Bonificar el envío en esas zonas **no cuesta $8.210 ni $9.580**. Cuesta lo que se deja de cobrar: **$5.000, que después del 7% de Pago Nube son $4.650 netos.**
+
+> **Para recuperar $4.650 con venta de producto hacen falta $11.954 de carrito extra** (cada peso de panificado deja 38,9% = 45,9% de margen bruto menos el 7% de cobrar; el packaging no se mueve porque es fijo por pedido).
+>
+> ### $40.000 + $12.000 = **$52.000 es el punto donde la bonificación se paga sola.**
+
+**Y el número no depende del régimen del mínimo de Flexit.** Abajo de 120 envíos el flete está hundido y arriba se paga de verdad, pero en los dos casos lo que cambia es el mismo $4.650 que se deja de cobrar. El equilibrio es $52.000 siempre.
+
+### Por qué $55.000 y no $60.000
+
+1. **$52.000 es el equilibrio**, así que $55.000 ya deja ganancia.
+2. **La regla de la casa** dice que el umbral va entre 1,2 y 1,4 veces el ticket del grupo. Sobre $40.000 eso da **$48.000 a $56.000**. $60.000 es 1,5 veces y queda afuera.
+3. **Alcanzabilidad.** Desde cualquiera de los packs ($42.800 a $46.200), llegar a **$55.000 es agregar un producto** —un pan de molde ($11.500) o el queso ($12.500)—; llegar a **$60.000 son dos**. Un umbral que se alcanza agregando una cosa se alcanza.
+
+**$60.000 no está mal** —deja más colchón y cierra igual—, solo convierte menos.
+
+### Lo que deja cada caso
+
+| | Lejana | Muy lejana |
+|---|---:|---:|
+| Pedido $40.000, cliente paga $5.000 *(hoy)* | $11.500 | $10.130 |
+| Pedido $52.000 con envío sin cargo *(equilibrio)* | $11.518 | $10.148 |
+| **Pedido $55.000 con envío sin cargo** | **$12.685** | **$11.315** |
+| Pedido $60.000 con envío sin cargo | $14.240 | $12.870 |
+
+> ⭐ **El umbral no puede salir mal.** El que se queda en $40.000 sigue pagando sus $5.000 igual que hoy: no se pierde nada. Solo se "paga" cuando el cliente sube el carrito, y cuando lo sube deja $1.185 más. Es una apuesta sin contra.
+
+**Un solo umbral para las dos zonas**, porque las dos pagan los mismos $5.000: el equilibrio es idéntico y no hay motivo para complicar la comunicación.
+
+### 🎁 El beneficio de regalo: cierra el riesgo del almacén puro
+
+`numeros.md` sección 3 ter tenía marcado que **un pedido de $40.000 de puro almacén en Muy lejana da pérdida**: con envío sin cargo necesita **32,2% de margen bruto** y el almacén de terceros está en 29,0%.
+
+| Umbral de envío sin cargo en Muy lejana | Margen bruto que necesita el pedido |
+|---|---:|
+| $40.000 | 32,2% ❌ *(el almacén no llega)* |
+| **$55.000** | **25,3%** ✅ |
+| $60.000 | 23,8% ✅ |
+
+**Con el escalón, ese riesgo queda cerrado**: ningún producto del catálogo está hoy por debajo del 29%.
+
+### Lo que hay que mirar antes de activarlo
+
+1. ⚠️ **Confirmar que Tiendanube banca tres escalones** en esas zonas (tarifa plena hasta $40.000 → $5.000 hasta $55.000 → sin cargo). Se hace con rangos por monto, pero **hay que verlo funcionando antes de anunciarlo**: el autogol conocido es que el cliente crea que tiene envío sin cargo y se encuentre el cargo en el checkout.
+2. ⚠️ **La barrita de "te faltan $X" tiene que ser por zona.** Con un solo número, en Escobar miente.
+3. **Canibalización: hoy es despreciable.** Los que ya pedirían $55.000 en zona lejana dejan de pagar los $5.000, pero con el ticket real en $23.677 son casi nadie. **Revisar después del primer mes.**
+4. **No cambia dónde conviene vender.** Un pedido de $55.000 en Muy lejana con envío sin cargo deja $11.315; uno de $40.000 en CABA deja $10.500. **Hacen falta $15.000 más de carrito en Escobar para ganar lo mismo que en Palermo.** Es el mismo argumento que manda la pauta a CABA y Zona Norte.
+
+---
+
 ## 4. Los umbrales de envío sin cargo
 
 Calculados con el **margen efectivo real del 37,9%** (45,9% de margen bruto en panificados menos el 8% de comisión y packaging).

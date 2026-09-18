@@ -62,6 +62,13 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 
 Con un despacho único la lista de espera lo llenaba sola. **Con tres o cuatro, la lista llena el primero y los siguientes necesitan demanda nueva.** Es lo que ya advertía `campana-meta.md`: la publicidad importa más en las semanas 2, 3 y 4 que en la 1. **Ese riesgo pasó de teórico a principal.**
 
+### 📦 El segundo escalón de envío *(18/09)*
+
+- [ ] 🔴 **DECISIÓN ABIERTA: ¿envío sin cargo en Lejana y Muy lejana desde $55.000?** Juan propuso $60.000; la recomendación es **$55.000** (el equilibrio está en $52.000 y desde cualquier pack se llega agregando un solo producto). **El escalón no puede salir mal**: el que se queda en $40.000 sigue pagando sus $5.000. Análisis en `envios-amba.md` sección 3 quater.
+- [ ] ⚠️ **Antes de anunciarlo: confirmar que Tiendanube banca tres escalones** en esas zonas (tarifa plena hasta $40.000 → $5.000 hasta el umbral → sin cargo), y que **la barrita de "te faltan $X" funciona por zona**. Con un solo número, en Escobar miente.
+- [ ] **Revisar la canibalización después del primer mes**: cuántos pedidos de Lejana y Muy lejana superan el umbral nuevo y dejaron de pagar los $5.000. Hoy es despreciable porque el ticket real es $23.677.
+- [x] ~~Corregir la regla de envío en la memoria.~~ → ✅ **Hecho el 18/09.** `perfil.md`, `numeros.md` y `envios-amba.md` decían umbral único de $40.000; la regla real es diferenciada. **El techo de margen neto pasó de 21,8% a 25,3%** y el equilibrio de octubre de 39 a 36 pedidos.
+
 ### 📣 De la revisión del plan de pauta *(18/09)* — antes de prender la publicidad
 
 *Revisión completa en `campana-meta.md` sección 9.*

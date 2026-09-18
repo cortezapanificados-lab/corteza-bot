@@ -12,6 +12,18 @@
 
 > 🔄 **Rehecho el 11/09/2026 con el ticket de $40.000.** Juan definió que **el pedido promedio se modela en $40.000, que es el umbral del envío sin cargo**. Eso cambia el modelo de raíz: **si el pedido promedio llega al umbral, el flete lo paga Corteza en casi todos los pedidos.** Ya no hay dos supuestos dando vueltas — el envío es un costo de Corteza y está adentro de la cuenta.
 
+> ## 🔴 CORREGIDO EL 18/09/2026 — la regla de envío no es la que asumía este archivo
+>
+> Todo lo que sigue estaba calculado con **envío sin cargo en las cuatro zonas desde $40.000**. **La regla real es diferenciada:** CABA y Media sin cargo, **Lejana y Muy lejana pagan $5.000** *(aclarado por Juan el 18/09)*. Esos $5.000 —$4.650 netos después de Pago Nube— cambian dos números de raíz:
+>
+> | | Decía | **Es** |
+> |---|---:|---:|
+> | Flete promedio ponderado | $6.340 | **$4.945** |
+> | Queda un pedido de $40.000 | $8.720 (21,8%) | **$10.115 (25,3%)** |
+> | Contribución con el flete hundido *(abajo de 120 envíos)* | $15.060 | **$16.455** |
+>
+> **El techo de margen neto del negocio es 25,3%, no 21,8%.** Las tablas de abajo quedan con los números viejos como referencia; donde importa está marcado.
+
 Las cargas de un pedido de $40.000:
 
 | Concepto | Cómo se cobra | Monto | Sobre el pedido |
@@ -22,6 +34,8 @@ Las cargas de un pedido de $40.000:
 | **Total** | | **$9.640** | **24,1%** |
 
 *(El flete de $6.340 es el promedio ponderado de las cuatro zonas con la mezcla esperada: 40% CABA, 30% Media, 20% Lejana, 10% Muy lejana.)*
+
+> ✅ **Corregido el 18/09:** con la regla real, en Lejana y Muy lejana el cliente pone $5.000 ($4.650 netos), así que el flete que absorbe Corteza en esas zonas baja a $3.560 y $4.930. **El promedio ponderado real es $4.945**, y el total de cargas de un pedido de $40.000 baja de $9.640 (24,1%) a **$8.245 (20,6%)**.
 
 Y los costos fijos del mes:
 
@@ -49,15 +63,19 @@ Y los costos fijos del mes:
 
 ### Lo que deja según la zona
 
-| Zona | Flete | Queda | Margen | Mezcla |
-|---|---:|---:|---:|---:|
-| **Pilar** (reparto propio) | — | **$15.060** | **37,6%** | aparte |
-| Cercana (CABA) | $4.560 | $10.500 | 26,2% | 40% |
-| Media | $6.385 | $8.675 | 21,7% | 30% |
-| Lejana | $8.210 | $6.850 | 17,1% | 20% |
-| Muy lejana | $9.580 | $5.480 | 13,7% | 10% |
+*Actualizada el 18/09 con la regla real: en Lejana y Muy lejana el cliente pone $5.000, que netos son $4.650.*
 
-> 💡 **Un pedido de CABA deja casi el doble que uno de Escobar** ($10.500 contra $5.480) por la misma venta y el mismo trabajo. **Dónde se hace la publicidad es una decisión de margen, no de marketing.** Refuerza lo que ya decía `zonas-amba-ranking.md`.
+| Zona | Flete | Cobra al cliente | **Queda** | Margen | Mezcla |
+|---|---:|---:|---:|---:|---:|
+| **Pilar** (reparto propio) | — | — | **$15.060** | **37,6%** | aparte |
+| Cercana (CABA) | $4.560 | — | **$10.500** | 26,2% | 40% |
+| Media | $6.385 | — | **$8.675** | 21,7% | 30% |
+| Lejana | $8.210 | $4.650 | **$11.500** | 28,8% | 20% |
+| Muy lejana | $9.580 | $4.650 | **$10.130** | 25,3% | 10% |
+
+> 🔄 **Se dio vuelta el orden.** Con la regla real, **Lejana es la zona que más deja por pedido** ($11.500), por encima de CABA. No es que convenga vender ahí: es que el cliente paga parte del flete. **Si se activa el segundo escalón** (envío sin cargo desde $55.000 — `envios-amba.md` sección 3 quater), esas dos zonas vuelven a absorber el flete completo en los pedidos grandes.
+
+> 💡 **A igualdad de regla, un pedido de CABA deja mucho más que uno de Escobar** (con envío sin cargo en las dos serían $10.500 contra $5.480) por la misma venta y el mismo trabajo. **Dónde se hace la publicidad es una decisión de margen, no de marketing.** Refuerza lo que ya decía `zonas-amba-ranking.md`.
 
 El detalle producto por producto está en `tabla-margenes.md`.
 
@@ -119,6 +137,18 @@ Pasados los 120 pedidos mensuales la cuenta **se da vuelta**: cada envío bonifi
 > | Los 120 completos | $760.800 | **60 pedidos** | 14,9 |
 >
 > **Entre la primera y la segunda hay 34 pedidos de diferencia.** No se puede fijar fecha de lanzamiento sin esa respuesta: es una llamada.
+
+> ✅ **Equilibrio recalculado el 18/09 con la regla de envío real.** Con los $5.000 de Lejana y Muy lejana, cada pedido aporta **$16.455** (no $15.060) mientras el flete esté hundido. Los equilibrios bajan:
+>
+> | Lanzás el | Equilibrio *(decía)* | **Equilibrio real** | **Por jueves** |
+> |---|---:|---:|---:|
+> | 1/10 | 60 | **55** | **11** |
+> | 8/10 | 50 | **45** | **11,3** |
+> | **15/10** | **39** | **36** | **12** |
+> | 22/10 | 29 | **27** | **13,4** |
+> | 29/10 | 19 | **18** | **17,6** |
+>
+> **No cambia la recomendación del 15/10**, y el equilibrio por despacho sigue siendo casi plano.
 
 ### El equilibrio según en qué jueves se lance
 

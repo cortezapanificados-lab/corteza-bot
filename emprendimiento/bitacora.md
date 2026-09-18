@@ -2,6 +2,60 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 18/09/2026 (2) — La regla de envío real, y el segundo escalón
+
+### 🔴 Primero: la memoria tenía mal la regla de envío
+
+`perfil.md`, `numeros.md` y `envios-amba.md` decían **umbral único de $40.000 para todo el AMBA**. Juan aclaró cuál es la regla que realmente quedó armada, y es **diferenciada**:
+
+| Zona | Menos de $40.000 | **Desde $40.000** |
+|---|---:|---:|
+| **Cercana (CABA)** y **Media** | tarifa de la zona | **sin cargo** |
+| **Lejana** y **Muy lejana** | tarifa de la zona | **$5.000** |
+| **Pilar** (reparto propio) | sin cargo | sin cargo |
+
+**Y es mejor que lo que asumía el modelo.** Esos $5.000 —$4.650 netos después de Pago Nube— cambian números de fondo:
+
+| | Decía | **Es** |
+|---|---:|---:|
+| Flete promedio ponderado | $6.340 | **$4.945** |
+| Queda un pedido de $40.000 | $8.720 (21,8%) | **$10.115 (25,3%)** |
+| Contribución con el flete hundido | $15.060 | **$16.455** |
+
+> **El techo de margen neto del negocio es 25,3%, no 21,8%.** Tres puntos y medio que estaban mal cargados. Corregido en los tres archivos.
+
+Efecto colateral: **el equilibrio de octubre baja.** Lanzando el 15/10 son **36 pedidos (12 por jueves)**, no 39. Y la tabla de pauta de la entrada anterior queda en **12 / 15 / 16 / 19 por jueves** para $0 / $150.000 / $200.000 / $350.000.
+
+También se dio vuelta el orden de las zonas: **con la regla real, Lejana es la que más deja por pedido** ($11.500), arriba de CABA ($10.500). No es que convenga vender ahí — es que el cliente paga parte del flete.
+
+### 🤔 La pregunta: ¿envío sin cargo en Lejana y Muy lejana desde $60.000?
+
+**Recomendación: sí, pero en $55.000.**
+
+Lo que se resigna al bonificar **no son los $8.210 / $9.580 del flete: son los $5.000 que hoy paga el cliente** ($4.650 netos). Para recuperarlos hacen falta **$11.954 de carrito extra** (38,9% por peso de panificado; el packaging es fijo).
+
+> **$40.000 + $12.000 = $52.000 es donde la bonificación se paga sola.** Y no depende del régimen del mínimo de Flexit: lo que cambia es siempre el mismo $4.650.
+
+**Por qué $55.000 y no $60.000:**
+1. $52.000 es el equilibrio, así que $55.000 ya deja ganancia.
+2. La regla de la casa (umbral entre 1,2 y 1,4 veces el ticket del grupo) da **$48.000–$56.000**. $60.000 es 1,5 veces.
+3. **Desde cualquier pack ($42.800–$46.200), llegar a $55.000 es agregar UN producto** (un pan de molde $11.500 o el queso $12.500); a $60.000 son dos.
+
+| | Lejana | Muy lejana |
+|---|---:|---:|
+| Pedido $40.000, cliente paga $5.000 *(hoy)* | $11.500 | $10.130 |
+| **Pedido $55.000, envío sin cargo** | **$12.685** | **$11.315** |
+
+⭐ **El escalón no puede salir mal:** el que se queda en $40.000 sigue pagando sus $5.000, así que no se pierde nada; solo se "paga" cuando el cliente sube el carrito, y ahí deja $1.185 más.
+
+🎁 **Y cierra de regalo el riesgo del almacén puro en zonas lejanas.** Un pedido de $40.000 de solo almacén en Muy lejana necesitaba 32,2% de margen bruto (el almacén está en 29%); **a $55.000 necesita 25,3%**. Riesgo cerrado.
+
+**Lo que hay que mirar antes de activarlo:** que Tiendanube banque tres escalones en esas zonas, que la barrita de "te faltan $X" sea por zona, y revisar la canibalización después del primer mes (hoy es despreciable: el ticket real es $23.677).
+
+**Falta la decisión de Juan sobre el número final.** Análisis completo en `envios-amba.md` sección 3 quater.
+
+---
+
 ## 18/09/2026 — Revisión del plan de pauta de Meta ($350.000/mes)
 
 Juan trajo un **plan de campaña escrito para los primeros meses**: $350.000/mes, 80% en una campaña de **Tráfico** para clientes nuevos de CABA y Zona Norte ($9.300/día) y 20% en **retargeting** con objetivo Ventas ($2.300/día), más píxel, producción de fotos y videos, y optimización semanal.

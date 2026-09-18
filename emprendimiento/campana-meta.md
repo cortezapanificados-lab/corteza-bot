@@ -246,7 +246,18 @@ Qué le hace eso al equilibrio del mes de lanzamiento *(jueves 15/10, tres despa
 | $200.000 | $793.480 | 53 pedidos | **18** |
 | **$350.000** | **$943.480** | **63 pedidos** | **21** |
 
-> **Con $350.000 el equilibrio pasa de 13 a 21 pedidos por jueves.** El objetivo operativo del negocio —el punto donde se usan los 120 envíos que Flexit cobra igual— son 24. O sea: **arrancar con $350.000 es salir a buscar el equilibrio casi a capacidad plena desde el primer mes**, viniendo de 4,2 pedidos por semana.
+> ✅ **Corregido el 18/09.** Esta tabla se calculó con $15.060 por pedido, asumiendo envío sin cargo en las cuatro zonas. **La regla real es diferenciada** (Lejana y Muy lejana ponen $5.000), así que cada pedido aporta **$16.455** y los equilibrios bajan:
+>
+> | Pauta mensual | **Equilibrio por jueves** |
+> |---:|---:|
+> | $0 | **12** |
+> | $150.000 | **15** |
+> | $200.000 | **16** |
+> | $350.000 | **19** |
+>
+> **No cambia la recomendación** —arrancar en $150.000–$200.000 y escalar—, pero el número justo con $350.000 es 19, no 21.
+
+> **Con $350.000 el equilibrio pasa de 12 a 19 pedidos por jueves.** El objetivo operativo del negocio —el punto donde se usan los 120 envíos que Flexit cobra igual— son 24. O sea: **arrancar con $350.000 es salir a buscar el equilibrio casi a capacidad plena desde el primer mes**, viniendo de 4,2 pedidos por semana.
 
 La otra forma de mirarlo, con la regla de la sección 6 (*la pauta no puede pasar el 15% de lo facturado*): $350.000 se justifican con **$2.333.000 de facturación mensual**, que son 58 pedidos de $40.000. Es el número al que se quiere llegar, no el de donde se arranca.
 
