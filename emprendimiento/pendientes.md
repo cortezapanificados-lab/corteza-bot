@@ -62,9 +62,17 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 
 Con un despacho único la lista de espera lo llenaba sola. **Con tres o cuatro, la lista llena el primero y los siguientes necesitan demanda nueva.** Es lo que ya advertía `campana-meta.md`: la publicidad importa más en las semanas 2, 3 y 4 que en la 1. **Ese riesgo pasó de teórico a principal.**
 
+### 🔁 La suscripción del Pack Semanal *(decidida el 18/09)*
+
+- [ ] 🔴 **Cargar la suscripción como DOS productos, con el envío adentro del precio y envío sin cargo en la ficha:** $172.140 para CABA y Zona Media, **$192.140 para Lejana y Muy lejana** (incluye los 4 envíos de $5.000). **Si se deja que Tiendanube calcule el envío, el carrito de $172.140 dispara el umbral de $55.000 y no cobra nada.** Detalle en `suscripciones.md` sección 3 bis.
+- [ ] ⚠️ **Confirmar la dirección antes de aceptar cada transferencia.** Nada impide que alguien de Escobar elija la versión de CABA.
+- [ ] 💡 **Para los primeros diez suscriptores, tomarlos por WhatsApp** con el monto cotizado, sin cargar nada en la tienda.
+- [ ] 🤔 **Decidir si se ofrece el "pack + pan de molde" ($56.800) a las zonas lejanas** como alternativa a pagar el envío. **Para Corteza es neutro** ($40/mes de diferencia); se decide por conversión contra fatiga. Recomendación: ofrecerlo como opción, no como default.
+- [ ] 📌 **Definir qué pasa con el envío si el suscriptor pausa una semana.** Los $5.000 son por entrega: un mes de tres entregas son $15.000, no $20.000.
+
 ### 📦 El segundo escalón de envío *(18/09)*
 
-- [ ] 🔴 **DECISIÓN ABIERTA: ¿envío sin cargo en Lejana y Muy lejana desde $55.000?** Juan propuso $60.000; la recomendación es **$55.000** (el equilibrio está en $52.000 y desde cualquier pack se llega agregando un solo producto). **El escalón no puede salir mal**: el que se queda en $40.000 sigue pagando sus $5.000. Análisis en `envios-amba.md` sección 3 quater.
+- [x] ~~🔴 **DECISIÓN ABIERTA: ¿envío sin cargo en Lejana y Muy lejana desde $55.000?**~~ → ✅ **Decidido el 18/09: $55.000.** Juan lo propuso en $60.000 y quedó en $55.000 (el equilibrio está en $52.000 y desde cualquier pack se llega agregando un solo producto). **El escalón no puede salir mal**: el que se queda en $40.000 sigue pagando sus $5.000. Análisis en `envios-amba.md` sección 3 quater.
 - [ ] ⚠️ **Antes de anunciarlo: confirmar que Tiendanube banca tres escalones** en esas zonas (tarifa plena hasta $40.000 → $5.000 hasta el umbral → sin cargo), y que **la barrita de "te faltan $X" funciona por zona**. Con un solo número, en Escobar miente.
 - [ ] **Revisar la canibalización después del primer mes**: cuántos pedidos de Lejana y Muy lejana superan el umbral nuevo y dejaron de pagar los $5.000. Hoy es despreciable porque el ticket real es $23.677.
 - [x] ~~Corregir la regla de envío en la memoria.~~ → ✅ **Hecho el 18/09.** `perfil.md`, `numeros.md` y `envios-amba.md` decían umbral único de $40.000; la regla real es diferenciada. **El techo de margen neto pasó de 21,8% a 25,3%** y el equilibrio de octubre de 39 a 36 pedidos.

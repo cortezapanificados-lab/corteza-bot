@@ -18,15 +18,17 @@ Corteza es una marca de panificados artesanales de Pilar, Buenos Aires, Argentin
 >
 > **No es un umbral único de $40.000 para todo el AMBA, como decía este archivo.** Es **diferenciada por zona**:
 >
-> | Zona | Menos de $40.000 | **Desde $40.000** |
-> |---|---:|---:|
-> | **Cercana (CABA)** y **Media** | tarifa de la zona | **sin cargo** |
-> | **Lejana** y **Muy lejana** | tarifa de la zona | **$5.000** |
-> | **Pilar** (reparto propio) | sin cargo | sin cargo |
+> | Zona | Menos de $40.000 | $40.000 a $55.000 | **Desde $55.000** |
+> |---|---:|---:|---:|
+> | **Cercana (CABA)** y **Media** | tarifa de la zona | **sin cargo** | **sin cargo** |
+> | **Lejana** y **Muy lejana** | tarifa de la zona | **$5.000** | **sin cargo** |
+> | **Pilar** (reparto propio) | sin cargo | sin cargo | sin cargo |
 >
 > **Es mejor que el umbral único**: los $5.000 de las dos zonas caras bajan el flete promedio de $6.340 a **$4.945** y suben el techo de margen neto de 21,8% a **25,3%**.
 >
-> 🤔 **Abierto: agregar un segundo escalón** —envío sin cargo también en Lejana y Muy lejana **desde $55.000**— que se paga solo a partir de $52.000. Análisis en `envios-amba.md` sección 3 quater.
+> ✅ **El segundo escalón de $55.000 quedó decidido el 18/09** (el equilibrio está en $52.000). Análisis en `envios-amba.md` sección 3 quater.
+>
+> ⚠️ **La suscripción va aparte:** el Pack Semanal son $45.300 por entrega, así que en Lejana y Muy lejana paga los $5.000 — pero el carrito mensual de $172.140 dispararía el umbral solo si se deja que Tiendanube lo calcule. Ver `suscripciones.md` sección 3 bis.
 
 **Logística del AMBA: FLEXIT** (decidido el 28/08/2026, reemplaza a Smart Post, que dejó de responder). Logística tercerizada, same-day, con cuatro zonas. El costo de envío depende de la zona del comprador y **lo paga el comprador**, salvo que supere un mínimo de compra (ver `envios-amba.md`).
 

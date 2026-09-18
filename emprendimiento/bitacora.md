@@ -2,6 +2,61 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 18/09/2026 (3) — Va la suscripción del Pack Semanal, y el envío en las zonas lejanas
+
+**Dos decisiones de Juan:**
+
+1. ✅ **El umbral del segundo escalón queda en $55.000** (lo había planteado en $60.000).
+2. ✅ **Se hace la suscripción del Pack Semanal**, y **en Lejana y Muy lejana el suscriptor paga los $5.000 de envío**, porque los $45.300 por entrega no llegan a los $55.000.
+
+**La regla completa queda así:**
+
+| Zona | Menos de $40.000 | $40.000 a $55.000 | **Desde $55.000** |
+|---|---:|---:|---:|
+| **Cercana (CABA)** y **Media** | tarifa de la zona | **sin cargo** | **sin cargo** |
+| **Lejana** y **Muy lejana** | tarifa de la zona | **$5.000** | **sin cargo** |
+| **Pilar** (reparto propio) | sin cargo | sin cargo | sin cargo |
+
+### 🔴 El hallazgo: Tiendanube le iba a dar el envío gratis a la suscripción igual
+
+La suscripción se cobra **un mes por adelantado en una sola transferencia**, así que **el carrito dice $172.140, no $45.300**. Tiendanube calcula el envío sobre el total del carrito.
+
+> **Con la regla de "sin cargo desde $55.000", ese carrito la dispara solo.** Y encima **es un pedido con cuatro entregas**: cuatro envíos de Flexit, una sola línea de envío.
+>
+> **La regla del umbral lee el carrito; la suscripción lee la semana. Nunca van a coincidir.**
+
+**La salida: el envío va adentro del precio y Tiendanube no calcula nada.** Dos productos:
+
+| Producto | Precio mensual |
+|---|---:|
+| **Suscripción Pack Semanal — CABA y Zona Media** | **$172.140** |
+| **Suscripción Pack Semanal — Zona Lejana y Muy lejana** | **$192.140** *(incluye los 4 envíos)* |
+
+Y para los primeros diez, ni ponerlo en la tienda: tomarlos por WhatsApp con el monto cotizado.
+
+### Los números de la suscripción por zona
+
+| Zona | Paga por mes | **Deja por mes** |
+|---|---:|---:|
+| **CABA** | $172.140 | **$40.652** |
+| **Media** | $172.140 | **$33.352** |
+| **Lejana** | **$192.140** | **$44.652** |
+| **Muy lejana** | **$192.140** | **$39.172** |
+
+**Cobrar los $5.000 es lo que hace que la suscripción cierre en las zonas caras**: sin eso, Muy lejana caía de $39.172 a $19.172 al mes. Y está calculado con el 7% de cobro, que es conservador: cobrando por transferencia quedan unos $9.900 más por mes por suscriptor.
+
+### 🤔 Y una alternativa que quedó anotada, sin decidir
+
+Sumarle un **pan de molde blanco** al pack lo lleva a **$56.800** y pasa el umbral, así que el suscriptor de zona lejana no pagaría envío.
+
+**Para Corteza es neutro: $40 al mes de diferencia.** El molde blanco es el producto de mejor margen del catálogo (52,2%) y compensa al peso lo que se resigna de envío. **Se decide por otra cosa:** vende mucho mejor ("te llevás un pan más y no pagás envío"), pero son dos panes por semana y la fatiga es lo que mata las suscripciones.
+
+**Recomendación: la regla es cobrar los $5.000; el pan extra se ofrece como opción, no como default.**
+
+📌 **Letra chica anotada:** los $5.000 son **por entrega**. Si alguien pausa una semana, ese mes son $15.000.
+
+---
+
 ## 18/09/2026 (2) — La regla de envío real, y el segundo escalón
 
 ### 🔴 Primero: la memoria tenía mal la regla de envío

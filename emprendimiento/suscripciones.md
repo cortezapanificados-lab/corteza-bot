@@ -72,6 +72,67 @@ Y resuelve dos cosas de un saque:
 
 ---
 
+## 3 bis. 📦 El envío en las zonas lejanas *(definido el 18/09/2026)*
+
+> ### El Pack Semanal son $45.300 por entrega, o sea **por debajo del umbral de $55.000**. En Lejana y Muy lejana el suscriptor paga los $5.000 de envío, como cualquier otro pedido.
+>
+> *(Decidido por Juan el 18/09, junto con el umbral de $55.000 — `envios-amba.md` sección 3 quater.)*
+
+**El 5% de descuento es sobre el producto, no sobre el envío.**
+
+### 🔴 La trampa que hay que esquivar al cargarlo
+
+La suscripción se cobra **un mes por adelantado en una sola transferencia**, así que **el carrito dice $172.140, no $45.300**. Y Tiendanube calcula el envío sobre el total del carrito.
+
+> **Con la regla de "sin cargo desde $55.000", ese carrito la dispara solo y no cobra ni un peso de envío.** Y encima **ese carrito es un pedido pero son cuatro entregas**: cuatro envíos de Flexit, una sola línea de envío.
+>
+> **La regla del umbral lee el carrito; la suscripción lee la semana. Nunca van a coincidir.**
+
+**La salida: el envío va adentro del precio y Tiendanube no calcula nada.** Dos productos distintos, los dos con envío sin cargo en la ficha:
+
+| Producto | Precio mensual | Qué incluye |
+|---|---:|---|
+| **Suscripción Pack Semanal — CABA y Zona Media** | **$172.140** | 4 entregas, envíos sin cargo |
+| **Suscripción Pack Semanal — Zona Lejana y Muy lejana** | **$192.140** | 4 entregas + **los 4 envíos de $5.000** |
+
+- ⚠️ **Confirmar la dirección antes de aceptar la transferencia.** Nada impide que alguien de Escobar elija la versión de CABA y se ahorre $20.000.
+- 💡 **Para los primeros diez, ni ponerlo en la tienda:** tomarlos por WhatsApp con el monto cotizado. Es más simple que configurar dos productos para algo que todavía se está probando.
+- 📌 **Los $5.000 son por entrega, no por mes.** Si alguien pausa una semana, ese mes son **$15.000**. Con la regla de que la entrega pausada se corre al final el mes cierra en cuatro igual, pero conviene tenerlo anotado.
+
+### Los números por zona
+
+*Pack $45.300 · costo $24.800 · 4 entregas · 5% sobre el producto · cobro al 7% (hipótesis conservadora) · packaging $500 por entrega.*
+
+| Zona | Paga por mes | **Deja por mes** |
+|---|---:|---:|
+| **CABA** | $172.140 | **$40.652** |
+| **Media** | $172.140 | **$33.352** |
+| **Lejana** | **$192.140** | **$44.652** |
+| **Muy lejana** | **$192.140** | **$39.172** |
+
+> 🔄 **Con los $5.000, Lejana pasa a ser la zona que más deja**, y Muy lejana queda a $1.500 de CABA. No es que convenga vender ahí: es que el cliente pone $20.000 del flete. **Y confirma que cobrar los $5.000 es lo que hace que la suscripción cierre en las zonas caras**: sin eso, Muy lejana caía a $19.172 al mes.
+
+💡 **Y está calculado con el 7% de costo de cobrar, que es la hipótesis conservadora.** Como la suscripción se cobra por transferencia (1,81%), en la práctica quedan unos **$9.900 más por mes por cada suscriptor de zona lejana**.
+
+### 🤔 La alternativa: subir el pack arriba del umbral en vez de cobrar el envío
+
+Con un **pan de molde blanco** ($11.500) el Pack Semanal queda en **$56.800** y pasa los $55.000:
+
+| | Cobrándole el envío | **Sumando un pan de molde** |
+|---|---:|---:|
+| Paga por mes | $192.140 | $215.840 |
+| Recibe de más | — | **4 panes de molde blanco** ($46.000 de lista) |
+| Deja en Lejana | $44.652 | $44.692 |
+| **Deja en Muy lejana** | **$39.172** | **$39.212** |
+
+> **Para Corteza es exactamente lo mismo: $40 al mes de diferencia.** El pan de molde blanco es el producto de mejor margen del catálogo (52,2%) y compensa al peso lo que se resigna de envío.
+
+**Es neutro en plata, así que se decide por otra cosa.** A favor: nadie quiere pagar envío, y "te llevás un pan más y no pagás envío" vende mucho mejor que $20.000 de flete. En contra: son **dos panes por semana** —el pack ya trae un molde integral— y la fatiga es justamente lo que mata las suscripciones de comida.
+
+> **Recomendación: la regla es cobrar los $5.000. El pan extra se ofrece como opción** cuando el cliente de zona lejana pregunte por el envío, no como default.
+
+---
+
 ## 4. Las cuatro reglas que hacen que la gente se suscriba
 
 1. **Se puede pausar.** Sin esto no se suscribe nadie: la gente se va de vacaciones. *"Pausá cuando quieras, avisando antes del lunes."* La entrega pausada se corre al final, no se pierde.

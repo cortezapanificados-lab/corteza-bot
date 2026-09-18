@@ -186,9 +186,21 @@ Sobre 18 pedidos mensuales, supongamos 2 de Eugenio (que no cambian) y 16 del re
 
 ---
 
-## 3 quater. 🤔 Propuesta abierta: envío sin cargo en Lejana y Muy lejana desde $60.000
+## 3 quater. ✅ DECIDIDO: envío sin cargo en Lejana y Muy lejana desde $55.000
 
-*Planteada por Juan el 18/09/2026.* **Recomendación: sí, pero el umbral va en $55.000, no en $60.000.**
+*Juan lo planteó en $60.000 el 18/09 y **quedó en $55.000 el mismo día**, al definir la suscripción del Pack Semanal.*
+
+> ### La regla completa, en una tabla
+>
+> | Zona | Menos de $40.000 | $40.000 a $55.000 | **Desde $55.000** |
+> |---|---:|---:|---:|
+> | **Cercana (CABA)** y **Media** | tarifa de la zona | **sin cargo** | **sin cargo** |
+> | **Lejana** y **Muy lejana** | tarifa de la zona | **$5.000** | **sin cargo** |
+> | **Pilar** (reparto propio) | sin cargo | sin cargo | sin cargo |
+>
+> ⚠️ **La suscripción no entra en esta regla y hay que configurarla aparte** — el carrito mensual es de $172.140 y dispararía el umbral solo. Ver `suscripciones.md` sección 3 bis.
+
+**El análisis que llevó al número:**
 
 ### Lo que se resigna no es el flete: son los $5.000
 
