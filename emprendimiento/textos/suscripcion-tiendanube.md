@@ -39,8 +39,10 @@ Buscar *"Agregar variantes"* o *"Este producto tiene variantes"*. Propiedad: **Z
 
 | Variante | Precio | **Precio promocional** |
 |---|---:|---:|
-| **CABA, Zona Norte y GBA cercano** | $181.200 | **$172.140** |
-| **GBA norte y sur, y Zona extendida** | $201.200 | **$192.140** |
+| **CABA, Zona Norte y GBA cercano — envíos incluidos** | $181.200 | **$172.140** |
+| **GBA norte y sur, y Zona extendida — incluye los 4 envíos (+$20.000)** | $201.200 | **$192.140** |
+
+> 📌 **Los nombres largos son a propósito.** Ver la sección "Lo que Tiendanube no puede hacer", más abajo.
 
 > **Cargar los dos precios, no solo el final.** El precio tachado es lo que hace visible el 5%.
 >
@@ -155,12 +157,12 @@ Nombre de la propiedad: Zona de entrega
 
 Dos valores, con estos datos exactos:
 
-Valor 1: CABA, Zona Norte y GBA cercano
+Valor 1: CABA, Zona Norte y GBA cercano — envíos incluidos
   Precio: 181200
   Precio promocional (o precio de oferta): 172140
   Stock: 10
 
-Valor 2: GBA norte y sur, y Zona extendida
+Valor 2: GBA norte y sur, y Zona extendida — incluye los 4 envíos (+$20.000)
   Precio: 201200
   Precio promocional (o precio de oferta): 192140
   Stock: 10
@@ -263,6 +265,45 @@ El agente deja el producto **oculto** a propósito. Antes de publicarlo:
 4. Si los dos dan bien, hacerlo visible.
 
 > 🔴 **Si la tanda 2 vuelve con que no se puede limitar por producto, no publicar nada.** Ahí el armado cambia y hay que rehacerlo.
+
+---
+
+## 🚫 Lo que Tiendanube no puede hacer: atar la variante a la zona
+
+*Pregunta de Juan del 21/09/2026: ¿se puede impedir que alguien de Escobar compre la variante de CABA?*
+
+> ### No, no se puede. Y es una limitación real de Tiendanube, no una mala configuración.
+
+**Las variantes no saben la dirección.** El cliente elige la variante en la ficha del producto y carga la dirección después, en el checkout. Son dos momentos distintos y Tiendanube no los cruza.
+
+**Es el precio de haber metido el envío adentro del precio** — que se hizo para esquivar un problema peor: que el carrito de $172.140 dispare el umbral de $55.000 y no cobre **nada** de envío en ninguna zona.
+
+### Cuánto puede doler, con números
+
+| | |
+|---|---:|
+| Stock topeado en | **10 suscriptores** |
+| De zonas lejanas, por la mezcla esperada | ~3 |
+| Si uno se equivoca, cuesta | **$20.000/mes** |
+| Contra una contribución mensual de | ~$400.000 |
+
+**Y se ve sí o sí.** La suscripción se cobra a mano por transferencia y para despachar hay que leer la dirección. No es un agujero que se escapa meses: se ve la primera semana.
+
+### Las tres cosas que lo bajan casi a cero
+
+1. **Nombres de variante que no dejen lugar a dudas** *(ya aplicado arriba)*. La mayoría de estos casos son confusión honesta, no viveza. **Y en la descripción va la lista de localidades, no los nombres de zona sueltos**: el que vive en Escobar tiene que poder leer "Escobar" ahí.
+2. **Mirar la dirección antes de confirmar la suscripción.** Un chequeo por suscriptor, diez por mes. Es el mismo dato que hace falta para despachar, solo que mirado tres días antes.
+3. **Si se equivocó, no se cancela: se le cobra la diferencia.** *"Vi que sos de Escobar, te falta el envío: son $20.000 más, o si preferís te sumo un pan de molde por semana y te queda sin cargo el envío."* **Es el mejor uso de la alternativa del pan** (`suscripciones.md` sección 3 bis): convierte un reclamo en una venta más grande.
+
+### Lo que sí lo elimina del todo
+
+**No venderla por la tienda.** Por WhatsApp se cotiza con la dirección sobre la mesa y el error es imposible. **Ya era la recomendación para los primeros diez; esto es un argumento más.**
+
+### Una pista, si más adelante hace falta cerrarlo
+
+En la **Tienda de Aplicaciones de Tiendanube**, buscar *"restricción de productos por zona"* u *"ocultar productos por ubicación"*. Hay apps de terceros que hacen esto.
+
+⚠️ **Es una pista, no una solución verificada:** no se conoce el catálogo de apps ni cuáles andan con el plan Esencial, y varias son pagas. **Para diez suscriptores no cierra** pagar un abono mensual para tapar una exposición eventual de $20.000. Con cincuenta, vale la pena mirarlo.
 
 ---
 

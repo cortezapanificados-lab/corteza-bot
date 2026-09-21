@@ -72,7 +72,7 @@ Con un despacho único la lista de espera lo llenaba sola. **Con tres o cuatro, 
 - [ ] 🔴 **Confirmar que el plan Esencial deja crear una regla de envío gratis limitada a un producto específico.** Si solo permite "desde $X", el armado de la suscripción no sirve y hay que resolverlo de otra forma.
 - [ ] 🔴 **Pedido de prueba a una dirección de Escobar antes de publicar:** el total tiene que dar **$192.140 clavados**, sin línea de envío. Y otro a CABA: **$172.140**.
 - [ ] 📋 **Armar la planilla de entregas pendientes** (quién tiene cuántas, quién pausó). Con diez suscriptores son diez cobros y cuarenta entregas por mes.
-- [ ] ⚠️ **Confirmar la dirección antes de aceptar cada transferencia.** Nada impide que alguien de Escobar elija la versión de CABA.
+- [ ] ⚠️ **Confirmar la dirección antes de aceptar cada transferencia.** **Tiendanube no puede atar la variante a la zona** (las variantes no conocen la dirección), así que nada impide que alguien de Escobar elija la variante de CABA. La exposición es de $20.000/mes por caso y se ve la primera semana. Si pasa: **no se cancela, se le cobra la diferencia** o se le ofrece el pan de molde semanal. Detalle en `textos/suscripcion-tiendanube.md`.
 - [ ] 💡 **Para los primeros diez suscriptores, tomarlos por WhatsApp** con el monto cotizado, sin cargar nada en la tienda.
 - [ ] 🤔 **Decidir si se ofrece el "pack + pan de molde" ($56.800) a las zonas lejanas** como alternativa a pagar el envío. **Para Corteza es neutro** ($40/mes de diferencia); se decide por conversión contra fatiga. Recomendación: ofrecerlo como opción, no como default.
 - [ ] 📌 **Definir qué pasa con el envío si el suscriptor pausa una semana.** Los $5.000 son por entrega: un mes de tres entregas son $15.000, no $20.000.

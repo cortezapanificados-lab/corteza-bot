@@ -2,6 +2,39 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 21/09/2026 — Tiendanube no puede atar la variante a la zona
+
+Juan preguntó si se puede impedir que alguien de Escobar compre la variante de CABA de la suscripción.
+
+> ### No se puede, y es una limitación real de Tiendanube.
+>
+> **Las variantes no saben la dirección:** el cliente elige la variante en la ficha y carga la dirección después, en el checkout. Tiendanube no cruza los dos momentos.
+
+**Es el precio de haber metido el envío adentro del precio**, que se hizo para esquivar un problema peor: que el carrito de $172.140 dispare el umbral de $55.000 y no cobre nada de envío en ninguna zona.
+
+### La exposición real, medida
+
+| | |
+|---|---:|
+| Stock topeado en | **10 suscriptores** |
+| De zonas lejanas, por la mezcla esperada | ~3 |
+| Si uno se equivoca | **$20.000/mes** |
+| Contra una contribución mensual de | ~$400.000 |
+
+**Y se ve la primera semana**, porque la suscripción se cobra a mano y para despachar hay que leer la dirección igual.
+
+### Qué se hizo
+
+1. ✅ **Nombres de variante más explícitos**, ya aplicados en la guía y en el encargo: *"CABA, Zona Norte y GBA cercano — envíos incluidos"* y *"GBA norte y sur, y Zona extendida — incluye los 4 envíos (+$20.000)"*. **En la descripción va la lista de localidades**, no los nombres de zona sueltos: el de Escobar tiene que poder leer "Escobar" ahí.
+2. ✅ **Mirar la dirección antes de confirmar cada suscripción** — ya estaba anotado, ahora con el porqué.
+3. ✅ **Si se equivocó, no se cancela: se le cobra la diferencia**, o se le ofrece el pan de molde semanal que deja el envío sin cargo. **Es el mejor uso de esa alternativa**: convierte un reclamo en una venta más grande.
+
+**Y lo que lo elimina del todo: no venderla por la tienda.** Por WhatsApp se cotiza con la dirección a la vista. Es un argumento más para los primeros diez.
+
+📌 **Pista sin verificar para más adelante:** en la Tienda de Aplicaciones de Tiendanube hay apps de *"restricción de productos por zona"*. No se conoce el catálogo ni cuáles andan con el plan Esencial, y varias son pagas. **Con diez suscriptores no cierra pagar un abono para tapar $20.000 eventuales; con cincuenta, sí.**
+
+---
+
 ## 18/09/2026 (4) — Cómo se carga la suscripción en Tiendanube
 
 Juan preguntó cómo cargarla. Quedó escrita la guía completa en **`textos/suscripcion-tiendanube.md`**: paso a paso del panel, el texto de la ficha listo para pegar, y el encargo para Claude in Chrome con el formato de la casa.
