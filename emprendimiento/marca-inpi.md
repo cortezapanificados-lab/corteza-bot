@@ -128,11 +128,27 @@ Corteza usa **Playfair Display**, una tipografía de Google, gratuita y usadísi
 
 > ✅ **Y algo bueno: el opositor actual no tiene nada que ver con la 30** — su marca es clase 35. Presentar en 30 **no le da nueva munición** en el expediente abierto.
 
-### Recomendación
+### ¿Se paga de nuevo? Sí
 
-- [ ] **Sumarlo a la misma consulta con el agente de PI** que hay que hacer por la oposición: que revise la limitación de clase 35 **y** presente la solicitud en clase 30.
+**En el INPI la tasa es por clase.** No existe "agregarle una clase" a un registro existente: **la clase 30 es una solicitud nueva, con su propia acta y su propia tasa.** El trámite arranca de cero.
 
-**No es urgente de hoy para mañana** —Corteza ya opera y nadie lo discutió—, pero **la prioridad marcaria se cuenta por fecha de presentación**, así que tampoco conviene dejarlo seis meses. El costo es otra tasa del INPI por clase; **el monto actual hay que chequearlo, cambia seguido.**
+> 💡 **Lo que puede ahorrar plata: la solicitud inicial se puede presentar solo, online**, como se hizo con la 35. **El agente de PI es obligatorio solo para contestar una oposición, no para presentar.** Así que el costo real puede ser solo la tasa.
+>
+> El monto hay que mirarlo en el portal de trámites: **las tasas del INPI cambian seguido** y no conviene guardar un número acá que quede viejo.
+
+### ⏸️ Recomendación: SÍ hace falta, pero NO ahora *(21/09)*
+
+**El riesgo es real pero difuso.** Corteza vende pan con su marca desde mayo y nadie dijo nada; las dos Corteza que ya están en clase 30 no molestaron. Lo que protege la 30 es contra **alguien que la registre en el futuro** y reclame la etiqueta. **Y el riesgo crece con la marca**: hoy no hay packaging impreso y la tienda es online, así que el daño sería chico; en dos años, caro.
+
+**Tres motivos para no hacerlo ahora:**
+
+1. **El lanzamiento es el 15/10.** Hay 23 productos agotados, la pauta sin arrancar, la página de Envíos sin cargar y el aviso a los clientes de Pilar sin escribir. **Eso decide octubre; la clase 30 no.**
+2. **Presentar la 30 ahora puede abrir una segunda oposición** — la clase está poblada. Dos frentes marcarios a la vez, a tres semanas del lanzamiento y con Alva recién incorporado, es dispersión.
+3. **Cerrar primero la 35.** En la misma reunión con el agente de PI por la oposición se pregunta por la 30, sin costo adicional de consulta.
+
+> **El único motivo para apurarlo** sería asegurar la fecha de prioridad ya. Es legítimo, pero contra el riesgo real de estos meses no va delante del lanzamiento.
+
+- [ ] **Retomar después de cerrada la oposición de clase 35**, en la misma consulta con el agente de PI.
 
 ---
 

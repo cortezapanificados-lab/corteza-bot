@@ -27,7 +27,19 @@ Registro con fecha de decisiones, avances y charlas importantes. Las entradas m�
 - ⚠️ Pero la 30 ya está poblada: una solicitud puede recibir oposición. **El detalle de productos lo tiene que redactar el agente de PI, acotado a panificados.**
 - ✅ **El opositor actual es clase 35: presentar en 30 no le da nueva munición.**
 
-**Recomendación: sumarlo a la misma consulta con el agente de PI.** No es urgente de hoy para mañana, pero **la prioridad marcaria se cuenta por fecha de presentación**.
+### ¿Se paga de nuevo? Sí
+
+**La tasa del INPI es por clase**: la 30 es una solicitud nueva, con su propia acta y su propia tasa. No se le "agrega una clase" a un registro existente.
+
+> 💡 **Pero la presentación inicial se puede hacer solo, online**, como se hizo con la 35. **El agente de PI es obligatorio solo para contestar una oposición**, así que el costo puede ser solo la tasa.
+
+### ⏸️ Recomendación: hace falta, pero NO ahora
+
+1. **El lanzamiento es el 15/10**, con 23 productos agotados, la pauta sin arrancar y el aviso a Pilar sin escribir. **Eso decide octubre; la clase 30 no.**
+2. **Presentar la 30 ahora puede abrir una segunda oposición** — la clase está poblada.
+3. **Cerrar primero la 35**, y preguntar por la 30 en la misma consulta con el agente.
+
+**Se retoma después del lanzamiento.**
 
 ---
 
