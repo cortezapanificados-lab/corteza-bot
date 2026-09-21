@@ -39,6 +39,42 @@ Si se cambia la tipografía por buena voluntad y después no levantan la oposici
 - [ ] **Que lo confirmen por escrito por el mismo WhatsApp.** No hace falta escribano, pero que quede el mensaje.
 - [ ] **Verificar en el expediente (acta 4.729.366) que figure la fecha de levantamiento** antes de dar nada por cerrado.
 
+### ❌ "¿Y si cambio la tipografía, me dan la marca, y después vuelvo a la de hoy?"
+
+*Pregunta de Juan del 21/09.* **Respuesta: sí, te pueden reclamar. Es el escenario más caro de todos los que hay sobre la mesa.**
+
+**Por tres frentes distintos:**
+
+1. **El acuerdo en sí.** Si levantan la oposición a cambio de un compromiso y se revierte, es incumplimiento. **Los mensajes de WhatsApp son prueba válida** — el mismo canal de la negociación es el que deja atado.
+2. **Su marca es MIXTA**, o sea que incluye tipografía y elementos gráficos. **El registro denominativo protege la palabra, no habilita cualquier diseño.** Si el logo se parece al de ellos, el conflicto es sobre ese signo y la denominativa no cubre. Son dos cosas separadas.
+3. 🔴 **La nulidad por mala fe.** Obtener un registro mediante un compromiso que no se pensaba cumplir es terreno de mala fe, y en Argentina se puede pedir la nulidad de una marca obtenida así. **No se pierde solo el pleito del logo: se puede perder la marca.**
+
+> **Y algo práctico: este opositor monitorea el registro** —por eso apareció—. Va a ver el cambio.
+>
+> **Recomendación: no hacerlo.** El riesgo no es proporcional a lo que se gana, que es una tipografía.
+
+### ✅ La salida legítima: cómo se redacta el compromiso
+
+El problema de fondo no es no poder rediseñar nunca más. Es **cómo queda escrito**.
+
+| | |
+|---|---|
+| ❌ **No firmar** | *"Corteza se obliga a usar la tipografía X"* — congela el diseño de la marca para siempre |
+| ✅ **Sí** | *"Corteza se obliga a no utilizar una tipografía confundible con la de la marca mixta acta 4.229.688"* |
+
+**La segunda es más chica, es lo que ellos legítimamente pueden pedir, y deja libertad de rediseñar** mientras no se acerque al de ellos. **Es exactamente lo que tiene que mirar el agente de PI antes de firmar.**
+
+Y una vez cerrado el acuerdo: **registrar el logo propio como marca mixta.** Ahí el diseño queda protegido y documentado, y el tema se cierra de verdad.
+
+### 🔍 Antes de conceder nada: ¿de verdad se parecen?
+
+- [ ] 🔴 **Mirar el logo registrado del opositor** en la consulta pública del expediente **acta 4.229.688**.
+
+Corteza usa **Playfair Display**, una tipografía de Google, gratuita y usadísima en gastronomía.
+
+- **Si el logo de ellos usa otra cosa**, el pedido no tiene sustento. Se contesta sin confrontar: *"mirando su marca registrada no veo el parecido; ¿pueden precisarme qué elemento concreto les genera confusión?"*
+- **Si de verdad se parecen**, conviene cambiar — y cambiar en serio. Cuesta un día de rediseño y cierra el único frente abierto antes del lanzamiento.
+
 ### El costo real de aceptar
 
 **Rehacer material, no plata:** el logo, los cinco collages de `textos/packs/`, las placas de Instagram y la vista previa de la página de Envíos. Un día de trabajo.

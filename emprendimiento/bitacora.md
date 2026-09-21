@@ -2,6 +2,31 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 21/09/2026 (9) — Marca: por qué no conviene cambiar la tipografía y volver atrás después
+
+Juan preguntó si podía cambiar la tipografía, conseguir el levantamiento y la marca, y después volver al logo de hoy.
+
+> ### ❌ Sí, le pueden reclamar. Es el escenario más caro de todos.
+
+1. **El acuerdo en sí.** Revertir es incumplimiento, y **los WhatsApp son prueba válida**: el mismo canal de la negociación es el que deja atado.
+2. **Su marca es MIXTA.** El registro denominativo protege la palabra, **no habilita cualquier diseño**. Si el logo se parece al de ellos, el conflicto es sobre ese signo y la denominativa no cubre.
+3. 🔴 **Nulidad por mala fe.** Obtener un registro mediante un compromiso que no se pensaba cumplir habilita a pedir la nulidad. **No se pierde el logo: se puede perder la marca.**
+
+### ✅ La salida legítima es de redacción, no de picardía
+
+| | |
+|---|---|
+| ❌ | *"se obliga a usar la tipografía X"* — congela el diseño para siempre |
+| ✅ | *"no utilizar una tipografía confundible con la de la marca mixta acta 4.229.688"* |
+
+La segunda deja libertad de rediseñar más adelante. **Es lo que tiene que revisar el agente de PI antes de firmar.** Y después, registrar el logo propio como marca mixta.
+
+### 🔍 Y algo que va primero
+
+**Mirar el logo registrado del opositor (acta 4.229.688) antes de conceder nada.** Corteza usa **Playfair Display**, gratuita y usadísima en gastronomía. **Si no se parecen, el pedido no tiene sustento** y se contesta pidiendo precisiones, sin confrontar.
+
+---
+
 ## 21/09/2026 (8) — ⚖️ El opositor de la marca contestó: pide cambiar la tipografía
 
 **Primera respuesta desde la propuesta del 24/07.** Piden que Corteza cambie la tipografía del logo.

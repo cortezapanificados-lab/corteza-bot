@@ -145,7 +145,11 @@ Con un despacho único la lista de espera lo llenaba sola. **Con tres o cuatro, 
 - [ ] ⚖️ **Marca CORTEZA — oposición en el INPI. Fecha clave: 22/10/2026.** Detalle completo en `marca-inpi.md`.
   > 🔔 **21/09: el opositor contestó y pide cambiar la tipografía del logo.** Pide algo que el expediente no discute —la solicitud es **denominativa**, el INPI no evalúa el logo—, así que **cambiarla no toca el registro**. Y el pedido revela que no están defendiendo confusión de rubros: quieren acordar.
   - [ ] 🔴 **No cambiar nada hasta tener el levantamiento comprometido por escrito.** El acuerdo va atado: tipografía + limitación de clase 35 **a cambio de** que su apoderado presente el levantamiento.
+  - [ ] 🔍 **Mirar el logo registrado del opositor (acta 4.229.688) ANTES de conceder nada.** Corteza usa Playfair Display, que es gratuita y usadísima. **Si no se parecen, el pedido no tiene sustento.**
   - [ ] **Pedirles qué tipografía les molesta y cuál les serviría**, concreto. Si no, se cambia algo y vuelven a decir que no alcanza.
+  - [ ] ✅ **Cuidar la redacción del compromiso**: NO *"se obliga a usar la tipografía X"* (congela el diseño para siempre), SÍ *"no utilizar una tipografía confundible con la de la marca mixta acta 4.229.688"*.
+  - [ ] **Una vez cerrado el acuerdo, registrar el logo como marca mixta.** Cierra el tema de verdad.
+  - ❌ **Descartado: cambiar la tipografía, conseguir la marca y después volver atrás.** Reclamable por tres frentes —incumplimiento del acuerdo, su marca mixta, y **nulidad por mala fe**— y en el peor caso se pierde la marca, no solo el logo.
   - [ ] **Consulta corta con un agente de PI antes de firmar**, para que revise la redacción de la limitación de clase. Es lo único que sí toca el registro.
   - [ ] **Si se acepta: rehacer el logo, los cinco collages de `textos/packs/`, las placas y la vista previa.** Un día de trabajo. ✅ **Es el mejor momento**: no hay packaging impreso todavía.
   Hasta esa fecha es **etapa de negociación**: no hay nada que contestar formalmente ante el INPI. Ya se le mandó la propuesta por WhatsApp al oponente el 24/07 (limitar nuestra clase 35 excluyendo ropa, calzado, bolsos y carteras). Si al vencer el plazo la oposición sigue en pie, el INPI le exige al oponente una tasa de mantenimiento: si no la paga, la oposición cae sola.
