@@ -2,6 +2,47 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 21/09/2026 (3) — La página de Envíos, segunda vuelta
+
+Juan pidió dos cosas: **que la regla quede dicha con todas las letras** (incluida la de la suscripción) y **listar ciudades en vez de localidades**, para que ocupe menos.
+
+### Lo que quedó escrito arriba de todo
+
+> **En CABA y zona norte, el envío es sin cargo desde $40.000.**
+> **En el resto del AMBA, desde $55.000.**
+> **Y en Pilar es sin cargo siempre, sin mínimo de compra.**
+
+### Y la suscripción, con los dos casos explícitos
+
+- **CABA, Zona Norte y GBA cercano** — los cuatro envíos van **sin cargo**.
+- **GBA norte y sur y Zona extendida** — el plan cuesta **$20.000 más por mes**, que es lo que cuestan los cuatro envíos de la zona.
+
+### Las listas, comprimidas
+
+| Se fue adentro de | Lo que desapareció de la lista |
+|---|---|
+| **San Isidro** | Beccar, Martínez, Acassuso |
+| **Escobar** | Garín, Ingeniero Maschwitz |
+
+**Nordelta se mantuvo aparte a propósito:** la gente dice "soy de Nordelta", no "soy de Tigre", y es un mercado que interesa. El separador pasó de coma a **·**, que comprime bastante a la vista.
+
+Vista previa actualizada: https://claude.ai/artifact/Qmj7bnUvSzz2kGFTCzyf5P
+
+---
+
+## 🔴 Y apareció una pregunta al agrupar: ¿hasta dónde llega "Pilar"?
+
+**Del Viso, Derqui y Villa Rosa son localidades del partido de Pilar.** Pero en el tarifario de Flexit figuran aparte, y hoy están cargadas como **Zona extendida ($10.400)** mientras que "Pilar" va con **reparto propio y sin cargo**.
+
+**Hay que definir qué cubre el reparto propio:**
+
+- Si cubre **todo el partido** → Del Viso, Derqui y Villa Rosa salen de Zona extendida y pasan a Pilar, sin cargo.
+- Si cubre **solo Pilar centro y los countries** → la página tiene que decirlo con todas las letras, porque alguien de Del Viso va a leer "Pilar: sin cargo" y va a reclamar.
+
+**Por ahora quedaron en Zona extendida, que es lo que dice el tarifario.** Es la opción conservadora, no la confirmada. **La respuesta la tiene Juan: depende de hasta dónde maneja el jueves.**
+
+---
+
 ## 21/09/2026 (2) — La suscripción está creada, y la página de Envíos reescrita
 
 ### ✅ La suscripción ya existe en la tienda

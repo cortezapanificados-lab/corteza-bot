@@ -51,11 +51,15 @@ Entregamos **todos los jueves** en CABA, zona norte, el resto del AMBA y Pilar.
 
 ### Costos de envío
 
-**El envío depende de dos cosas: tu zona y cuánto pedís.** Cuanto más grande el pedido, menos pagás de envío — hasta que no pagás nada.
+> **En CABA y zona norte, el envío es sin cargo desde $40.000.**
+> **En el resto del AMBA, desde $55.000.**
+> **Y en Pilar es sin cargo siempre, sin mínimo de compra.**
 
-| Tu zona | Pedido menor a $40.000 | **Desde $40.000** | **Desde $55.000** |
+Por debajo de esos montos, el envío cuesta según tu zona:
+
+| Tu zona | Menos de $40.000 | **Desde $40.000** | **Desde $55.000** |
 |---|---:|---:|---:|
-| **CABA** — toda la ciudad | $4.900 | **sin cargo** | **sin cargo** |
+| **CABA** | $4.900 | **sin cargo** | **sin cargo** |
 | **Zona Norte y GBA cercano** | $6.900 | **sin cargo** | **sin cargo** |
 | **GBA norte y sur** | $8.900 | $5.000 | **sin cargo** |
 | **Zona extendida** | $10.400 | $5.000 | **sin cargo** |
@@ -63,11 +67,13 @@ Entregamos **todos los jueves** en CABA, zona norte, el resto del AMBA y Pilar.
 
 **¿En qué zona estás?**
 
-**Zona Norte y GBA cercano** — San Isidro, Beccar, Martínez, Acassuso, Vicente López, San Fernando, General San Martín, Tres de Febrero, Morón, Hurlingham, Ituzaingó, Avellaneda, Lanús, Lomas de Zamora, La Matanza norte.
+**CABA** — toda la ciudad.
 
-**GBA norte y sur** — Tigre, Nordelta, San Miguel, José C. Paz, Malvinas Argentinas, Moreno, Merlo, La Matanza sur, Quilmes, Berazategui, Florencio Varela, Almirante Brown, Esteban Echeverría, Ezeiza.
+**Zona Norte y GBA cercano** — Vicente López · San Isidro · San Fernando · San Martín · Tres de Febrero · Morón · Hurlingham · Ituzaingó · Avellaneda · Lanús · Lomas de Zamora · La Matanza norte
 
-**Zona extendida** — Escobar, Del Viso, Derqui, Garín, Villa Rosa, Ingeniero Maschwitz, General Rodríguez, Luján, Campana, Zárate, Marcos Paz, Cañuelas, San Vicente, Guernica, La Plata, Berisso, Ensenada.
+**GBA norte y sur** — Tigre y Nordelta · San Miguel · José C. Paz · Malvinas Argentinas · Moreno · Merlo · La Matanza sur · Quilmes · Berazategui · Florencio Varela · Almirante Brown · Esteban Echeverría · Ezeiza
+
+**Zona extendida** — Escobar (con Garín y Maschwitz) · Del Viso · Derqui · Villa Rosa · General Rodríguez · Luján · Campana · Zárate · Marcos Paz · Cañuelas · San Vicente · Guernica · La Plata · Berisso · Ensenada
 
 *El costo exacto se calcula solo en el carrito cuando ponés tu dirección, y te vamos mostrando cuánto te falta para el próximo escalón.*
 
@@ -89,9 +95,14 @@ Si sos de un barrio donde ya entregamos, hay algo que te conviene: **juntá tu p
 
 ### Si estás suscripto
 
-**Tu suscripción ya incluye los cuatro envíos del mes.** No pagás envío semana a semana ni te aparece ningún cargo extra.
+**Tu suscripción ya incluye los cuatro envíos del mes.** No pagás envío semana a semana ni te aparece ningún cargo extra en ninguna entrega.
 
-Al suscribirte elegís tu zona de entrega, y es la única diferencia de precio entre los dos planes: si vivís en **GBA norte y sur** o en **Zona extendida**, el plan incluye los envíos de tu zona. **Fijate en la lista de arriba cuál te toca antes de elegir.**
+Al suscribirte elegís tu zona, y es la única diferencia de precio entre los dos planes:
+
+- **CABA, Zona Norte y GBA cercano** — los cuatro envíos van **sin cargo**.
+- **GBA norte y sur y Zona extendida** — el plan cuesta **$20.000 más por mes**, que es lo que cuestan los cuatro envíos de tu zona.
+
+**Fijate en las listas de arriba cuál te toca antes de elegir tu plan.**
 
 ---
 
@@ -125,6 +136,27 @@ Sí, en Pilar. Escribinos y coordinamos.
 - 🔴 **La tabla ahora tiene tres columnas, no dos.** La versión vieja prometía *"Envío sin cargo desde $40.000. En todo el AMBA, sea cual sea tu zona."* **Era falso desde que la regla es diferenciada**, y era exactamente el autogol que estaba anotado: el cliente lee envío sin cargo y se encuentra el cargo en el checkout.
 - **El titular dejó de ser un umbral único.** Ahora la página abre con *"El envío depende de dos cosas: tu zona y cuánto pedís"*. Es menos vendedor que una frase sola, pero es cierto. **Para el anuncio de Meta sí se puede usar la frase corta, porque la pauta va a CABA y zona norte, donde el umbral único de $40.000 sí vale.**
 - **Se agregó la sección "Si estás suscripto"**, y las listas de localidades pasaron a ser parte del trabajo de la página: son las que evitan que alguien de Escobar elija la variante de CABA.
+
+### Lo que cambió el 21/09, segunda vuelta *(a pedido de Juan)*
+
+- **La regla quedó dicha en palabras, no solo en tabla**, arriba de todo: sin cargo desde $40.000 en CABA y zona norte, desde $55.000 en el resto, siempre en Pilar.
+- **La sección de suscripción ahora dice los dos casos explícitos**: CABA y cercanas van sin cargo; el resto paga **$20.000 más por mes**, que son los cuatro envíos.
+- **Las listas pasaron de localidades a ciudades/partidos**, para que ocupen menos:
+  - *Beccar, Martínez y Acassuso* se fueron adentro de **San Isidro**
+  - *Garín y Maschwitz* se fueron adentro de **Escobar**
+  - **Nordelta se mantuvo aparte a propósito**: la gente dice "soy de Nordelta", no "soy de Tigre", y es un mercado que interesa
+  - El separador pasó de coma a **·**, que comprime bastante a la vista
+
+> ## 🔴 PREGUNTA ABIERTA que apareció al agrupar: ¿hasta dónde llega "Pilar"?
+>
+> **Del Viso, Derqui y Villa Rosa son localidades del partido de Pilar**, pero en el tarifario de Flexit figuran aparte y hoy están cargadas como **Zona extendida ($10.400)**, mientras que "Pilar" va con **reparto propio y sin cargo**.
+>
+> **Hay que definir qué cubre el reparto propio:**
+>
+> - Si cubre **todo el partido**, entonces Del Viso, Derqui y Villa Rosa salen de Zona extendida y pasan a la fila de Pilar, sin cargo.
+> - Si cubre **solo Pilar centro y los countries**, la página tiene que decirlo con todas las letras, porque alguien de Del Viso va a leer "Pilar: sin cargo" y va a reclamar.
+>
+> **Por ahora quedaron listadas en Zona extendida**, que es lo que dice el tarifario. **Es la opción conservadora, no la confirmada.**
 - ✅ **El umbral de Pilar quedó resuelto:** sin cargo siempre, sin mínimo. (La nota vieja preguntaba si eran "$18.000"; quedó confirmado el 07/09 que Pilar va con reparto propio y sin cargo.)
 
 ### Lo de siempre

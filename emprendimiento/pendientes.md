@@ -62,6 +62,12 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 
 Con un despacho único la lista de espera lo llenaba sola. **Con tres o cuatro, la lista llena el primero y los siguientes necesitan demanda nueva.** Es lo que ya advertía `campana-meta.md`: la publicidad importa más en las semanas 2, 3 y 4 que en la 1. **Ese riesgo pasó de teórico a principal.**
 
+### 🗺️ ¿Hasta dónde llega "Pilar"? *(21/09)*
+
+- [ ] 🔴 **Definir si el reparto propio de Pilar cubre todo el partido o solo Pilar centro y los countries.** **Del Viso, Derqui y Villa Rosa son del partido de Pilar** pero están cargadas como **Zona extendida ($10.400)**, mientras que "Pilar" va sin cargo. **Si alguien de Del Viso lee "Pilar: sin cargo", reclama.** Hoy quedaron en Zona extendida, que es lo conservador pero no lo confirmado. Detalle en `textos/pagina-envios.md`.
+  - Si cubre todo el partido → pasan a la fila de Pilar, sin cargo, y hay que tocar las zonas de Tiendanube.
+  - Si no → la página tiene que aclarar qué se entiende por Pilar.
+
 ### 🔴 La página de Envíos de la tienda está desactualizada *(18/09)*
 
 - [x] ~~🔴 **Reescribir `textos/pagina-envios.md` con los tres escalones.**~~ → ✅ **Hecho el 21/09.** Texto nuevo y vista previa actualizada. **Falta pegarla en Tiendanube** (Páginas → Crear página → `Envíos`) y sumarla al menú. Antes de publicarla, correr las cuatro pruebas de carrito que están al final del archivo.

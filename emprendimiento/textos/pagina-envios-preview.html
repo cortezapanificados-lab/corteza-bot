@@ -157,6 +157,8 @@
     display:flex;flex-direction:column;gap:12px;
   }
   .bloque p{font-size:.97rem}
+  .planes{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:8px}
+  .planes li{font-size:.97rem;line-height:1.55}
   .bloque .destacado{color:var(--ink);font-weight:500}
   @media(max-width:600px){.bloque{padding:22px 20px}}
 
@@ -226,11 +228,11 @@
     <h2>Costos de envío</h2>
 
     <div class="umbral">
-      <span class="cifra">Envío sin cargo desde $40.000 en CABA y zona norte</span>
-      <span class="sub">En el resto del AMBA, desde $55.000. Y en Pilar el envío es sin cargo siempre.</span>
+      <span class="cifra">Sin cargo desde $40.000 en CABA y zona norte</span>
+      <span class="sub">En el resto del AMBA, desde $55.000. Y en Pilar el envío es sin cargo siempre, sin mínimo de compra.</span>
     </div>
 
-    <p class="nota">El envío depende de dos cosas: tu zona y cuánto pedís. Cuanto más grande el pedido, menos pagás de envío — hasta que no pagás nada.</p>
+    <p class="nota">Por debajo de esos montos, el envío cuesta según tu zona:</p>
 
     <div class="zonas">
 
@@ -248,7 +250,7 @@
       <div class="zona">
         <div>
           <span class="zona-nombre">Zona Norte y GBA cercano</span>
-          <span class="zona-detalle">San Isidro, Beccar, Martínez, Acassuso, Vicente López, San Fernando, General San Martín, Tres de Febrero, Morón, Hurlingham, Ituzaingó, Avellaneda, Lanús, Lomas de Zamora, La Matanza norte.</span>
+          <span class="zona-detalle">Vicente López · San Isidro · San Fernando · San Martín · Tres de Febrero · Morón · Hurlingham · Ituzaingó · Avellaneda · Lanús · Lomas de Zamora · La Matanza norte</span>
         </div>
         <div class="escalones">
           <span class="esc"><span class="cuando">Menos de $40.000</span><span class="cuanto">$6.900</span></span>
@@ -259,7 +261,7 @@
       <div class="zona">
         <div>
           <span class="zona-nombre">GBA norte y sur</span>
-          <span class="zona-detalle">Tigre, Nordelta, San Miguel, José C. Paz, Malvinas Argentinas, Moreno, Merlo, La Matanza sur, Quilmes, Berazategui, Florencio Varela, Almirante Brown, Esteban Echeverría, Ezeiza.</span>
+          <span class="zona-detalle">Tigre y Nordelta · San Miguel · José C. Paz · Malvinas Argentinas · Moreno · Merlo · La Matanza sur · Quilmes · Berazategui · Florencio Varela · Almirante Brown · Esteban Echeverría · Ezeiza</span>
         </div>
         <div class="escalones">
           <span class="esc"><span class="cuando">Menos de $40.000</span><span class="cuanto">$8.900</span></span>
@@ -271,7 +273,7 @@
       <div class="zona">
         <div>
           <span class="zona-nombre">Zona extendida</span>
-          <span class="zona-detalle">Escobar, Del Viso, Derqui, Garín, Villa Rosa, Ingeniero Maschwitz, General Rodríguez, Luján, Campana, Zárate, Marcos Paz, Cañuelas, San Vicente, Guernica, La Plata, Berisso, Ensenada.</span>
+          <span class="zona-detalle">Escobar (con Garín y Maschwitz) · Del Viso · Derqui · Villa Rosa · General Rodríguez · Luján · Campana · Zárate · Marcos Paz · Cañuelas · San Vicente · Guernica · La Plata · Berisso · Ensenada</span>
         </div>
         <div class="escalones">
           <span class="esc"><span class="cuando">Menos de $40.000</span><span class="cuanto">$10.400</span></span>
@@ -298,8 +300,13 @@
     <h2>Si estás suscripto</h2>
     <div class="bloque">
       <p class="destacado">Tu suscripción ya incluye los cuatro envíos del mes.</p>
-      <p>No pagás envío semana a semana ni te aparece ningún cargo extra.</p>
-      <p>Al suscribirte elegís tu zona de entrega, y es la única diferencia de precio entre los dos planes: si vivís en <span class="destacado">GBA norte y sur</span> o en <span class="destacado">Zona extendida</span>, el plan incluye los envíos de tu zona. Fijate en las listas de arriba cuál te toca antes de elegir.</p>
+      <p>No pagás envío semana a semana ni te aparece ningún cargo extra en ninguna entrega.</p>
+      <p>Al suscribirte elegís tu zona, y es la única diferencia de precio entre los dos planes:</p>
+      <ul class="planes">
+        <li><span class="destacado">CABA, Zona Norte y GBA cercano</span> — los cuatro envíos van <span class="destacado">sin cargo</span>.</li>
+        <li><span class="destacado">GBA norte y sur y Zona extendida</span> — el plan cuesta <span class="destacado">$20.000 más por mes</span>, que es lo que cuestan los cuatro envíos de tu zona.</li>
+      </ul>
+      <p>Fijate en las listas de arriba cuál te toca antes de elegir tu plan.</p>
     </div>
   </section>
 
