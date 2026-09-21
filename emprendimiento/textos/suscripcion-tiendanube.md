@@ -40,7 +40,7 @@ Buscar *"Agregar variantes"* o *"Este producto tiene variantes"*. Propiedad: **Z
 | Variante | Precio | **Precio promocional** |
 |---|---:|---:|
 | **CABA y GBA cercano — envíos incluidos** | $181.200 | **$172.140** |
-| **GBA norte y sur, y Zona extendida — incluye los 4 envíos (+$20.000)** | $201.200 | **$192.140** |
+| **GBA lejano y GBA muy lejano — incluye los 4 envíos (+$20.000)** | $201.200 | **$192.140** |
 
 > 📌 **Los nombres largos son a propósito.** Ver la sección "Lo que Tiendanube no puede hacer", más abajo.
 
@@ -94,7 +94,7 @@ Recién ahí, hacerlo visible.
 >
 > **Elegí tu zona**
 > Si estás en CABA o GBA cercano, los envíos van sin cargo.
-> Si estás en GBA norte y sur o Zona extendida, la suscripción incluye los 4 envíos de la zona.
+> Si estás en GBA lejano o GBA muy lejano, la suscripción incluye los 4 envíos de la zona.
 >
 > Se abona por transferencia. Escribinos y lo coordinamos.
 
@@ -162,7 +162,7 @@ Valor 1: CABA y GBA cercano — envíos incluidos
   Precio promocional (o precio de oferta): 172140
   Stock: 10
 
-Valor 2: GBA norte y sur, y Zona extendida — incluye los 4 envíos (+$20.000)
+Valor 2: GBA lejano y GBA muy lejano — incluye los 4 envíos (+$20.000)
   Precio: 201200
   Precio promocional (o precio de oferta): 192140
   Stock: 10
@@ -209,7 +209,7 @@ Todos los lunes te escribimos con lo que va en la caja de esa semana, y podés c
 
 **Elegí tu zona**
 Si estás en CABA o GBA cercano, los envíos van sin cargo.
-Si estás en GBA norte y sur o Zona extendida, la suscripción incluye los 4 envíos de la zona.
+Si estás en GBA lejano o GBA muy lejano, la suscripción incluye los 4 envíos de la zona.
 
 Se abona por transferencia. Escribinos y lo coordinamos.
 --------------------------------------------------
@@ -311,4 +311,4 @@ En la **Tienda de Aplicaciones de Tiendanube**, buscar *"restricción de product
 
 `textos/pagina-envios.md` dice **"Envío sin cargo desde $40.000. En todo el AMBA, sea cual sea tu zona."**
 
-**Ya no es cierto**: en GBA norte/sur y Zona extendida se cobran $5.000 hasta los $55.000. **Es exactamente el autogol que estaba anotado** — el cliente lee envío sin cargo y se encuentra el cargo en el checkout. **Hay que reescribirla con los tres escalones antes del lanzamiento.**
+**Ya no es cierto**: en GBA norte/sur y GBA muy lejano se cobran $5.000 hasta los $55.000. **Es exactamente el autogol que estaba anotado** — el cliente lee envío sin cargo y se encuentra el cargo en el checkout. **Hay que reescribirla con los tres escalones antes del lanzamiento.**

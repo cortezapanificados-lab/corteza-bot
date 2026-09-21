@@ -20,17 +20,28 @@ Corteza es una marca de panificados artesanales de Pilar, Buenos Aires, Argentin
 >
 > | Zona | Menos de $40.000 | $40.000 a $55.000 | **Desde $55.000** |
 > |---|---:|---:|---:|
-> | **Cercana (CABA)** y **Media** | tarifa de la zona | **sin cargo** | **sin cargo** |
-> | **Lejana** y **Muy lejana** | tarifa de la zona | **$5.000** | **sin cargo** |
+> | **CABA** y **GBA cercano** | tarifa de la zona | **sin cargo** | **sin cargo** |
+> | **GBA lejano** y **GBA muy lejano** | tarifa de la zona | **$5.000** | **sin cargo** |
 > | **Pilar** | tarifa de la zona | **$5.000** | **sin cargo** |
 >
-> 🔴 **Pilar dejó el reparto propio el 21/09: lo reparte Flexit y entra en Zona extendida (Muy lejana), como Escobar.** Ya no tiene envío sin cargo. Es un cambio de precio para la base de clientes actual — ver la bitácora del 21/09.
+> 🔴 **Pilar dejó el reparto propio el 21/09: lo reparte Flexit y entra en GBA muy lejano (Muy lejana), como Escobar.** Ya no tiene envío sin cargo. Es un cambio de precio para la base de clientes actual — ver la bitácora del 21/09.
 >
 > **Es mejor que el umbral único**: los $5.000 de las dos zonas caras bajan el flete promedio de $6.340 a **$4.945** y suben el techo de margen neto de 21,8% a **25,3%**.
 >
 > ✅ **El segundo escalón de $55.000 quedó decidido el 18/09** (el equilibrio está en $52.000). Análisis en `envios-amba.md` sección 3 quater.
 >
 > ⚠️ **La suscripción va aparte:** el Pack Semanal son $45.300 por entrega, así que en Lejana y Muy lejana paga los $5.000 — pero el carrito mensual de $172.140 dispararía el umbral solo si se deja que Tiendanube lo calcule. Ver `suscripciones.md` sección 3 bis.
+
+> 🏷️ **Los nombres de zona que ve el cliente, definitivos desde el 21/09/2026:**
+>
+> | El cliente ve | Flexit le dice |
+> |---|---|
+> | **CABA** | Cercana |
+> | **GBA cercano** | Media |
+> | **GBA lejano** | Lejana |
+> | **GBA muy lejano** | Muy lejana *(incluye Pilar)* |
+>
+> **Mapean uno a uno y ordenan por distancia.** Se descartaron "Zona Norte", "GBA norte y sur" y "Zona extendida": mezclaban dirección con cercanía, y Pilar, Escobar y Nordelta son todos zona norte estando en tres escalones distintos.
 
 **Logística del AMBA: FLEXIT** (decidido el 28/08/2026, reemplaza a Smart Post, que dejó de responder). Logística tercerizada, same-day, con cuatro zonas. El costo de envío depende de la zona del comprador y **lo paga el comprador**, salvo que supere un mínimo de compra (ver `envios-amba.md`).
 
@@ -244,7 +255,7 @@ Los vinos son lo más comparable de todo el catálogo: **no tocarlos sin chequea
 > |---|---|
 > | **Cercana (CABA)** y **Media (Cordón 1)** | **Envío sin cargo** |
 > | **Lejana** y **Muy lejana** | **$5.000 de envío** |
-> | **Pilar** | **Igual que Zona extendida** |
+> | **Pilar** | **Igual que GBA muy lejano** |
 >
 > Por debajo de $40.000 se cobra el envío de la zona ($4.900 / $6.900 / $8.900 / $10.400).
 >

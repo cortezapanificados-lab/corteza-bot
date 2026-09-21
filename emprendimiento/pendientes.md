@@ -64,15 +64,15 @@ Con un despacho único la lista de espera lo llenaba sola. **Con tres o cuatro, 
 
 ### 🏷️ Renombrar la variante de la suscripción *(21/09)*
 
-- [ ] 🔴 **Renombrar la variante barata en Tiendanube a "CABA y GBA cercano — envíos incluidos".** El producto está creado con el nombre viejo, que decía "Zona Norte". **Pilar NO va en esta variante**: desde el 21/09 va por Flexit, en Zona extendida, así que le corresponde la de **$192.140**.
+- [ ] 🔴 **Renombrar la variante barata en Tiendanube a "CABA y GBA cercano — envíos incluidos".** El producto está creado con el nombre viejo, que decía "Zona Norte". **Pilar NO va en esta variante**: desde el 21/09 va por Flexit, en GBA muy lejano, así que le corresponde la de **$192.140**.
 - [x] ~~**"Zona Norte" como nombre de zona.**~~ → ✅ **Eliminado el 21/09.** Es geografía, no logística: Pilar, Escobar y Nordelta son todos zona norte y están en tres escalones distintos. La zona Media se llama **GBA cercano** a secas. Ya corregido en la web y en toda la memoria.
 
 ### 📦 Pilar pasa a Flexit *(decidido el 21/09)*
 
-> **Pilar deja el reparto propio y entra en Zona extendida**, con los mismos tres escalones que Escobar: $10.400 por debajo de $40.000, $5.000 desde $40.000, sin cargo desde $55.000.
+> **Pilar deja el reparto propio y entra en GBA muy lejano**, con los mismos tres escalones que Escobar: $10.400 por debajo de $40.000, $5.000 desde $40.000, sin cargo desde $55.000.
 
 - [ ] 🔴 **Avisarles a los clientes de Pilar ANTES del cambio.** Es un aumento de precio para la base actual: **44 de los 45 pedidos del período son de Pilar**, y a un ticket de ~$21.000 un envío de $10.400 es **+50%**. **Que no se enteren en el checkout.** Hay que escribir ese mensaje.
-- [ ] 🔴 **Cargar Pilar en las zonas de Tiendanube dentro de Zona extendida**, con los tres escalones. Si no, la página promete una cosa y el carrito cobra otra.
+- [ ] 🔴 **Cargar Pilar en las zonas de Tiendanube dentro de GBA muy lejano**, con los tres escalones. Si no, la página promete una cosa y el carrito cobra otra.
 - [ ] 🔴 **Confirmarle a Flexit que ahora también se despacha Pilar.** Cambia el volumen y el mínimo de 120.
 - [ ] 📋 **Rehacer la mezcla ponderada de `numeros.md`.** Hoy es 40% CABA · 30% Media · 20% Lejana · 10% Muy lejana con Pilar aparte; ahora Pilar entra en Muy lejana y le sube el peso. **Un pedido de Pilar pasó de dejar $15.060 a $10.130.**
 - [ ] 📦 **El packaging ahora importa en Pilar también.** Antes el pedido se entregaba en mano; ahora viaja apilado en la camioneta como cualquier otro.
@@ -84,7 +84,7 @@ Con un despacho único la lista de espera lo llenaba sola. **Con tres o cuatro, 
 ### 🔁 La suscripción del Pack Semanal *(decidida el 18/09)*
 
 - [x] ~~🔴 **Cargar la suscripción como UN producto con dos variantes de zona**~~ → ✅ **Hecho el 21/09: el producto está creado con las dos variantes.** Falta la foto, la regla de envío gratis y las pruebas de carrito.
-- [ ] ~~(referencia)~~ **Cargar la suscripción como UN producto con dos variantes de zona**, con el envío adentro del precio: **$172.140** (CABA, GBA cercano y Pilar) y **$192.140** (GBA norte y sur, y Zona extendida). **Si se deja que Tiendanube calcule el envío, el carrito de $172.140 dispara el umbral de $55.000 y no cobra nada.** Paso a paso en `textos/suscripcion-tiendanube.md`.
+- [ ] ~~(referencia)~~ **Cargar la suscripción como UN producto con dos variantes de zona**, con el envío adentro del precio: **$172.140** (CABA, GBA cercano y Pilar) y **$192.140** (GBA lejano y GBA muy lejano). **Si se deja que Tiendanube calcule el envío, el carrito de $172.140 dispara el umbral de $55.000 y no cobra nada.** Paso a paso en `textos/suscripcion-tiendanube.md`.
 - [ ] 🔴 **Confirmar que el plan Esencial deja crear una regla de envío gratis limitada a un producto específico.** Si solo permite "desde $X", el armado de la suscripción no sirve y hay que resolverlo de otra forma.
 - [ ] 🔴 **Pedido de prueba a una dirección de Escobar antes de publicar:** el total tiene que dar **$192.140 clavados**, sin línea de envío. Y otro a CABA: **$172.140**.
 - [ ] 📋 **Armar la planilla de entregas pendientes** (quién tiene cuántas, quién pausó). Con diez suscriptores son diez cobros y cuarenta entregas por mes.
@@ -241,4 +241,4 @@ Con un despacho único la lista de espera lo llenaba sola. **Con tres o cuatro, 
 - **Viajes al proveedor**: consolidados al pasar a entregar solo los jueves, de $260.000 a $86.600 mensuales.
 - **Volumen actual**: 4,2 pedidos/semana, ticket $23.677 (`diagnostico-ventas.md`).
 - **Fecha de lanzamiento**: **jueves 24/9** (movida desde el 17 el 07/09). Septiembre queda con un solo despacho y el objetivo son 30 pedidos ese día.
-- **Logística del AMBA**: Flexit, con todas las condiciones confirmadas. **Pilar también va por Flexit desde el 21/09**, en Zona extendida.
+- **Logística del AMBA**: Flexit, con todas las condiciones confirmadas. **Pilar también va por Flexit desde el 21/09**, en GBA muy lejano.

@@ -95,7 +95,7 @@ La suscripción se cobra **un mes por adelantado en una sola transferencia**, as
 | Variante — *Zona de entrega* | Precio | **Promocional** | Qué incluye |
 |---|---:|---:|---|
 | **CABA y GBA cercano** | $181.200 | **$172.140** | 4 entregas, envíos sin cargo |
-| **GBA norte y sur, y Zona extendida** | $201.200 | **$192.140** | 4 entregas + **los 4 envíos de $5.000** |
+| **GBA lejano y GBA muy lejano** | $201.200 | **$192.140** | 4 entregas + **los 4 envíos de $5.000** |
 
 > 🔧 **El paso a paso completo del panel, el texto de la ficha y el encargo para Claude in Chrome están en `textos/suscripcion-tiendanube.md`.**
 >

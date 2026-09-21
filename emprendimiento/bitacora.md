@@ -2,6 +2,33 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 21/09/2026 (7) — Los nombres de zona definitivos, y se cae el retiro en Pilar
+
+### 🏷️ Las cuatro zonas, como las ve el cliente
+
+| El cliente ve | Flexit le dice |
+|---|---|
+| **CABA** | Cercana |
+| **GBA cercano** | Media |
+| **GBA lejano** | Lejana |
+| **GBA muy lejano** | Muy lejana *(incluye Pilar)* |
+
+> **Ordenan por distancia, en la misma escala, y mapean uno a uno con las zonas de Flexit. No hay que traducir nada nunca más.**
+
+**Reemplazan a "Zona Norte y GBA cercano", "GBA norte y sur" y "Zona extendida"**, que mezclaban dirección con cercanía. Era el problema que había quedado señalado ayer: con "GBA cercano" y "GBA norte y sur" conviviendo, alguien de Lomas no sabía si era cercano o sur. **Resuelto.**
+
+### ❌ Y se cae el retiro en Pilar
+
+**No hay opción de retiro.** Se sacó la pregunta del FAQ de la página.
+
+Vale la pena anotar la consecuencia: **al cliente de Pilar no le queda ninguna alternativa al cargo de envío.** Antes tenía dos salidas (el envío sin cargo, o pasar a buscarlo); ahora paga $10.400, o llega a $40.000 y paga $5.000, o llega a $55.000. **Refuerza que el aviso a los clientes de Pilar es lo primero que hay que hacer.**
+
+Aplicado en la página, la vista previa, `perfil.md`, `envios-amba.md`, `suscripciones.md`, el encargo de Chrome y `pendientes.md`.
+
+**La variante cara de la suscripción pasa a llamarse** `GBA lejano y GBA muy lejano — incluye los 4 envíos (+$20.000)`.
+
+---
+
 ## 21/09/2026 (6) — 🔴 Pilar deja el reparto propio y pasa a Flexit
 
 > ### Decisión de Juan: **Pilar lo reparte Flexit y entra en Zona extendida**, con los mismos tres escalones que Escobar. **Se termina el envío sin cargo en Pilar.**

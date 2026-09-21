@@ -113,7 +113,7 @@ Redondeados para arriba, así queda un colchoncito.
 
 ## 3 bis. ⛔ SUPERADO — Propuesta de meter a Pilar en el umbral de $40.000
 
-> **Superado el 21/09/2026: Pilar dejó el reparto propio y pasó a Flexit, en Zona extendida.** Todo este análisis quedó como referencia histórica — la conclusión era "no tocar Pilar por ahora", y Juan decidió lo contrario con información de la calle. **El razonamiento sobre el ticket de los no-Eugenio (~$21.000) sigue siendo el dato más importante a vigilar después del cambio.**
+> **Superado el 21/09/2026: Pilar dejó el reparto propio y pasó a Flexit, en GBA muy lejano.** Todo este análisis quedó como referencia histórica — la conclusión era "no tocar Pilar por ahora", y Juan decidió lo contrario con información de la calle. **El razonamiento sobre el ticket de los no-Eugenio (~$21.000) sigue siendo el dato más importante a vigilar después del cambio.**
 
 *Planteada por Juan el 11/09/2026. **Revisada el mismo día y el análisis dio vuelta.** Todavía no está decidido.*
 
@@ -176,7 +176,7 @@ Sobre 18 pedidos mensuales, supongamos 2 de Eugenio (que no cambian) y 16 del re
 
 > ## 🔴 21/09/2026 — PILAR DEJA EL REPARTO PROPIO
 >
-> **Decidido por Juan: Pilar lo reparte Flexit y entra en Zona extendida (Muy lejana), igual que Escobar.** Se terminó el envío sin cargo en Pilar.
+> **Decidido por Juan: Pilar lo reparte Flexit y entra en GBA muy lejano (Muy lejana), igual que Escobar.** Se terminó el envío sin cargo en Pilar.
 >
 > | Pilar | Menos de $40.000 | $40.000 a $55.000 | Desde $55.000 |
 > |---|---:|---:|---:|
@@ -427,7 +427,7 @@ El mínimo mensual es, en los hechos, **un costo fijo nuevo de $726.993 por mes*
 
 > ### ✅ Decidido el 07/09/2026: en Pilar reparte Juan, y el envío sigue sin cargo
 >
-> ⛔ **REVERTIDO el 21/09/2026: Pilar pasa a Flexit y a Zona extendida.** Lo que sigue es la decisión del 07/09, que ya no rige.
+> ⛔ **REVERTIDO el 21/09/2026: Pilar pasa a Flexit y a GBA muy lejano.** Lo que sigue es la decisión del 07/09, que ya no rige.
 >
 > Para el lanzamiento, **Pilar se mantiene con reparto propio y envío sin cargo**, como hasta ahora. No se toca nada: ni tarifa al cliente, ni comunicación.
 >

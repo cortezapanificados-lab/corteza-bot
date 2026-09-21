@@ -58,8 +58,8 @@ Por debajo de esos montos, el envío cuesta según tu zona:
 |---|---:|---:|---:|
 | **CABA** | $4.900 | **sin cargo** | **sin cargo** |
 | **GBA cercano** | $6.900 | **sin cargo** | **sin cargo** |
-| **GBA norte y sur** | $8.900 | $5.000 | **sin cargo** |
-| **Zona extendida** | $10.400 | $5.000 | **sin cargo** |
+| **GBA lejano** | $8.900 | $5.000 | **sin cargo** |
+| **GBA muy lejano** | $10.400 | $5.000 | **sin cargo** |
 
 **¿En qué zona estás?**
 
@@ -67,9 +67,9 @@ Por debajo de esos montos, el envío cuesta según tu zona:
 
 **GBA cercano** — Vicente López · San Isidro · San Fernando · San Martín · Tres de Febrero · Morón · Hurlingham · Ituzaingó · Avellaneda · Lanús · Lomas de Zamora · La Matanza norte
 
-**GBA norte y sur** — Tigre y Nordelta · San Miguel · José C. Paz · Malvinas Argentinas · Moreno · Merlo · La Matanza sur · Quilmes · Berazategui · Florencio Varela · Almirante Brown · Esteban Echeverría · Ezeiza
+**GBA lejano** — Tigre y Nordelta · San Miguel · José C. Paz · Malvinas Argentinas · Moreno · Merlo · La Matanza sur · Quilmes · Berazategui · Florencio Varela · Almirante Brown · Esteban Echeverría · Ezeiza
 
-**Zona extendida** — Pilar · Escobar (con Garín y Maschwitz) · Del Viso · Derqui · Villa Rosa · General Rodríguez · Luján · Campana · Zárate · Marcos Paz · Cañuelas · San Vicente · Guernica · La Plata · Berisso · Ensenada
+**GBA muy lejano** — Pilar · Escobar (con Garín y Maschwitz) · Del Viso · Derqui · Villa Rosa · General Rodríguez · Luján · Campana · Zárate · Marcos Paz · Cañuelas · San Vicente · Guernica · La Plata · Berisso · Ensenada
 
 *El costo exacto se calcula solo en el carrito cuando ponés tu dirección, y te vamos mostrando cuánto te falta para el próximo escalón.*
 
@@ -90,7 +90,7 @@ Si sos de un barrio donde ya entregamos, hay algo que te conviene: **juntá tu p
 Al suscribirte elegís tu zona, y es la única diferencia de precio entre los dos planes:
 
 - **CABA y GBA cercano** — los cuatro envíos van **sin cargo**.
-- **GBA norte y sur y Zona extendida** — el plan cuesta **$20.000 más por mes**, que es lo que cuestan los cuatro envíos de tu zona.
+- **GBA lejano y GBA muy lejano** — el plan cuesta **$20.000 más por mes**, que es lo que cuestan los cuatro envíos de tu zona.
 
 **Fijate en las listas de arriba cuál te toca antes de elegir tu plan.**
 
@@ -109,9 +109,6 @@ El correo vuelve a intentarlo. Están incluidas la segunda y la tercera visita, 
 
 **¿Entregan fuera del AMBA?**
 Por ahora no. Si sos de otra zona, escribinos igual y te avisamos cuando lleguemos.
-
-**¿Puedo retirar el pedido?**
-Sí, en Pilar, sin costo de envío. Escribinos y coordinamos.
 
 ---
 
@@ -137,9 +134,9 @@ Sí, en Pilar, sin costo de envío. Escribinos y coordinamos.
   - **Nordelta se mantuvo aparte a propósito**: la gente dice "soy de Nordelta", no "soy de Tigre", y es un mercado que interesa
   - El separador pasó de coma a **·**, que comprime bastante a la vista
 
-> ## ✅ RESUELTO EL 21/09: Pilar pasa a Flexit y a Zona extendida
+> ## ✅ RESUELTO EL 21/09: Pilar pasa a Flexit y a GBA muy lejano
 >
-> **Juan decidió que Pilar deja el reparto propio: lo reparte Flexit y cae en Zona extendida**, con los mismos tres escalones que Escobar. **Deja de tener envío sin cargo.**
+> **Juan decidió que Pilar deja el reparto propio: lo reparte Flexit y cae en GBA muy lejano**, con los mismos tres escalones que Escobar. **Deja de tener envío sin cargo.**
 >
 > Eso **disuelve la pregunta que había quedado abierta** sobre hasta dónde llegaba "Pilar": si Pilar cobra igual que Del Viso, Derqui y Villa Rosa, ya no importa dónde termina el partido. **Todos entran en la misma fila.**
 >
@@ -151,8 +148,9 @@ Sí, en Pilar, sin costo de envío. Escribinos y coordinamos.
 - **No prometas franja horaria.** Todavía no está confirmado con Flexit si se puede elegir. Por eso dice "durante el día". Cuando lo confirmes, esa respuesta mejora mucho: poder elegir la franja es un diferencial real.
 - **Lo de la segunda y tercera visita sin costo** es una condición real de Flexit y **conviene decirlo**: es de las pocas cosas que tranquilizan a alguien que compra pan fresco por internet por primera vez.
 - **"Pedís el lunes, comés pan del jueves"** es la línea que más trabaja de toda la página. Sirve también para Instagram y para el anuncio de Meta.
-- **La tabla está escrita para el cliente, no para vos.** Los nombres de las zonas son los comerciales ("GBA cercano", "GBA norte y sur"), no los de Flexit ("Media", "Lejana").
-- 🔴 **"Zona Norte" se eliminó el 21/09, por pedido de Juan, y el motivo vale para cualquier nombre futuro: es geografía, no logística.** Pilar, Escobar y Nordelta son todos zona norte y están en tres escalones distintos. **Un nombre que agrupa por dirección, cuando la regla agrupa por distancia, se da vuelta en la cara.** La zona Media pasó a llamarse **GBA cercano** a secas. *(Juan ya lo corrigió en la web.)*
+- **La tabla está escrita para el cliente, no para vos.** Los nombres de las zonas son los comerciales ("GBA cercano", "GBA lejano"), no los de Flexit ("Media", "Lejana").
+- ✅ **Los nombres definitivos quedaron el 21/09: CABA · GBA cercano · GBA lejano · GBA muy lejano.** Las cuatro ordenan por **distancia**, en la misma escala, y **mapean uno a uno con las zonas de Flexit** (Cercana, Media, Lejana, Muy lejana). No hay que traducir nada nunca más.
+- 🔴 **Antes se llamaban "Zona Norte y GBA cercano", "GBA norte y sur" y "Zona extendida". El motivo del cambio vale para cualquier nombre futuro: eran geografía, no logística.** Pilar, Escobar y Nordelta son todos zona norte y están en tres escalones distintos. **Un nombre que agrupa por dirección, cuando la regla agrupa por distancia, se da vuelta en la cara.**
 - **Cuando cambien las tarifas de Flexit** (son mensuales), esta página hay que actualizarla junto con las zonas de Tiendanube. **Ya pasó una vez: el 07/09 subieron 4,6% de un mes al otro.** Los precios de la tabla son los del tarifario del 07/09/2026.
 - **Recordá la fórmula:** lo que se cobra es **costo ÷ 0,93**, no el costo. Pago Nube se lleva su 7% también sobre el envío.
 
