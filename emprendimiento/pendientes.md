@@ -64,11 +64,13 @@ Con un despacho único la lista de espera lo llenaba sola. **Con tres o cuatro, 
 
 ### 🔴 La página de Envíos de la tienda está desactualizada *(18/09)*
 
-- [ ] 🔴 **Reescribir `textos/pagina-envios.md` con los tres escalones.** Hoy dice *"Envío sin cargo desde $40.000. En todo el AMBA, sea cual sea tu zona."* y **ya no es cierto**: en GBA norte/sur y Zona extendida se cobran $5.000 hasta los $55.000. **Es el autogol que estaba anotado** — el cliente lee envío sin cargo y se encuentra el cargo en el checkout. Si la página ya está publicada, corregirla antes del lanzamiento.
+- [x] ~~🔴 **Reescribir `textos/pagina-envios.md` con los tres escalones.**~~ → ✅ **Hecho el 21/09.** Texto nuevo y vista previa actualizada. **Falta pegarla en Tiendanube** (Páginas → Crear página → `Envíos`) y sumarla al menú. Antes de publicarla, correr las cuatro pruebas de carrito que están al final del archivo.
+- [ ] ~~(referencia de lo que estaba mal)~~ **Reescribir `textos/pagina-envios.md` con los tres escalones.** Hoy dice *"Envío sin cargo desde $40.000. En todo el AMBA, sea cual sea tu zona."* y **ya no es cierto**: en GBA norte/sur y Zona extendida se cobran $5.000 hasta los $55.000. **Es el autogol que estaba anotado** — el cliente lee envío sin cargo y se encuentra el cargo en el checkout. Si la página ya está publicada, corregirla antes del lanzamiento.
 
 ### 🔁 La suscripción del Pack Semanal *(decidida el 18/09)*
 
-- [ ] 🔴 **Cargar la suscripción como UN producto con dos variantes de zona**, con el envío adentro del precio: **$172.140** (CABA, Zona Norte y GBA cercano) y **$192.140** (GBA norte y sur, y Zona extendida). **Si se deja que Tiendanube calcule el envío, el carrito de $172.140 dispara el umbral de $55.000 y no cobra nada.** Paso a paso en `textos/suscripcion-tiendanube.md`.
+- [x] ~~🔴 **Cargar la suscripción como UN producto con dos variantes de zona**~~ → ✅ **Hecho el 21/09: el producto está creado con las dos variantes.** Falta la foto, la regla de envío gratis y las pruebas de carrito.
+- [ ] ~~(referencia)~~ **Cargar la suscripción como UN producto con dos variantes de zona**, con el envío adentro del precio: **$172.140** (CABA, Zona Norte y GBA cercano) y **$192.140** (GBA norte y sur, y Zona extendida). **Si se deja que Tiendanube calcule el envío, el carrito de $172.140 dispara el umbral de $55.000 y no cobra nada.** Paso a paso en `textos/suscripcion-tiendanube.md`.
 - [ ] 🔴 **Confirmar que el plan Esencial deja crear una regla de envío gratis limitada a un producto específico.** Si solo permite "desde $X", el armado de la suscripción no sirve y hay que resolverlo de otra forma.
 - [ ] 🔴 **Pedido de prueba a una dirección de Escobar antes de publicar:** el total tiene que dar **$192.140 clavados**, sin línea de envío. Y otro a CABA: **$172.140**.
 - [ ] 📋 **Armar la planilla de entregas pendientes** (quién tiene cuántas, quién pausó). Con diez suscriptores son diez cobros y cuarenta entregas por mes.

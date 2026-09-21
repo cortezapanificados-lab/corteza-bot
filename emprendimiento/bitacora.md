@@ -2,6 +2,42 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 21/09/2026 (2) — La suscripción está creada, y la página de Envíos reescrita
+
+### ✅ La suscripción ya existe en la tienda
+
+Juan la cargó como **un producto con dos variantes de zona**: la de CABA y zona cercana, y la de zonas alejadas, que cuesta **$20.000 más** (los cuatro envíos de $5.000).
+
+**Lo que falta de ese producto**, para no perderlo de vista:
+
+- [ ] La foto (el collage del Pack Semanal de `textos/packs/`)
+- [ ] 🔴 **La regla de envío gratis limitada a ese producto** — es lo que evita que Tiendanube calcule envío sobre el carrito de $172.140
+- [ ] Las pruebas de carrito: Escobar → $192.140 clavados; CABA → $172.140
+
+### 📄 La página de Envíos: no había que crearla, había que corregirla
+
+Juan planteó crear una página de Envíos. **Ya estaba escrita desde el 07/09** — lo que pasaba es que **estaba desactualizada**: prometía *"Envío sin cargo desde $40.000. En todo el AMBA, sea cual sea tu zona."*
+
+**Reescrita el 21/09 con los tres escalones.** Lo que cambió:
+
+| | Versión vieja | **Nueva** |
+|---|---|---|
+| El titular | Un umbral único de $40.000 | **"Sin cargo desde $40.000 en CABA y zona norte. En el resto del AMBA, desde $55.000."** |
+| La tabla | Zona + un precio | **Zona + los tres escalones**, mostrando solo los que cambian en cada zona |
+| Las localidades | Listadas, incompletas | **Completas** — se sumaron La Matanza norte y sur, Derqui, Villa Rosa, Guernica, Berisso y Ensenada |
+| Suscripción | no figuraba | **Sección propia**: los cuatro envíos ya vienen incluidos |
+
+> 📌 **La página ahora tiene un segundo trabajo: es donde el cliente averigua en qué zona está.** Como Tiendanube no puede atar la variante de la suscripción a la dirección, **las listas de localidades son la defensa** contra que alguien de Escobar elija la variante de CABA. Por eso dicen "Escobar" con todas las letras.
+
+**Vista previa actualizada:** https://claude.ai/artifact/Qmj7bnUvSzz2kGFTCzyf5P
+El HTML fuente quedó guardado en `textos/pagina-envios-preview.html`, así la próxima no hay que rehacerla de cero.
+
+### ⚠️ Y una advertencia que quedó anotada en el archivo
+
+**Antes de publicar la página, hay que verificar que la tienda haga lo mismo que la página promete.** Si Tiendanube no tiene los tres escalones cargados igual, **la página miente y el reclamo es peor que no tenerla**. Las cuatro pruebas de carrito están al final de `textos/pagina-envios.md`.
+
+---
+
 ## 21/09/2026 — Tiendanube no puede atar la variante a la zona
 
 Juan preguntó si se puede impedir que alguien de Escobar compre la variante de CABA de la suscripción.

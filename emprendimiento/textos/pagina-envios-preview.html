@@ -1,0 +1,346 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Envíos Corteza</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,600;1,500&family=Jost:wght@300;400;500&display=swap">
+<style>
+  :root{
+    --ground:#FCFCFA;
+    --panel:#F4F5EF;
+    --ink:#23281F;
+    --muted:#6B7065;
+    --line:#E2E4DC;
+    --accent:#4A5D34;
+    --accent-soft:#E9EEDC;
+    --warm:#A8571F;
+    --warm-soft:#F6E9DC;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --ground:#191B15;
+      --panel:#20231A;
+      --ink:#E9EBE0;
+      --muted:#9AA18F;
+      --line:#31362A;
+      --accent:#A9C280;
+      --accent-soft:#262C1C;
+      --warm:#E0A06A;
+      --warm-soft:#2E2418;
+    }
+  }
+  :root[data-theme="dark"]{
+    --ground:#191B15;
+    --panel:#20231A;
+    --ink:#E9EBE0;
+    --muted:#9AA18F;
+    --line:#31362A;
+    --accent:#A9C280;
+    --accent-soft:#262C1C;
+    --warm:#E0A06A;
+    --warm-soft:#2E2418;
+  }
+
+  *{box-sizing:border-box}
+  body{
+    margin:0;
+    background:var(--ground);
+    color:var(--ink);
+    font-family:"Jost","Avenir Next",system-ui,sans-serif;
+    font-weight:400;
+    font-size:17px;
+    line-height:1.65;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:720px;margin:0 auto;padding:56px 24px 80px;display:flex;flex-direction:column;gap:56px}
+  @media(max-width:600px){.wrap{padding:36px 16px 60px;gap:44px}}
+
+  h1,h2,h3{font-family:"Playfair Display",Georgia,serif;font-weight:500;text-wrap:balance;margin:0}
+  h1{font-size:2.6rem;line-height:1.12;letter-spacing:-.01em}
+  h2{font-size:1.5rem;line-height:1.25;margin-bottom:.5rem}
+  h3{font-size:1.06rem;font-family:"Jost",sans-serif;font-weight:500;margin:0}
+  p{margin:0}
+  @media(max-width:600px){h1{font-size:2.05rem}}
+
+  .eyebrow{
+    font-size:.71rem;text-transform:uppercase;letter-spacing:.16em;
+    color:var(--muted);font-weight:500;margin:0 0 14px;
+  }
+  .lede{color:var(--muted);font-size:1.06rem;margin-top:14px;max-width:56ch}
+
+  section{display:flex;flex-direction:column;gap:18px}
+
+  /* ── la semana ── */
+  .semana-box{overflow-x:auto;padding:4px 0}
+  .semana{
+    display:grid;grid-template-columns:repeat(7,1fr);
+    min-width:340px;position:relative;padding-top:34px;
+  }
+  .semana::before{
+    content:"";position:absolute;left:7%;right:7%;top:44px;height:1px;
+    background:var(--line);
+  }
+  .dia{display:flex;flex-direction:column;align-items:center;gap:9px;position:relative;text-align:center}
+  .dia .letra{
+    font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--muted);font-weight:500;
+  }
+  .punto{
+    width:9px;height:9px;border-radius:50%;background:var(--line);
+    position:relative;z-index:1;outline:4px solid var(--ground);
+  }
+  .dia.hito .letra{color:var(--ink)}
+  .dia.hito .punto{width:15px;height:15px}
+  .dia.corte .punto{background:var(--accent)}
+  .dia.entrega .punto{background:var(--warm)}
+  .marca{font-size:.79rem;line-height:1.35;font-weight:500;letter-spacing:.01em}
+  .dia.corte .marca{color:var(--accent)}
+  .dia.entrega .marca{color:var(--warm)}
+  .marca small{display:block;font-weight:400;font-size:.72rem;color:var(--muted);letter-spacing:0}
+
+  .promesa{
+    font-family:"Playfair Display",Georgia,serif;
+    font-size:1.6rem;line-height:1.3;font-style:italic;
+    text-align:center;color:var(--ink);margin:6px 0 0;text-wrap:balance;
+  }
+  @media(max-width:600px){.promesa{font-size:1.3rem}}
+
+  .pasos{display:grid;grid-template-columns:repeat(3,1fr);gap:26px;margin-top:6px}
+  @media(max-width:640px){.pasos{grid-template-columns:1fr;gap:20px}}
+  .paso h3{margin-bottom:4px}
+  .paso p{font-size:.93rem;color:var(--muted);line-height:1.55}
+
+  /* ── titular de envío ── */
+  .umbral{
+    display:flex;flex-direction:column;gap:7px;align-items:center;text-align:center;
+    background:var(--accent-soft);border-radius:4px;padding:24px 22px;
+  }
+  .umbral .cifra{
+    font-family:"Playfair Display",Georgia,serif;font-size:1.55rem;line-height:1.22;
+    color:var(--accent);font-weight:600;text-wrap:balance;
+  }
+  .umbral .sub{font-size:.93rem;color:var(--muted);max-width:44ch}
+  @media(max-width:600px){.umbral .cifra{font-size:1.3rem}}
+
+  /* ── zonas ── */
+  .zonas{display:flex;flex-direction:column;border-top:1px solid var(--line)}
+  .zona{
+    display:flex;flex-direction:column;gap:12px;
+    padding:19px 0;border-bottom:1px solid var(--line);
+  }
+  .zona-nombre{font-weight:500;font-size:1rem}
+  .zona-detalle{
+    display:block;font-size:.81rem;color:var(--muted);
+    font-weight:400;line-height:1.5;margin-top:4px;
+  }
+  .escalones{display:flex;gap:8px;flex-wrap:wrap}
+  .esc{
+    border:1px solid var(--line);border-radius:3px;padding:7px 12px;
+    line-height:1.3;
+  }
+  .esc .cuando{
+    display:block;font-size:.66rem;text-transform:uppercase;letter-spacing:.11em;
+    color:var(--muted);font-weight:500;margin-bottom:2px;
+  }
+  .esc .cuanto{font-weight:500;font-variant-numeric:tabular-nums;font-size:.97rem}
+  .esc.libre{background:var(--accent-soft);border-color:transparent}
+  .esc.libre .cuanto{color:var(--accent)}
+  .esc.libre .cuando{color:var(--accent);opacity:.8}
+  .nota{font-size:.87rem;color:var(--muted);margin-top:2px}
+
+  /* ── bloques ── */
+  .bloque{
+    background:var(--panel);padding:26px 28px;border-radius:4px;
+    display:flex;flex-direction:column;gap:12px;
+  }
+  .bloque p{font-size:.97rem}
+  .bloque .destacado{color:var(--ink);font-weight:500}
+  @media(max-width:600px){.bloque{padding:22px 20px}}
+
+  /* ── preguntas ── */
+  .faq{display:flex;flex-direction:column;gap:0;border-top:1px solid var(--line)}
+  .item{padding:16px 0;border-bottom:1px solid var(--line)}
+  .item h3{margin-bottom:5px}
+  .item p{color:var(--muted);font-size:.95rem}
+
+  .cierre{
+    text-align:center;padding-top:8px;
+    font-size:.92rem;color:var(--muted);
+  }
+  .cierre strong{color:var(--ink);font-weight:500}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+
+  <header>
+    <p class="eyebrow">Corteza · Envíos</p>
+    <h1>Entregamos todos los jueves</h1>
+    <p class="lede">En CABA, zona norte, el resto del AMBA y Pilar. Acá está todo lo que necesitás saber antes de hacer tu pedido.</p>
+  </header>
+
+  <section>
+    <div class="semana-box">
+      <div class="semana">
+        <div class="dia hito corte">
+          <span class="letra">Lun</span>
+          <span class="punto"></span>
+          <span class="marca">Cierra tu pedido<small>14:00</small></span>
+        </div>
+        <div class="dia"><span class="letra">Mar</span><span class="punto"></span></div>
+        <div class="dia"><span class="letra">Mié</span><span class="punto"></span></div>
+        <div class="dia hito entrega">
+          <span class="letra">Jue</span>
+          <span class="punto"></span>
+          <span class="marca">Llega a tu casa<small>durante el día</small></span>
+        </div>
+        <div class="dia"><span class="letra">Vie</span><span class="punto"></span></div>
+        <div class="dia"><span class="letra">Sáb</span><span class="punto"></span></div>
+        <div class="dia"><span class="letra">Dom</span><span class="punto"></span></div>
+      </div>
+    </div>
+
+    <p class="promesa">Pedís el lunes, comés pan del jueves.</p>
+
+    <div class="pasos">
+      <div class="paso">
+        <h3>Pedís hasta el lunes a las 14</h3>
+        <p>Ese es el corte de la semana. Lo que entre después queda para el jueves siguiente.</p>
+      </div>
+      <div class="paso">
+        <h3>Le pasamos tu pedido a los panaderos</h3>
+        <p>No trabajamos con stock: cada semana se hornea lo que se pidió.</p>
+      </div>
+      <div class="paso">
+        <h3>El jueves sale a tu casa</h3>
+        <p>El pan que llega a tu mesa el jueves salió del horno ese mismo día.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Costos de envío</h2>
+
+    <div class="umbral">
+      <span class="cifra">Envío sin cargo desde $40.000 en CABA y zona norte</span>
+      <span class="sub">En el resto del AMBA, desde $55.000. Y en Pilar el envío es sin cargo siempre.</span>
+    </div>
+
+    <p class="nota">El envío depende de dos cosas: tu zona y cuánto pedís. Cuanto más grande el pedido, menos pagás de envío — hasta que no pagás nada.</p>
+
+    <div class="zonas">
+
+      <div class="zona">
+        <div>
+          <span class="zona-nombre">CABA</span>
+          <span class="zona-detalle">Toda la ciudad.</span>
+        </div>
+        <div class="escalones">
+          <span class="esc"><span class="cuando">Menos de $40.000</span><span class="cuanto">$4.900</span></span>
+          <span class="esc libre"><span class="cuando">Desde $40.000</span><span class="cuanto">Sin cargo</span></span>
+        </div>
+      </div>
+
+      <div class="zona">
+        <div>
+          <span class="zona-nombre">Zona Norte y GBA cercano</span>
+          <span class="zona-detalle">San Isidro, Beccar, Martínez, Acassuso, Vicente López, San Fernando, General San Martín, Tres de Febrero, Morón, Hurlingham, Ituzaingó, Avellaneda, Lanús, Lomas de Zamora, La Matanza norte.</span>
+        </div>
+        <div class="escalones">
+          <span class="esc"><span class="cuando">Menos de $40.000</span><span class="cuanto">$6.900</span></span>
+          <span class="esc libre"><span class="cuando">Desde $40.000</span><span class="cuanto">Sin cargo</span></span>
+        </div>
+      </div>
+
+      <div class="zona">
+        <div>
+          <span class="zona-nombre">GBA norte y sur</span>
+          <span class="zona-detalle">Tigre, Nordelta, San Miguel, José C. Paz, Malvinas Argentinas, Moreno, Merlo, La Matanza sur, Quilmes, Berazategui, Florencio Varela, Almirante Brown, Esteban Echeverría, Ezeiza.</span>
+        </div>
+        <div class="escalones">
+          <span class="esc"><span class="cuando">Menos de $40.000</span><span class="cuanto">$8.900</span></span>
+          <span class="esc"><span class="cuando">Desde $40.000</span><span class="cuanto">$5.000</span></span>
+          <span class="esc libre"><span class="cuando">Desde $55.000</span><span class="cuanto">Sin cargo</span></span>
+        </div>
+      </div>
+
+      <div class="zona">
+        <div>
+          <span class="zona-nombre">Zona extendida</span>
+          <span class="zona-detalle">Escobar, Del Viso, Derqui, Garín, Villa Rosa, Ingeniero Maschwitz, General Rodríguez, Luján, Campana, Zárate, Marcos Paz, Cañuelas, San Vicente, Guernica, La Plata, Berisso, Ensenada.</span>
+        </div>
+        <div class="escalones">
+          <span class="esc"><span class="cuando">Menos de $40.000</span><span class="cuanto">$10.400</span></span>
+          <span class="esc"><span class="cuando">Desde $40.000</span><span class="cuanto">$5.000</span></span>
+          <span class="esc libre"><span class="cuando">Desde $55.000</span><span class="cuanto">Sin cargo</span></span>
+        </div>
+      </div>
+
+      <div class="zona">
+        <div>
+          <span class="zona-nombre">Pilar</span>
+          <span class="zona-detalle">Entregamos nosotros, en mano, casa por casa.</span>
+        </div>
+        <div class="escalones">
+          <span class="esc libre"><span class="cuando">Siempre</span><span class="cuanto">Sin cargo</span></span>
+        </div>
+      </div>
+
+    </div>
+    <p class="nota">El costo exacto se calcula solo en el carrito cuando ponés tu dirección, y te vamos mostrando cuánto te falta para el próximo escalón.</p>
+  </section>
+
+  <section>
+    <h2>Si estás suscripto</h2>
+    <div class="bloque">
+      <p class="destacado">Tu suscripción ya incluye los cuatro envíos del mes.</p>
+      <p>No pagás envío semana a semana ni te aparece ningún cargo extra.</p>
+      <p>Al suscribirte elegís tu zona de entrega, y es la única diferencia de precio entre los dos planes: si vivís en <span class="destacado">GBA norte y sur</span> o en <span class="destacado">Zona extendida</span>, el plan incluye los envíos de tu zona. Fijate en las listas de arriba cuál te toca antes de elegir.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Barrios cerrados y countries</h2>
+    <div class="bloque">
+      <p class="destacado">Entregamos en la guardia de tu barrio.</p>
+      <p>El jueves te avisamos apenas se despachó tu pedido, así lo podés retirar el mismo día. Es pan fresco: conviene que no espere.</p>
+      <p>Y si sos de un barrio donde ya entregamos, algo que te conviene: <span class="destacado">juntá tu pedido con el de tus vecinos.</span> Llegan todos juntos a la misma guardia y el envío les sale más barato a todos. Escribinos y lo armamos.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Preguntas rápidas</h2>
+    <div class="faq">
+      <div class="item">
+        <h3>¿Puedo pedir después del lunes a las 14?</h3>
+        <p>Sí, pero tu pedido sale el jueves siguiente. La tienda te lo aclara antes de que pagues.</p>
+      </div>
+      <div class="item">
+        <h3>¿A qué hora llega el jueves?</h3>
+        <p>Durante el día. Te avisamos cuando se despacha.</p>
+      </div>
+      <div class="item">
+        <h3>¿Y si no estoy en casa?</h3>
+        <p>Vuelven a intentarlo. La segunda y la tercera visita están incluidas, sin costo para vos.</p>
+      </div>
+      <div class="item">
+        <h3>¿Entregan fuera del AMBA?</h3>
+        <p>Por ahora no. Si sos de otra zona escribinos igual, y te avisamos cuando lleguemos.</p>
+      </div>
+      <div class="item">
+        <h3>¿Puedo retirar el pedido?</h3>
+        <p>Sí, en Pilar. Escribinos y coordinamos.</p>
+      </div>
+    </div>
+  </section>
+
+  <p class="cierre">¿Te quedó alguna duda? Escribinos por WhatsApp al <strong>11 5415‑3989</strong>.</p>
+
+</div>
+
+</body>
+</html>
