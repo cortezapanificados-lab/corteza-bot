@@ -64,19 +64,22 @@ Con un despacho único la lista de espera lo llenaba sola. **Con tres o cuatro, 
 
 ### 🏷️ Renombrar la variante de la suscripción *(21/09)*
 
-- [ ] 🔴 **Renombrar la variante barata en Tiendanube a "CABA, GBA cercano y Pilar — envíos incluidos".** El producto está creado con el nombre viejo, que decía "Zona Norte" y **no nombraba a Pilar**. Pilar tiene reparto propio y envío sin cargo, así que le corresponde la variante de $172.140 — pero hoy un suscriptor de Pilar no sabe cuál elegir y **podría pagar $20.000 de más**. No es teórico: Eugenio es el candidato número uno de la suscripción.
+- [ ] 🔴 **Renombrar la variante barata en Tiendanube a "CABA y GBA cercano — envíos incluidos".** El producto está creado con el nombre viejo, que decía "Zona Norte". **Pilar NO va en esta variante**: desde el 21/09 va por Flexit, en Zona extendida, así que le corresponde la de **$192.140**.
 - [x] ~~**"Zona Norte" como nombre de zona.**~~ → ✅ **Eliminado el 21/09.** Es geografía, no logística: Pilar, Escobar y Nordelta son todos zona norte y están en tres escalones distintos. La zona Media se llama **GBA cercano** a secas. Ya corregido en la web y en toda la memoria.
 
-### 🗺️ ¿Hasta dónde llega "Pilar"? *(21/09)*
+### 📦 Pilar pasa a Flexit *(decidido el 21/09)*
 
-- [ ] 🔴 **Definir si el reparto propio de Pilar cubre todo el partido o solo Pilar centro y los countries.** **Del Viso, Derqui y Villa Rosa son del partido de Pilar** pero están cargadas como **Zona extendida ($10.400)**, mientras que "Pilar" va sin cargo. **Si alguien de Del Viso lee "Pilar: sin cargo", reclama.** Hoy quedaron en Zona extendida, que es lo conservador pero no lo confirmado. Detalle en `textos/pagina-envios.md`.
-  - Si cubre todo el partido → pasan a la fila de Pilar, sin cargo, y hay que tocar las zonas de Tiendanube.
-  - Si no → la página tiene que aclarar qué se entiende por Pilar.
+> **Pilar deja el reparto propio y entra en Zona extendida**, con los mismos tres escalones que Escobar: $10.400 por debajo de $40.000, $5.000 desde $40.000, sin cargo desde $55.000.
 
-### 🔴 La página de Envíos de la tienda está desactualizada *(18/09)*
-
-- [x] ~~🔴 **Reescribir `textos/pagina-envios.md` con los tres escalones.**~~ → ✅ **Hecho el 21/09.** Texto nuevo y vista previa actualizada. **Falta pegarla en Tiendanube** (Páginas → Crear página → `Envíos`) y sumarla al menú. Antes de publicarla, correr las cuatro pruebas de carrito que están al final del archivo.
-- [ ] ~~(referencia de lo que estaba mal)~~ **Reescribir `textos/pagina-envios.md` con los tres escalones.** Hoy dice *"Envío sin cargo desde $40.000. En todo el AMBA, sea cual sea tu zona."* y **ya no es cierto**: en GBA norte/sur y Zona extendida se cobran $5.000 hasta los $55.000. **Es el autogol que estaba anotado** — el cliente lee envío sin cargo y se encuentra el cargo en el checkout. Si la página ya está publicada, corregirla antes del lanzamiento.
+- [ ] 🔴 **Avisarles a los clientes de Pilar ANTES del cambio.** Es un aumento de precio para la base actual: **44 de los 45 pedidos del período son de Pilar**, y a un ticket de ~$21.000 un envío de $10.400 es **+50%**. **Que no se enteren en el checkout.** Hay que escribir ese mensaje.
+- [ ] 🔴 **Cargar Pilar en las zonas de Tiendanube dentro de Zona extendida**, con los tres escalones. Si no, la página promete una cosa y el carrito cobra otra.
+- [ ] 🔴 **Confirmarle a Flexit que ahora también se despacha Pilar.** Cambia el volumen y el mínimo de 120.
+- [ ] 📋 **Rehacer la mezcla ponderada de `numeros.md`.** Hoy es 40% CABA · 30% Media · 20% Lejana · 10% Muy lejana con Pilar aparte; ahora Pilar entra en Muy lejana y le sube el peso. **Un pedido de Pilar pasó de dejar $15.060 a $10.130.**
+- [ ] 📦 **El packaging ahora importa en Pilar también.** Antes el pedido se entregaba en mano; ahora viaja apilado en la camioneta como cualquier otro.
+- [ ] 👁️ **Vigilar la recompra de Pilar después del primer jueves con cargo.** Es el número que dice si el cambio salió bien o se llevó puesta la base.
+- [x] ~~🔴 **Definir hasta dónde llega "Pilar"**~~ → ✅ **Disuelto el 21/09.** Si Pilar cobra igual que Del Viso, Derqui y Villa Rosa, ya no importa dónde termina el partido: entran todos en la misma fila.
+- [x] ~~**Cotizar un cadete o moto local para Pilar**~~ → ⛔ **Sin objeto desde el 21/09.** Reparte Flexit.
+- [x] ~~**Estimar el costo real del reparto propio**~~ → ⛔ **Sin objeto desde el 21/09.**
 
 ### 🔁 La suscripción del Pack Semanal *(decidida el 18/09)*
 
@@ -144,7 +147,7 @@ Con un despacho único la lista de espera lo llenaba sola. **Con tres o cuatro, 
   - [ ] **Fines de septiembre**, si no hubo acuerdo: contactar a un abogado marcario o agente de PI (es **obligatorio** para la etapa de contestación). Los argumentos ya están escritos en `marca-inpi.md`.
   - Recordatorio automático del 22/10 **verificado y activo** el 18/08.
 
-- [x] ~~🔥 **DECISIÓN ABIERTA: quién reparte en Pilar.**~~ → ✅ **Decidido el 07/09: sigue repartiendo Juan, y el envío en Pilar se mantiene sin cargo.** No se toca nada para el lanzamiento: ni tarifa al cliente ni comunicación. **Los pedidos de Pilar no consumen envíos de Flexit** (van por reparto propio), así que el AMBA tiene que llenar su cupo solo.
+- [x] ~~🔥 **DECISIÓN ABIERTA: quién reparte en Pilar.**~~ → ✅ **REVERTIDO el 21/09: reparte Flexit.** *(El 07/09 se había decidido que siguiera repartiendo Juan con envío sin cargo; ya no rige.)* ✅ **Consecuencia buena: los pedidos de Pilar ahora SÍ consumen envíos del mínimo de 120**, que antes el AMBA tenía que llenar solo.
   - [ ] **Postergado, no cerrado: cotizar un cadete o moto local** para la vuelta de los jueves (18 entregas juntas en la misma ciudad). Se retoma cuando el volumen del AMBA haga que la vuelta no entre más en el día.
   - [ ] **Postergado: estimar el costo real del reparto propio** (nafta, horas, desgaste). Sin ese número no se puede comparar contra el cadete.
 
@@ -238,4 +241,4 @@ Con un despacho único la lista de espera lo llenaba sola. **Con tres o cuatro, 
 - **Viajes al proveedor**: consolidados al pasar a entregar solo los jueves, de $260.000 a $86.600 mensuales.
 - **Volumen actual**: 4,2 pedidos/semana, ticket $23.677 (`diagnostico-ventas.md`).
 - **Fecha de lanzamiento**: **jueves 24/9** (movida desde el 17 el 07/09). Septiembre queda con un solo despacho y el objetivo son 30 pedidos ese día.
-- **Logística del AMBA**: Flexit, con todas las condiciones confirmadas. Pilar sigue con reparto propio de Juan y envío sin cargo.
+- **Logística del AMBA**: Flexit, con todas las condiciones confirmadas. **Pilar también va por Flexit desde el 21/09**, en Zona extendida.

@@ -2,6 +2,53 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 21/09/2026 (6) — 🔴 Pilar deja el reparto propio y pasa a Flexit
+
+> ### Decisión de Juan: **Pilar lo reparte Flexit y entra en Zona extendida**, con los mismos tres escalones que Escobar. **Se termina el envío sin cargo en Pilar.**
+
+| Pilar | Menos de $40.000 | $40.000 a $55.000 | Desde $55.000 |
+|---|---:|---:|---:|
+| **Antes** | sin cargo | sin cargo | sin cargo |
+| **Ahora** | **$10.400** | **$5.000** | **sin cargo** |
+
+**Revierte la decisión del 07/09** ("sigue repartiendo Juan, sin cargo") y la recomendación del 11/09 ("no tocar Pilar por ahora"). Juan decidió lo contrario con información de la calle.
+
+### ⚠️ Lo que hay que mirar de cerca
+
+**Es un aumento de precio para la base de clientes actual, no para los que vengan.** Pilar son **44 de los 45 pedidos** del período, y Pilar del Lago solo es el 55% de lo facturado. El ticket de los recurrentes que no son Eugenio ronda los **$21.000**: a ese ticket, $10.400 de envío es **+50%**.
+
+> 🔴 **Hay que avisarles antes, no que se enteren en el checkout.** Está anotado en `pendientes.md` como lo primero.
+>
+> 👁️ **Y el número a vigilar es la recompra de Pilar después del primer jueves con cargo.** Es lo que dice si el cambio salió bien o se llevó puesta la base.
+
+### Lo que cambia en los números
+
+| | Antes | **Ahora** |
+|---|---:|---:|
+| Deja un pedido de $40.000 en Pilar | $15.060 (37,6%) | **$10.130 (25,3%)** |
+
+**Pilar era la zona que más dejaba, justamente porque no pagaba flete. Ahora deja lo mismo que Escobar.**
+
+> ✅ **La contracara buena: los pedidos de Pilar ahora consumen envíos del mínimo de 120 de Flexit.** Antes no, y el AMBA tenía que llenar ese cupo solo. Con ~4 pedidos por semana, Pilar aporta unos 16 envíos al mes.
+
+📋 **Queda pendiente rehacer la mezcla ponderada** de `numeros.md`: era 40% CABA · 30% Media · 20% Lejana · 10% Muy lejana con Pilar aparte, y ahora Pilar entra en Muy lejana.
+
+### Tres cosas que se resuelven solas
+
+1. ✅ **Se disuelve la pregunta de hasta dónde llega "Pilar".** Si Pilar cobra igual que Del Viso, Derqui y Villa Rosa, ya no importa dónde termina el partido.
+2. ⛔ **Quedan sin objeto** el cadete/moto local y la estimación del costo del reparto propio (nafta, horas, desgaste). Nunca se hicieron y ya no hacen falta.
+3. 📦 **Pero aparece una:** el packaging ahora importa en Pilar también. La nota vieja decía que con entrega en mano una bolsa alcanzaba; ahora el pedido de Pilar viaja apilado como cualquier otro.
+
+### Dónde quedó aplicado
+
+`textos/pagina-envios.md` · la vista previa · `perfil.md` · `numeros.md` · `envios-amba.md` · `suscripciones.md` · `textos/suscripcion-tiendanube.md` · `pendientes.md`
+
+**La variante barata de la suscripción vuelve a ser `CABA y GBA cercano — envíos incluidos`**: a Pilar le corresponde ahora la de $192.140.
+
+Vista previa actualizada: https://claude.ai/artifact/Qmj7bnUvSzz2kGFTCzyf5P
+
+---
+
 ## 21/09/2026 (5) — Se elimina "Zona Norte" como nombre de zona, y aparece el agujero de Pilar
 
 ### La corrección de Juan

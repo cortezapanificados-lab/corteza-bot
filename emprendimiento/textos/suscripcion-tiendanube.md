@@ -39,7 +39,7 @@ Buscar *"Agregar variantes"* o *"Este producto tiene variantes"*. Propiedad: **Z
 
 | Variante | Precio | **Precio promocional** |
 |---|---:|---:|
-| **CABA, GBA cercano y Pilar — envíos incluidos** | $181.200 | **$172.140** |
+| **CABA y GBA cercano — envíos incluidos** | $181.200 | **$172.140** |
 | **GBA norte y sur, y Zona extendida — incluye los 4 envíos (+$20.000)** | $201.200 | **$192.140** |
 
 > 📌 **Los nombres largos son a propósito.** Ver la sección "Lo que Tiendanube no puede hacer", más abajo.
@@ -93,7 +93,7 @@ Recién ahí, hacerlo visible.
 > **Tu primera caja lleva algo de regalo.**
 >
 > **Elegí tu zona**
-> Si estás en CABA, GBA cercano o Pilar, los envíos van sin cargo.
+> Si estás en CABA o GBA cercano, los envíos van sin cargo.
 > Si estás en GBA norte y sur o Zona extendida, la suscripción incluye los 4 envíos de la zona.
 >
 > Se abona por transferencia. Escribinos y lo coordinamos.
@@ -157,7 +157,7 @@ Nombre de la propiedad: Zona de entrega
 
 Dos valores, con estos datos exactos:
 
-Valor 1: CABA, GBA cercano y Pilar — envíos incluidos
+Valor 1: CABA y GBA cercano — envíos incluidos
   Precio: 181200
   Precio promocional (o precio de oferta): 172140
   Stock: 10
@@ -208,7 +208,7 @@ Todos los lunes te escribimos con lo que va en la caja de esa semana, y podés c
 **Tu primera caja lleva algo de regalo.**
 
 **Elegí tu zona**
-Si estás en CABA, GBA cercano o Pilar, los envíos van sin cargo.
+Si estás en CABA o GBA cercano, los envíos van sin cargo.
 Si estás en GBA norte y sur o Zona extendida, la suscripción incluye los 4 envíos de la zona.
 
 Se abona por transferencia. Escribinos y lo coordinamos.

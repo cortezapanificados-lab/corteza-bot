@@ -67,11 +67,15 @@ Y los costos fijos del mes:
 
 | Zona | Flete | Cobra al cliente | **Queda** | Margen | Mezcla |
 |---|---:|---:|---:|---:|---:|
-| **Pilar** (reparto propio) | — | — | **$15.060** | **37,6%** | aparte |
+| **Pilar** ⬇️ | $9.580 | $4.650 | **$10.130** | **25,3%** | *entra en Muy lejana* |
 | Cercana (CABA) | $4.560 | — | **$10.500** | 26,2% | 40% |
 | Media | $6.385 | — | **$8.675** | 21,7% | 30% |
 | Lejana | $8.210 | $4.650 | **$11.500** | 28,8% | 20% |
 | Muy lejana | $9.580 | $4.650 | **$10.130** | 25,3% | 10% |
+
+> 🔴 **Pilar cambió el 21/09.** Dejó el reparto propio: lo reparte Flexit y entra en Muy lejana, con los mismos tres escalones. **Un pedido de Pilar pasó de dejar $15.060 a dejar $10.130.** A cambio, esos pedidos ahora consumen envíos del mínimo de 120, que antes tenía que llenar el AMBA solo.
+>
+> ⚠️ **Hay que rehacer la mezcla ponderada** (hoy 40% CABA · 30% Media · 20% Lejana · 10% Muy lejana, con Pilar aparte): Pilar entra en Muy lejana y le sube el peso.
 
 > 🔄 **Se dio vuelta el orden.** Con la regla real, **Lejana es la zona que más deja por pedido** ($11.500), por encima de CABA. No es que convenga vender ahí: es que el cliente paga parte del flete. **Si se activa el segundo escalón** (envío sin cargo desde $55.000 — `envios-amba.md` sección 3 quater), esas dos zonas vuelven a absorber el flete completo en los pedidos grandes.
 
@@ -247,7 +251,7 @@ En un pedido de $40.000 con envío sin cargo, el margen bruto tiene que alcanzar
 
 | Zona | Flete | Hay que cubrir | **Margen bruto mínimo** |
 |---|---:|---:|---:|
-| **Pilar** (reparto propio) | — | $3.300 | **8,3%** |
+| **Pilar** *(histórico: cuando había reparto propio)* | — | $3.300 | **8,3%** |
 | Cercana (CABA) | $4.560 | $7.860 | **19,7%** |
 | Media | $6.385 | $9.685 | **24,2%** |
 | Lejana | $8.210 | $11.510 | **28,8%** |

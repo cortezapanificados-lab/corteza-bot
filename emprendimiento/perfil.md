@@ -22,7 +22,9 @@ Corteza es una marca de panificados artesanales de Pilar, Buenos Aires, Argentin
 > |---|---:|---:|---:|
 > | **Cercana (CABA)** y **Media** | tarifa de la zona | **sin cargo** | **sin cargo** |
 > | **Lejana** y **Muy lejana** | tarifa de la zona | **$5.000** | **sin cargo** |
-> | **Pilar** (reparto propio) | sin cargo | sin cargo | sin cargo |
+> | **Pilar** | tarifa de la zona | **$5.000** | **sin cargo** |
+>
+> 🔴 **Pilar dejó el reparto propio el 21/09: lo reparte Flexit y entra en Zona extendida (Muy lejana), como Escobar.** Ya no tiene envío sin cargo. Es un cambio de precio para la base de clientes actual — ver la bitácora del 21/09.
 >
 > **Es mejor que el umbral único**: los $5.000 de las dos zonas caras bajan el flete promedio de $6.340 a **$4.945** y suben el techo de margen neto de 21,8% a **25,3%**.
 >
@@ -43,7 +45,9 @@ Corteza es una marca de panificados artesanales de Pilar, Buenos Aires, Argentin
 
 > ⚠️ **Lo que se le cobra al cliente NO es el costo: es costo ÷ 0,93.** Pago Nube se lleva su 7% también sobre el envío, así que cargar el costo exacto en Tiendanube **da pérdida en cada pedido**. La cuenta y los redondeos, en `envios-amba.md` sección 3.
 
-**Pilar está en la zona más cara**, igual que con Smart Post. Por eso las entregas de Pilar se siguen haciendo con **reparto propio**: por Flexit cada pedido de Pilar daría pérdida. **CABA es la zona más barata y la más rentable para vender.**
+**Pilar está en la zona más cara** ($9.580 de costo). **Desde el 21/09 las entregas de Pilar las hace Flexit**, con la misma regla que Escobar: el cliente paga $5.000 desde $40.000 y sin cargo desde $55.000. **Se terminó el reparto propio.**
+
+> ✅ **Una consecuencia buena: los pedidos de Pilar ahora SÍ consumen envíos de Flexit**, así que cuentan para el mínimo de 120. Antes el AMBA tenía que llenar ese cupo solo.
 
 Lo que incluye Flexit: **segunda y tercera visita sin costo adicional**, same-day, IVA aclarado por escrito y cobertura más amplia que Smart Post (suma Campana, Zárate, Luján y La Plata). Los seguros (0,5% depósito / 0,7% tránsito) son opcionales y **no se toman**.
 
@@ -83,6 +87,8 @@ Lo que incluye Flexit: **segunda y tercera visita sin costo adicional**, same-da
 > **El pedido promedio se modela en $40.000**, que es el umbral del envío sin cargo *(definido por Juan el 11/09/2026)*. Como el pedido promedio llega al umbral, **el flete lo paga Corteza en casi todos los pedidos**: es un costo del negocio, no del comprador.
 >
 > En un pedido de $40.000 de panificados queda **$15.060 (37,6%) antes del flete**. Después del flete depende de la zona: **$10.500 en CABA**, **$8.675 en Media**, y **$11.500 / $10.130 en Lejana y Muy lejana**, donde el cliente pone $5.000. **Ponderado por la mezcla esperada: $10.115, el 25,3%.**
+>
+> ⚠️ **Pendiente desde el 21/09: rehacer la mezcla.** Pilar dejó de ser "aparte" y entra en Muy lejana, así que el peso de esa zona sube y el promedio baja un poco. Un pedido de Pilar ahora deja **$10.130**, no $15.060.
 >
 > *(El $8.720 que figuraba acá asumía envío sin cargo en las cuatro zonas. Con la regla real es $10.115 — ver `numeros.md` sección 2.)*
 
@@ -214,7 +220,7 @@ Los vinos son lo más comparable de todo el catálogo: **no tocarlos sin chequea
 
 ## Logística
 
-- Zona de entrega: hoy únicamente Pilar; al lanzar, todo el AMBA vía **Flexit**. Pilar queda siempre con reparto propio.
+- Zona de entrega: hoy únicamente Pilar; al lanzar, todo el AMBA vía **Flexit**. **Pilar también va por Flexit desde el 21/09.**
 - Día de entrega: **jueves** (único día, para Pilar y para todo el AMBA).
 - Horario: de 9 a 17 hs aprox.
 
@@ -226,7 +232,7 @@ Los vinos son lo más comparable de todo el catálogo: **no tocarlos sin chequea
 | **Lunes a la tarde** | Se le manda el pedido a cada productor. |
 | Martes y miércoles | Producen los proveedores. |
 | **Jueves temprano** | **Llega toda la mercadería**, se arma pedido por pedido con su packaging y se entrega a la logística. |
-| **Jueves** | **Entrega**: Flexit al AMBA, reparto propio en Pilar. |
+| **Jueves** | **Entrega**: Flexit a todo el AMBA, Pilar incluido. |
 
 > ⚠️ **El jueves a la mañana es el cuello de botella de la operación**: llega la mercadería, se arman todos los pedidos y sale la colecta, todo el mismo día. Con 30 pedidos es la primera vez que se hace a esa escala. **Tener el packaging comprado y preparado desde antes es lo que descomprime esa mañana.**
 
@@ -238,7 +244,7 @@ Los vinos son lo más comparable de todo el catálogo: **no tocarlos sin chequea
 > |---|---|
 > | **Cercana (CABA)** y **Media (Cordón 1)** | **Envío sin cargo** |
 > | **Lejana** y **Muy lejana** | **$5.000 de envío** |
-> | **Pilar** (reparto propio) | **Sin cargo siempre** |
+> | **Pilar** | **Igual que Zona extendida** |
 >
 > Por debajo de $40.000 se cobra el envío de la zona ($4.900 / $6.900 / $8.900 / $10.400).
 >

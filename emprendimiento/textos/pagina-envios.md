@@ -51,7 +51,6 @@ Entregamos **todos los jueves** en CABA, el GBA y Pilar.
 
 > **En CABA y GBA cercano, el envío es sin cargo desde $40.000.**
 > **En el resto del AMBA, desde $55.000.**
-> **Y en Pilar es sin cargo siempre, sin mínimo de compra.**
 
 Por debajo de esos montos, el envío cuesta según tu zona:
 
@@ -61,7 +60,6 @@ Por debajo de esos montos, el envío cuesta según tu zona:
 | **GBA cercano** | $6.900 | **sin cargo** | **sin cargo** |
 | **GBA norte y sur** | $8.900 | $5.000 | **sin cargo** |
 | **Zona extendida** | $10.400 | $5.000 | **sin cargo** |
-| **Pilar** | **sin cargo** | **sin cargo** | **sin cargo** |
 
 **¿En qué zona estás?**
 
@@ -71,15 +69,9 @@ Por debajo de esos montos, el envío cuesta según tu zona:
 
 **GBA norte y sur** — Tigre y Nordelta · San Miguel · José C. Paz · Malvinas Argentinas · Moreno · Merlo · La Matanza sur · Quilmes · Berazategui · Florencio Varela · Almirante Brown · Esteban Echeverría · Ezeiza
 
-**Zona extendida** — Escobar (con Garín y Maschwitz) · Del Viso · Derqui · Villa Rosa · General Rodríguez · Luján · Campana · Zárate · Marcos Paz · Cañuelas · San Vicente · Guernica · La Plata · Berisso · Ensenada
+**Zona extendida** — Pilar · Escobar (con Garín y Maschwitz) · Del Viso · Derqui · Villa Rosa · General Rodríguez · Luján · Campana · Zárate · Marcos Paz · Cañuelas · San Vicente · Guernica · La Plata · Berisso · Ensenada
 
 *El costo exacto se calcula solo en el carrito cuando ponés tu dirección, y te vamos mostrando cuánto te falta para el próximo escalón.*
-
----
-
-### Pilar
-
-En Pilar entregamos nosotros, en mano, casa por casa. **El envío es sin cargo, siempre y sin mínimo de compra.**
 
 ---
 
@@ -97,7 +89,7 @@ Si sos de un barrio donde ya entregamos, hay algo que te conviene: **juntá tu p
 
 Al suscribirte elegís tu zona, y es la única diferencia de precio entre los dos planes:
 
-- **CABA, GBA cercano y Pilar** — los cuatro envíos van **sin cargo**.
+- **CABA y GBA cercano** — los cuatro envíos van **sin cargo**.
 - **GBA norte y sur y Zona extendida** — el plan cuesta **$20.000 más por mes**, que es lo que cuestan los cuatro envíos de tu zona.
 
 **Fijate en las listas de arriba cuál te toca antes de elegir tu plan.**
@@ -119,7 +111,7 @@ El correo vuelve a intentarlo. Están incluidas la segunda y la tercera visita, 
 Por ahora no. Si sos de otra zona, escribinos igual y te avisamos cuando lleguemos.
 
 **¿Puedo retirar el pedido?**
-Sí, en Pilar. Escribinos y coordinamos.
+Sí, en Pilar, sin costo de envío. Escribinos y coordinamos.
 
 ---
 
@@ -145,17 +137,13 @@ Sí, en Pilar. Escribinos y coordinamos.
   - **Nordelta se mantuvo aparte a propósito**: la gente dice "soy de Nordelta", no "soy de Tigre", y es un mercado que interesa
   - El separador pasó de coma a **·**, que comprime bastante a la vista
 
-> ## 🔴 PREGUNTA ABIERTA que apareció al agrupar: ¿hasta dónde llega "Pilar"?
+> ## ✅ RESUELTO EL 21/09: Pilar pasa a Flexit y a Zona extendida
 >
-> **Del Viso, Derqui y Villa Rosa son localidades del partido de Pilar**, pero en el tarifario de Flexit figuran aparte y hoy están cargadas como **Zona extendida ($10.400)**, mientras que "Pilar" va con **reparto propio y sin cargo**.
+> **Juan decidió que Pilar deja el reparto propio: lo reparte Flexit y cae en Zona extendida**, con los mismos tres escalones que Escobar. **Deja de tener envío sin cargo.**
 >
-> **Hay que definir qué cubre el reparto propio:**
+> Eso **disuelve la pregunta que había quedado abierta** sobre hasta dónde llegaba "Pilar": si Pilar cobra igual que Del Viso, Derqui y Villa Rosa, ya no importa dónde termina el partido. **Todos entran en la misma fila.**
 >
-> - Si cubre **todo el partido**, entonces Del Viso, Derqui y Villa Rosa salen de Zona extendida y pasan a la fila de Pilar, sin cargo.
-> - Si cubre **solo Pilar centro y los countries**, la página tiene que decirlo con todas las letras, porque alguien de Del Viso va a leer "Pilar: sin cargo" y va a reclamar.
->
-> **Por ahora quedaron listadas en Zona extendida**, que es lo que dice el tarifario. **Es la opción conservadora, no la confirmada.**
-- ✅ **El umbral de Pilar quedó resuelto:** sin cargo siempre, sin mínimo. (La nota vieja preguntaba si eran "$18.000"; quedó confirmado el 07/09 que Pilar va con reparto propio y sin cargo.)
+> ⚠️ **Es un cambio de precio para la base de clientes actual, no para los nuevos.** Pilar es 44 de los 45 pedidos del período. Ver la entrada del 21/09 en la bitácora.
 
 ### Lo de siempre
 

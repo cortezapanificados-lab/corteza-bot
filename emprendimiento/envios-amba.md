@@ -92,7 +92,7 @@ Pago Nube se lleva su comisión de **todo** lo que cobrás, envío incluido. Si 
 | **Media** | $6.385 | $6.866 | **$6.900** |
 | **Lejana** | $8.210 | $8.828 | **$8.900** |
 | **Muy lejana** | $9.580 | $10.301 | **$10.400** |
-| **Pilar** (reparto propio) | — | — | **sin cargo** |
+| **Pilar** *(desde el 21/09 va por Flexit)* | $9.580 | $10.301 | **$10.400** |
 
 Redondeados para arriba, así queda un colchoncito.
 
@@ -111,7 +111,9 @@ Redondeados para arriba, así queda un colchoncito.
 
 ---
 
-## 3 bis. 🤔 Propuesta abierta: meter a Pilar en el umbral de $40.000
+## 3 bis. ⛔ SUPERADO — Propuesta de meter a Pilar en el umbral de $40.000
+
+> **Superado el 21/09/2026: Pilar dejó el reparto propio y pasó a Flexit, en Zona extendida.** Todo este análisis quedó como referencia histórica — la conclusión era "no tocar Pilar por ahora", y Juan decidió lo contrario con información de la calle. **El razonamiento sobre el ticket de los no-Eugenio (~$21.000) sigue siendo el dato más importante a vigilar después del cambio.**
 
 *Planteada por Juan el 11/09/2026. **Revisada el mismo día y el análisis dio vuelta.** Todavía no está decidido.*
 
@@ -170,7 +172,25 @@ Sobre 18 pedidos mensuales, supongamos 2 de Eugenio (que no cambian) y 16 del re
 
 ---
 
-## 3 ter. ✅ LA REGLA VIGENTE — corregida el 18/09/2026
+## 3 ter. ✅ LA REGLA VIGENTE — corregida el 18/09/2026 y el 21/09/2026
+
+> ## 🔴 21/09/2026 — PILAR DEJA EL REPARTO PROPIO
+>
+> **Decidido por Juan: Pilar lo reparte Flexit y entra en Zona extendida (Muy lejana), igual que Escobar.** Se terminó el envío sin cargo en Pilar.
+>
+> | Pilar | Menos de $40.000 | $40.000 a $55.000 | Desde $55.000 |
+> |---|---:|---:|---:|
+> | **Antes** | sin cargo | sin cargo | sin cargo |
+> | **Ahora** | **$10.400** | **$5.000** | **sin cargo** |
+>
+> **Lo que cambia, en orden de importancia:**
+>
+> 1. ⚠️ **Es un aumento de precio para la base actual, no para los clientes nuevos.** Pilar son 44 de los 45 pedidos del período y el ticket de los recurrentes que no son Eugenio ronda **$21.000**: a ese ticket, $10.400 de envío es **+50%**. Hay que avisarles antes, no que se enteren en el checkout.
+> 2. **Un pedido de Pilar pasa de dejar $15.060 a dejar $10.130.**
+> 3. ✅ **Pero los pedidos de Pilar ahora consumen envíos del mínimo de 120**, que antes el AMBA tenía que llenar solo.
+> 4. ✅ **Se disuelve la pregunta de hasta dónde llega "Pilar"**: Del Viso, Derqui y Villa Rosa quedan en la misma fila que Pilar. Ya no importa dónde termina el partido.
+> 5. **Quedan sin objeto** el cadete/moto local y la estimación del costo del reparto propio.
+> 6. 📦 **El packaging pasa a importar en Pilar también.** La nota de la sección 2 decía que con entrega en mano una bolsa alcanzaba; ahora el pedido de Pilar viaja apilado como cualquier otro.
 
 > 🔴 **Este archivo, `perfil.md` y `numeros.md` decían que el umbral era $40.000 para todo el AMBA. No es así.** Juan aclaró el 18/09 cuál es la regla que realmente quedó armada, y es **diferenciada por zona**:
 
@@ -406,6 +426,8 @@ El mínimo mensual es, en los hechos, **un costo fijo nuevo de $726.993 por mes*
 **Pero dentro del cupo de 120 es distinto: ahí el envío ya está pagado y el pedido de Pilar viaja gratis.** Esa es la única forma en que Pilar entra a Flexit.
 
 > ### ✅ Decidido el 07/09/2026: en Pilar reparte Juan, y el envío sigue sin cargo
+>
+> ⛔ **REVERTIDO el 21/09/2026: Pilar pasa a Flexit y a Zona extendida.** Lo que sigue es la decisión del 07/09, que ya no rige.
 >
 > Para el lanzamiento, **Pilar se mantiene con reparto propio y envío sin cargo**, como hasta ahora. No se toca nada: ni tarifa al cliente, ni comunicación.
 >
