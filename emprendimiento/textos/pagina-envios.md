@@ -45,8 +45,6 @@ Entregamos **todos los jueves** en CABA, zona norte, el resto del AMBA y Pilar.
 
 > **Pedís el lunes, comés pan del jueves.**
 
-💡 **En la web esto va como una línea de la semana** (Lun a Dom) con el lunes y el jueves marcados. Es lo que hace que se entienda el ritual de un vistazo, sin leer.
-
 ---
 
 ### Costos de envío
@@ -161,6 +159,7 @@ Sí, en Pilar. Escribinos y coordinamos.
 
 ### Lo de siempre
 
+- 💡 **La sección "Cómo funciona" queda mucho mejor como una línea de la semana** (Lun a Dom con el lunes y el jueves marcados), como está en la vista previa. Es lo que hace que se entienda el ritual de un vistazo, sin leer. **Si el editor de Tiendanube no lo permite, el texto plano también funciona.** *(Esta nota estaba metida adentro del bloque "TEXTO PARA PEGAR" hasta el 21/09 — se movió acá para que nadie la pegue en la página.)*
 - **No prometas franja horaria.** Todavía no está confirmado con Flexit si se puede elegir. Por eso dice "durante el día". Cuando lo confirmes, esa respuesta mejora mucho: poder elegir la franja es un diferencial real.
 - **Lo de la segunda y tercera visita sin costo** es una condición real de Flexit y **conviene decirlo**: es de las pocas cosas que tranquilizan a alguien que compra pan fresco por internet por primera vez.
 - **"Pedís el lunes, comés pan del jueves"** es la línea que más trabaja de toda la página. Sirve también para Instagram y para el anuncio de Meta.
@@ -176,3 +175,76 @@ La página promete tres escalones. **Si Tiendanube no los tiene cargados igual, 
 - [ ] Dirección de **Escobar**, pedido de $45.000 → **$5.000**
 - [ ] Dirección de **Escobar**, pedido de $56.000 → **sin cargo**
 - [ ] Dirección de **Escobar**, pedido de $30.000 → **$10.400**
+
+
+---
+
+## Encargo para Claude in Chrome — listo para copiar y pegar
+
+*Armado el 21/09/2026, a pedido de Juan. Formato de la casa (ver `encargo-claude-chrome-tienda.md`).*
+
+> **El login se hace a mano** en `tiendanube.com` (cuenta `juan_guerrini@hotmail.com`): Tiendanube manda un código de verificación por mail que el agente no puede resolver solo. Dejar la pestaña del panel abierta y recién ahí pegarle el encargo.
+>
+> **Es una sola tanda**, con un freno: **el agente NO suma la página al menú.** Así la página existe en `/envios` y se puede revisar antes de que la vea un cliente.
+
+```
+Estás en el panel de administración de Tiendanube de la tienda Corteza
+(cortezapan.com.ar). Necesito que crees UNA página nueva. No toques nada
+más de la tienda.
+
+PASO 1 — Crear la página
+Andá a Mi Tiendanube → Páginas → Crear página.
+
+- Nombre de la página: Envíos
+- URL / handle: envios
+- Contenido: el texto que está al final de este mensaje, entre las líneas
+  de guiones.
+
+PASO 2 — El SEO de la página
+En la sección de SEO de esa misma página, cargá:
+
+- Título: Envíos — Corteza | Pan de masa madre a domicilio en CABA y AMBA
+- Descripción: Entregamos todos los jueves en CABA, GBA y Pilar. Hacé tu
+  pedido hasta el lunes a las 14. Envío sin cargo desde $40.000 en CABA y
+  zona norte.
+
+PASO 3 — NO la sumes al menú
+Dejá la página creada pero NO la agregues al menú de navegación. Eso lo va
+a hacer Juan después de revisarla.
+
+CÓMO PEGAR EL TEXTO
+- Los títulos que en el texto empiezan con ### van como encabezados.
+- Donde el texto tiene **asteriscos dobles**, eso va en negrita y los
+  asteriscos NO se escriben.
+- La tabla de costos va como tabla de verdad, con sus filas y columnas. Si
+  el editor no te deja hacer tablas, avisame antes de improvisar: NO la
+  pegues como texto corrido.
+- Las líneas que son solo --- son separadores: usá la línea divisoria del
+  editor, o dejá un espacio en blanco.
+- La frase "Pedís el lunes, comés pan del jueves." va destacada, como cita
+  o en un tamaño más grande. Es la línea más importante de la página.
+
+REGLAS QUE NO PODÉS ROMPER
+- No toques ningún producto, ni precios, ni stock, ni fotos.
+- No toques la configuración de envíos, ni las zonas, ni los medios de pago.
+- No modifiques ninguna otra página que ya exista.
+- No agregues la página al menú.
+- No inventes, no resumas ni reescribas nada. Pegá exactamente lo que está
+  acá. Los montos y los nombres de las zonas son exactos: si cambiás uno,
+  la tienda le promete al cliente algo distinto de lo que le va a cobrar.
+- Si algo no se puede hacer como está pedido, NO improvises: anotalo y
+  seguí con lo que sí se pueda.
+
+AL TERMINAR
+Contame qué cargaste, qué no pudiste y por qué, y pasame el link público de
+la página para revisarla.
+
+--------------------------------------------------
+TEXTO DE LA PÁGINA:
+
+(el bloque completo de la sección "TEXTO PARA PEGAR" de este archivo, tal
+cual, sin las notas)
+--------------------------------------------------
+```
+
+> ⚠️ **Antes de sumarla al menú, correr las cuatro pruebas de carrito** que están más arriba. **Si la tienda no tiene los tres escalones cargados igual que lo que promete la página, la página miente**, y un reclamo por eso es peor que no tener página.

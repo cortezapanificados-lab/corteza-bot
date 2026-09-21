@@ -2,6 +2,23 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 21/09/2026 (4) — El encargo para cargar la página de Envíos
+
+Quedó escrito en `textos/pagina-envios.md`, al final: **una sola tanda para Claude in Chrome**, con el texto completo, el SEO y las instrucciones de formato.
+
+**Dos frenos puestos a propósito:**
+
+1. **El agente NO suma la página al menú.** La página queda creada en `/envios` y se revisa antes de que la vea un cliente.
+2. **Si el editor no permite tablas de verdad, tiene que avisar y no improvisar.** La tabla de los tres escalones pegada como texto corrido es ilegible, y es justo el dato que evita el reclamo.
+
+### 🐛 Y de paso, un arreglo
+
+**Había una nota para Juan metida adentro del bloque "TEXTO PARA PEGAR"**: la que decía *"💡 En la web esto va como una línea de la semana..."*. Estaba ahí desde el 07/09. **El agente la habría pegado tal cual en la página del cliente.** Se movió a las notas del final.
+
+⚠️ **Sigue valiendo: antes de sumar la página al menú hay que correr las cuatro pruebas de carrito.** Si la tienda no tiene los tres escalones cargados igual que lo que promete la página, la página miente.
+
+---
+
 ## 21/09/2026 (3) — La página de Envíos, segunda vuelta
 
 Juan pidió dos cosas: **que la regla quede dicha con todas las letras** (incluida la de la suscripción) y **listar ciudades en vez de localidades**, para que ocupe menos.
