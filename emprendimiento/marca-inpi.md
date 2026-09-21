@@ -98,6 +98,44 @@ Corteza usa **Playfair Display**, una tipografía de Google, gratuita y usadísi
 
 ---
 
+## 📋 ¿Clase 30 o clase 35? — analizado el 21/09/2026
+
+> ### Las dos. La 35 está bien; **la que falta es la 30.**
+
+**La 35 no fue un error.** Protege el nombre del comercio: la tienda online, la venta minorista de alimentos, la curaduría. Es exactamente lo que hace Corteza.
+
+**Pero la 30 protege otra cosa: el nombre sobre el producto.** Y Corteza no es solo una tienda que revende marcas ajenas — **los panificados se venden bajo la marca propia**, aunque los hornee un tercero. El pan que llega a la casa del cliente dice Corteza. Eso es uso de marca sobre producto, y vive en la clase 30.
+
+| | Clase 35 *(registrada)* | Clase 30 *(falta)* |
+|---|---|---|
+| Que nadie abra una tienda de alimentos llamada Corteza | ✅ | — |
+| Que nadie ponga "Corteza" en un paquete de pan | — | ✅ |
+
+> 🔴 **El riesgo concreto:** si alguien registra CORTEZA en clase 30 para panificados, **podría impedir poner la marca propia en el propio pan.** Quedaría la tienda, pero no la etiqueta.
+
+### Qué cubriría la 30 en este catálogo
+
+**Todo lo que lleva la marca Corteza:** panes de molde, panes de campo, hogaza, prepizzas, pan árabe, grisines, budines, cookies, pepas. *(También té, yerba y miel, si algún día se hacen propios.)*
+
+**Lo demás no hace falta** —aceitunas, quesos, hummus, aceite, mermeladas, vinos— porque van con la marca del productor. **Con sumar la 30 alcanza.**
+
+### El dato del propio expediente, que corta para los dos lados
+
+**En clase 30 ya existen CORTEZA GOURMET (4.422.210) y CORTEZA CRAFTERS (4.453.971).**
+
+- ✅ **A favor:** es munición para la oposición actual — demuestra que "Corteza" coexiste pacíficamente entre varios titulares.
+- ⚠️ **En contra:** la clase 30 **ya está poblada**, así que una solicitud ahí puede recibir oposición de alguno de ellos. No es motivo para no hacerlo: es motivo para que **un agente de PI redacte el detalle de productos acotado a panificados**.
+
+> ✅ **Y algo bueno: el opositor actual no tiene nada que ver con la 30** — su marca es clase 35. Presentar en 30 **no le da nueva munición** en el expediente abierto.
+
+### Recomendación
+
+- [ ] **Sumarlo a la misma consulta con el agente de PI** que hay que hacer por la oposición: que revise la limitación de clase 35 **y** presente la solicitud en clase 30.
+
+**No es urgente de hoy para mañana** —Corteza ya opera y nadie lo discutió—, pero **la prioridad marcaria se cuenta por fecha de presentación**, así que tampoco conviene dejarlo seis meses. El costo es otra tasa del INPI por clase; **el monto actual hay que chequearlo, cambia seguido.**
+
+---
+
 ## Cómo sigue el procedimiento (según instructivo oficial del INPI)
 
 1. **Hasta el 22/10/2026 — etapa de negociación.** Los 3 meses son para llegar a un acuerdo con el oponente y que levante la oposición. En esta etapa NO hay nada que contestar formalmente ante el INPI.

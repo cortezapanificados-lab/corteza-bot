@@ -2,6 +2,35 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 21/09/2026 (10) — ¿Clase 30 o 35? Las dos: falta la 30
+
+> **La 35 está bien y no fue un error.** Protege el nombre del comercio: tienda online, venta minorista de alimentos, curaduría.
+>
+> **Lo que falta es la clase 30, que protege el nombre sobre el producto.**
+
+**El punto:** Corteza no es solo una tienda que revende marcas ajenas — **los panificados se venden bajo la marca propia**, aunque los hornee un tercero. El pan que llega a la casa del cliente dice Corteza.
+
+| | Clase 35 *(registrada)* | Clase 30 *(falta)* |
+|---|---|---|
+| Que nadie abra una tienda de alimentos llamada Corteza | ✅ | — |
+| Que nadie ponga "Corteza" en un paquete de pan | — | ✅ |
+
+🔴 **Sin la 30, alguien que la registre para panificados podría impedir poner la marca propia en el propio pan.** Quedaría la tienda, pero no la etiqueta.
+
+**Qué cubriría:** panes de molde y de campo, hogaza, prepizzas, pan árabe, grisines, budines, cookies, pepas. **Lo de terceros no hace falta** (va con la marca del productor), así que **con sumar la 30 alcanza**.
+
+### El dato del expediente que corta para los dos lados
+
+**En clase 30 ya existen CORTEZA GOURMET (4.422.210) y CORTEZA CRAFTERS (4.453.971).**
+
+- ✅ Munición para la oposición actual: "Corteza" coexiste entre varios titulares.
+- ⚠️ Pero la 30 ya está poblada: una solicitud puede recibir oposición. **El detalle de productos lo tiene que redactar el agente de PI, acotado a panificados.**
+- ✅ **El opositor actual es clase 35: presentar en 30 no le da nueva munición.**
+
+**Recomendación: sumarlo a la misma consulta con el agente de PI.** No es urgente de hoy para mañana, pero **la prioridad marcaria se cuenta por fecha de presentación**.
+
+---
+
 ## 21/09/2026 (9) — Marca: por qué no conviene cambiar la tipografía y volver atrás después
 
 Juan preguntó si podía cambiar la tipografía, conseguir el levantamiento y la marca, y después volver al logo de hoy.
