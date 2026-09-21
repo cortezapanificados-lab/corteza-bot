@@ -62,6 +62,11 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 
 Con un despacho único la lista de espera lo llenaba sola. **Con tres o cuatro, la lista llena el primero y los siguientes necesitan demanda nueva.** Es lo que ya advertía `campana-meta.md`: la publicidad importa más en las semanas 2, 3 y 4 que en la 1. **Ese riesgo pasó de teórico a principal.**
 
+### 🏷️ Renombrar la variante de la suscripción *(21/09)*
+
+- [ ] 🔴 **Renombrar la variante barata en Tiendanube a "CABA, GBA cercano y Pilar — envíos incluidos".** El producto está creado con el nombre viejo, que decía "Zona Norte" y **no nombraba a Pilar**. Pilar tiene reparto propio y envío sin cargo, así que le corresponde la variante de $172.140 — pero hoy un suscriptor de Pilar no sabe cuál elegir y **podría pagar $20.000 de más**. No es teórico: Eugenio es el candidato número uno de la suscripción.
+- [x] ~~**"Zona Norte" como nombre de zona.**~~ → ✅ **Eliminado el 21/09.** Es geografía, no logística: Pilar, Escobar y Nordelta son todos zona norte y están en tres escalones distintos. La zona Media se llama **GBA cercano** a secas. Ya corregido en la web y en toda la memoria.
+
 ### 🗺️ ¿Hasta dónde llega "Pilar"? *(21/09)*
 
 - [ ] 🔴 **Definir si el reparto propio de Pilar cubre todo el partido o solo Pilar centro y los countries.** **Del Viso, Derqui y Villa Rosa son del partido de Pilar** pero están cargadas como **Zona extendida ($10.400)**, mientras que "Pilar" va sin cargo. **Si alguien de Del Viso lee "Pilar: sin cargo", reclama.** Hoy quedaron en Zona extendida, que es lo conservador pero no lo confirmado. Detalle en `textos/pagina-envios.md`.
@@ -76,7 +81,7 @@ Con un despacho único la lista de espera lo llenaba sola. **Con tres o cuatro, 
 ### 🔁 La suscripción del Pack Semanal *(decidida el 18/09)*
 
 - [x] ~~🔴 **Cargar la suscripción como UN producto con dos variantes de zona**~~ → ✅ **Hecho el 21/09: el producto está creado con las dos variantes.** Falta la foto, la regla de envío gratis y las pruebas de carrito.
-- [ ] ~~(referencia)~~ **Cargar la suscripción como UN producto con dos variantes de zona**, con el envío adentro del precio: **$172.140** (CABA, Zona Norte y GBA cercano) y **$192.140** (GBA norte y sur, y Zona extendida). **Si se deja que Tiendanube calcule el envío, el carrito de $172.140 dispara el umbral de $55.000 y no cobra nada.** Paso a paso en `textos/suscripcion-tiendanube.md`.
+- [ ] ~~(referencia)~~ **Cargar la suscripción como UN producto con dos variantes de zona**, con el envío adentro del precio: **$172.140** (CABA, GBA cercano y Pilar) y **$192.140** (GBA norte y sur, y Zona extendida). **Si se deja que Tiendanube calcule el envío, el carrito de $172.140 dispara el umbral de $55.000 y no cobra nada.** Paso a paso en `textos/suscripcion-tiendanube.md`.
 - [ ] 🔴 **Confirmar que el plan Esencial deja crear una regla de envío gratis limitada a un producto específico.** Si solo permite "desde $X", el armado de la suscripción no sirve y hay que resolverlo de otra forma.
 - [ ] 🔴 **Pedido de prueba a una dirección de Escobar antes de publicar:** el total tiene que dar **$192.140 clavados**, sin línea de envío. Y otro a CABA: **$172.140**.
 - [ ] 📋 **Armar la planilla de entregas pendientes** (quién tiene cuántas, quién pausó). Con diez suscriptores son diez cobros y cuarenta entregas por mes.

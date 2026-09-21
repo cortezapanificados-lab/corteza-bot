@@ -9,7 +9,7 @@
 **Dónde va:** Panel → Mi Tiendanube → Páginas → Crear página. Nombre: **Envíos**. URL: `/envios`. Sumarla al menú principal, al lado de "Ustedes".
 
 **Título SEO:** `Envíos — Corteza | Pan de masa madre a domicilio en CABA y AMBA`
-**Descripción SEO:** `Entregamos todos los jueves en CABA, GBA y Pilar. Hacé tu pedido hasta el lunes a las 14. Envío sin cargo desde $40.000 en CABA y zona norte.`
+**Descripción SEO:** `Entregamos todos los jueves en CABA, GBA y Pilar. Hacé tu pedido hasta el lunes a las 14. Envío sin cargo desde $40.000 en CABA y GBA cercano.`
 
 ---
 
@@ -31,7 +31,7 @@ Esta página es **la referencia**: el link que mandás por WhatsApp cuando algui
 
 ### Envíos
 
-Entregamos **todos los jueves** en CABA, zona norte, el resto del AMBA y Pilar.
+Entregamos **todos los jueves** en CABA, el GBA y Pilar.
 
 ---
 
@@ -49,7 +49,7 @@ Entregamos **todos los jueves** en CABA, zona norte, el resto del AMBA y Pilar.
 
 ### Costos de envío
 
-> **En CABA y zona norte, el envío es sin cargo desde $40.000.**
+> **En CABA y GBA cercano, el envío es sin cargo desde $40.000.**
 > **En el resto del AMBA, desde $55.000.**
 > **Y en Pilar es sin cargo siempre, sin mínimo de compra.**
 
@@ -58,7 +58,7 @@ Por debajo de esos montos, el envío cuesta según tu zona:
 | Tu zona | Menos de $40.000 | **Desde $40.000** | **Desde $55.000** |
 |---|---:|---:|---:|
 | **CABA** | $4.900 | **sin cargo** | **sin cargo** |
-| **Zona Norte y GBA cercano** | $6.900 | **sin cargo** | **sin cargo** |
+| **GBA cercano** | $6.900 | **sin cargo** | **sin cargo** |
 | **GBA norte y sur** | $8.900 | $5.000 | **sin cargo** |
 | **Zona extendida** | $10.400 | $5.000 | **sin cargo** |
 | **Pilar** | **sin cargo** | **sin cargo** | **sin cargo** |
@@ -67,7 +67,7 @@ Por debajo de esos montos, el envío cuesta según tu zona:
 
 **CABA** — toda la ciudad.
 
-**Zona Norte y GBA cercano** — Vicente López · San Isidro · San Fernando · San Martín · Tres de Febrero · Morón · Hurlingham · Ituzaingó · Avellaneda · Lanús · Lomas de Zamora · La Matanza norte
+**GBA cercano** — Vicente López · San Isidro · San Fernando · San Martín · Tres de Febrero · Morón · Hurlingham · Ituzaingó · Avellaneda · Lanús · Lomas de Zamora · La Matanza norte
 
 **GBA norte y sur** — Tigre y Nordelta · San Miguel · José C. Paz · Malvinas Argentinas · Moreno · Merlo · La Matanza sur · Quilmes · Berazategui · Florencio Varela · Almirante Brown · Esteban Echeverría · Ezeiza
 
@@ -97,7 +97,7 @@ Si sos de un barrio donde ya entregamos, hay algo que te conviene: **juntá tu p
 
 Al suscribirte elegís tu zona, y es la única diferencia de precio entre los dos planes:
 
-- **CABA, Zona Norte y GBA cercano** — los cuatro envíos van **sin cargo**.
+- **CABA, GBA cercano y Pilar** — los cuatro envíos van **sin cargo**.
 - **GBA norte y sur y Zona extendida** — el plan cuesta **$20.000 más por mes**, que es lo que cuestan los cuatro envíos de tu zona.
 
 **Fijate en las listas de arriba cuál te toca antes de elegir tu plan.**
@@ -163,7 +163,8 @@ Sí, en Pilar. Escribinos y coordinamos.
 - **No prometas franja horaria.** Todavía no está confirmado con Flexit si se puede elegir. Por eso dice "durante el día". Cuando lo confirmes, esa respuesta mejora mucho: poder elegir la franja es un diferencial real.
 - **Lo de la segunda y tercera visita sin costo** es una condición real de Flexit y **conviene decirlo**: es de las pocas cosas que tranquilizan a alguien que compra pan fresco por internet por primera vez.
 - **"Pedís el lunes, comés pan del jueves"** es la línea que más trabaja de toda la página. Sirve también para Instagram y para el anuncio de Meta.
-- **La tabla está escrita para el cliente, no para vos.** Los nombres de las zonas son los comerciales ("Zona Norte", "GBA norte y sur"), no los de Flexit ("Media", "Lejana").
+- **La tabla está escrita para el cliente, no para vos.** Los nombres de las zonas son los comerciales ("GBA cercano", "GBA norte y sur"), no los de Flexit ("Media", "Lejana").
+- 🔴 **"Zona Norte" se eliminó el 21/09, por pedido de Juan, y el motivo vale para cualquier nombre futuro: es geografía, no logística.** Pilar, Escobar y Nordelta son todos zona norte y están en tres escalones distintos. **Un nombre que agrupa por dirección, cuando la regla agrupa por distancia, se da vuelta en la cara.** La zona Media pasó a llamarse **GBA cercano** a secas. *(Juan ya lo corrigió en la web.)*
 - **Cuando cambien las tarifas de Flexit** (son mensuales), esta página hay que actualizarla junto con las zonas de Tiendanube. **Ya pasó una vez: el 07/09 subieron 4,6% de un mes al otro.** Los precios de la tabla son los del tarifario del 07/09/2026.
 - **Recordá la fórmula:** lo que se cobra es **costo ÷ 0,93**, no el costo. Pago Nube se lleva su 7% también sobre el envío.
 
@@ -206,7 +207,7 @@ En la sección de SEO de esa misma página, cargá:
 - Título: Envíos — Corteza | Pan de masa madre a domicilio en CABA y AMBA
 - Descripción: Entregamos todos los jueves en CABA, GBA y Pilar. Hacé tu
   pedido hasta el lunes a las 14. Envío sin cargo desde $40.000 en CABA y
-  zona norte.
+  GBA cercano.
 
 PASO 3 — NO la sumes al menú
 Dejá la página creada pero NO la agregues al menú de navegación. Eso lo va

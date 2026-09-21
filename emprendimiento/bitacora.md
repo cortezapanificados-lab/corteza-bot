@@ -2,6 +2,35 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 21/09/2026 (5) — Se elimina "Zona Norte" como nombre de zona, y aparece el agujero de Pilar
+
+### La corrección de Juan
+
+> **La zona Media no se llama más "Zona Norte y GBA cercano". Se llama "GBA cercano".** *(Juan ya lo corrigió en la web.)*
+
+**El motivo vale para cualquier nombre futuro: "Zona Norte" es geografía, no logística.** Pilar, Escobar y Nordelta son todos zona norte y están en **tres escalones distintos**. Un nombre que agrupa por dirección, cuando la regla agrupa por distancia, se da vuelta en la cara.
+
+Aplicado en `textos/pagina-envios.md`, en la vista previa, en `suscripciones.md` y en `textos/suscripcion-tiendanube.md`.
+
+### 🔴 Y al hacer el cambio apareció un agujero: Pilar no entraba en ninguna variante de la suscripción
+
+Las dos variantes eran *"CABA, Zona Norte y GBA cercano"* y *"GBA norte y sur, y Zona extendida"*. **Pilar no está en ninguna de las dos** — y Pilar es la única zona con reparto propio y envío sin cargo siempre.
+
+**No es teórico:** `suscripciones.md` tiene anotado que **Eugenio, el recurrente de Pilar que siempre gasta más de $40.000, es el candidato perfecto para la suscripción.** Si se suscribía hoy, no sabía cuál elegir — y peor, podía elegir la de $192.140 y pagar $20.000 de más por un envío que Juan le hace gratis.
+
+**Corregido:** la variante barata pasa a llamarse **"CABA, GBA cercano y Pilar — envíos incluidos"**.
+
+| Variante | Precio | **Promocional** |
+|---|---:|---:|
+| **CABA, GBA cercano y Pilar — envíos incluidos** | $181.200 | **$172.140** |
+| **GBA norte y sur, y Zona extendida — incluye los 4 envíos (+$20.000)** | $201.200 | **$192.140** |
+
+⚠️ **El producto ya está creado en la tienda con el nombre viejo.** Hay que renombrar la variante a mano.
+
+Vista previa actualizada: https://claude.ai/artifact/Qmj7bnUvSzz2kGFTCzyf5P
+
+---
+
 ## 21/09/2026 (4) — El encargo para cargar la página de Envíos
 
 Quedó escrito en `textos/pagina-envios.md`, al final: **una sola tanda para Claude in Chrome**, con el texto completo, el SEO y las instrucciones de formato.
