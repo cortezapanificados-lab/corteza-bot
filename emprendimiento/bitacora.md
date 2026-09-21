@@ -2,6 +2,36 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 21/09/2026 (8) — ⚖️ El opositor de la marca contestó: pide cambiar la tipografía
+
+**Primera respuesta desde la propuesta del 24/07.** Piden que Corteza cambie la tipografía del logo.
+
+### Por qué es una buena noticia
+
+**Están pidiendo algo que el expediente no discute.** La solicitud es **denominativa** —la palabra sola—, así que el INPI no evalúa el logo ni la tipografía.
+
+1. **No están defendiendo confusión de rubros.** Si creyeran que alguien confunde pan con carteras, pedirían el retiro de la solicitud. **Un pedido cosmético admite que el conflicto real es chico.**
+2. **Quieren acordar**, y el precio que marcan es bajo.
+3. ⭐ **Cambiar la tipografía no toca el registro.** Una denominativa protege la palabra en cualquier tipografía: se entrega trabajo de diseño, no derechos.
+
+### 🔴 La única trampa
+
+**No cambiar nada sin el levantamiento comprometido por escrito.** El acuerdo va atado: tipografía **+** limitación de clase 35 (excluyendo ropa, calzado, bolsos y carteras) **a cambio de** que su apoderado presente el levantamiento en el INPI. Y verificar la fecha de levantamiento en el expediente antes de dar nada por cerrado.
+
+### Cómo pinta el caso si no hay acuerdo
+
+**A favor:** los servicios no se superponen · **CORTEZA MALL se concedió en 2026 en clase 35 conviviendo con la marca del propio opositor** · los signos no son iguales · muchas oposiciones mueren si no se paga la tasa de mantenimiento.
+
+**En contra:** **están en la misma clase 35**, que es lo que les da pie formal. No es automático.
+
+### El costo de aceptar, y el timing
+
+Rehacer el logo, los cinco collages de `textos/packs/`, las placas y la vista previa: **un día de trabajo.** ✅ **Y es el mejor momento posible: todavía no hay packaging impreso.**
+
+⏰ **Quedan cuatro semanas.** Recomendado: cerrar la negociación, pero con **una consulta corta a un agente de PI antes de firmar** para que revise la redacción de la limitación de clase.
+
+---
+
 ## 21/09/2026 (7) — Los nombres de zona definitivos, y se cae el retiro en Pilar
 
 ### 🏷️ Las cuatro zonas, como las ve el cliente

@@ -1,6 +1,6 @@
 # Marca CORTEZA — Oposición en el INPI
 
-*Actualizado: 24/07/2026*
+*Actualizado: 21/09/2026 — **el opositor contestó: pide un cambio de tipografía en el logo**.*
 
 ## Datos del caso
 
@@ -8,6 +8,59 @@
 - **Oposición Nº 772.685**, presentada el 06/07/2026 por **Néstor Mario Valente** (Rosario) mediante apoderado (agente 1009). Fundamento: confundibilidad con su marca **"CORTEZA NATURALMENTE GENUINOS"** (acta 4.229.688, clase 35, mixta), invocando el art. 3 de la Ley 22.362.
 - **Dato clave**: la marca del oponente está limitada a venta mayorista/minorista de **ropa, bolsos, carteras y calzado** (y marketing de viajes). Rubro marroquinería/indumentaria — sin superposición real con panificados.
 - **Vista notificada el 22/07/2026 — vence el 22/10/2026** (Cod. vista 1.199.083).
+
+## 🔔 21/09/2026 — El opositor contestó: pide cambiar la tipografía del logo
+
+**Es la primera respuesta desde la propuesta enviada el 24/07.** Y dice más de lo que parece.
+
+### Lo que revela el pedido
+
+**Están pidiendo algo que este expediente no discute.** La solicitud de Corteza es **denominativa** —la palabra sola, sin diseño—, así que el INPI no está evaluando el logo ni la tipografía. No hay nada en el expediente sobre eso.
+
+> **Dos lecturas, las dos a favor:**
+>
+> 1. **No están defendiendo que haya confusión de rubros.** Si creyeran que un cliente puede confundir panificados con carteras, pedirían el retiro de la solicitud. **Pedir un cambio cosmético es admitir que el conflicto real es chico.**
+> 2. **Quieren acordar, no litigar.** Están marcando el precio del levantamiento, y es bajo.
+
+### ⭐ Y lo mejor: cambiar la tipografía no toca el registro
+
+**Una marca denominativa protege la palabra en cualquier tipografía.** El logo se puede cambiar mañana y la solicitud queda exactamente igual. **Legalmente no se entrega nada.**
+
+### 🔴 La única trampa: no cambiar nada sin contraprestación escrita
+
+Si se cambia la tipografía por buena voluntad y después no levantan la oposición, se perdió el logo y el problema sigue. **El acuerdo tiene que ser atado:**
+
+| Corteza da | El opositor da |
+|---|---|
+| Cambia la tipografía del logo | Su apoderado **presenta el levantamiento de la oposición en el INPI** |
+| **Y** limita la clase 35 excluyendo ropa, calzado, bolsos y carteras | |
+
+- [ ] **Pedirles qué tipografía concreta les molesta y cuál les serviría.** Sin eso, se cambia algo y vuelven a decir que no alcanza.
+- [ ] **Que lo confirmen por escrito por el mismo WhatsApp.** No hace falta escribano, pero que quede el mensaje.
+- [ ] **Verificar en el expediente (acta 4.729.366) que figure la fecha de levantamiento** antes de dar nada por cerrado.
+
+### El costo real de aceptar
+
+**Rehacer material, no plata:** el logo, los cinco collages de `textos/packs/`, las placas de Instagram y la vista previa de la página de Envíos. Un día de trabajo.
+
+> ✅ **Y es el mejor momento posible para hacerlo:** todavía no hay packaging impreso y la tienda es online. Dentro de seis meses sería caro. *(El packaging propio sigue sin definirse — ver `envios-amba.md` sección 2.)*
+
+### Cómo pinta el caso, si no hay acuerdo
+
+*(Lectura sobre el expediente, no asesoramiento legal. Para cualquier presentación formal el patrocinio de un agente de PI es obligatorio.)*
+
+**A favor, en orden de peso:**
+
+1. **Los servicios no se superponen.** La marca opositora está limitada por escrito a ropa, bolsos, carteras y calzado.
+2. **"Corteza" ya coexiste consigo misma en clase 35.** *CORTEZA MALL* se concedió en 2026 **conviviendo con la marca del propio opositor**. Si toleraron eso, sostener confundibilidad se les complica.
+3. **Los signos no son iguales**: mixta con aditamento contra denominativa simple.
+4. **Muchas oposiciones mueren solas** si el opositor no paga la tasa de mantenimiento después del 22/10.
+
+**En contra:** **están en la misma clase 35.** Es lo que les da pie formal y la razón por la que esto no es automático — el INPI a veces es conservador dentro de una misma clase aunque los rubros difieran, y quien resuelve es un examinador.
+
+> ⏰ **Quedan cuatro semanas** (hoy 21/09, vence el 22/10). **La negociación está viva y pinta bien, así que la prioridad es cerrarla.** Pero conviene una consulta corta con un agente de PI **antes de firmar**, para que revise la redacción de la limitación de clase — que es lo único que sí toca el registro.
+
+---
 
 ## Cómo sigue el procedimiento (según instructivo oficial del INPI)
 
