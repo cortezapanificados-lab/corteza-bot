@@ -22,6 +22,43 @@
 2. **En CABA la masa madre ya no diferencia.** Hay panadería de masa madre en cada esquina de Palermo. **"Harina 100% agroecológica" casi nadie lo dice**, y es lo que separa a Corteza del resto.
 3. **El agroecológico es lo que le da sentido a la curaduría.** No es una elección de sabor, es una decisión sobre cómo se cultiva el trigo. Eso es lo que nadie puede copiar.
 
+## ❌ Descartado el 22/09: llamar a la marca "Corteza Agroecológico"
+
+*Juan preguntó si convenía sumarle "agroecológico" al nombre.* **Tres motivos para no hacerlo.**
+
+### 1. No sirve para la oposición del INPI
+
+En la confundibilidad pesa el elemento distintivo, y ese sigue siendo **CORTEZA**. "Agroecológico" es descriptivo: no aporta distintividad y normalmente se renuncia a su uso exclusivo. **La marca del opositor es CORTEZA + cola descriptiva**, así que copiar esa estructura deja la marca propia **más** parecida a la de ellos, no menos.
+
+> 🔴 **Y cambiar el signo obliga a una solicitud nueva:** otra acta, otra tasa, otra publicación, otra ventana de oposiciones — y **se pierde la fecha de prioridad del 10/06/2026**, que es lo más valioso del expediente.
+
+### 2. 🔴 Extendería una afirmación que no es cierta para todo el catálogo
+
+**"Harina 100% agroecológica" es verdad para los panificados. No para el catálogo.** La tienda también vende **vino La Linda, aceite Zuelo, queso El Capricho, yerba Roapipó, mermeladas, hummus, pickles, mostaza y tés**: orgánicos y artesanales, pero **ni propios ni agroecológicos**.
+
+**Si la marca se llama "Corteza Agroecológico", todo lo que sale bajo ese nombre queda cubierto por esa afirmación — el vino incluido.**
+
+> ⚠️ **Es exactamente el error que esta guía ya prohíbe**, en el apartado de abajo, a propósito de "masa madre". **Meterlo en el nombre es cometerlo con la palabra que más hay que cuidar** — y ahí no se puede matizar nunca más: **no hay asterisco que se le ponga a un nombre.**
+
+Y como afirmación general y permanente, un término así **expone bastante más** que como descripción de un producto puntual.
+
+### 3. Como nombre es peor
+
+- **"Corteza" es corto, raro y se pega.** "Corteza Agroecológico" son nueve sílabas y suena a rubro, no a marca.
+- **No concuerda en género:** "Corteza" es femenino, sería "Corteza Agroecológica".
+- **Encierra:** si el catálogo suma algo que no es agroecológico —y ya lo tiene— el nombre miente solo.
+
+### ✅ Lo que sí: el agroecológico como bajada del logo
+
+> **CORTEZA**
+> Harinas 100% agroecológicas
+
+Comunica lo mismo en el mismo lugar, **permite ser preciso** ("harinas", que sí se puede afirmar entero), no toca el expediente ni la prioridad, y si el catálogo cambia se cambia una línea de texto en vez de la marca.
+
+**Es lo que esta guía ya decía:** *"agroecológico es el titular de la marca"* — **titular no es el nombre, es el mensaje que encabeza.**
+
+---
+
 ## La regla que no se rompe
 
 ⚠️ **Nunca decir "100% masa madre" a nivel tienda o marca.** Si figura como afirmación general y alguien ve que los grisines no lo son, **se cae la credibilidad de todo lo demás — incluido el agroecológico, que sí es 100%.** Ya pasó una vez: el sello de la placa de "Sobre Corteza" decía "100% DE MASA MADRE" y hubo que corregirlo a "PANES 100% / MASA MADRE".

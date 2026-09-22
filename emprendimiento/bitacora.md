@@ -2,6 +2,34 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 22/09/2026 (3) — ❌ Descartado llamar a la marca "Corteza Agroecológico"
+
+Juan preguntó si convenía sumarle "agroecológico" al nombre. **Tres motivos para no hacerlo.** Quedó escrito en `textos/sellos-productos.md`.
+
+### 1. No sirve para la oposición
+
+En la confundibilidad pesa el elemento distintivo, y sigue siendo **CORTEZA**. **La marca del opositor es CORTEZA + cola descriptiva**: copiar esa estructura deja la marca propia **más** parecida a la de ellos. Y **cambiar el signo obliga a una solicitud nueva y hace perder la fecha de prioridad del 10/06/2026**, que es lo más valioso del expediente.
+
+### 2. 🔴 Extendería una afirmación que no es cierta para todo el catálogo
+
+**"Harina 100% agroecológica" es verdad para los panificados, no para el catálogo.** También se vende vino, aceite, queso, yerba, mermeladas, hummus, pickles, mostaza y tés: **ni propios ni agroecológicos**.
+
+> **Es exactamente el error que `sellos-productos.md` ya prohíbe** para "masa madre" — pero cometido con la palabra que más hay que cuidar, y en un lugar donde no se puede matizar: **no hay asterisco que se le ponga a un nombre.**
+
+### 3. Como nombre es peor
+
+Nueve sílabas, suena a rubro, **no concuerda en género** ("Corteza" es femenino) y encierra al catálogo.
+
+### ✅ Lo que sí: bajada del logo
+
+> **CORTEZA** / *Harinas 100% agroecológicas*
+
+Mismo mensaje, en el mismo lugar, **con la precisión de decir "harinas"** — que sí se puede afirmar entero. No toca el expediente ni la prioridad.
+
+**Ya estaba resuelto así:** la guía dice *"agroecológico es el titular de la marca"*, y **titular no es el nombre: es el mensaje que encabeza.**
+
+---
+
 ## 22/09/2026 (2) — ¿Conviene hacer una sociedad?
 
 Juan preguntó si le conviene armar una sociedad para cubrirse. **Son tres preguntas distintas** y conviene no mezclarlas. Análisis completo en el archivo nuevo **`estructura-legal.md`**.
