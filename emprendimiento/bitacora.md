@@ -2,6 +2,28 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 22/09/2026 (4) — Clase 30 vs 35, replanteado: la reventa ya está cubierta
+
+Juan volvió sobre el tema con mejor planteo: *"revendemos productos, algunos bajo nuestra marca y otros no"*. **La respuesta afilada: no es "una u otra", cada clase cubre una mitad distinta — y la reventa de terceros ya está cubierta.**
+
+| Lo que se vende | Clase | ¿Está? |
+|---|---|---|
+| Vino, aceite, mermeladas, queso, yerba, tés, dips — **con la marca del productor** | **Solo la 35** | ✅ |
+| Panes, prepizzas, grisines, budines, cookies, pepas — **con etiqueta Corteza** | **35 + 30** | ⚠️ falta |
+
+**Al revender un frasco de Las Quinas, la marca funciona como nombre del comercio, no del producto.** Eso es clase 35 y ya está. **La 30 solo hace falta para lo que lleva el nombre encima** — que son los panificados, o sea el 45,6% de margen contra el 29% de los terceros.
+
+### ⭐ El hallazgo: la clase 30 y el packaging son la misma decisión
+
+- **El pan viaja en la bolsa de la tienda** → uso comercial; la 35 lo cubre razonablemente.
+- **El pan lleva una etiqueta que dice CORTEZA** → marca sobre producto: **clase 30 sin discusión.**
+
+**Hoy Corteza está en el primer caso medio por defecto, porque el packaging sigue sin definirse** (pendiente desde agosto).
+
+> **El gatillo no es el calendario, es el packaging: el día que se mande a imprimir la bolsa propia, se presenta la 30.**
+
+---
+
 ## 22/09/2026 (3) — ❌ Descartado llamar a la marca "Corteza Agroecológico"
 
 Juan preguntó si convenía sumarle "agroecológico" al nombre. **Tres motivos para no hacerlo.** Quedó escrito en `textos/sellos-productos.md`.

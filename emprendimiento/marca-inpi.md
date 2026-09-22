@@ -113,6 +113,32 @@ Corteza usa **Playfair Display**, una tipografía de Google, gratuita y usadísi
 
 > 🔴 **El riesgo concreto:** si alguien registra CORTEZA en clase 30 para panificados, **podría impedir poner la marca propia en el propio pan.** Quedaría la tienda, pero no la etiqueta.
 
+### La división, con el catálogo real *(precisado el 22/09)*
+
+**No es "una u otra": cada clase cubre una mitad distinta del negocio, y la reventa ya está cubierta.**
+
+| Lo que se vende | Qué clase lo cubre | ¿Está? |
+|---|---|---|
+| **Vino, aceite, mermeladas, queso, yerba, tés, dips** — con la marca del productor | **Solo la 35** | ✅ Sí |
+| **Panes, prepizzas, grisines, budines, cookies, pepas** — con etiqueta Corteza | **35 + 30** | ⚠️ Falta la 30 |
+
+**Para los productos de terceros no hace falta nada más.** Al revender un frasco de Las Quinas, la marca funciona como **nombre del comercio**, no del producto: eso es exactamente clase 35. Nunca va a decir "Corteza" ese frasco.
+
+> **En una línea: la 35 cubre el 100% del negocio como comercio. La 30 cubre solo los panificados — pero son el corazón** (45,6% de margen contra 29% de los terceros; el Pack Familiar y el Semanal son 100% propios).
+
+### 🔑 El gatillo: la clase 30 y el packaging son la misma decisión
+
+"Bajo nuestra marca" puede significar dos cosas, y no dan lo mismo:
+
+- **El pan viaja en la bolsa de la tienda** → se parece a un uso comercial; la 35 lo cubre razonablemente.
+- **El pan lleva una etiqueta que dice CORTEZA** → **es marca sobre producto: clase 30 sin discusión.**
+
+**Hoy Corteza está en el primer caso medio por defecto**, porque el packaging sigue sin definirse *(pendiente desde agosto: "una bolsa impresa propia, o una caja liviana" — `envios-amba.md` sección 2)*.
+
+> ⭐ **El día que se mande a imprimir una bolsa que diga Corteza y envuelva el pan, la clase 30 deja de ser un "estaría bueno".**
+>
+> **No pensarlo por calendario: pensarlo por packaging. Cuando se vaya a la imprenta, se presenta la 30.**
+
 ### Qué cubriría la 30 en este catálogo
 
 **Todo lo que lleva la marca Corteza:** panes de molde, panes de campo, hogaza, prepizzas, pan árabe, grisines, budines, cookies, pepas. *(También té, yerba y miel, si algún día se hacen propios.)*
