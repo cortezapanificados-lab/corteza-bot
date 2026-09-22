@@ -2,6 +2,39 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 22/09/2026 (2) — ¿Conviene hacer una sociedad?
+
+Juan preguntó si le conviene armar una sociedad para cubrirse. **Son tres preguntas distintas** y conviene no mezclarlas. Análisis completo en el archivo nuevo **`estructura-legal.md`**.
+
+### 1. ¿Cubre de "cualquier cosa"? Menos de lo que se cree
+
+**Corteza vende bajo su marca**, y quien pone su marca en un producto **responde frente al cliente como si lo hubiera elaborado**. Eso no se esquiva con una SRL. Los administradores responden igual por culpa grave, y una sociedad sin patrimonio no frena nada.
+
+> ⭐ **Lo que sí cubre ese riesgo es un seguro de responsabilidad civil por producto**, que se contrata siendo monotributista, hoy, sin tocar la estructura. **Si la pregunta es "cómo me cubro", la respuesta es el seguro, no la sociedad.**
+
+### 2. 🔴 Lo urgente no es la responsabilidad: es Alva
+
+**Alva es socio desde septiembre y no existe en ningún papel**, mientras **toda la facturación pasa por el CUIT de Juan** — que carga el 100% del riesgo de un negocio de dos. No hay nada escrito sobre porcentajes ni sobre qué pasa si uno se va.
+
+> **Los socios no se pelean cuando no hay nada: se pelean cuando empieza a haber.**
+
+### 3. Lo impositivo se impone solo
+
+Con 30 pedidos por jueves se sale del monotributo. A favor del cambio: **el IVA del flete deja de ser costo puro y pasa a crédito fiscal.** En contra: el acuerdo con Flexit al 10,5% en efectivo pierde valor.
+
+### El orden
+
+**Ahora:** cotizar el seguro, y escribir con Alva lo básico en una hoja.
+**Después del lanzamiento, en una sola reunión con el contador:** la sociedad, el tipo (preguntar por SAS, que cambió por jurisdicción) y el salto a responsable inscripto.
+
+> ⛔ **No armar la sociedad antes de octubre:** semanas de trámites, CUIT nuevo, cuentas nuevas y rehacer la facturación de Tiendanube. **Se come el lanzamiento.**
+
+### ⚠️ Y algo que no se preguntó
+
+**Corteza vende bajo su marca panificados que elabora un tercero.** Hay que preguntar si eso **exige RNPA a nombre de Corteza** o si alcanza con que el elaborador esté habilitado. No se sabe la respuesta. **No molesta con 4 pedidos por semana en Pilar; puede molestar con 30 por jueves llegando a CABA. Y no lo resuelve ninguna sociedad.**
+
+---
+
 ## 22/09/2026 — Seis opciones de tipografía para el logo
 
 Juan definió la consigna: **la O se queda como está, cambia solo la tipografía.** Tiene sentido — **el grano de la O es lo único genuinamente propio del logo**, y lo que el opositor cuestiona es la letra.

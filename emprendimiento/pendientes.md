@@ -136,6 +136,23 @@ Con un despacho único la lista de espera lo llenaba sola. **Con tres o cuatro, 
 
 ---
 
+## ⚖️ Estructura legal y fiscal *(abierto el 22/09)*
+
+*Análisis completo en `estructura-legal.md`. **"Hacer una sociedad" son tres preguntas distintas** y conviene no mezclarlas.*
+
+### Ahora, antes del 15/10
+
+- [ ] 🔥 **Cotizar un seguro de responsabilidad civil por producto.** **Es lo que realmente cubre el riesgo de vender alimentos** — una sociedad protege bastante menos de lo que parece, porque quien pone su marca en el producto responde igual. Se contrata siendo monotributista, hoy.
+- [ ] 🔥 **Escribir con Alva lo básico en una hoja:** porcentajes, quién decide qué, qué pasa si uno se va. **Alva es socio desde septiembre y no existe en ningún papel, mientras toda la facturación pasa por el CUIT de Juan.** No es un contrato: es evitar el malentendido.
+
+### Después del lanzamiento, en una sola reunión con el contador
+
+- [ ] **La sociedad con Alva y qué tipo conviene.** Preguntar **específicamente por SAS**: tuvieron idas y vueltas regulatorias y cambia por jurisdicción.
+- [ ] **El salto a responsable inscripto**, con la cuenta del IVA del flete (hoy es costo puro; como RI pasa a crédito fiscal).
+- [ ] ⚠️ **Preguntar si vender panificados de terceros bajo marca propia exige RNPA a nombre de Corteza**, o si alcanza con que el elaborador esté habilitado. **No lo resuelve ninguna sociedad: es un registro aparte.**
+
+> ⛔ **No armar la sociedad antes de octubre.** Son semanas de trámites, CUIT nuevo, cuentas nuevas y rehacer la facturación de Tiendanube. A tres semanas del lanzamiento, se come el lanzamiento.
+
 ## 🔴 Prioridad 1 — Confirmaciones que faltan
 
 - [ ] 🤔 **DECISIÓN ABIERTA: ¿Pilar entra en el umbral de $40.000?** *(planteada por Juan el 11/09, **revisada el mismo día**)*. **La respuesta se dio vuelta con un dato de Juan: en Pilar el recurrente es Eugenio y siempre gasta más de $40.000.** O sea que el umbral no le toca al que importa, y si sus 6 pedidos son de $40.000+, los otros 38 del período promedian ~$21.000 — pedirles $40.000 es pedirles que dupliquen el carrito. **Recomendación: no tocar Pilar por ahora**; si igual se quiere cobrar, el umbral propio de Pilar son **$28.000**, no $40.000. Análisis completo en `envios-amba.md` sección 3 bis.
