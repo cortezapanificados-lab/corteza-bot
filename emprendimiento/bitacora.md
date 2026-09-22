@@ -2,6 +2,33 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 22/09/2026 — Seis opciones de tipografía para el logo
+
+Juan definió la consigna: **la O se queda como está, cambia solo la tipografía.** Tiene sentido — **el grano de la O es lo único genuinamente propio del logo**, y lo que el opositor cuestiona es la letra.
+
+> 👁️ **Las seis opciones, más la actual de referencia:** https://claude.ai/artifact/YLxB4c5KPF8LQVbiyuA8Nd
+
+**Lo que hay que alejar:** la actual es una **didona** (contraste altísimo, remates de pelo). **No alcanza con cambiar a otro serif fino.**
+
+| | Distancia | En chico |
+|---|---|---|
+| **Marcellus** | Alta | Bien |
+| **Fraunces** | **Máxima** | **Muy bien** |
+| **Cormorant Garamond** | **Media** ⚠️ | Flojo |
+| **Spectral** | Alta | Bien |
+| **Jost** | **Máxima** | Bien |
+| **Bitter** | Alta | **Muy bien** |
+
+**Las tres candidatas:** **Marcellus** (la que menos hace perder), **Fraunces** (la que mejor le queda al rubro) y **Jost** (unifica el sistema, ya se usa para precios). **Descartar Cormorant**: es la que menos distancia toma y la más discutible.
+
+⚠️ **La O de las maquetas está redibujada en vectores.** Sirve para elegir; el calce fino con el original se hace después.
+
+📌 **Y quedó anotada una decisión de fondo para cuando elija:** si el logo cambia pero Playfair sigue en todos los títulos, **el cambio es a medias**. Lo coherente es que la familia elegida pase a ser la display de toda la marca.
+
+Detalle en `textos/logo-tipografias.md`.
+
+---
+
 ## 21/09/2026 (10) — ¿Clase 30 o 35? Las dos: falta la 30
 
 > **La 35 está bien y no fue un error.** Protege el nombre del comercio: tienda online, venta minorista de alimentos, curaduría.
