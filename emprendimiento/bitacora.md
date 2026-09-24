@@ -2,6 +2,12 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 24/09/2026 (3) — Flexit avisado, y el Esencial de Tiendanube no conviene
+
+**Juan ya le avisó a Flexit** que no se arranca.
+
+Planteó mantener el plan Esencial y dejar solo la transferencia como medio de pago. **La cuenta dice que no conviene**: según la página de Tiendanube, el Esencial cobra **2% sobre los pagos que no pasan por Pago Nube** (teníamos anotado 1%), más el abono de $27.999. El plan Inicial (gratis) solo permite Pago Nube, pero Pago Nube incluye transferencia (~1,81%). Con ~40 pedidos por mes: **~$17.000 en el gratis contra ~$47.000 en el Esencial.** Lo más barato es usar la tienda gratis como vidriera y cerrar por WhatsApp con transferencia directa al CBU. Detalle en `plan-pilar.md`.
+
 ## 24/09/2026 (2) — ✅ Decidido: solo Pilar, y el AMBA en pausa
 
 Juan lo charló con Alva y **están de acuerdo en vender solo por Pilar, por ahora.** Cómo queda:

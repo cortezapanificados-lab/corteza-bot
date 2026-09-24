@@ -35,6 +35,36 @@ El ticket promedio es $23.700, así que **con $15.000 casi todos los pedidos tie
 - Subirlo a $20.000–$25.000 para empujar el ticket.
 - Por debajo del umbral, cobrar un envío chico (~$2.000).
 
+## Tiendanube: ¿Esencial o gratis? *(analizado el 24/09/2026)*
+
+**Recomendación: pasar al plan Inicial (gratis).** El Esencial no se paga solo a este volumen.
+
+Datos de la página de planes de Tiendanube (24/09/2026):
+
+| | **Inicial (gratis)** | **Esencial** |
+|---|---|---|
+| Abono | **$0** | $27.999/mes |
+| Medios de pago | **Solo Pago Nube** (tarjeta y transferencia) | Pago Nube + **medio personalizado** (transferencia directa al CBU) |
+| Comisión de plataforma | 0% con Pago Nube | 0% con Pago Nube · **2%** con otros medios |
+| Productos | Sin límite | Sin límite |
+
+⚠️ **Dato nuevo:** la comisión del Esencial con medios que no son Pago Nube figura en **2%**, no en el 1% que teníamos anotado.
+
+**La cuenta con ~40 pedidos por mes (~$950.000):**
+
+| Opción | Costo mensual aprox. |
+|---|---:|
+| Gratis, todo por transferencia de Pago Nube (~1,81%) | **~$17.000** |
+| Esencial, transferencia directa al CBU (abono + 2%) | ~$47.000 |
+| Esencial, todo por Pago Nube | ~$45.000 |
+| **Sin checkout: pedido por WhatsApp y transferencia al CBU** | **$0** (Tiendanube gratis queda como vidriera) |
+
+**La idea de "solo transferencia" desde el Esencial sale más cara que el plan gratis**: el 2% de plataforma supera al ~1,81% que cobra Pago Nube por transferencia, y encima está el abono.
+
+**Lo más barato:** usar la tienda gratis como catálogo y cerrar el pedido por WhatsApp, con transferencia directa al CBU. El pedido por la tienda (con Pago Nube) queda como opción para quien prefiera pedir solo.
+
+*(El 1,81% por transferencia de Pago Nube es el medido en junio-agosto; conviene confirmarlo en una liquidación actual.)*
+
 ## Catálogo mayorista *(por definir)*
 
 Preguntas abiertas:
@@ -51,9 +81,9 @@ Preguntas abiertas:
 
 ## Tareas
 
-- [ ] 🔴 **Avisarle a Flexit** que no se arranca en octubre (antes de que corra el mínimo de 120).
+- [x] ~~🔴 **Avisarle a Flexit**~~ → ✅ **Hecho el 24/09** (Juan ya les avisó).
 - [ ] 🔴 **Deshacer el cambio de Pilar del 21/09** en Tiendanube (Pilar en GBA muy lejano con cargo). Todavía no se les había avisado a los clientes.
-- [ ] **Cancelar el plan Esencial** y ver qué incluye el gratuito: comisión por venta, límite de productos, si mantiene el dominio cortezapan.com.ar y los medios de pago.
+- [ ] **Pasar al plan Inicial (gratis)** — recomendado el 24/09, ver la sección "Tiendanube". Antes de bajar: confirmar que el dominio cortezapan.com.ar sigue y que se puede dejar solo la transferencia dentro de Pago Nube.
 - [ ] **Definir el umbral de envío** ($15.000 o más).
 - [ ] **Listar qué productos vienen del proveedor de San Martín** y decidir qué sale.
 - [ ] **Armar el catálogo minorista** para WhatsApp (precios de `perfil.md`).
