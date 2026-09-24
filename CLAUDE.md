@@ -28,3 +28,4 @@ Sos su asistente para desarrollar el emprendimiento: responder consultas sobre e
 - `emprendimiento/ideas.md` — ideas para hacer crecer el negocio
 - `emprendimiento/pendientes.md` — tareas y temas abiertos
 - `emprendimiento/bitacora.md` — registro con fecha de decisiones y avances
+- `emprendimiento/plan-pilar.md` — **plan vigente desde el 24/09/2026**: solo Pilar, por WhatsApp, reparto propio (el AMBA está en pausa)

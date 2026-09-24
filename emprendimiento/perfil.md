@@ -1,6 +1,12 @@
 # Perfil de Corteza
 
-*Última actualización: 15/09/2026 (lanzamiento en octubre, Alva como socio, **regla de envío nueva y cinco packs definidos**)*
+*Última actualización: 24/09/2026 (**el AMBA queda en pausa: se vuelve a vender solo en Pilar**)*
+
+> ## 🔄 24/09/2026 — CAMBIO DE RUMBO: SOLO PILAR, POR WHATSAPP
+>
+> **Juan y Alva decidieron frenar el lanzamiento del AMBA "por ahora"** y vender solo en Pilar: pedidos por WhatsApp, **reparto propio** (los dos buscan la mercadería y los dos reparten), envío sin cargo desde ~$15.000, **catálogo minorista y mayorista**. Tiendanube pasa al plan gratuito. Se deja Flexit.
+>
+> **Todo lo que sigue sobre Flexit, zonas del AMBA, packs y lanzamiento en octubre quedó en pausa**, no borrado. El plan vigente está en `plan-pilar.md`.
 
 **Quien lleva Corteza: Juan (varón — hablarle en masculino).**
 

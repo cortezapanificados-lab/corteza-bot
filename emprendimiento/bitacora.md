@@ -2,6 +2,17 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 24/09/2026 (2) — ✅ Decidido: solo Pilar, y el AMBA en pausa
+
+Juan lo charló con Alva y **están de acuerdo en vender solo por Pilar, por ahora.** Cómo queda:
+
+- **Reparto propio:** los dos buscan la mercadería por los proveedores y los dos reparten.
+- **Tiendanube:** Juan cancela el plan Esencial y va a ver qué ofrece el gratuito.
+- **Dos catálogos:** minorista y mayorista.
+- **Productos de terceros a revisar:** hay un proveedor de San Martín que conviene dejar por la distancia. Falta saber qué productos trae.
+
+Se creó `plan-pilar.md` con el modelo, los números y las tareas. En `perfil.md` y `pendientes.md` se marcó el AMBA como en pausa, **sin borrar nada**.
+
 ## 24/09/2026 — 🤔 En evaluación: volver a Pilar solo, por WhatsApp, y frenar el AMBA
 
 Juan plantea dar marcha atrás con el AMBA: **vender solo en Pilar, pedidos por WhatsApp, reparto propio y envío sin cargo desde ~$15.000.** Busca más calma y un vínculo más humano con el cliente. **Todavía no está decidido** — no se tocó nada del plan del AMBA en la memoria.

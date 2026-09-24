@@ -4,7 +4,15 @@ Tareas y temas abiertos. Ordenados por prioridad. Limpiado el 14/08/2026. Últim
 
 ---
 
-## 🚀 LANZAMIENTO: OCTUBRE — fecha recomendada jueves 15/10
+## 🔄 VIGENTE DESDE EL 24/09: PLAN PILAR
+
+> **El AMBA queda en pausa.** Se vende solo en Pilar, por WhatsApp, con reparto propio. **Las tareas vigentes están en `plan-pilar.md`.** Todo lo que sigue abajo sobre el lanzamiento del AMBA, Flexit, zonas y packs queda congelado hasta que se retome.
+>
+> Lo que sigue valiendo de abajo: **el INPI (vence el 22/10)**, el seguro y el papel con Alva (`estructura-legal.md`), y el orden de las fotos de las prepizzas.
+
+---
+
+## ⏸️ (EN PAUSA) LANZAMIENTO: OCTUBRE — fecha recomendada jueves 15/10
 
 > ### 📅 Decidido el 15/09/2026: el lanzamiento pasa de septiembre a octubre
 >
