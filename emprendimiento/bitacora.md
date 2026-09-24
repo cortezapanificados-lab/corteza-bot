@@ -2,6 +2,18 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 24/09/2026 — 🤔 En evaluación: volver a Pilar solo, por WhatsApp, y frenar el AMBA
+
+Juan plantea dar marcha atrás con el AMBA: **vender solo en Pilar, pedidos por WhatsApp, reparto propio y envío sin cargo desde ~$15.000.** Busca más calma y un vínculo más humano con el cliente. **Todavía no está decidido** — no se tocó nada del plan del AMBA en la memoria.
+
+Lo que se le respondió:
+
+- **Los datos lo respaldan:** 44 de 45 pedidos fueron de Pilar y el 55% de Pilar del Lago. El diagnóstico del 10/08 ya decía "primero arreglar el motor de clientes en Pilar". El AMBA exigía 24 pedidos por jueves con el mínimo de 120 de Flexit (~$727.000/mes en efectivo) cuando hoy hay ~4 por semana.
+- **Números con reparto propio:** un pedido promedio (~$23.700) deja ~$10.000 antes de la nafta. Los fijos bajan a ~$110.000 sin Tiendanube (~$137.000 con). **Equilibrio: 11 a 14 pedidos por mes.** Un mes como junio (27 pedidos) dejaba ~$150.000–$250.000, a repartir entre dos socios.
+- **El umbral de $15.000 casi no filtra:** el ticket promedio es $23.700, así que casi todos los pedidos van a tener envío sin cargo. Alternativa sugerida: $20.000–$25.000, o un envío chico por debajo.
+- **Sobre vender "en negro":** a volumen de Pilar se entra holgado en el monotributo, así que desaparece el motivo del salto a responsable inscripto. Las transferencias quedan registradas igual en el banco, y con Alva de socio, la plata en negro complica el reparto. Es decisión de Juan; se le marcó lo práctico.
+- **Si se decide:** avisarle a Flexit antes de que corra el mínimo de octubre, revertir el cambio de Pilar del 21/09 (todavía no se les avisó a los clientes), y **el INPI sigue vencimiento 22/10 igual**.
+
 ## 22/09/2026 (4) — Clase 30 vs 35, replanteado: la reventa ya está cubierta
 
 Juan volvió sobre el tema con mejor planteo: *"revendemos productos, algunos bajo nuestra marca y otros no"*. **La respuesta afilada: no es "una u otra", cada clase cubre una mitad distinta — y la reventa de terceros ya está cubierta.**
