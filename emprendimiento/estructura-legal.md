@@ -80,6 +80,16 @@ En alimentos, la sociedad protege bastante menos de lo que parece:
 
 ⚠️ **Vender sin factura no saca la responsabilidad: la empeora**, porque se pierde la prueba de qué se vendió, cuándo y de qué proveedor venía.
 
+### ¿Y si el proveedor no está habilitado? *(25/09/2026)*
+
+**Sí es un inconveniente, y el más serio de esta lista.** El Código Alimentario exige que quien elabora alimentos para vender tenga el lugar habilitado y los productos registrados. Si el elaborador no lo está:
+
+- **Ante un reclamo, Corteza se queda sin defensa**: no puede decir "le compré a alguien en regla". Y como el producto va con marca Corteza, **parece que el elaborador es Corteza**.
+- **El seguro puede no cubrir** si el producto no estaba autorizado. Preguntarlo al cotizar.
+- **Bromatología puede decomisar, multar o clausurar.** Con el volumen de Pilar una inspección es poco probable; el riesgo aparece si hay un reclamo o una denuncia.
+
+**Qué hacer:** preguntarle a cada proveedor si está habilitado y pedir el número. Con los que no lo estén: ayudarlos a habilitarse (muchos municipios tienen trámites simples para elaboradores chicos), cambiar de proveedor, o como mínimo **no ponerle la marca Corteza** a ese producto. ❓ **Falta saber cuáles de los proveedores de Corteza están habilitados.**
+
 ## ⚠️ Y algo que no se preguntó, pero corresponde
 
 **Corteza vende bajo su marca panificados que elabora un tercero.**
