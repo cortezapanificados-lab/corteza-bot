@@ -90,6 +90,13 @@ En alimentos, la sociedad protege bastante menos de lo que parece:
 
 **Qué hacer:** preguntarle a cada proveedor si está habilitado y pedir el número. Con los que no lo estén: ayudarlos a habilitarse (muchos municipios tienen trámites simples para elaboradores chicos), cambiar de proveedor, o como mínimo **no ponerle la marca Corteza** a ese producto. ❓ **Falta saber cuáles de los proveedores de Corteza están habilitados.**
 
+> 🔴 **25/09/2026: Juan cuenta que un proveedor no quiere hacer los papeles para habilitarse.** Falta saber cuál y qué productos hace.
+>
+> - **Primero, entender por qué no quiere** (costo, impuestos, que elabora en su casa y no se puede habilitar, miedo a la inspección). La solución depende del motivo.
+> - **Opciones:** que elabore en una **cocina ya habilitada** (hay cocinas compartidas que se alquilan por turno); que Corteza **le pague o le haga el trámite**; o **buscar un segundo proveedor habilitado** de a poco, empezando por lo que más se vende.
+> - ⚠️ **Choca con el catálogo mayorista:** un comercio que revende va a pedir rótulo y registro, y los comercios sí reciben inspecciones. **Con ese proveedor sin habilitar, el mayorista no conviene.**
+> - Si se sigue igual por un tiempo: rótulo con alérgenos, anotar lotes, atender rápido cualquier queja. Baja el riesgo, no lo saca.
+
 ## ⚠️ Y algo que no se preguntó, pero corresponde
 
 **Corteza vende bajo su marca panificados que elabora un tercero.**
