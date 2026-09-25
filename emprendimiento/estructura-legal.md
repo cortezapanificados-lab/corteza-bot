@@ -99,6 +99,14 @@ En alimentos, la sociedad protege bastante menos de lo que parece:
 >
 > ✅ **Decidido por Juan el 25/09/2026: se sigue con ese proveedor.** Trabaja muy bien y confían en él. Se le recomendaron las medidas baratas de arriba (alérgenos, registro de tandas, protocolo de quejas) y **no usar sus productos en el mayorista**. Tema cerrado salvo que Juan lo retome.
 
+## 25/09/2026 — ¿ARCA avisa si hay que subir de categoría?
+
+- **Tiendanube no factura sola**: las facturas las hace Juan (salvo que se conecte una app de facturación).
+- **La recategorización es obligación de Juan**, dos veces por año (enero y julio), según lo facturado en los últimos 12 meses. **ARCA no avisa antes.**
+- **ARCA sí cruza datos**: facturas emitidas, acreditaciones de Pago Nube y del banco, gastos. Si no coinciden con la categoría, puede **recategorizar de oficio o excluir del monotributo**, con intereses y multas.
+- **Los cobros por Pago Nube y transferencia quedan informados aunque no se facture.**
+- Con el volumen de Pilar (~$1M/mes) no debería ser un problema: el riesgo es no recategorizarse a tiempo. Controlarlo en "Mis comprobantes" antes de cada enero y julio, o pedírselo al contador.
+
 ## ⚠️ Y algo que no se preguntó, pero corresponde
 
 **Corteza vende bajo su marca panificados que elabora un tercero.**
