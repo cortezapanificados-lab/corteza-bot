@@ -67,6 +67,19 @@ En alimentos, la sociedad protege bastante menos de lo que parece:
 
 ---
 
+## 25/09/2026 — "¿Nos pueden hacer juicio por un producto?"
+
+**Sí, puede pasar, y no depende del canal** (Tiendanube, WhatsApp o en mano es lo mismo). La Ley de Defensa del Consumidor (art. 40) hace responsables **a todos los de la cadena**: el que elabora, el que distribuye, el que vende y el que pone su marca. El cliente puede reclamarle a Corteza aunque el pan lo haya hecho el proveedor; después Corteza puede reclamarle al proveedor.
+
+**Riesgo real con el volumen de Pilar: bajo.** Lo que más protege, en orden:
+1. **Proveedores habilitados**, con los papeles pedidos y guardados (habilitación municipal, RNPA/RPE del elaborador).
+2. **Etiqueta con ingredientes y alérgenos** (gluten, frutos secos, huevo, leche, sésamo) y fecha de elaboración. **Las nueces de las cookies son el punto más delicado.**
+3. **Saber qué lote de qué proveedor fue a cada cliente.** Con pedidos por WhatsApp, anotarlo en una planilla.
+4. **Responder rápido y bien** ante una queja: devolver la plata o reponer. La mayoría de los juicios nacen de un reclamo mal atendido.
+5. **Seguro de responsabilidad civil por producto** (ver arriba).
+
+⚠️ **Vender sin factura no saca la responsabilidad: la empeora**, porque se pierde la prueba de qué se vendió, cuándo y de qué proveedor venía.
+
 ## ⚠️ Y algo que no se preguntó, pero corresponde
 
 **Corteza vende bajo su marca panificados que elabora un tercero.**
