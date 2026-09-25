@@ -137,13 +137,16 @@ packs = [
  ("Pack kids", "$43.000",
   "3 cookies integrales · budín con chips · prepizzas de tomate · mix pepas",
   [COOKIES, PREPIZZA, BUDIN, PEPAS], "pack-kids.jpg"),
- ("Pack antojito", "$46.200",
-  "Pan de campo blanco · dulce de leche · budín con chips · 2 cookies · mix pepas",
-  [CAMPO_B, DDL, BUDIN, COOKIES, PEPAS], "pack-antojito.jpg"),
+ ("Pack antojito", "$36.700",
+  "Pan de campo blanco · budín con chips · 2 cookies integrales · mix pepas",
+  [CAMPO_B, BUDIN, COOKIES, PEPAS], "pack-antojito.jpg"),   # sin dulce de leche desde el 25/09
  ("Pack para picar", "$51.500",
   "2 hogazas · queso gouda El Capricho · aceitunas verdes · grisines · hummus",
   [HOGAZA, QUESO, ACEITUNAS, GRISINES, HUMMUS], "pack-para-picar.jpg"),
 ]
+import sys
+solo = sys.argv[1:]   # ej.: python3 generar-collages.py antojito
 print("Generando:")
 for n, p, c, a, s in packs:
-    armar(n, p, c, a, s)
+    if not solo or any(x in s for x in solo):
+        armar(n, p, c, a, s)

@@ -2,6 +2,10 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 25/09/2026 — Pack antojito sin dulce de leche
+
+Juan pidió rehacer la foto del Pack antojito sin el dulce de leche. Quedó **pan de campo blanco · budín con chips · 2 cookies integrales · mix pepas**, 100% panificados propios. Sumando el catálogo da **$36.700** (antes $46.200), con margen bruto **45,2%** (antes 42,2%). Foto nueva en `textos/packs/pack-antojito.jpg`. **Falta que Juan confirme el precio.**
+
 ## 24/09/2026 (3) — Flexit avisado, y el Esencial de Tiendanube no conviene
 
 **Juan ya le avisó a Flexit** que no se arranca.

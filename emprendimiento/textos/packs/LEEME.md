@@ -9,10 +9,10 @@
 | `pack-familiar.jpg` | Familiar · $74.600 | 6 fotos |
 | `pack-semanal.jpg` | Semanal · $45.300 | 6 fotos |
 | `pack-kids.jpg` | Kids · $43.000 | 4 fotos |
-| `pack-antojito.jpg` | Antojito · $46.200 | 5 fotos |
+| `pack-antojito.jpg` | Antojito · **$36.700** | 4 fotos — **rehecha el 25/09 sin el dulce de leche** |
 | `pack-para-picar.jpg` | Para picar · $51.500 | 5 fotos |
 
-`generar-collages.py` los rehace. Descarga las fotos de la tienda y las compone; si cambian las fotos de producto, se corre de nuevo.
+`generar-collages.py` los rehace (con `python3 generar-collages.py antojito` rehace uno solo). Descarga las fotos de la tienda y las compone; si cambian las fotos de producto, se corre de nuevo.
 
 > 🧅 **La prepizza sale de la SEGUNDA foto de su ficha, no de la primera** *(cambiado el 17/09)*. La primera muestra **cebolla morada** y el producto lleva **cebolla blanca**. Juan subió a la tienda una foto cenital nueva con las dos prepizzas —la de cebolla blanca adelante, la de tomate atrás— y esa es la que usan los cinco collages. El recorte se guarda como `fotos/prepizzas_cebolla_blanca.webp`.
 >

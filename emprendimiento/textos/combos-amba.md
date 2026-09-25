@@ -63,6 +63,8 @@ Margen bruto **42.2%** · deja **+$11.206** en CABA. +$9.381 en Media
 
 ⚠️ Lleva dulce de leche. que es de terceros.
 
+> 🔄 **25/09/2026: el dulce de leche sale del pack.** Queda pan de campo blanco · budín con chips · 2 cookies integrales · mix pepas. **Precio sumando el catálogo: $36.700** (−$9.500), costo $20.100, **margen bruto 45,2%** (sube de 42,2%: el dulce era lo de menor margen). La foto nueva ya está en `packs/pack-antojito.jpg`. ⚠️ **El precio de $36.700 es la suma sin el dulce: falta que Juan lo confirme.**
+
 ---
 
 ## 💰 La decisión del descuento
