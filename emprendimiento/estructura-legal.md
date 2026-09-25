@@ -96,6 +96,8 @@ En alimentos, la sociedad protege bastante menos de lo que parece:
 > - **Opciones:** que elabore en una **cocina ya habilitada** (hay cocinas compartidas que se alquilan por turno); que Corteza **le pague o le haga el trámite**; o **buscar un segundo proveedor habilitado** de a poco, empezando por lo que más se vende.
 > - ⚠️ **Choca con el catálogo mayorista:** un comercio que revende va a pedir rótulo y registro, y los comercios sí reciben inspecciones. **Con ese proveedor sin habilitar, el mayorista no conviene.**
 > - Si se sigue igual por un tiempo: rótulo con alérgenos, anotar lotes, atender rápido cualquier queja. Baja el riesgo, no lo saca.
+>
+> ✅ **Decidido por Juan el 25/09/2026: se sigue con ese proveedor.** Trabaja muy bien y confían en él. Se le recomendaron las medidas baratas de arriba (alérgenos, registro de tandas, protocolo de quejas) y **no usar sus productos en el mayorista**. Tema cerrado salvo que Juan lo retome.
 
 ## ⚠️ Y algo que no se preguntó, pero corresponde
 
