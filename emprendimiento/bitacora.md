@@ -2,6 +2,16 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 28/09/2026 — 🔚 Juan dejó Corteza
+
+Juan avisó que **cerró Corteza definitivamente el 28/09/2026** (había arrancado en enero de 2026) y que ahora está **buscando trabajo en relación de dependencia**.
+
+**El motivo:** el proveedor no quería formalizarse, y a Juan le parecía demasiado riesgoso vender todo en negro y sin registros. *(Es coherente con la duda del RNPA que había quedado anotada el 22/09.)*
+
+Se le armó la experiencia de Corteza para LinkedIn y la forma de contar la salida en entrevistas.
+
+**No se borró ni se cambió nada de la memoria del emprendimiento.** Quedaron marcados los cabos sueltos que siguen a nombre de Juan, para resolver según cómo quede Corteza: la oposición del INPI (vence el 22/10), el monotributo y la facturación a su CUIT, la tienda de Tiendanube y el dominio.
+
 ## 25/09/2026 — Pack antojito sin dulce de leche
 
 Juan pidió rehacer la foto del Pack antojito sin el dulce de leche. Quedó **pan de campo blanco · budín con chips · 2 cookies integrales · mix pepas**, 100% panificados propios. Sumando el catálogo da **$36.700** (antes $46.200), con margen bruto **45,2%** (antes 42,2%). Foto nueva en `textos/packs/pack-antojito.jpg`. **Falta que Juan confirme el precio.**
