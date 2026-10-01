@@ -35,7 +35,7 @@ Reemplazar todo el texto por:
 
 Soy Licenciado en Administración de Empresas con más de 10 años de experiencia en administración, análisis y gestión comercial.
 
-En Cencosud trabajé como Analista Sr. de Acuerdos Comerciales: gestionaba los acuerdos con proveedores, analizaba reclamos y datos en Microstrategy y Excel, y coordinaba con Sistemas, Cuentas a Pagar y Comercial para resolver fallas y mejorar procesos. Antes trabajé casi 10 años en RPI S.A., a cargo de la contabilidad, las conciliaciones bancarias, la comercialización y el seguimiento de contratos de alquiler de galpones y oficinas, y los reportes para la dirección.
+En Cencosud trabajé como Analista Sr. de Acuerdos Comerciales: gestionaba los acuerdos con proveedores, analizaba reclamos y datos en Microstrategy y Excel, y coordinaba con Sistemas, Cuentas a Pagar y Comercial para resolver fallas y mejorar procesos. Antes trabajé casi 10 años en RPI S.A., a cargo de la contabilidad, las conciliaciones bancarias, la comercialización y el seguimiento de contratos de alquiler de galpones y oficinas.
 
 También emprendí en e-commerce: una operación propia en Amazon y Corteza, una tienda online de panificados agroecológicos. Ahí vi el negocio completo: proveedores, costos, márgenes, precios y logística.
 
@@ -100,9 +100,8 @@ Editar "Analista Administrativo - RPI S.A.":
 - Descripción, reemplazar todo por:
 
 • Registros contables y conciliaciones bancarias.
-• Comercialización de galpones y oficinas en alquiler: atención de interesados, visitas y cierre de contratos.
+• Comercialización de galpones y oficinas en alquiler: atención de interesados y visitas.
 • Seguimiento de contratos, mantenimiento y disponibilidad junto con las áreas internas.
-• Reportes de gestión para la dirección.
 • Propuestas de mejora en procesos administrativos y comerciales.
 
 ========================================
