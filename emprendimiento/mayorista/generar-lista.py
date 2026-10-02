@@ -19,7 +19,8 @@ css="""@page { size:A4; margin:0 }
 *{box-sizing:border-box;margin:0;padding:0}
 body{font-family:'Liberation Sans',Arial,sans-serif;color:#2b2420;width:210mm;padding:16mm 16mm 12mm;font-size:10pt;background:#fff}
 .top{border-bottom:3px solid #8a5a2b;padding-bottom:10px;margin-bottom:10px;display:flex;justify-content:space-between;align-items:flex-end;gap:16px}
-.logo{height:30px;margin-bottom:10px}
+.brand{text-align:center;margin-bottom:14px}
+.logo{height:38px}
 .contact{text-align:right;font-size:9.5pt;color:#4a3a2c;line-height:1.5}
 .contact b{color:#5a3a1c}
 h1{font-size:22pt;color:#5a3a1c;letter-spacing:.3px}
@@ -35,7 +36,7 @@ td.num{font-weight:700;color:#5a3a1c;white-space:nowrap}
 .note{font-weight:400;font-size:8.5pt;color:#7a6a5c;margin-top:2px}
 .foot{margin-top:12px;font-size:8.5pt;color:#7a6a5c}"""
 doc="""<!doctype html><html lang=es><head><meta charset=utf-8><title>Lista de precios mayorista</title><style>%s</style></head><body>
-<div class=top><div><img class=logo src='data:image/png;base64,%s'><h1>Lista de precios mayorista</h1><div class=sub>Vigencia: 15 de septiembre al 15 de octubre de 2026</div></div><div class=contact><b>Pedidos</b><br>WhatsApp: 11 4419-1644<br>juanguerrini96@gmail.com</div></div>
+<div class=brand><img class=logo src='data:image/png;base64,%s'></div><div class=top><div><h1>Lista de precios mayorista</h1><div class=sub>Vigencia: 15 de septiembre al 15 de octubre de 2026</div></div><div class=contact><b>Pedidos</b><br>WhatsApp: 11 4419-1644<br>juanguerrini96@gmail.com</div></div>
 <div class=claim>Todos nuestros productos son realizados con harinas agroecológicas y calidad de primer nivel.</div>
 <table><thead><tr><th>Producto</th><th>Presentación</th><th>Compra mínima</th><th class=num>Precio unitario</th></tr></thead><tbody>%s</tbody></table>
 <div class=foot>Precios mayoristas por unidad. Pedidos por WhatsApp al 11 4419-1644 o a juanguerrini96@gmail.com.</div>
