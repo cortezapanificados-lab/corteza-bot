@@ -2,6 +2,18 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 02/10/2026 — Idea nueva: vender mayorista (B2B) con la marca Corteza
+
+Juan quiere **vender B2B** los productos de una proveedora: brownies, cookies, budines, granola, panes, chipa, a **costo + 25%**. Pensaba en dietéticas. Se armó la lista en PDF con logo y contacto: `mayorista/lista-mayorista-oct-2026.pdf` (vigencia hasta el 15/10).
+
+**Se le recomendó:**
+- **Mantener el 25%** y no bajar al 15%: la dietética paga un 8% menos y Juan gana un 40% menos. Mejor un **descuento solo en el primer pedido**.
+- **Lo primero es la formalidad**, el mismo motivo por el que cerró Corteza: las dietéticas piden **factura y productos rotulados con RNPA**. Hay que confirmarlo con la proveedora.
+- **El valor de Juan son los mínimos chicos**: junta pedidos de varios clientes para llegar al mínimo de la proveedora.
+- **Ojo con el riesgo de stock en productos frescos**: la hogaza tiene un mínimo de 30 unidades y dura pocos días.
+
+**Dudas abiertas:** el pan de molde le cuesta $10.500, casi el doble de lo que pagaba Corteza; si la chipa y la granola llevan harina agroecológica, como dice la lista; y si sigue la oposición del INPI (vence el 22/10) ahora que vuelve a usar la marca.
+
 ## 28/09/2026 — 🔚 Juan dejó Corteza
 
 Juan avisó que **cerró Corteza definitivamente el 28/09/2026** (había arrancado en enero de 2026) y que ahora está **buscando trabajo en relación de dependencia**.
