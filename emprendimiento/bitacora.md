@@ -2,6 +2,10 @@
 
 Registro con fecha de decisiones, avances y charlas importantes. Las entradas más nuevas van arriba.
 
+## 03/10/2026 — ❌ Corteza descartada del todo, también el mayorista. Idea nueva: living soil
+
+Juan avisó que **Corteza ya no es opción, tampoco como mayorista B2B**. Está evaluando **vender living soil** (sustrato vivo para cultivo). Primera charla: ventajas, riesgos y preguntas abiertas. No hay nada decidido.
+
 ## 02/10/2026 — Idea nueva: vender mayorista (B2B) con la marca Corteza
 
 Juan quiere **vender B2B** los productos de una proveedora: brownies, cookies, budines, granola, panes, chipa, a **costo + 25%**. Pensaba en dietéticas. Se armó la lista en PDF con logo y contacto: `mayorista/lista-mayorista-oct-2026.pdf` (vigencia hasta el 15/10).
